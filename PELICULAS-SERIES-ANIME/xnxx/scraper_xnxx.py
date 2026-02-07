@@ -6,9 +6,12 @@ Guarda xnxx.json en el root del workspace.
 
 import argparse
 import json
+import html as html_lib
 import logging
 import os
 import re
+import shutil
+import subprocess
 import time
 from datetime import datetime, timezone
 from typing import Dict, List, Optional, Tuple
@@ -30,10 +33,19 @@ logger = logging.getLogger(__name__)
 
 
 class XnxxScraper:
-    def __init__(self, start_url: str, max_pages: int = DEFAULT_MAX_PAGES, exclude_keywords: Optional[List[str]] = None):
+    def __init__(
+        self,
+        start_url: str,
+        max_pages: int = DEFAULT_MAX_PAGES,
+        exclude_keywords: Optional[List[str]] = None,
+        push_to_repo: bool = False,
+        repo_path: Optional[str] = None,
+    ):
         self.start_url = start_url
         self.max_pages = max_pages
         self.exclude_keywords = [k.lower() for k in (exclude_keywords or EXCLUDE_KEYWORDS)]
+        self.push_to_repo = push_to_repo
+        self.repo_path = repo_path or self._default_repo_path()
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -51,9 +63,42 @@ class XnxxScraper:
         if referer:
             headers["Referer"] = referer
             headers["Origin"] = f"{urlparse(referer).scheme}://{urlparse(referer).netloc}"
-        response = self.session.get(url, timeout=timeout, headers=headers or None)
+
+        actual_url = url
+        if url.startswith("view-source:"):
+            actual_url = url[len("view-source:"):]
+
+        response = self.session.get(actual_url, timeout=timeout, headers=headers or None)
         response.encoding = "utf-8"
         return response.text
+
+    def _default_repo_path(self) -> str:
+        return os.path.join(
+            self._workspace_root(),
+            "PELICULAS-SERIES-ANIME",
+            "peliculas",
+            "scrappersdata",
+        )
+
+    def _sync_to_repo(self, json_path: str) -> None:
+        git_dir = os.path.join(self.repo_path, ".git")
+        if not os.path.isdir(git_dir):
+            return
+
+        dest_path = os.path.join(self.repo_path, "xnxx.json")
+        shutil.copyfile(json_path, dest_path)
+
+        subprocess.run(["git", "-C", self.repo_path, "add", "xnxx.json"], check=False)
+        diff_result = subprocess.run(["git", "-C", self.repo_path, "diff", "--cached", "--quiet"], check=False)
+        if diff_result.returncode == 0:
+            return
+
+        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+        subprocess.run(
+            ["git", "-C", self.repo_path, "commit", "-m", f"Update xnxx.json {timestamp}"],
+            check=False,
+        )
+        subprocess.run(["git", "-C", self.repo_path, "push"], check=False)
 
     def _is_excluded(self, text: str) -> bool:
         if not self.exclude_keywords:
@@ -142,6 +187,54 @@ class XnxxScraper:
         match = re.search(r"https?://www\.xnxx\.es/embedframe/[a-z0-9]+", html)
         if match:
             return match.group(0)
+
+        return ""
+
+    def _extract_m3u8_url(self, html: str) -> str:
+        if not html:
+            return ""
+
+        match = re.search(r"https?://[^\s\"'<>]+\.m3u8[^\s\"'<>]*", html)
+        if not match:
+            match = re.search(
+                r"[\"'](?:file|src)[\"']\s*:\s*[\"']([^\"']+\.m3u8[^\"']*)",
+                html,
+            )
+        if not match:
+            return ""
+
+        url = match.group(1) if match.lastindex else match.group(0)
+        url = html_lib.unescape(url)
+        url = url.replace("\\/", "/").replace("\\u0026", "&").replace("\\u002F", "/")
+        return url
+
+    def _extract_m3u8_from_embed(self, embed_url: str, referer: Optional[str]) -> str:
+        if not embed_url:
+            return ""
+        view_source_url = f"view-source:{embed_url}"
+        try:
+            embed_html = self._get_html(view_source_url, referer=referer)
+        except Exception as exc:
+            logger.warning("No se pudo obtener embed view-source %s: %s", embed_url, exc)
+            return ""
+        return self._extract_m3u8_url(embed_html)
+
+    def _extract_thumbnail_url(self, soup: BeautifulSoup, html: str) -> str:
+        og_image = soup.select_one("meta[property='og:image']")
+        if og_image and og_image.get("content"):
+            return og_image.get("content")
+
+        og_match = re.search(r"<meta\s+property=\"og:image\"\s+content=\"([^\"]+)\"", html)
+        if og_match:
+            return og_match.group(1)
+
+        img_elem = soup.select_one("#html5video .video-pic img")
+        if img_elem and img_elem.get("src"):
+            return img_elem.get("src")
+
+        match = re.search(r"background-image:\s*url\(&quot;([^\"]+)&quot;\)", html)
+        if match:
+            return match.group(1)
 
         return ""
 
@@ -243,6 +336,8 @@ class XnxxScraper:
                 download_link = download_elem.get("href", "")
 
             embed_url = self._parse_embed_url(html, soup)
+            m3u8_url = self._extract_m3u8_from_embed(embed_url, referer=video_url)
+            thumbnail_url = self._extract_thumbnail_url(soup, html)
 
             return {
                 "url": video_url,
@@ -256,6 +351,8 @@ class XnxxScraper:
                 "votes_bad": bad_votes,
                 "download_url": download_link,
                 "embed_url": embed_url,
+                "m3u8_url": m3u8_url,
+                "thumbnail_url": thumbnail_url,
                 "duration_text": duration_text,
                 "duration_seconds": duration_seconds,
                 "quality": quality,
@@ -325,6 +422,8 @@ class XnxxScraper:
             current_url = next_url
 
         output_path = self._write_output(results)
+        if self.push_to_repo:
+            self._sync_to_repo(output_path)
         logger.info("Guardado: %s", output_path)
         return output_path
 
@@ -334,11 +433,18 @@ def _parse_args() -> argparse.Namespace:
     parser.add_argument("--start-url", default=START_URL)
     parser.add_argument("--max-pages", type=int, default=DEFAULT_MAX_PAGES)
     parser.add_argument("--delay", type=float, default=REQUEST_DELAY_SEC)
+    parser.add_argument("--push", action="store_true", help="Sube xnxx.json al repo scrappersdata")
+    parser.add_argument("--repo-path", default=None, help="Ruta local del repo scrappersdata")
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = _parse_args()
     REQUEST_DELAY_SEC = args.delay
-    scraper = XnxxScraper(start_url=args.start_url, max_pages=args.max_pages)
+    scraper = XnxxScraper(
+        start_url=args.start_url,
+        max_pages=args.max_pages,
+        push_to_repo=args.push,
+        repo_path=args.repo_path,
+    )
     scraper.run()

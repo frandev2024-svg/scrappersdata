@@ -29,9 +29,9 @@ echo Iniciando scraper con %PAGES% paginas...
 
 echo.
 if "%STARTURL%"=="" (
-  python scraper_xnxx.py --max-pages %PAGES%
+  python scraper_xnxx.py --max-pages %PAGES% --push
 ) else (
-  python scraper_xnxx.py --max-pages %PAGES% --start-url "%STARTURL%"
+  python scraper_xnxx.py --max-pages %PAGES% --start-url "%STARTURL%" --push
 )
 
 echo.
