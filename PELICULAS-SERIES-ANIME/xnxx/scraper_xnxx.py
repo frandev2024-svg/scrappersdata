@@ -6,7 +6,6 @@ Guarda xnxx.json en el root del workspace.
 
 import argparse
 import json
-import html as html_lib
 import logging
 import os
 import re
@@ -190,35 +189,6 @@ class XnxxScraper:
 
         return ""
 
-    def _extract_m3u8_url(self, html: str) -> str:
-        if not html:
-            return ""
-
-        match = re.search(r"https?://[^\s\"'<>]+\.m3u8[^\s\"'<>]*", html)
-        if not match:
-            match = re.search(
-                r"[\"'](?:file|src)[\"']\s*:\s*[\"']([^\"']+\.m3u8[^\"']*)",
-                html,
-            )
-        if not match:
-            return ""
-
-        url = match.group(1) if match.lastindex else match.group(0)
-        url = html_lib.unescape(url)
-        url = url.replace("\\/", "/").replace("\\u0026", "&").replace("\\u002F", "/")
-        return url
-
-    def _extract_m3u8_from_embed(self, embed_url: str, referer: Optional[str]) -> str:
-        if not embed_url:
-            return ""
-        view_source_url = f"view-source:{embed_url}"
-        try:
-            embed_html = self._get_html(view_source_url, referer=referer)
-        except Exception as exc:
-            logger.warning("No se pudo obtener embed view-source %s: %s", embed_url, exc)
-            return ""
-        return self._extract_m3u8_url(embed_html)
-
     def _extract_thumbnail_url(self, soup: BeautifulSoup, html: str) -> str:
         og_image = soup.select_one("meta[property='og:image']")
         if og_image and og_image.get("content"):
@@ -283,8 +253,17 @@ class XnxxScraper:
 
         total_seconds = hours * 3600 + minutes * 60 + seconds
         if total_seconds == 0:
-            return text, None
-        return text, total_seconds
+            return "", None
+
+        parts = []
+        if hours:
+            parts.append(f"{hours}h")
+        if minutes:
+            parts.append(f"{minutes}min")
+        if seconds and not parts:
+            parts.append(f"{seconds}sec")
+        duration_text = " ".join(parts)
+        return duration_text, total_seconds
 
     def _parse_meta_text(self, meta_text: str) -> Tuple[str, Optional[int]]:
         if not meta_text:
@@ -336,7 +315,6 @@ class XnxxScraper:
                 download_link = download_elem.get("href", "")
 
             embed_url = self._parse_embed_url(html, soup)
-            m3u8_url = self._extract_m3u8_from_embed(embed_url, referer=video_url)
             thumbnail_url = self._extract_thumbnail_url(soup, html)
 
             return {
@@ -351,7 +329,6 @@ class XnxxScraper:
                 "votes_bad": bad_votes,
                 "download_url": download_link,
                 "embed_url": embed_url,
-                "m3u8_url": m3u8_url,
                 "thumbnail_url": thumbnail_url,
                 "duration_text": duration_text,
                 "duration_seconds": duration_seconds,
