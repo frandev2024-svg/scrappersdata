@@ -1,0 +1,72 @@
+[
+  {
+    "id": "venus_adultos_1",
+    "name": "VENUS",
+    "image": "https://bestleague.world/img/venuspaj.png",
+    "iframe_url": "[\"https://www.nebunexa.life/cvatt.html?get=VmVudXM=&lang=1\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "sextreme_adultos_2",
+    "name": "SeXtreme",
+    "image": "https://bestleague.world/img/sextreme.png",
+    "iframe_url": "[\"https://www.nebunexa.life/cvatt.html?get=U2V4dHJlbWU&lang=1\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "playboytv_adultos_3",
+    "name": "Playboy TV",
+    "image": "https://bestleague.world/img/playboy.png",
+    "iframe_url": "[\"https://www.nebunexa.life/cvatt.html?get=UGxheWJveQ&lang=1\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "redlight_hd_adultos_4",
+    "name": "Redlight HD",
+    "image": "https://cdn11.bigcommerce.com/s-nzq3uug1hn/images/stencil/590x590/products/831/4215/redlight_hd__04492.1767809246.jpg?c=1",
+    "iframe_url": "[\"https://telefullhd.net/mpd2.php?id=redlight\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "hot_adultos_5",
+    "name": "HOT",
+    "image": "https://image.roku.com/developer_channels/prod/ee8afc508b19eaf7ad21c20bfdd66807411aaca3cd53af685dcbe39385cf04a8.png",
+    "iframe_url": "[\"https://telefullhd.net/mpd2.php?id=hot\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "brazzers_adultos_6",
+    "name": "Brazzers",
+    "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/brazzers-logo-betran-firmanza.jpg",
+    "iframe_url": "[\"https://telefullhd.net/mpd2.php?id=brazzers\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "teens_adultos_7",
+    "name": "TEENS",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQ4j3ZhTwIVn-M3zqB5E7uRAWuovRIsYCKg&s",
+    "iframe_url": "[\"https://telefullhd.net/mpd2.php?id=teens\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  }
+]
