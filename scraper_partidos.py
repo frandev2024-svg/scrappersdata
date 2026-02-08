@@ -730,6 +730,82 @@ def parse_tvtvhd(session: requests.Session) -> List[Dict[str, Any]]:
     return events
 
 
+def normalize_text(text: str) -> str:
+    """Normaliza texto para comparación: minúsculas, sin acentos, sin espacios extra."""
+    import unicodedata
+    text = text.lower().strip()
+    # Remover acentos
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(c for c in text if unicodedata.category(c) != "Mn")
+    # Remover caracteres especiales y espacios múltiples
+    text = re.sub(r"[^a-z0-9\s]", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def event_key(event: Dict[str, Any]) -> Tuple[str, str]:
+    """
+    Genera una clave única para identificar eventos duplicados.
+    Usa equipos normalizados + hora UTC (redondeada a 15 min).
+    """
+    equipos = normalize_text(event.get("equipos", ""))
+    hora_utc = event.get("hora_utc", "")
+    
+    # Redondear hora a bloques de 15 min para tolerar diferencias pequeñas
+    if hora_utc:
+        try:
+            dt = datetime.fromisoformat(hora_utc.replace("Z", "+00:00"))
+            # Redondear a 15 minutos
+            minutes = (dt.minute // 15) * 15
+            dt = dt.replace(minute=minutes, second=0, microsecond=0)
+            hora_utc = dt.isoformat()
+        except:
+            pass
+    
+    return (equipos, hora_utc)
+
+
+def merge_events(events: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Fusiona eventos duplicados acoplando sus canales.
+    """
+    merged: Dict[Tuple[str, str], Dict[str, Any]] = {}
+    
+    for event in events:
+        key = event_key(event)
+        
+        if key in merged:
+            # Fusionar canales
+            existing = merged[key]
+            existing_urls = {ch.get("url") for ch in existing.get("canales", [])}
+            
+            for new_ch in event.get("canales", []):
+                if new_ch.get("url") not in existing_urls:
+                    existing["canales"].append(new_ch)
+                    existing_urls.add(new_ch.get("url"))
+            
+            # Si el existente no tiene logo pero el nuevo sí, usar el nuevo
+            if not existing.get("logo") and event.get("logo"):
+                existing["logo"] = event["logo"]
+            
+            # Si el existente no tiene liga pero el nuevo sí, usar el nuevo
+            if not existing.get("liga") and event.get("liga"):
+                existing["liga"] = event["liga"]
+        else:
+            # Nuevo evento, clonar para evitar modificar el original
+            merged[key] = {
+                "hora_utc": event.get("hora_utc", ""),
+                "hora_argentina": event.get("hora_argentina", ""),
+                "logo": event.get("logo", ""),
+                "liga": event.get("liga", ""),
+                "equipos": event.get("equipos", ""),
+                "canales": list(event.get("canales", [])),
+                "date_offset": event.get("date_offset", 0),
+            }
+    
+    return list(merged.values())
+
+
 def build_all_events() -> List[Dict[str, Any]]:
     session = requests.Session()
     session.headers.update({
@@ -745,6 +821,11 @@ def build_all_events() -> List[Dict[str, Any]]:
     all_events.extend(parse_pirlotvoficial(session))
     all_events.extend(parse_tvlibree(session))
     all_events.extend(parse_tvtvhd(session))
+
+    # Deduplicar y fusionar canales de eventos iguales
+    logger.info("Eventos antes de deduplicar: %d", len(all_events))
+    all_events = merge_events(all_events)
+    logger.info("Eventos después de deduplicar: %d", len(all_events))
 
     all_events.sort(key=lambda x: x.get("hora_utc", ""))
     return all_events

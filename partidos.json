@@ -615,47 +615,17 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney1",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T11:15:00Z",
-    "hora_argentina": "2026-02-08 08:15",
-    "logo": "",
-    "liga": "Eredivisie",
-    "equipos": "Utrecht vs Feyenoord",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T11:15:00Z",
-    "hora_argentina": "2026-02-08 08:15",
-    "logo": "",
-    "liga": "Eredivisie",
-    "equipos": "Utrecht vs Feyenoord",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T11:15:00Z",
-    "hora_argentina": "2026-02-08 08:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Utrecht vs Feyenoord",
-    "canales": [
+      },
       {
         "nombre": "canal 100",
         "url": "https://miatvhd.xyz/reproductor/canal100.html",
@@ -675,17 +645,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney2",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T11:30:00Z",
-    "hora_argentina": "2026-02-08 08:30",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Bologna vs Parma",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnmx",
@@ -705,32 +665,12 @@
         "nombre": "canal 32",
         "url": "https://miatvhd.xyz/reproductor/canal32.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T11:30:00Z",
-    "hora_argentina": "2026-02-08 08:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Bolonia vs Parma",
-    "canales": [
+      },
       {
         "nombre": "canal 31",
         "url": "https://miatvhd.xyz/reproductor/canal31.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T11:30:00Z",
-    "hora_argentina": "2026-02-08 08:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Bolonia vs Parma",
-    "canales": [
+      },
       {
         "nombre": "canal 33",
         "url": "https://miatvhd.xyz/reproductor/canal33.html",
@@ -825,17 +765,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney3",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T12:45:00Z",
-    "hora_argentina": "2026-02-08 09:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "Juventud vs Cerro Largo",
-    "canales": [
+      },
       {
         "nombre": "canal 50",
         "url": "https://miatvhd.xyz/reproductor/canal50.html",
@@ -860,6 +790,31 @@
         "nombre": "Sky Sports LaLiga",
         "url": "https://elcanaldeportivo.com/skysportslaliga.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "canal 61",
+        "url": "https://miatvhd.xyz/reproductor/canal61.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "espn2",
+        "url": "https://miatvhd.xyz/reproductor/espn2.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 64",
+        "url": "https://miatvhd.xyz/reproductor/canal64.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 63",
+        "url": "https://miatvhd.xyz/reproductor/canal63.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 62",
+        "url": "https://miatvhd.xyz/reproductor/canal62.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -875,47 +830,17 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney4",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Deportivo Alavés vs Getafe",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Deportivo Alavés vs Getafe",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espndeportes",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Deportivo Alavés vs Getafe",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=skylaliga",
@@ -934,81 +859,6 @@
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=hyper1",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Alavés vs Getafe",
-    "canales": [
-      {
-        "nombre": "canal 61",
-        "url": "https://miatvhd.xyz/reproductor/canal61.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Alavés vs Getafe",
-    "canales": [
-      {
-        "nombre": "espn2",
-        "url": "https://miatvhd.xyz/reproductor/espn2.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Alavés vs Getafe",
-    "canales": [
-      {
-        "nombre": "canal 64",
-        "url": "https://miatvhd.xyz/reproductor/canal64.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Alavés vs Getafe",
-    "canales": [
-      {
-        "nombre": "canal 63",
-        "url": "https://miatvhd.xyz/reproductor/canal63.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:00:00Z",
-    "hora_argentina": "2026-02-08 10:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Alavés vs Getafe",
-    "canales": [
-      {
-        "nombre": "canal 62",
-        "url": "https://miatvhd.xyz/reproductor/canal62.html",
         "calidad": ""
       }
     ],
@@ -1040,17 +890,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney5",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T13:30:00Z",
-    "hora_argentina": "2026-02-08 10:30",
-    "logo": "",
-    "liga": "Eredivisie",
-    "equipos": "AZ vs Ajax",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
@@ -1105,6 +945,21 @@
         "nombre": "ESPN (Sharecast)",
         "url": "https://elcanaldeportivo.com/espn-sharecast.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "espn",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 125",
+        "url": "https://miatvhd.xyz/reproductor/canal125.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -1150,35 +1005,30 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney6",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Lecce vs Udinese",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxdeportes",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Lecce vs Udinese",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnmx",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 34",
+        "url": "https://miatvhd.xyz/reproductor/canal34.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 36",
+        "url": "https://miatvhd.xyz/reproductor/canal36.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 35",
+        "url": "https://miatvhd.xyz/reproductor/canal35.html",
         "calidad": ""
       }
     ],
@@ -1195,47 +1045,17 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney7",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "Premier League",
-    "equipos": "Brighton & Hove Albion vs Crystal Palace",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "Premier League",
-    "equipos": "Brighton & Hove Albion vs Crystal Palace",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone1",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "Premier League",
-    "equipos": "Brighton & Hove Albion vs Crystal Palace",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=telemundo",
@@ -1255,32 +1075,12 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney8",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "Ligue 1",
-    "equipos": "Nice vs Monaco",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn4",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "Ligue 1",
-    "equipos": "Nice vs Monaco",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone2",
@@ -1300,95 +1100,10 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney9",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Brighton vs Crystal Palace",
-    "canales": [
+      },
       {
-        "nombre": "espn",
-        "url": "https://miatvhd.xyz/reproductor/espn.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Brighton vs Crystal Palace",
-    "canales": [
-      {
-        "nombre": "canal 125",
-        "url": "https://miatvhd.xyz/reproductor/canal125.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Brighton vs Crystal Palace",
-    "canales": [
-      {
-        "nombre": "canal 1",
-        "url": "https://miatvhd.xyz/reproductor/canal1.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Lecce vs Udinese",
-    "canales": [
-      {
-        "nombre": "canal 34",
-        "url": "https://miatvhd.xyz/reproductor/canal34.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Lecce vs Udinese",
-    "canales": [
-      {
-        "nombre": "canal 36",
-        "url": "https://miatvhd.xyz/reproductor/canal36.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Lecce vs Udinese",
-    "canales": [
-      {
-        "nombre": "canal 35",
-        "url": "https://miatvhd.xyz/reproductor/canal35.html",
+        "nombre": "canal 60",
+        "url": "https://miatvhd.xyz/reproductor/canal60.html",
         "calidad": ""
       }
     ],
@@ -1405,35 +1120,10 @@
         "nombre": "canal 21",
         "url": "https://miatvhd.xyz/reproductor/canal21.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Niza vs Mónaco",
-    "canales": [
+      },
       {
         "nombre": "canal 22",
         "url": "https://miatvhd.xyz/reproductor/canal22.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:00:00Z",
-    "hora_argentina": "2026-02-08 11:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Rizespor vs Galatasaray",
-    "canales": [
-      {
-        "nombre": "canal 60",
-        "url": "https://miatvhd.xyz/reproductor/canal60.html",
         "calidad": ""
       }
     ],
@@ -1450,32 +1140,12 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney10",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:30:00Z",
-    "hora_argentina": "2026-02-08 11:30",
-    "logo": "",
-    "liga": "Bundesliga",
-    "equipos": "Köln vs RB Leipzig",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn5",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:30:00Z",
-    "hora_argentina": "2026-02-08 11:30",
-    "logo": "",
-    "liga": "Bundesliga",
-    "equipos": "Köln vs RB Leipzig",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=skybundesliga",
@@ -1495,17 +1165,7 @@
         "nombre": "canal 12",
         "url": "https://miatvhd.xyz/reproductor/canal12.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T14:30:00Z",
-    "hora_argentina": "2026-02-08 11:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Colonia vs RB Leipzig",
-    "canales": [
+      },
       {
         "nombre": "canal 13",
         "url": "https://miatvhd.xyz/reproductor/canal13.html",
@@ -1525,6 +1185,11 @@
         "nombre": "TNT Sports Premium",
         "url": "https://elcanaldeportivo.com/cdf.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "canal 30",
+        "url": "https://miatvhd.xyz/reproductor/canal30.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -1554,21 +1219,6 @@
       {
         "nombre": "canal 97",
         "url": "https://miatvhd.xyz/reproductor/canal97.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:00:00Z",
-    "hora_argentina": "2026-02-08 12:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Huachipato vs U. De Chile",
-    "canales": [
-      {
-        "nombre": "canal 30",
-        "url": "https://miatvhd.xyz/reproductor/canal30.html",
         "calidad": ""
       }
     ],
@@ -1610,50 +1260,45 @@
         "nombre": "Sky Sports LaLiga",
         "url": "https://elcanaldeportivo.com/skysportslaliga.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney11",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=skylaliga",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 65",
+        "url": "https://miatvhd.xyz/reproductor/canal65.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 63",
+        "url": "https://miatvhd.xyz/reproductor/canal63.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 62",
+        "url": "https://miatvhd.xyz/reproductor/canal62.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 61",
+        "url": "https://miatvhd.xyz/reproductor/canal61.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "espn2",
+        "url": "https://miatvhd.xyz/reproductor/espn2.html",
         "calidad": ""
       }
     ],
@@ -1670,20 +1315,35 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espndeportes",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Sevilla vs Girona",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=dsportsplus",
+        "calidad": ""
+      },
+      {
+        "nombre": "directv sports",
+        "url": "https://miatvhd.xyz/reproductor/directvsports.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 69",
+        "url": "https://miatvhd.xyz/reproductor/canal69.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 68",
+        "url": "https://miatvhd.xyz/reproductor/canal68.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 66",
+        "url": "https://miatvhd.xyz/reproductor/canal66.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 67",
+        "url": "https://miatvhd.xyz/reproductor/canal67.html",
         "calidad": ""
       }
     ],
@@ -1699,81 +1359,6 @@
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=hyper1",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
-      {
-        "nombre": "canal 65",
-        "url": "https://miatvhd.xyz/reproductor/canal65.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
-      {
-        "nombre": "canal 63",
-        "url": "https://miatvhd.xyz/reproductor/canal63.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
-      {
-        "nombre": "canal 62",
-        "url": "https://miatvhd.xyz/reproductor/canal62.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
-      {
-        "nombre": "canal 61",
-        "url": "https://miatvhd.xyz/reproductor/canal61.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Athletic Club vs Levante",
-    "canales": [
-      {
-        "nombre": "espn2",
-        "url": "https://miatvhd.xyz/reproductor/espn2.html",
         "calidad": ""
       }
     ],
@@ -1810,81 +1395,6 @@
     "date_offset": 0
   },
   {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sevilla vs Girona",
-    "canales": [
-      {
-        "nombre": "directv sports",
-        "url": "https://miatvhd.xyz/reproductor/directvsports.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sevilla vs Girona",
-    "canales": [
-      {
-        "nombre": "canal 69",
-        "url": "https://miatvhd.xyz/reproductor/canal69.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sevilla vs Girona",
-    "canales": [
-      {
-        "nombre": "canal 68",
-        "url": "https://miatvhd.xyz/reproductor/canal68.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sevilla vs Girona",
-    "canales": [
-      {
-        "nombre": "canal 66",
-        "url": "https://miatvhd.xyz/reproductor/canal66.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:15:00Z",
-    "hora_argentina": "2026-02-08 12:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sevilla vs Girona",
-    "canales": [
-      {
-        "nombre": "canal 67",
-        "url": "https://miatvhd.xyz/reproductor/canal67.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-08T15:30:00Z",
     "hora_argentina": "2026-02-08 12:30",
     "logo": "",
@@ -1910,32 +1420,12 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney12",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:45:00Z",
-    "hora_argentina": "2026-02-08 12:45",
-    "logo": "",
-    "liga": "Eredivisie",
-    "equipos": "Groningen vs PSV",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T15:45:00Z",
-    "hora_argentina": "2026-02-08 12:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "Groningen vs PSV",
-    "canales": [
+      },
       {
         "nombre": "canal 103",
         "url": "https://miatvhd.xyz/reproductor/canal103.html",
@@ -1955,20 +1445,15 @@
         "nombre": "L1Max",
         "url": "https://elcanaldeportivo.com/liga1maxpe.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:00:00Z",
-    "hora_argentina": "2026-02-08 13:00",
-    "logo": "",
-    "liga": "Liga 1",
-    "equipos": "Sporting Cristal vs Melgar",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=liga1max",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 7",
+        "url": "https://miatvhd.xyz/reproductor/canal7.html",
         "calidad": ""
       }
     ],
@@ -1990,21 +1475,6 @@
     "date_offset": 0
   },
   {
-    "hora_utc": "2026-02-08T16:00:00Z",
-    "hora_argentina": "2026-02-08 13:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sporting Cristal vs Melgar",
-    "canales": [
-      {
-        "nombre": "canal 7",
-        "url": "https://miatvhd.xyz/reproductor/canal7.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-08T16:15:00Z",
     "hora_argentina": "2026-02-08 13:15",
     "logo": "",
@@ -2015,17 +1485,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney13",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:15:00Z",
-    "hora_argentina": "2026-02-08 13:15",
-    "logo": "",
-    "liga": "Ligue 1",
-    "equipos": "Auxerre vs Paris",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone3",
@@ -2045,17 +1505,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney14",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:15:00Z",
-    "hora_argentina": "2026-02-08 13:15",
-    "logo": "",
-    "liga": "Ligue 1",
-    "equipos": "Le Havre vs Strasbourg",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone4",
@@ -2075,17 +1525,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney15",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:15:00Z",
-    "hora_argentina": "2026-02-08 13:15",
-    "logo": "",
-    "liga": "Ligue 1",
-    "equipos": "Angers SCO vs Toulouse",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone5",
@@ -2105,17 +1545,7 @@
         "nombre": "canal 24",
         "url": "https://miatvhd.xyz/reproductor/canal24.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:15:00Z",
-    "hora_argentina": "2026-02-08 13:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Angers vs Toulouse",
-    "canales": [
+      },
       {
         "nombre": "canal 23",
         "url": "https://miatvhd.xyz/reproductor/canal23.html",
@@ -2135,17 +1565,7 @@
         "nombre": "canal 25",
         "url": "https://miatvhd.xyz/reproductor/canal25.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:15:00Z",
-    "hora_argentina": "2026-02-08 13:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Auxerre vs Paris FC",
-    "canales": [
+      },
       {
         "nombre": "canal 26",
         "url": "https://miatvhd.xyz/reproductor/canal26.html",
@@ -2165,17 +1585,7 @@
         "nombre": "canal 28",
         "url": "https://miatvhd.xyz/reproductor/canal28.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:15:00Z",
-    "hora_argentina": "2026-02-08 13:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Le Havre vs Estrasburgo",
-    "canales": [
+      },
       {
         "nombre": "canal 27",
         "url": "https://miatvhd.xyz/reproductor/canal27.html",
@@ -2200,50 +1610,45 @@
         "nombre": "ESPN (Sharecast)",
         "url": "https://elcanaldeportivo.com/espn-sharecast.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "Premier League",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney16",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "Premier League",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "Premier League",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=max2",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 126",
+        "url": "https://miatvhd.xyz/reproductor/canal126.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 128",
+        "url": "https://miatvhd.xyz/reproductor/canal128.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 127",
+        "url": "https://miatvhd.xyz/reproductor/canal127.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "espn",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
         "calidad": ""
       }
     ],
@@ -2260,17 +1665,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney17",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "Bundesliga",
-    "equipos": "Bayern München vs Hoffenheim",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=skybundesliga",
@@ -2290,110 +1685,15 @@
         "nombre": "canal 16",
         "url": "https://miatvhd.xyz/reproductor/canal16.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Bayern Múnich vs Hoffenheim",
-    "canales": [
+      },
       {
         "nombre": "canal 15",
         "url": "https://miatvhd.xyz/reproductor/canal15.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Bayern Múnich vs Hoffenheim",
-    "canales": [
+      },
       {
         "nombre": "canal 14",
         "url": "https://miatvhd.xyz/reproductor/canal14.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
-      {
-        "nombre": "canal 126",
-        "url": "https://miatvhd.xyz/reproductor/canal126.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
-      {
-        "nombre": "canal 128",
-        "url": "https://miatvhd.xyz/reproductor/canal128.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
-      {
-        "nombre": "canal 127",
-        "url": "https://miatvhd.xyz/reproductor/canal127.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
-      {
-        "nombre": "espn",
-        "url": "https://miatvhd.xyz/reproductor/espn.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T16:30:00Z",
-    "hora_argentina": "2026-02-08 13:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Liverpool vs Manchester City",
-    "canales": [
-      {
-        "nombre": "canal 1",
-        "url": "https://miatvhd.xyz/reproductor/canal1.html",
         "calidad": ""
       }
     ],
@@ -2425,50 +1725,40 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney18",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Sassuolo vs Inter",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn3",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Sassuolo vs Inter",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxdeportes",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Sassuolo vs Inter",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnmx",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 34",
+        "url": "https://miatvhd.xyz/reproductor/canal34.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 32",
+        "url": "https://miatvhd.xyz/reproductor/canal32.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 33",
+        "url": "https://miatvhd.xyz/reproductor/canal33.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 31",
+        "url": "https://miatvhd.xyz/reproductor/canal31.html",
         "calidad": ""
       }
     ],
@@ -2485,17 +1775,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney19",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Besiktas vs Alanyaspor",
-    "canales": [
+      },
       {
         "nombre": "canal 60",
         "url": "https://miatvhd.xyz/reproductor/canal60.html",
@@ -2520,66 +1800,6 @@
     "date_offset": 0
   },
   {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sassuolo vs Inter",
-    "canales": [
-      {
-        "nombre": "canal 34",
-        "url": "https://miatvhd.xyz/reproductor/canal34.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sassuolo vs Inter",
-    "canales": [
-      {
-        "nombre": "canal 32",
-        "url": "https://miatvhd.xyz/reproductor/canal32.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sassuolo vs Inter",
-    "canales": [
-      {
-        "nombre": "canal 33",
-        "url": "https://miatvhd.xyz/reproductor/canal33.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:00:00Z",
-    "hora_argentina": "2026-02-08 14:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Sassuolo vs Inter",
-    "canales": [
-      {
-        "nombre": "canal 31",
-        "url": "https://miatvhd.xyz/reproductor/canal31.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-08T17:30:00Z",
     "hora_argentina": "2026-02-08 14:30",
     "logo": "https://elcanaldeportivo.com/img/es.png",
@@ -2595,6 +1815,36 @@
         "nombre": "Sky Sports LaLiga",
         "url": "https://elcanaldeportivo.com/skysportslaliga.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "canal 64",
+        "url": "https://miatvhd.xyz/reproductor/canal64.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 63",
+        "url": "https://miatvhd.xyz/reproductor/canal63.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 65",
+        "url": "https://miatvhd.xyz/reproductor/canal65.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 62",
+        "url": "https://miatvhd.xyz/reproductor/canal62.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 66",
+        "url": "https://miatvhd.xyz/reproductor/canal66.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "espn2",
+        "url": "https://miatvhd.xyz/reproductor/espn2.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -2610,47 +1860,17 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney20",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Atlético Madrid vs Real Betis",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Atlético Madrid vs Real Betis",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espndeportes",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Atlético Madrid vs Real Betis",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=skylaliga",
@@ -2685,110 +1905,10 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn4",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "NBA",
-    "equipos": "Knicks vs Celtics",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Atlético de Madrid vs Real Betis",
-    "canales": [
-      {
-        "nombre": "canal 64",
-        "url": "https://miatvhd.xyz/reproductor/canal64.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Atlético de Madrid vs Real Betis",
-    "canales": [
-      {
-        "nombre": "canal 63",
-        "url": "https://miatvhd.xyz/reproductor/canal63.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Atlético de Madrid vs Real Betis",
-    "canales": [
-      {
-        "nombre": "canal 65",
-        "url": "https://miatvhd.xyz/reproductor/canal65.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Atlético de Madrid vs Real Betis",
-    "canales": [
-      {
-        "nombre": "canal 62",
-        "url": "https://miatvhd.xyz/reproductor/canal62.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Atlético de Madrid vs Real Betis",
-    "canales": [
-      {
-        "nombre": "canal 66",
-        "url": "https://miatvhd.xyz/reproductor/canal66.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T17:30:00Z",
-    "hora_argentina": "2026-02-08 14:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Atlético de Madrid vs Real Betis",
-    "canales": [
-      {
-        "nombre": "espn2",
-        "url": "https://miatvhd.xyz/reproductor/espn2.html",
         "calidad": ""
       }
     ],
@@ -2895,6 +2015,11 @@
         "nombre": "L1Max",
         "url": "https://elcanaldeportivo.com/liga1maxpe.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "canal 7",
+        "url": "https://miatvhd.xyz/reproductor/canal7.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -2909,21 +2034,6 @@
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=liga1max",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T18:15:00Z",
-    "hora_argentina": "2026-02-08 15:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Los Chankas vs Alianza Atl.",
-    "canales": [
-      {
-        "nombre": "canal 7",
-        "url": "https://miatvhd.xyz/reproductor/canal7.html",
         "calidad": ""
       }
     ],
@@ -2970,6 +2080,41 @@
         "nombre": "ESPN 3",
         "url": "https://elcanaldeportivo.com/espn3hd.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney1",
+        "calidad": ""
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn3",
+        "calidad": ""
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=foxdeportes",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 33",
+        "url": "https://miatvhd.xyz/reproductor/canal33.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 34",
+        "url": "https://miatvhd.xyz/reproductor/canal34.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 35",
+        "url": "https://miatvhd.xyz/reproductor/canal35.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "espn3",
+        "url": "https://miatvhd.xyz/reproductor/espn3.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -2998,51 +2143,6 @@
     "hora_utc": "2026-02-08T19:45:00Z",
     "hora_argentina": "2026-02-08 16:45",
     "logo": "",
-    "liga": "Serie A",
-    "equipos": "Juventus vs Lazio",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney1",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Juventus vs Lazio",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espn3",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "Serie A",
-    "equipos": "Juventus vs Lazio",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=foxdeportes",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
     "liga": "Ligue 1",
     "equipos": "PSG vs Olympique Marseille",
     "canales": [
@@ -3050,95 +2150,15 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney2",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "Ligue 1",
-    "equipos": "PSG vs Olympique Marseille",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "Ligue 1",
-    "equipos": "PSG vs Olympique Marseille",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone1",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "Juventus vs Lazio",
-    "canales": [
-      {
-        "nombre": "canal 33",
-        "url": "https://miatvhd.xyz/reproductor/canal33.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "Juventus vs Lazio",
-    "canales": [
-      {
-        "nombre": "canal 34",
-        "url": "https://miatvhd.xyz/reproductor/canal34.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "Juventus vs Lazio",
-    "canales": [
-      {
-        "nombre": "canal 35",
-        "url": "https://miatvhd.xyz/reproductor/canal35.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "Juventus vs Lazio",
-    "canales": [
-      {
-        "nombre": "espn3",
-        "url": "https://miatvhd.xyz/reproductor/espn3.html",
         "calidad": ""
       }
     ],
@@ -3155,47 +2175,17 @@
         "nombre": "canal 22",
         "url": "https://miatvhd.xyz/reproductor/canal22.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "PSG vs Marsella",
-    "canales": [
+      },
       {
         "nombre": "canal 21",
         "url": "https://miatvhd.xyz/reproductor/canal21.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "PSG vs Marsella",
-    "canales": [
+      },
       {
         "nombre": "canal 23",
         "url": "https://miatvhd.xyz/reproductor/canal23.html",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T19:45:00Z",
-    "hora_argentina": "2026-02-08 16:45",
-    "logo": "",
-    "liga": "",
-    "equipos": "PSG vs Marsella",
-    "canales": [
+      },
       {
         "nombre": "espn",
         "url": "https://miatvhd.xyz/reproductor/espn.html",
@@ -3225,6 +2215,66 @@
         "nombre": "Sky Sports LaLiga",
         "url": "https://elcanaldeportivo.com/skysportslaliga.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=dsports",
+        "calidad": ""
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espndeportes",
+        "calidad": ""
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=skylaliga",
+        "calidad": ""
+      },
+      {
+        "nombre": "directv sports",
+        "url": "https://miatvhd.xyz/reproductor/directvsports.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 61",
+        "url": "https://miatvhd.xyz/reproductor/canal61.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 67",
+        "url": "https://miatvhd.xyz/reproductor/canal67.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 63",
+        "url": "https://miatvhd.xyz/reproductor/canal63.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 62",
+        "url": "https://miatvhd.xyz/reproductor/canal62.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 65",
+        "url": "https://miatvhd.xyz/reproductor/canal65.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 64",
+        "url": "https://miatvhd.xyz/reproductor/canal64.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 66",
+        "url": "https://miatvhd.xyz/reproductor/canal66.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 68",
+        "url": "https://miatvhd.xyz/reproductor/canal68.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -3240,6 +2290,21 @@
         "nombre": "ESPN Premium",
         "url": "https://elcanaldeportivo.com/espnpremium.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
+        "calidad": ""
+      },
+      {
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tycint",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 70",
+        "url": "https://miatvhd.xyz/reproductor/canal70.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -3255,50 +2320,10 @@
         "nombre": "TNT Sports",
         "url": "https://elcanaldeportivo.com/tntsports.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=dsports",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espndeportes",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "LaLiga",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=skylaliga",
+        "url": "https://streamx10.cloud/global1.php?channel=tntar",
         "calidad": ""
       }
     ],
@@ -3315,50 +2340,10 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=hyper1",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Sarmiento vs Atlético Tucumán",
-    "canales": [
+      },
       {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=tntar",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Platense vs Independiente",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Platense vs Independiente",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=tycint",
+        "nombre": "canal 84",
+        "url": "https://miatvhd.xyz/reproductor/canal84.html",
         "calidad": ""
       }
     ],
@@ -3390,35 +2375,10 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn4",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "NBA",
-    "equipos": "Clippers vs Timberwolves",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Málaga vs Cultural Leonesa",
-    "canales": [
-      {
-        "nombre": "canal 84",
-        "url": "https://miatvhd.xyz/reproductor/canal84.html",
         "calidad": ""
       }
     ],
@@ -3434,21 +2394,6 @@
       {
         "nombre": "canal 110",
         "url": "https://miatvhd.xyz/reproductor/canal110.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Platense vs Independiente",
-    "canales": [
-      {
-        "nombre": "canal 70",
-        "url": "https://miatvhd.xyz/reproductor/canal70.html",
         "calidad": ""
       }
     ],
@@ -3500,141 +2445,6 @@
     "date_offset": 0
   },
   {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "directv sports",
-        "url": "https://miatvhd.xyz/reproductor/directvsports.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 61",
-        "url": "https://miatvhd.xyz/reproductor/canal61.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 67",
-        "url": "https://miatvhd.xyz/reproductor/canal67.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 63",
-        "url": "https://miatvhd.xyz/reproductor/canal63.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 62",
-        "url": "https://miatvhd.xyz/reproductor/canal62.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 65",
-        "url": "https://miatvhd.xyz/reproductor/canal65.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 64",
-        "url": "https://miatvhd.xyz/reproductor/canal64.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 66",
-        "url": "https://miatvhd.xyz/reproductor/canal66.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:00:00Z",
-    "hora_argentina": "2026-02-08 17:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Valencia vs Real Madrid",
-    "canales": [
-      {
-        "nombre": "canal 68",
-        "url": "https://miatvhd.xyz/reproductor/canal68.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-08T20:30:00Z",
     "hora_argentina": "2026-02-08 17:30",
     "logo": "https://elcanaldeportivo.com/img/pe.png",
@@ -3645,6 +2455,11 @@
         "nombre": "L1Max",
         "url": "https://elcanaldeportivo.com/liga1maxpe.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "canal 7",
+        "url": "https://miatvhd.xyz/reproductor/canal7.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -3660,32 +2475,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=sportdigital",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:30:00Z",
-    "hora_argentina": "2026-02-08 17:30",
-    "logo": "",
-    "liga": "Liga 1",
-    "equipos": "Cienciano vs Juan Pablo II College",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=liga1max",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:30:00Z",
-    "hora_argentina": "2026-02-08 17:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Benfica vs Alverca",
-    "canales": [
+      },
       {
         "nombre": "benficatv",
         "url": "https://antenasport.top/benficatv.php",
@@ -3710,17 +2500,7 @@
         "nombre": "arena4premiumserbia",
         "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T20:30:00Z",
-    "hora_argentina": "2026-02-08 17:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Benfica vs Alverca",
-    "canales": [
+      },
       {
         "nombre": "canal 40",
         "url": "https://miatvhd.xyz/reproductor/canal40.html",
@@ -3733,12 +2513,12 @@
     "hora_utc": "2026-02-08T20:30:00Z",
     "hora_argentina": "2026-02-08 17:30",
     "logo": "",
-    "liga": "",
-    "equipos": "Cienciano vs Juan Pablo II",
+    "liga": "Liga 1",
+    "equipos": "Cienciano vs Juan Pablo II College",
     "canales": [
       {
-        "nombre": "canal 7",
-        "url": "https://miatvhd.xyz/reproductor/canal7.html",
+        "nombre": "StreamX10",
+        "url": "https://streamx10.cloud/global1.php?channel=liga1max",
         "calidad": ""
       }
     ],
@@ -3795,6 +2575,11 @@
         "nombre": "TNT Sports Premium",
         "url": "https://elcanaldeportivo.com/cdf.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "cdf",
+        "url": "https://miatvhd.xyz/reproductor/cdf.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -3879,21 +2664,6 @@
       {
         "nombre": "canal 51",
         "url": "https://miatvhd.xyz/reproductor/canal51.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T21:00:00Z",
-    "hora_argentina": "2026-02-08 18:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Ñublense vs Limache",
-    "canales": [
-      {
-        "nombre": "cdf",
-        "url": "https://miatvhd.xyz/reproductor/cdf.html",
         "calidad": ""
       }
     ],
@@ -3995,35 +2765,20 @@
         "nombre": "Win Sports+",
         "url": "https://elcanaldeportivo.com/winmas.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T21:10:00Z",
-    "hora_argentina": "2026-02-08 18:10",
-    "logo": "",
-    "liga": "Liga BetPlay",
-    "equipos": "Alianza vs Once Caldas",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T21:10:00Z",
-    "hora_argentina": "2026-02-08 18:10",
-    "logo": "",
-    "liga": "Liga BetPlay",
-    "equipos": "Alianza vs Once Caldas",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus2",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 11",
+        "url": "https://miatvhd.xyz/reproductor/canal11.html",
         "calidad": ""
       }
     ],
@@ -4049,21 +2804,6 @@
       {
         "nombre": "WINsport+ (CAST)",
         "url": "https://bolaloca.my/player/3/81",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T21:10:00Z",
-    "hora_argentina": "2026-02-08 18:10",
-    "logo": "",
-    "liga": "",
-    "equipos": "Alianza vs Once Caldas",
-    "canales": [
-      {
-        "nombre": "canal 11",
-        "url": "https://miatvhd.xyz/reproductor/canal11.html",
         "calidad": ""
       }
     ],
@@ -4275,35 +3015,20 @@
         "nombre": "TNT Sports",
         "url": "https://elcanaldeportivo.com/tntsports.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T22:15:00Z",
-    "hora_argentina": "2026-02-08 19:15",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Huracán vs San Lorenzo",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T22:15:00Z",
-    "hora_argentina": "2026-02-08 19:15",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Huracán vs San Lorenzo",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=tntar",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 73",
+        "url": "https://miatvhd.xyz/reproductor/canal73.html",
         "calidad": ""
       }
     ],
@@ -4329,21 +3054,6 @@
       {
         "nombre": "ESPN Premium (CAST)",
         "url": "https://bolaloca.my/player/3/76",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T22:15:00Z",
-    "hora_argentina": "2026-02-08 19:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Huracán vs San Lorenzo",
-    "canales": [
-      {
-        "nombre": "canal 73",
-        "url": "https://miatvhd.xyz/reproductor/canal73.html",
         "calidad": ""
       }
     ],
@@ -4585,20 +3295,15 @@
         "nombre": "L1Max",
         "url": "https://elcanaldeportivo.com/liga1maxpe.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:00:00Z",
-    "hora_argentina": "2026-02-08 20:00",
-    "logo": "",
-    "liga": "Liga 1",
-    "equipos": "Alianza Lima vs Comerciantes Unidos",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=liga1max",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 7",
+        "url": "https://miatvhd.xyz/reproductor/canal7.html",
         "calidad": ""
       }
     ],
@@ -4630,21 +3335,6 @@
     "date_offset": -1
   },
   {
-    "hora_utc": "2026-02-08T23:00:00Z",
-    "hora_argentina": "2026-02-08 20:00",
-    "logo": "",
-    "liga": "",
-    "equipos": "Alianza Lima vs Comerciantes Unidos",
-    "canales": [
-      {
-        "nombre": "canal 7",
-        "url": "https://miatvhd.xyz/reproductor/canal7.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-08T23:20:00Z",
     "hora_argentina": "2026-02-08 20:20",
     "logo": "https://elcanaldeportivo.com/img/col.png",
@@ -4655,35 +3345,20 @@
         "nombre": "Win Sports+",
         "url": "https://elcanaldeportivo.com/winmas.php",
         "calidad": "720p"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:20:00Z",
-    "hora_argentina": "2026-02-08 20:20",
-    "logo": "",
-    "liga": "Liga BetPlay",
-    "equipos": "Deportivo Cali vs Millonarios",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:20:00Z",
-    "hora_argentina": "2026-02-08 20:20",
-    "logo": "",
-    "liga": "Liga BetPlay",
-    "equipos": "Deportivo Cali vs Millonarios",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus2",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 8",
+        "url": "https://miatvhd.xyz/reproductor/canal8.html",
         "calidad": ""
       }
     ],
@@ -4715,21 +3390,6 @@
     "date_offset": -1
   },
   {
-    "hora_utc": "2026-02-08T23:20:00Z",
-    "hora_argentina": "2026-02-08 20:20",
-    "logo": "",
-    "liga": "",
-    "equipos": "Deportivo Cali vs Millonarios",
-    "canales": [
-      {
-        "nombre": "canal 8",
-        "url": "https://miatvhd.xyz/reproductor/canal8.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-08T23:30:00Z",
     "hora_argentina": "2026-02-08 20:30",
     "logo": "https://elcanaldeportivo.com/img/chi.png",
@@ -4740,6 +3400,11 @@
         "nombre": "TNT Sports Premium",
         "url": "https://elcanaldeportivo.com/cdf.php",
         "calidad": "720p"
+      },
+      {
+        "nombre": "canal 30",
+        "url": "https://miatvhd.xyz/reproductor/canal30.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -4755,110 +3420,50 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney4",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "Super Bowl LX",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "Super Bowl LX",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=fox1mx",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "Super Bowl LX",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=canal5mx",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "Super Bowl LX",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=azteca7",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "Super Bowl LX",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=telemundo",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "Super Bowl LX",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=fox1ar",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "Super Bowl LX",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnmx",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 41",
+        "url": "https://miatvhd.xyz/reproductor/canal41.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 42",
+        "url": "https://miatvhd.xyz/reproductor/canal42.html",
         "calidad": ""
       }
     ],
@@ -4890,6 +3495,11 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney5",
         "calidad": ""
+      },
+      {
+        "nombre": "canal 50",
+        "url": "https://miatvhd.xyz/reproductor/canal50.html",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -4919,6 +3529,11 @@
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=premiere1",
+        "calidad": ""
+      },
+      {
+        "nombre": "gol",
+        "url": "https://miatvhd.xyz/reproductor/gol.html",
         "calidad": ""
       }
     ],
@@ -4975,81 +3590,6 @@
     "date_offset": -1
   },
   {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Boston River vs Nacional",
-    "canales": [
-      {
-        "nombre": "canal 50",
-        "url": "https://miatvhd.xyz/reproductor/canal50.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Fluminense vs Marica",
-    "canales": [
-      {
-        "nombre": "gol",
-        "url": "https://miatvhd.xyz/reproductor/gol.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
-      {
-        "nombre": "canal 41",
-        "url": "https://miatvhd.xyz/reproductor/canal41.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "New England Patriots vs Seattle Seahawks",
-    "canales": [
-      {
-        "nombre": "canal 42",
-        "url": "https://miatvhd.xyz/reproductor/canal42.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-08T23:30:00Z",
-    "hora_argentina": "2026-02-08 20:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "U. Católica vs Dep. Concepción",
-    "canales": [
-      {
-        "nombre": "canal 30",
-        "url": "https://miatvhd.xyz/reproductor/canal30.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-09T01:00:00Z",
     "hora_argentina": "2026-02-08 22:00",
     "logo": "https://elcanaldeportivo.com/img/ar.png",
@@ -5100,35 +3640,20 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney6",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-09T01:15:00Z",
-    "hora_argentina": "2026-02-08 22:15",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Vélez Sarsfield vs Boca Juniors",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=tntar",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-09T01:15:00Z",
-    "hora_argentina": "2026-02-08 22:15",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Vélez Sarsfield vs Boca Juniors",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 70",
+        "url": "https://miatvhd.xyz/reproductor/canal70.html",
         "calidad": ""
       }
     ],
@@ -5145,20 +3670,15 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-09T01:15:00Z",
-    "hora_argentina": "2026-02-08 22:15",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Gimnasia Mendoza vs Instituto",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=tycint",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 74",
+        "url": "https://miatvhd.xyz/reproductor/canal74.html",
         "calidad": ""
       }
     ],
@@ -5245,36 +3765,6 @@
     "date_offset": -1
   },
   {
-    "hora_utc": "2026-02-09T01:15:00Z",
-    "hora_argentina": "2026-02-08 22:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Gimnasia Mendoza vs Instituto",
-    "canales": [
-      {
-        "nombre": "canal 74",
-        "url": "https://miatvhd.xyz/reproductor/canal74.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-09T01:15:00Z",
-    "hora_argentina": "2026-02-08 22:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Vélez Sarsfield vs Boca Juniors",
-    "canales": [
-      {
-        "nombre": "canal 70",
-        "url": "https://miatvhd.xyz/reproductor/canal70.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-09T01:30:00Z",
     "hora_argentina": "2026-02-08 22:30",
     "logo": "https://elcanaldeportivo.com/img/col.png",
@@ -5300,17 +3790,7 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus",
         "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-09T01:30:00Z",
-    "hora_argentina": "2026-02-08 22:30",
-    "logo": "",
-    "liga": "Liga BetPlay",
-    "equipos": "Jaguares de Córdoba vs Deportivo Pereira",
-    "canales": [
+      },
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus2",
