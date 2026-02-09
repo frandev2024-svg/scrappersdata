@@ -68,5 +68,45 @@
     "country": "Unknown",
     "quality": "HD",
     "is_active": true
+  },
+  {
+    "id": "centoxcento_tv_adultos_8",
+    "name": "CentoXCento TV",
+    "image": "https://adult-tv-channels.click/assets/images/cento-x-cento-logo.png",
+    "iframe_url": "[\"https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "hustler_tv_adultos_9",
+    "name": "Hustler TV",
+    "image": "https://adult-tv-channels.click/assets/images/hustler-tv-logo.png",
+    "iframe_url": "[\"https://webtvstream.bhtelecom.ba/pink_erotic3.m3u8\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "private_tv_adultos_10",
+    "name": "Private TV Online",
+    "image": "https://adult-tv-channels.click/assets/images/private-tv.png",
+    "iframe_url": "[\"https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "dorcel_tv_adultos_11",
+    "name": "Dorcel TV Online",
+    "image": "https://adult-tv-channels.click/assets/images/dorcel-tv-logo.png",
+    "iframe_url": "[\"https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8\"]",
+    "category": "Adultos",
+    "country": "Unknown",
+    "quality": "HD",
+    "is_active": true
   }
 ]
