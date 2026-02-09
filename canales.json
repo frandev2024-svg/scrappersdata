@@ -1,7 +1,7 @@
 [
   {
     "id": "telefe_argentina_1",
-    "name": "Telefe",
+    "name": "Telefee",
     "image": "https://bestleague.world/img/telefe.png",
     "iframe_url": "[\"https://www.tvenvivo2.com/live/skysportsbundesliga.php\", \"https://tvlibree.com/en-vivo/telefe/hl.html\", \"https://tvlibree.com/html/fl/?get=Q2FuYWxfOF9DQkE\", \"https://tvlibree.com/html/fl/?get=Q2FuYWxfOF9UdWN1bWFu\", \"https://tvlibree.com/html/fl/?get=Q2FuYWxfNV9Sb3Nhcmlv\", \"https://tvlibree.com/html/fl/?get=VGVsZWZlX1NhbHRh\", \"https://tvlibree.com/html/fl/?get=VGVsZWZlX05ldXF1ZW4=\"]",
     "category": "Argentina",
