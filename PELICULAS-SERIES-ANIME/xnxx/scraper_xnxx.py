@@ -24,6 +24,17 @@ START_URL = "https://www.xnxx.es/search/porno+en+espanol?top="
 DEFAULT_MAX_PAGES = 3
 REQUEST_DELAY_SEC = 1.0
 
+# URLs de búsqueda por categoría
+SEARCH_CATEGORIES: Dict[str, str] = {
+    "porno_espanol": "https://www.xnxx.es/search/porno+en+espanol?top=",
+    "familial_relations": "https://www.xnxx.es/search/familial_relations?id=86963713",
+    "milf": "https://www.xnxx.es/search/milf?id=87551937",
+    "big_cock": "https://www.xnxx.es/search/big_cock?id=41084707",
+    "casero": "https://www.xnxx.es/search/casero?top&id=78663447",
+    "skinny": "https://www.xnxx.es/search/skinny?top&id=82232493",
+    "mamada": "https://www.xnxx.es/search/mamada?top&id=60590263",
+}
+
 # Optional filter to skip risky keywords
 EXCLUDE_KEYWORDS: List[str] = []
 
@@ -368,8 +379,9 @@ class XnxxScraper:
 
         return output_path
 
-    def run(self) -> str:
-        current_url = self.start_url
+    def _scrape_url(self, start_url: str, category: str = "") -> List[Dict]:
+        """Scrape una URL de búsqueda específica y devuelve los resultados."""
+        current_url = start_url
         page_count = 0
         results: List[Dict] = []
 
@@ -392,16 +404,45 @@ class XnxxScraper:
                         continue
                     merged[key] = value
                 merged["scraped_at"] = datetime.now(timezone.utc).isoformat()
+                if category:
+                    merged["category"] = category
                 results.append(merged)
 
                 time.sleep(REQUEST_DELAY_SEC)
 
             current_url = next_url
 
+        return results
+
+    def run(self) -> str:
+        results = self._scrape_url(self.start_url)
         output_path = self._write_output(results)
         if self.push_to_repo:
             self._sync_to_repo(output_path)
         logger.info("Guardado: %s", output_path)
+        return output_path
+
+    def run_all_categories(self, categories: Optional[List[str]] = None) -> str:
+        """Scrape todas las categorías o las especificadas."""
+        all_results: List[Dict] = []
+        
+        cats_to_scrape = categories if categories else list(SEARCH_CATEGORIES.keys())
+        
+        for cat_name in cats_to_scrape:
+            if cat_name not in SEARCH_CATEGORIES:
+                logger.warning("Categoría desconocida: %s", cat_name)
+                continue
+            
+            cat_url = SEARCH_CATEGORIES[cat_name]
+            logger.info("=== Scrapeando categoría: %s ===", cat_name)
+            results = self._scrape_url(cat_url, category=cat_name)
+            all_results.extend(results)
+            logger.info("Obtenidos %d videos de %s", len(results), cat_name)
+
+        output_path = self._write_output(all_results)
+        if self.push_to_repo:
+            self._sync_to_repo(output_path)
+        logger.info("Total guardado: %s (%d videos nuevos)", output_path, len(all_results))
         return output_path
 
 
@@ -412,11 +453,22 @@ def _parse_args() -> argparse.Namespace:
     parser.add_argument("--delay", type=float, default=REQUEST_DELAY_SEC)
     parser.add_argument("--push", action="store_true", help="Sube xnxx.json al repo scrappersdata")
     parser.add_argument("--repo-path", default=None, help="Ruta local del repo scrappersdata")
+    parser.add_argument("--all-categories", action="store_true", help="Scrapea todas las categorías definidas")
+    parser.add_argument("--categories", nargs="+", choices=list(SEARCH_CATEGORIES.keys()),
+                        help="Categorías específicas a scrapear")
+    parser.add_argument("--list-categories", action="store_true", help="Lista las categorías disponibles")
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = _parse_args()
+    
+    if args.list_categories:
+        print("Categorías disponibles:")
+        for name, url in SEARCH_CATEGORIES.items():
+            print(f"  {name}: {url}")
+        exit(0)
+    
     REQUEST_DELAY_SEC = args.delay
     scraper = XnxxScraper(
         start_url=args.start_url,
@@ -424,4 +476,10 @@ if __name__ == "__main__":
         push_to_repo=args.push,
         repo_path=args.repo_path,
     )
-    scraper.run()
+    
+    if args.all_categories:
+        scraper.run_all_categories()
+    elif args.categories:
+        scraper.run_all_categories(args.categories)
+    else:
+        scraper.run()

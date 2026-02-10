@@ -390,11 +390,56 @@ class PoseidonMoviesScraper:
                     normalized.extend([p for p in parsed if isinstance(p, dict)])
         return normalized
 
-    def run(self, max_pages: Optional[int] = None, max_movies: Optional[int] = None):
+    def _is_single_movie_url(self, url: str) -> bool:
+        """Verifica si la URL es de una película individual."""
+        return "/pelicula/" in url
+
+    def _process_single_movie(self, movie_url: str, movies_map: Dict[int, Dict]) -> int:
+        """Procesa una sola película y retorna 1 si fue exitoso, 0 si no."""
+        tmdb_id = self._extract_tmdb_id_from_url(movie_url)
+        if not tmdb_id:
+            logger.error(f"No se pudo extraer TMDB ID de {movie_url}")
+            return 0
+
+        logger.info(f"Procesando película: {movie_url}")
+        info = self._parse_movie_info(movie_url)
+        if not info:
+            logger.error(f"No se pudo obtener info de {movie_url}")
+            return 0
+
+        servers = self._extract_movie_servers(movie_url)
+        existing = movies_map.get(tmdb_id)
+        movies_map[tmdb_id] = self._merge_movie(existing, info, servers)
+        self.processed_movie_ids.add(tmdb_id)
+
+        logger.info(f"Actualizada: {info.get('title')} (servers: {len(servers)})")
+        return 1
+
+    def run(self, max_pages: Optional[int] = None, max_movies: Optional[int] = None, custom_url: Optional[str] = None):
         logger.info("Iniciando scraper de peliculas Poseidon...")
         movies_map = self._load_existing_movies()
 
-        current_url = MOVIES_URL
+        # Determinar URL inicial
+        if custom_url:
+            # Normalizar URL
+            if not custom_url.startswith("http"):
+                start_url = urljoin(POSEIDON_BASE_URL, custom_url)
+            else:
+                start_url = custom_url
+            
+            # Si es una película individual, procesarla directamente
+            if self._is_single_movie_url(start_url):
+                logger.info(f"Procesando película individual: {start_url}")
+                processed = self._process_single_movie(start_url, movies_map)
+                self._save_movies(movies_map)
+                logger.info(f"Scraping completado. Películas procesadas: {processed}")
+                return
+            else:
+                logger.info(f"Procesando lista/grid desde: {start_url}")
+        else:
+            start_url = MOVIES_URL
+
+        current_url = start_url
         page = 1
         processed = 0
 
@@ -449,11 +494,15 @@ def main():
     parser = argparse.ArgumentParser(description="Scraper de peliculas desde poseidonhd2.co")
     parser.add_argument("--max-pages", type=int, default=None, help="Numero maximo de paginas")
     parser.add_argument("--max-movies", type=int, default=None, help="Numero maximo de peliculas")
+    parser.add_argument("--url", type=str, default=None, help="""URL personalizada para extraer. Ejemplos:
+        - Lista/tendencias: https://www.poseidonhd2.co/peliculas/tendencias/semana
+        - Por genero: https://www.poseidonhd2.co/genero/accion
+        - Pelicula directa: https://www.poseidonhd2.co/pelicula/338969/the-toxic-avenger""")
 
     args = parser.parse_args()
 
     scraper = PoseidonMoviesScraper()
-    scraper.run(max_pages=args.max_pages, max_movies=args.max_movies)
+    scraper.run(max_pages=args.max_pages, max_movies=args.max_movies, custom_url=args.url)
 
 
 if __name__ == "__main__":

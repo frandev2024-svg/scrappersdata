@@ -1,7 +1,10 @@
 import base64
 import json
 import logging
+import os
 import re
+import shutil
+import subprocess
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -13,6 +16,9 @@ from bs4 import BeautifulSoup
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_JSON = BASE_DIR / "partidos.json"
+
+# Configuración de GitHub
+REPO_PATH = BASE_DIR / "PELICULAS-SERIES-ANIME" / "peliculas" / "scrappersdata"
 
 ELCANALDEPORTIVO_URL = "https://elcanaldeportivo.com/partidos.json"
 STREAMX10_URL = "https://streamx10.cloud/json/agenda345.json"
@@ -831,11 +837,56 @@ def build_all_events() -> List[Dict[str, Any]]:
     return all_events
 
 
+def sync_to_github(json_path: Path) -> None:
+    """Copia el JSON al repositorio y hace push a GitHub."""
+    git_dir = REPO_PATH / ".git"
+    if not git_dir.is_dir():
+        logger.warning("No se encontró repositorio git en %s", REPO_PATH)
+        return
+    
+    dest_path = REPO_PATH / "partidos.json"
+    
+    # Copiar el archivo al repositorio
+    shutil.copyfile(str(json_path), str(dest_path))
+    logger.info("Archivo copiado a %s", dest_path)
+    
+    # Git add
+    subprocess.run(["git", "-C", str(REPO_PATH), "add", "partidos.json"], check=False)
+    
+    # Verificar si hay cambios
+    diff_result = subprocess.run(
+        ["git", "-C", str(REPO_PATH), "diff", "--cached", "--quiet"],
+        check=False
+    )
+    if diff_result.returncode == 0:
+        logger.info("No hay cambios para subir a GitHub")
+        return
+    
+    # Commit
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+    subprocess.run(
+        ["git", "-C", str(REPO_PATH), "commit", "-m", f"Update partidos.json {timestamp}"],
+        check=False,
+    )
+    logger.info("Commit realizado")
+    
+    # Push
+    push_result = subprocess.run(["git", "-C", str(REPO_PATH), "push"], check=False)
+    if push_result.returncode == 0:
+        logger.info("Push a GitHub exitoso")
+    else:
+        logger.error("Error al hacer push a GitHub")
+
+
 def main() -> None:
+    # Sobrescribir completamente el JSON con los nuevos datos
     events = build_all_events()
     with OUTPUT_JSON.open("w", encoding="utf-8") as f:
         json.dump(events, f, ensure_ascii=False, indent=2)
     logger.info("Eventos guardados: %s", len(events))
+    
+    # Subir a GitHub
+    sync_to_github(OUTPUT_JSON)
 
 
 if __name__ == "__main__":
