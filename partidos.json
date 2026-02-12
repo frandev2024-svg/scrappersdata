@@ -56,7 +56,7 @@
   {
     "hora_utc": "2026-02-12T00:15:00Z",
     "hora_argentina": "2026-02-11 21:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
     "liga": "Fútbol Argentino",
     "equipos": "Central Córdoba vs. Gimnasia Jujuy",
     "deporte": "Fútbol",
@@ -73,7 +73,7 @@
   {
     "hora_utc": "2026-02-12T00:15:00Z",
     "hora_argentina": "2026-02-11 21:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
     "liga": "Fútbol Argentino",
     "equipos": "Central Córdoba SdE vs Gimnasia Jujuy",
     "deporte": "Fútbol",
@@ -95,7 +95,7 @@
   {
     "hora_utc": "2026-02-12T00:15:00Z",
     "hora_argentina": "2026-02-11 21:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
     "liga": "Fútbol Argentino",
     "equipos": "Central Córdoba SdE vs. Gimnasia Jujuy 01:15",
     "deporte": "Fútbol",
@@ -137,7 +137,7 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/7.png",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
     "liga": "Copa Libertadores",
     "equipos": "Alianza Lima vs 2 de Mayo",
     "deporte": "Fútbol",
@@ -169,7 +169,7 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
     "liga": "Brasileirão",
     "equipos": "Vasco da Gama vs Bahia",
     "deporte": "Fútbol",
@@ -186,7 +186,7 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
     "liga": "Brasileirão",
     "equipos": "São Paulo vs Grêmio",
     "deporte": "Fútbol",
@@ -211,7 +211,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Knicks vs 76ers",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -230,7 +230,7 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/7.png",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
     "liga": "Copa Libertadores",
     "equipos": "Alianza Lima",
     "deporte": "Fútbol",
@@ -290,7 +290,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Boston Celtics - Chicago Bulls",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -317,7 +317,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Brooklyn Nets - Indiana Pacers",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -344,7 +344,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Philadelphia 76ers - New York Knicks",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -416,7 +416,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Toronto Raptors - Detroit Pistons",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -440,11 +440,11 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png",
-    "liga": "Serie A Bresil",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
+    "liga": "Brasileirão",
     "equipos": "Sao Paulo - Gremio",
     "deporte": "Fútbol",
-    "pais": "Italia",
+    "pais": "Brasil",
     "canales": [
       {
         "nombre": "Liga1MAX (WIGI)",
@@ -467,7 +467,7 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
     "liga": "Brasileirão",
     "equipos": "Vasco da Gama vs. Bahia 01:30",
     "deporte": "Fútbol",
@@ -489,7 +489,7 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
     "liga": "Brasileirão",
     "equipos": "São Paulo vs. Grêmio 01:30",
     "deporte": "Fútbol",
@@ -519,7 +519,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "New York Knicks vs. Philadelphia 76ers 01:30",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -563,7 +563,7 @@
   {
     "hora_utc": "2026-02-12T00:30:00Z",
     "hora_argentina": "2026-02-11 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/7.png",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
     "liga": "Copa Libertadores",
     "equipos": "Alianza Lima vs. 2 de Mayo 01:30",
     "deporte": "Fútbol",
@@ -611,7 +611,7 @@
     "hora_utc": "2026-02-12T01:00:00Z",
     "hora_argentina": "2026-02-11 22:00",
     "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
-    "liga": "Concacaf Chamnpions Cup",
+    "liga": "Concacaf Champions Cup",
     "equipos": "Club América vs. Olimpia",
     "deporte": "Fútbol",
     "pais": "CONCACAF",
@@ -684,7 +684,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Houston Rockets - Los Angeles Clippers",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -711,7 +711,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Minnesota Timberwolves - Portland Trail Blazers",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -738,7 +738,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "New Orleans Pelicans - Miami Heat",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -763,7 +763,7 @@
     "hora_utc": "2026-02-12T01:00:00Z",
     "hora_argentina": "2026-02-11 22:00",
     "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
-    "liga": "Copa De Campeones De La Concacaf",
+    "liga": "Concacaf Champions Cup",
     "equipos": "América vs. Olimpia 02:00",
     "deporte": "Fútbol",
     "pais": "CONCACAF",
@@ -878,7 +878,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Denver Nuggets - Memphis Grizzlies",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -920,7 +920,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Phoenix Suns - Oklahoma City Thunder",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -947,7 +947,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Utah Jazz - Sacramento Kings",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -972,7 +972,7 @@
     "hora_utc": "2026-02-12T03:00:00Z",
     "hora_argentina": "2026-02-12 00:00",
     "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
-    "liga": "Concacaf Chamnpions Cup",
+    "liga": "Concacaf Champions Cup",
     "equipos": "Monterrey vs. Xelajú",
     "deporte": "Fútbol",
     "pais": "CONCACAF",
@@ -1006,7 +1006,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Spurs vs Warriors",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -1055,7 +1055,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "Golden State Warriors - San Antonio Spurs",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -1125,7 +1125,7 @@
     "hora_utc": "2026-02-12T03:00:00Z",
     "hora_argentina": "2026-02-12 00:00",
     "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
-    "liga": "Copa De Campeones De La Concacaf",
+    "liga": "Concacaf Champions Cup",
     "equipos": "Monterrey vs. Xelajú 04:00",
     "deporte": "Fútbol",
     "pais": "CONCACAF",
@@ -1154,7 +1154,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "Nba",
     "equipos": "San Antonio Spurs vs. Golden State Warriors 04:00",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -1201,7 +1201,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png",
     "liga": "Serie A",
     "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
-    "deporte": "Fútbol",
+    "deporte": "Juegos Olímpicos",
     "pais": "Italia",
     "canales": [
       {
@@ -1300,11 +1300,11 @@
   {
     "hora_utc": "2026-02-12T11:10:00Z",
     "hora_argentina": "2026-02-12 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Switzerland vs France",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky7nz",
@@ -1351,11 +1351,11 @@
   {
     "hora_utc": "2026-02-12T15:30:00Z",
     "hora_argentina": "2026-02-12 12:30",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Czech Republic vs Canada",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "tsn1",
@@ -1381,7 +1381,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/350.png",
     "liga": "AFC Champions League",
     "equipos": "Sepahan vs Al Ahli Doha",
-    "deporte": "Fútbol",
+    "deporte": "Hockey",
     "pais": "Europa",
     "canales": [
       {
@@ -1412,10 +1412,10 @@
   {
     "hora_utc": "2026-02-12T17:30:00Z",
     "hora_argentina": "2026-02-12 14:30",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Anadolu Efes vs Virtus Bologna",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -1461,10 +1461,10 @@
   {
     "hora_utc": "2026-02-12T19:00:00Z",
     "hora_argentina": "2026-02-12 16:00",
-    "logo": "https://play-lh.googleusercontent.com/irYJe6-A1dGNLL70OsyfObB6Tz2bL9b3qFkSeL1kiVK7eWyvkN1ceStS_7t19JZX7Ho",
+    "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
     "liga": "Basketball Aba Liga",
     "equipos": "Zadar vs Igokea",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Balcanes",
     "canales": [
       {
@@ -1478,10 +1478,10 @@
   {
     "hora_utc": "2026-02-12T19:05:00Z",
     "hora_argentina": "2026-02-12 16:05",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Maccabi Tel Aviv vs Bayern Munich",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -1495,10 +1495,10 @@
   {
     "hora_utc": "2026-02-12T19:15:00Z",
     "hora_argentina": "2026-02-12 16:15",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Olympiacos vs. Crvena Zvezda",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -1532,10 +1532,10 @@
   {
     "hora_utc": "2026-02-12T19:30:00Z",
     "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Barcelona vs Paris",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -1559,10 +1559,10 @@
   {
     "hora_utc": "2026-02-12T19:30:00Z",
     "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Valencia vs ASVEL",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -1589,7 +1589,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
     "liga": "Swiss Super League",
     "equipos": "Sion vs Basel",
-    "deporte": "Deportes",
+    "deporte": "Fútbol",
     "pais": "Suiza",
     "canales": [
       {
@@ -1611,7 +1611,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
     "liga": "Swiss Super League",
     "equipos": "Thun vs Lausanne Sport",
-    "deporte": "Deportes",
+    "deporte": "Fútbol",
     "pais": "Suiza",
     "canales": [
       {
@@ -1637,13 +1637,13 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "canal 127",
-        "url": "https://miatvhd.xyz/reproductor/canal127.html",
+        "nombre": "canal 126",
+        "url": "https://miatvhd.xyz/reproductor/canal126.html",
         "calidad": ""
       },
       {
-        "nombre": "canal 126",
-        "url": "https://miatvhd.xyz/reproductor/canal126.html",
+        "nombre": "canal 127",
+        "url": "https://miatvhd.xyz/reproductor/canal127.html",
         "calidad": ""
       }
     ],
@@ -1698,13 +1698,13 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "canal 132",
-        "url": "https://miatvhd.xyz/reproductor/canal132.html",
+        "nombre": "canal 131",
+        "url": "https://miatvhd.xyz/reproductor/canal131.html",
         "calidad": ""
       },
       {
-        "nombre": "canal 131",
-        "url": "https://miatvhd.xyz/reproductor/canal131.html",
+        "nombre": "canal 132",
+        "url": "https://miatvhd.xyz/reproductor/canal132.html",
         "calidad": ""
       }
     ],
@@ -1720,13 +1720,13 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "canal 16",
-        "url": "https://miatvhd.xyz/reproductor/canal16.html",
+        "nombre": "canal 15",
+        "url": "https://miatvhd.xyz/reproductor/canal15.html",
         "calidad": ""
       },
       {
-        "nombre": "canal 15",
-        "url": "https://miatvhd.xyz/reproductor/canal15.html",
+        "nombre": "canal 16",
+        "url": "https://miatvhd.xyz/reproductor/canal16.html",
         "calidad": ""
       }
     ],
@@ -1738,7 +1738,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/553.png",
     "liga": "Copa Del Rey",
     "equipos": "Atlético de Madrid vs. Barcelona",
-    "deporte": "Fútbol",
+    "deporte": "Hockey",
     "pais": "España",
     "canales": [
       {
@@ -1886,11 +1886,11 @@
   {
     "hora_utc": "2026-02-12T20:00:00Z",
     "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Latvia vs USA",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky5nz",
@@ -1908,44 +1908,17 @@
   {
     "hora_utc": "2026-02-12T20:00:00Z",
     "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
-    "liga": "La Liga",
-    "equipos": "Atlétic Club vs Real Sociedad",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "canal 62",
-        "url": "https://miatvhd.xyz/reproductor/canal62.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 64",
-        "url": "https://miatvhd.xyz/reproductor/canal64.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 61",
-        "url": "https://miatvhd.xyz/reproductor/canal61.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 63",
-        "url": "https://miatvhd.xyz/reproductor/canal63.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png",
     "liga": "Serie A",
     "equipos": "Bolonia vs Lazio",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
+      {
+        "nombre": "canal 33",
+        "url": "https://miatvhd.xyz/reproductor/canal33.html",
+        "calidad": ""
+      },
       {
         "nombre": "canal 32",
         "url": "https://miatvhd.xyz/reproductor/canal32.html",
@@ -1954,11 +1927,6 @@
       {
         "nombre": "canal 31",
         "url": "https://miatvhd.xyz/reproductor/canal31.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 33",
-        "url": "https://miatvhd.xyz/reproductor/canal33.html",
         "calidad": ""
       }
     ],
@@ -1984,11 +1952,11 @@
   {
     "hora_utc": "2026-02-12T20:15:00Z",
     "hora_argentina": "2026-02-12 17:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Germany vs Denmark",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky4nz",
@@ -2008,13 +1976,13 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "espn",
-        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "nombre": "canal 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
         "calidad": ""
       },
       {
-        "nombre": "canal 1",
-        "url": "https://miatvhd.xyz/reproductor/canal1.html",
+        "nombre": "espn",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
         "calidad": ""
       },
       {
@@ -2045,7 +2013,7 @@
   {
     "hora_utc": "2026-02-12T22:00:00Z",
     "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
     "liga": "Fútbol Argentino",
     "equipos": "Tigre vs. Aldosivi",
     "deporte": "Fútbol",
@@ -2062,7 +2030,7 @@
   {
     "hora_utc": "2026-02-12T22:00:00Z",
     "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
     "liga": "Fútbol Argentino",
     "equipos": "Rosario Central vs. Sportivo Belgrano 23:00",
     "deporte": "Fútbol",
@@ -2104,7 +2072,7 @@
   {
     "hora_utc": "2026-02-12T22:00:00Z",
     "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
     "liga": "Brasileirão",
     "equipos": "Mirassol vs. Cruzeiro 23:00",
     "deporte": "Fútbol",
@@ -2126,7 +2094,7 @@
   {
     "hora_utc": "2026-02-12T22:00:00Z",
     "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
     "liga": "Brasileirão",
     "equipos": "Chapecoense vs. Coritiba 23:00",
     "deporte": "Fútbol",
@@ -2190,7 +2158,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Charlotte Hornets vs Atlanta Hawks",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2207,7 +2175,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Cleveland Cavaliers vs Washington Wizards",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2224,7 +2192,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Orlando Magic vs Milwaukee Bucks",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2238,7 +2206,7 @@
   {
     "hora_utc": "2026-02-13T00:15:00Z",
     "hora_argentina": "2026-02-12 21:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
     "liga": "Fútbol Argentino",
     "equipos": "Argentinos Juniors vs. River Plate",
     "deporte": "Fútbol",
@@ -2260,7 +2228,7 @@
   {
     "hora_utc": "2026-02-13T00:30:00Z",
     "hora_argentina": "2026-02-12 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/7.png",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
     "liga": "Copa Libertadores",
     "equipos": "U. Católica (Ecu) vs. Juventud (Uru)",
     "deporte": "Fútbol",
@@ -2289,13 +2257,13 @@
     "pais": "Perú",
     "canales": [
       {
-        "nombre": "espn",
-        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "nombre": "canal 4",
+        "url": "https://miatvhd.xyz/reproductor/canal4.html",
         "calidad": ""
       },
       {
-        "nombre": "canal 4",
-        "url": "https://miatvhd.xyz/reproductor/canal4.html",
+        "nombre": "espn",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
         "calidad": ""
       },
       {
@@ -2309,10 +2277,10 @@
   {
     "hora_utc": "2026-02-13T00:30:00Z",
     "hora_argentina": "2026-02-12 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/43.png",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png",
     "liga": "Scottish Premiership",
     "equipos": "Boston Celtics vs Chicago Bulls",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Escocia",
     "canales": [
       {
@@ -2329,7 +2297,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Brooklyn Nets vs Indiana Pacers",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2346,7 +2314,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Philadelphia 76ers vs New York Knicks",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2363,7 +2331,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Toronto Raptors vs Detroit Pistons",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2378,7 +2346,7 @@
     "hora_utc": "2026-02-13T01:00:00Z",
     "hora_argentina": "2026-02-12 22:00",
     "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
-    "liga": "Concacaf Chamnpions Cup",
+    "liga": "Concacaf Champions Cup",
     "equipos": "Cruz Azul vs. Vancouver FC",
     "deporte": "Fútbol",
     "pais": "CONCACAF",
@@ -2397,7 +2365,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Houston Rockets vs Los Angeles Clippers",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2431,7 +2399,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "New Orleans Pelicans vs Miami Heat",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2482,7 +2450,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Denver Nuggets vs Memphis Grizzlies",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2533,7 +2501,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
     "liga": "NBA",
     "equipos": "Golden State Warriors vs San Antonio Spurs",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "Estados Unidos",
     "canales": [
       {
@@ -2547,11 +2515,11 @@
   {
     "hora_utc": "2026-02-13T11:10:00Z",
     "hora_argentina": "2026-02-13 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Finland vs Sweden",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky6nz",
@@ -2564,11 +2532,11 @@
   {
     "hora_utc": "2026-02-13T11:10:00Z",
     "hora_argentina": "2026-02-13 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Italy vs Slovakia",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky7nz",
@@ -2625,10 +2593,10 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://play-lh.googleusercontent.com/irYJe6-A1dGNLL70OsyfObB6Tz2bL9b3qFkSeL1kiVK7eWyvkN1ceStS_7t19JZX7Ho",
+    "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
     "liga": "Basketball Aba Liga",
     "equipos": "Derby vs Spartak",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Balcanes",
     "canales": [
       {
@@ -2642,10 +2610,10 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Zalgiris vs Hapoel Tel Aviv",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -2691,10 +2659,10 @@
   {
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Monaco Basket vs Baskonia",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -2762,10 +2730,10 @@
   {
     "hora_utc": "2026-02-13T19:15:00Z",
     "hora_argentina": "2026-02-13 16:15",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Panathinaikos vs. Fenerbahce",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -2811,10 +2779,10 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Partizan vs Real Madrid",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -2833,10 +2801,10 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://brandcenter.euroleague.net/front/brandcenter/assets/images/euroleague.svg",
+    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "liga": "Basketball Euroleague",
     "equipos": "Olimpia Milano vs Dubai Basketball",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -2850,10 +2818,10 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://play-lh.googleusercontent.com/irYJe6-A1dGNLL70OsyfObB6Tz2bL9b3qFkSeL1kiVK7eWyvkN1ceStS_7t19JZX7Ho",
+    "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
     "liga": "Basketball Aba Liga",
     "equipos": "Vienna vs Krka",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Balcanes",
     "canales": [
       {
@@ -3141,11 +3109,11 @@
   {
     "hora_utc": "2026-02-13T20:10:00Z",
     "hora_argentina": "2026-02-13 17:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Canada vs Switzerland",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "33",
@@ -3176,7 +3144,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
     "liga": "Liga Portugal 2",
     "equipos": "Tondela vs Alverca",
-    "deporte": "Fútbol",
+    "deporte": "Hockey",
     "pais": "Portugal",
     "canales": [
       {
@@ -3212,11 +3180,11 @@
   {
     "hora_utc": "2026-02-14T11:10:00Z",
     "hora_argentina": "2026-02-14 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Germany vs Latvia",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky1nz",
@@ -3229,11 +3197,11 @@
   {
     "hora_utc": "2026-02-14T11:10:00Z",
     "hora_argentina": "2026-02-14 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Sweden vs Slovakia",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky9nz",
@@ -3932,11 +3900,11 @@
   {
     "hora_utc": "2026-02-14T15:30:00Z",
     "hora_argentina": "2026-02-14 12:30",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Finland vs Italy",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky9nz",
@@ -4608,11 +4576,11 @@
   {
     "hora_utc": "2026-02-14T20:10:00Z",
     "hora_argentina": "2026-02-14 17:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "USA vs Denmark",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky6nz",
@@ -4642,11 +4610,11 @@
   {
     "hora_utc": "2026-02-15T11:15:00Z",
     "hora_argentina": "2026-02-15 08:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Switzerland vs Czech Republic",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky5nz",
@@ -5202,11 +5170,11 @@
   {
     "hora_utc": "2026-02-15T15:40:00Z",
     "hora_argentina": "2026-02-15 12:40",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Canada vs France",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky5nz",
@@ -5475,7 +5443,7 @@
     "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/basquet.png",
     "liga": "Basketball",
     "equipos": "Bologna vs Udine",
-    "deporte": "Baloncesto",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -5509,7 +5477,7 @@
     "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/basquet.png",
     "liga": "Basketball",
     "equipos": "Unicaja Malaga vs Real Madrid",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -5523,10 +5491,10 @@
   {
     "hora_utc": "2026-02-15T18:00:00Z",
     "hora_argentina": "2026-02-15 15:00",
-    "logo": "https://play-lh.googleusercontent.com/irYJe6-A1dGNLL70OsyfObB6Tz2bL9b3qFkSeL1kiVK7eWyvkN1ceStS_7t19JZX7Ho",
+    "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
     "liga": "Basketball Aba Liga",
     "equipos": "Crvena Zvezda vs Igokea",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Balcanes",
     "canales": [
       {
@@ -5545,11 +5513,11 @@
   {
     "hora_utc": "2026-02-15T18:10:00Z",
     "hora_argentina": "2026-02-15 15:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Denmark vs Latvia",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky2nz",
@@ -5562,10 +5530,10 @@
   {
     "hora_utc": "2026-02-15T19:00:00Z",
     "hora_argentina": "2026-02-15 16:00",
-    "logo": "https://play-lh.googleusercontent.com/irYJe6-A1dGNLL70OsyfObB6Tz2bL9b3qFkSeL1kiVK7eWyvkN1ceStS_7t19JZX7Ho",
+    "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
     "liga": "Basketball Aba Liga",
     "equipos": "FMP vs Mega",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Balcanes",
     "canales": [
       {
@@ -5587,7 +5555,7 @@
     "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/basquet.png",
     "liga": "Basketball",
     "equipos": "Cremona vs Milano",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "",
     "canales": [
       {
@@ -5665,10 +5633,10 @@
   {
     "hora_utc": "2026-02-15T20:00:00Z",
     "hora_argentina": "2026-02-15 17:00",
-    "logo": "https://play-lh.googleusercontent.com/irYJe6-A1dGNLL70OsyfObB6Tz2bL9b3qFkSeL1kiVK7eWyvkN1ceStS_7t19JZX7Ho",
+    "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
     "liga": "Basketball Aba Liga",
     "equipos": "Partizan vs Buducnost",
-    "deporte": "Fútbol",
+    "deporte": "Basketball",
     "pais": "Balcanes",
     "canales": [
       {
@@ -5734,11 +5702,11 @@
   {
     "hora_utc": "2026-02-15T20:10:00Z",
     "hora_argentina": "2026-02-15 17:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Men Ice Hockey Winter Olympics",
+    "logo": "",
+    "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "USA vs Germany",
-    "deporte": "Fútbol",
-    "pais": "Internacional",
+    "deporte": "Hockey",
+    "pais": "",
     "canales": [
       {
         "nombre": "sky6nz",
@@ -5781,7 +5749,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
     "liga": "La Liga",
     "equipos": "Girona vs Barcelona",
-    "deporte": "Fútbol",
+    "deporte": "Ciclismo",
     "pais": "España",
     "canales": [
       {
@@ -5995,7 +5963,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
     "liga": "Swiss Super League",
     "equipos": "Sigma Olomouc vs Lausanne Sport",
-    "deporte": "Deportes",
+    "deporte": "Fútbol",
     "pais": "Suiza",
     "canales": [],
     "date_offset": 0
