@@ -1,59 +1,5 @@
 [
   {
-    "hora_utc": "2026-02-11T23:30:00Z",
-    "hora_argentina": "2026-02-11 20:30",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
-    "liga": "Liga Betplay",
-    "equipos": "Millonarios vs Rionegro Águilas",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winplus",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winplus2",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-11T23:30:00Z",
-    "hora_argentina": "2026-02-11 20:30",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
-    "liga": "Liga Betplay",
-    "equipos": "Millonarios vs. Rionegro Águilas 00:30",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=winplus",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=winplus2",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://elcanaldeportivo.com/winmas.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://rereyano.ru/player/3/81",
-        "calidad": ""
-      }
-    ],
-    "date_offset": -1
-  },
-  {
     "hora_utc": "2026-02-12T00:15:00Z",
     "hora_argentina": "2026-02-11 21:15",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
@@ -1300,7 +1246,7 @@
   {
     "hora_utc": "2026-02-12T11:10:00Z",
     "hora_argentina": "2026-02-12 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Switzerland vs France",
     "deporte": "Juegos Olímpicos",
@@ -1351,7 +1297,7 @@
   {
     "hora_utc": "2026-02-12T15:30:00Z",
     "hora_argentina": "2026-02-12 12:30",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Czech Republic vs Canada",
     "deporte": "Juegos Olímpicos",
@@ -1886,7 +1832,7 @@
   {
     "hora_utc": "2026-02-12T20:00:00Z",
     "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Latvia vs USA",
     "deporte": "Juegos Olímpicos",
@@ -1952,7 +1898,7 @@
   {
     "hora_utc": "2026-02-12T20:15:00Z",
     "hora_argentina": "2026-02-12 17:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Germany vs Denmark",
     "deporte": "Juegos Olímpicos",
@@ -2505,7 +2451,7 @@
   {
     "hora_utc": "2026-02-13T11:10:00Z",
     "hora_argentina": "2026-02-13 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Finland vs Sweden",
     "deporte": "Juegos Olímpicos",
@@ -2522,7 +2468,7 @@
   {
     "hora_utc": "2026-02-13T11:10:00Z",
     "hora_argentina": "2026-02-13 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Italy vs Slovakia",
     "deporte": "Juegos Olímpicos",
@@ -3099,7 +3045,7 @@
   {
     "hora_utc": "2026-02-13T20:10:00Z",
     "hora_argentina": "2026-02-13 17:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Canada vs Switzerland",
     "deporte": "Juegos Olímpicos",
@@ -3170,7 +3116,7 @@
   {
     "hora_utc": "2026-02-14T11:10:00Z",
     "hora_argentina": "2026-02-14 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Germany vs Latvia",
     "deporte": "Juegos Olímpicos",
@@ -3187,7 +3133,7 @@
   {
     "hora_utc": "2026-02-14T11:10:00Z",
     "hora_argentina": "2026-02-14 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Sweden vs Slovakia",
     "deporte": "Juegos Olímpicos",
@@ -3890,7 +3836,7 @@
   {
     "hora_utc": "2026-02-14T15:30:00Z",
     "hora_argentina": "2026-02-14 12:30",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Finland vs Italy",
     "deporte": "Juegos Olímpicos",
@@ -4566,7 +4512,7 @@
   {
     "hora_utc": "2026-02-14T20:10:00Z",
     "hora_argentina": "2026-02-14 17:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "USA vs Denmark",
     "deporte": "Juegos Olímpicos",
@@ -4600,7 +4546,7 @@
   {
     "hora_utc": "2026-02-15T11:15:00Z",
     "hora_argentina": "2026-02-15 08:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Switzerland vs Czech Republic",
     "deporte": "Juegos Olímpicos",
@@ -5160,7 +5106,7 @@
   {
     "hora_utc": "2026-02-15T15:40:00Z",
     "hora_argentina": "2026-02-15 12:40",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Canada vs France",
     "deporte": "Juegos Olímpicos",
@@ -5503,7 +5449,7 @@
   {
     "hora_utc": "2026-02-15T18:10:00Z",
     "hora_argentina": "2026-02-15 15:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Denmark vs Latvia",
     "deporte": "Juegos Olímpicos",
@@ -5692,7 +5638,7 @@
   {
     "hora_utc": "2026-02-15T20:10:00Z",
     "hora_argentina": "2026-02-15 17:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "USA vs Germany",
     "deporte": "Juegos Olímpicos",
