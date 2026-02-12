@@ -97,33 +97,6 @@
     "hora_argentina": "2026-02-11 21:15",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
     "liga": "Fútbol Argentino",
-    "equipos": "Central Cordoba - Gimnasia Jujuy",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "TyC Sports (WIGI)",
-        "url": "https://bolaloca.my/player/1/77",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports (HOCA)",
-        "url": "https://bolaloca.my/player/2/77",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports (CAST)",
-        "url": "https://bolaloca.my/player/3/77",
-        "calidad": ""
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-12T00:15:00Z",
-    "hora_argentina": "2026-02-11 21:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1.png",
-    "liga": "Fútbol Argentino",
     "equipos": "Central Córdoba SdE vs. Gimnasia Jujuy 01:15",
     "deporte": "Fútbol",
     "pais": "Argentina",
