@@ -1201,7 +1201,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png",
     "liga": "Serie A",
     "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
-    "deporte": "Juegos Olímpicos",
+    "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
       {
@@ -1300,11 +1300,11 @@
   {
     "hora_utc": "2026-02-12T11:10:00Z",
     "hora_argentina": "2026-02-12 08:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Switzerland vs France",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky7nz",
@@ -1351,11 +1351,11 @@
   {
     "hora_utc": "2026-02-12T15:30:00Z",
     "hora_argentina": "2026-02-12 12:30",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Czech Republic vs Canada",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "tsn1",
@@ -1381,7 +1381,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/350.png",
     "liga": "AFC Champions League",
     "equipos": "Sepahan vs Al Ahli Doha",
-    "deporte": "Hockey",
+    "deporte": "Fútbol",
     "pais": "Europa",
     "canales": [
       {
@@ -1698,13 +1698,13 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "canal 131",
-        "url": "https://miatvhd.xyz/reproductor/canal131.html",
+        "nombre": "canal 132",
+        "url": "https://miatvhd.xyz/reproductor/canal132.html",
         "calidad": ""
       },
       {
-        "nombre": "canal 132",
-        "url": "https://miatvhd.xyz/reproductor/canal132.html",
+        "nombre": "canal 131",
+        "url": "https://miatvhd.xyz/reproductor/canal131.html",
         "calidad": ""
       }
     ],
@@ -1886,11 +1886,11 @@
   {
     "hora_utc": "2026-02-12T20:00:00Z",
     "hora_argentina": "2026-02-12 17:00",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Latvia vs USA",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky5nz",
@@ -1952,11 +1952,11 @@
   {
     "hora_utc": "2026-02-12T20:15:00Z",
     "hora_argentina": "2026-02-12 17:15",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Germany vs Denmark",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky4nz",
@@ -2260,16 +2260,6 @@
         "nombre": "canal 4",
         "url": "https://miatvhd.xyz/reproductor/canal4.html",
         "calidad": ""
-      },
-      {
-        "nombre": "espn",
-        "url": "https://miatvhd.xyz/reproductor/espn.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 1",
-        "url": "https://miatvhd.xyz/reproductor/canal1.html",
-        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -2280,7 +2270,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png",
     "liga": "Scottish Premiership",
     "equipos": "Boston Celtics vs Chicago Bulls",
-    "deporte": "Basketball",
+    "deporte": "Fútbol",
     "pais": "Escocia",
     "canales": [
       {
@@ -2515,11 +2505,11 @@
   {
     "hora_utc": "2026-02-13T11:10:00Z",
     "hora_argentina": "2026-02-13 08:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Finland vs Sweden",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky6nz",
@@ -2532,11 +2522,11 @@
   {
     "hora_utc": "2026-02-13T11:10:00Z",
     "hora_argentina": "2026-02-13 08:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Italy vs Slovakia",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky7nz",
@@ -3109,11 +3099,11 @@
   {
     "hora_utc": "2026-02-13T20:10:00Z",
     "hora_argentina": "2026-02-13 17:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Canada vs Switzerland",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "33",
@@ -3144,7 +3134,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
     "liga": "Liga Portugal 2",
     "equipos": "Tondela vs Alverca",
-    "deporte": "Hockey",
+    "deporte": "Fútbol",
     "pais": "Portugal",
     "canales": [
       {
@@ -3180,11 +3170,11 @@
   {
     "hora_utc": "2026-02-14T11:10:00Z",
     "hora_argentina": "2026-02-14 08:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Germany vs Latvia",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky1nz",
@@ -3197,11 +3187,11 @@
   {
     "hora_utc": "2026-02-14T11:10:00Z",
     "hora_argentina": "2026-02-14 08:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Sweden vs Slovakia",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky9nz",
@@ -3900,11 +3890,11 @@
   {
     "hora_utc": "2026-02-14T15:30:00Z",
     "hora_argentina": "2026-02-14 12:30",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Finland vs Italy",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky9nz",
@@ -4318,7 +4308,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
     "liga": "Super League Greece",
     "equipos": "Volos NFC vs Aris",
-    "deporte": "Fútbol",
+    "deporte": "Deportes",
     "pais": "Grecia",
     "canales": [
       {
@@ -4576,11 +4566,11 @@
   {
     "hora_utc": "2026-02-14T20:10:00Z",
     "hora_argentina": "2026-02-14 17:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "USA vs Denmark",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky6nz",
@@ -4610,11 +4600,11 @@
   {
     "hora_utc": "2026-02-15T11:15:00Z",
     "hora_argentina": "2026-02-15 08:15",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Switzerland vs Czech Republic",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky5nz",
@@ -4694,7 +4684,7 @@
     "logo": "",
     "liga": "",
     "equipos": "Široki Brijeg vs Velež Premijer Liga",
-    "deporte": "Fútbol",
+    "deporte": "Deportes",
     "pais": "",
     "canales": [
       {
@@ -5026,7 +5016,7 @@
     "logo": "",
     "liga": "",
     "equipos": "Radnik Bijeljina vs Posušje Premijer Liga",
-    "deporte": "Fútbol",
+    "deporte": "Deportes",
     "pais": "",
     "canales": [
       {
@@ -5170,11 +5160,11 @@
   {
     "hora_utc": "2026-02-15T15:40:00Z",
     "hora_argentina": "2026-02-15 12:40",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Canada vs France",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky5nz",
@@ -5513,11 +5503,11 @@
   {
     "hora_utc": "2026-02-15T18:10:00Z",
     "hora_argentina": "2026-02-15 15:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "Denmark vs Latvia",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky2nz",
@@ -5702,11 +5692,11 @@
   {
     "hora_utc": "2026-02-15T20:10:00Z",
     "hora_argentina": "2026-02-15 17:10",
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
     "liga": "Hockey Hielo Juegos Olímpicos",
     "equipos": "USA vs Germany",
     "deporte": "Juegos Olímpicos",
-    "pais": "",
+    "pais": "Internacional",
     "canales": [
       {
         "nombre": "sky6nz",
@@ -5749,7 +5739,7 @@
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
     "liga": "La Liga",
     "equipos": "Girona vs Barcelona",
-    "deporte": "Ciclismo",
+    "deporte": "Fútbol",
     "pais": "España",
     "canales": [
       {
