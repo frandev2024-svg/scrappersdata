@@ -1,47 +1,5 @@
 [
   {
-    "hora_utc": "2026-02-12T16:00:00Z",
-    "hora_argentina": "2026-02-12 13:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
-    "equipos": "Tomás Barrios Vera (CHI) vs. Luciano Darderi (ITA) (Día 4) 17:00",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=tycsports",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://welivesports.shop/embed/tycsportarg.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://rereyano.ru/player/3/77",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=VHlDU3BvcnQ",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://tvlibree.com/pc/ext/?r=https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8%3Fheaders%3DeyJvcmlnaW4iOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbSIsInJlZmVyZXIiOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbS8ifQ%3D%3D",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-12T17:00:00Z",
     "hora_argentina": "2026-02-12 14:00",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png",
@@ -52,7 +10,7 @@
     "canales": [
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       }
     ],
@@ -96,22 +54,22 @@
     "canales": [
       {
         "nombre": "40",
-        "url": "https://streamcrichd.com/update/do40.php",
+        "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -276,7 +234,7 @@
     "canales": [
       {
         "nombre": "arenasport2hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2croatia",
+        "url": "https://antenasport.top/arenasport2hr.php",
         "calidad": ""
       }
     ],
@@ -320,7 +278,7 @@
     "canales": [
       {
         "nombre": "sport5il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport5il",
+        "url": "https://antenasport.top/sport5il.php",
         "calidad": ""
       }
     ],
@@ -396,27 +354,27 @@
     "canales": [
       {
         "nombre": "27",
-        "url": "https://streamcrichd.com/update/do27.php",
+        "url": "https://antenasport.top/27.php",
         "calidad": ""
       },
       {
         "nombre": "25",
-        "url": "https://streamcrichd.com/update/do25.php",
+        "url": "https://antenasport.top/25.php",
         "calidad": ""
       },
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "setantapremium",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantapremiu",
+        "url": "https://antenasport.top/setantapremium.php",
         "calidad": ""
       }
     ],
@@ -531,17 +489,17 @@
     "canales": [
       {
         "nombre": "28",
-        "url": "https://streamcrichd.com/update/do28.php",
+        "url": "https://antenasport.top/28.php",
         "calidad": ""
       },
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "vamos",
-        "url": "https://epaly.fun/maxsport.php?id=cnmovistarvamos",
+        "url": "https://antenasport.top/vamos.php",
         "calidad": ""
       },
       {
@@ -563,17 +521,17 @@
     "canales": [
       {
         "nombre": "26",
-        "url": "https://streamcrichd.com/update/do26.php",
+        "url": "https://antenasport.top/26.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "movistar1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistar1",
+        "url": "https://antenasport.top/movistar1.php",
         "calidad": ""
       }
     ],
@@ -590,12 +548,12 @@
     "canales": [
       {
         "nombre": "15",
-        "url": "https://streamcrichd.com/update/do15.php",
+        "url": "https://antenasport.top/15.php",
         "calidad": ""
       },
       {
         "nombre": "bluesport1d",
-        "url": "https://antenasport.top/embed.php?id=bet11709403&rtitle=BET",
+        "url": "https://antenasport.top/bluesport1d.php",
         "calidad": ""
       }
     ],
@@ -612,12 +570,12 @@
     "canales": [
       {
         "nombre": "16",
-        "url": "https://streamcrichd.com/update/do16.php",
+        "url": "https://antenasport.top/16.php",
         "calidad": ""
       },
       {
         "nombre": "bluesport2d",
-        "url": "https://antenasport.top/embed.php?id=bet11709402&rtitle=BET",
+        "url": "https://antenasport.top/bluesport2d.php",
         "calidad": ""
       }
     ],
@@ -750,52 +708,52 @@
       },
       {
         "nombre": "29",
-        "url": "https://streamcrichd.com/update/do29.php",
+        "url": "https://antenasport.top/29.php",
         "calidad": ""
       },
       {
         "nombre": "40",
-        "url": "https://streamcrichd.com/update/do40.php",
+        "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
       {
         "nombre": "20",
-        "url": "https://streamcrichd.com/update/do20.php",
+        "url": "https://antenasport.top/20.php",
         "calidad": ""
       },
       {
         "nombre": "hubpremier1",
-        "url": "https://streamcrichd.com/update/hub1.php",
+        "url": "https://antenasport.top/hubpremier1.php",
         "calidad": ""
       },
       {
         "nombre": "hubpremier2",
-        "url": "https://streamcrichd.com/update/hub2.php",
+        "url": "https://antenasport.top/hubpremier2.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt1",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt1",
+        "url": "https://antenasport.top/maxtnt1.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
@@ -842,52 +800,52 @@
       },
       {
         "nombre": "digisport2",
-        "url": "https://epaly.fun/maxsport.php?id=premium401",
+        "url": "https://antenasport.top/digisport2.php",
         "calidad": ""
       },
       {
         "nombre": "30",
-        "url": "https://streamcrichd.com/update/do30.php",
+        "url": "https://antenasport.top/30.php",
         "calidad": ""
       },
       {
         "nombre": "movistarplus",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistarplus",
+        "url": "https://antenasport.top/movistarplus.php",
         "calidad": ""
       },
       {
         "nombre": "tve1",
-        "url": "https://epaly.fun/maxsport.php?id=primatve1",
+        "url": "https://antenasport.top/tve1.php",
         "calidad": ""
       },
       {
         "nombre": "match",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch",
+        "url": "https://antenasport.top/match.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       },
       {
         "nombre": "sport1pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV1",
+        "url": "https://antenasport.top/sport1pt.php",
         "calidad": ""
       },
       {
         "nombre": "sport4il",
-        "url": "https://popcdn.day/go.php?stream=SPORT4IL",
+        "url": "https://antenasport.top/sport4il.php",
         "calidad": ""
       },
       {
         "nombre": "elevensport1pl",
-        "url": "https://epaly.fun/maxsport.php?id=cnelevensports1pl",
+        "url": "https://antenasport.top/elevensport1pl.php",
         "calidad": ""
       }
     ],
@@ -1147,12 +1105,12 @@
     "canales": [
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       },
       {
         "nombre": "10",
-        "url": "https://streamcrichd.com/update/do10.php",
+        "url": "https://antenasport.top/10.php",
         "calidad": ""
       }
     ],
@@ -1352,7 +1310,7 @@
     "canales": [
       {
         "nombre": "sky4nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz4",
+        "url": "https://antenasport.top/sky4nz.php",
         "calidad": ""
       }
     ],
@@ -2454,22 +2412,22 @@
     "canales": [
       {
         "nombre": "skyf1",
-        "url": "https://epaly.fun/maxsport.php?id=primaskyf1",
+        "url": "https://antenasport.top/skyf1.php",
         "calidad": ""
       },
       {
         "nombre": "skyf1it",
-        "url": "https://epaly.fun/maxsport.php?id=cnskysportsf1italy",
+        "url": "https://antenasport.top/skyf1it.php",
         "calidad": ""
       },
       {
         "nombre": "skyf1de",
-        "url": "https://epaly.fun/maxsport.php?id=primaskyf1de",
+        "url": "https://antenasport.top/skyf1de.php",
         "calidad": ""
       },
       {
         "nombre": "daznf1",
-        "url": "https://epaly.fun/maxsport.php?id=cndaznf1",
+        "url": "https://antenasport.top/daznf1.php",
         "calidad": ""
       }
     ],
@@ -2486,72 +2444,72 @@
     "canales": [
       {
         "nombre": "eurosport1uk",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayereurosp1",
+        "url": "https://antenasport.top/eurosport1uk.php",
         "calidad": ""
       },
       {
         "nombre": "sky2nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz2",
+        "url": "https://antenasport.top/sky2nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky3nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz3",
+        "url": "https://antenasport.top/sky3nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky4nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz4",
+        "url": "https://antenasport.top/sky4nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky7nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz7",
+        "url": "https://antenasport.top/sky7nz.php",
         "calidad": ""
       },
       {
         "nombre": "suspilnetv",
-        "url": "https://epaly.fun/maxsport.php?id=primasuspilnesport",
+        "url": "https://antenasport.top/suspilnetv.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport",
+        "url": "https://antenasport.top/okkosport.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport2",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport2",
+        "url": "https://antenasport.top/okkosport2.php",
         "calidad": ""
       },
       {
         "nombre": "ctsport",
-        "url": "https://epaly.fun/maxsport.php?id=primactsport",
+        "url": "https://antenasport.top/ctsport.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt2",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt2",
+        "url": "https://antenasport.top/maxtnt2.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt4",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt4",
+        "url": "https://antenasport.top/maxtnt4.php",
         "calidad": ""
       }
     ],
@@ -2568,7 +2526,7 @@
     "canales": [
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       }
     ],
@@ -2585,12 +2543,12 @@
     "canales": [
       {
         "nombre": "sky7nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz7",
+        "url": "https://antenasport.top/sky7nz.php",
         "calidad": ""
       },
       {
         "nombre": "32",
-        "url": "https://streamcrichd.com/update/do32.php",
+        "url": "https://antenasport.top/32.php",
         "calidad": ""
       }
     ],
@@ -2607,22 +2565,22 @@
     "canales": [
       {
         "nombre": "skyf1",
-        "url": "https://epaly.fun/maxsport.php?id=primaskyf1",
+        "url": "https://antenasport.top/skyf1.php",
         "calidad": ""
       },
       {
         "nombre": "skyf1it",
-        "url": "https://epaly.fun/maxsport.php?id=cnskysportsf1italy",
+        "url": "https://antenasport.top/skyf1it.php",
         "calidad": ""
       },
       {
         "nombre": "skyf1de",
-        "url": "https://epaly.fun/maxsport.php?id=primaskyf1de",
+        "url": "https://antenasport.top/skyf1de.php",
         "calidad": ""
       },
       {
         "nombre": "daznf1",
-        "url": "https://epaly.fun/maxsport.php?id=cndaznf1",
+        "url": "https://antenasport.top/daznf1.php",
         "calidad": ""
       }
     ],
@@ -2639,7 +2597,7 @@
     "canales": [
       {
         "nombre": "maxsport1croatia",
-        "url": "https://epaly.fun/maxsport.php?id=primamaxsport1croatia",
+        "url": "https://antenasport.top/maxsport1croatia.php",
         "calidad": ""
       }
     ],
@@ -2656,12 +2614,12 @@
     "canales": [
       {
         "nombre": "38",
-        "url": "https://streamcrichd.com/update/do38.php",
+        "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
         "nombre": "canal3poland",
-        "url": "https://epaly.fun/maxsport.php?id=primacanal3poland",
+        "url": "https://antenasport.top/canal3poland.php",
         "calidad": ""
       }
     ],
@@ -2678,7 +2636,7 @@
     "canales": [
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       }
     ],
@@ -2695,12 +2653,12 @@
     "canales": [
       {
         "nombre": "sport5il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport5il",
+        "url": "https://antenasport.top/sport5il.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -2717,17 +2675,17 @@
     "canales": [
       {
         "nombre": "beinsportusa",
-        "url": "https://epaly.fun/maxsport.php?id=primabeinsportusa",
+        "url": "https://antenasport.top/beinsportusa.php",
         "calidad": ""
       },
       {
         "nombre": "39",
-        "url": "https://streamcrichd.com/update/do39.php",
+        "url": "https://antenasport.top/39.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -2744,12 +2702,12 @@
     "canales": [
       {
         "nombre": "arenasport4sr",
-        "url": "https://epaly.fun/maxsport.php?id=cnarenasport4serbia",
+        "url": "https://antenasport.top/arenasport4sr.php",
         "calidad": ""
       },
       {
         "nombre": "movistar3",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistar3",
+        "url": "https://antenasport.top/movistar3.php",
         "calidad": ""
       }
     ],
@@ -2766,22 +2724,22 @@
     "canales": [
       {
         "nombre": "sport1pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV1",
+        "url": "https://antenasport.top/sport1pt.php",
         "calidad": ""
       },
       {
         "nombre": "19",
-        "url": "https://streamcrichd.com/update/do19.php",
+        "url": "https://antenasport.top/19.php",
         "calidad": ""
       },
       {
         "nombre": "21",
-        "url": "https://streamcrichd.com/update/do21.php",
+        "url": "https://antenasport.top/21.php",
         "calidad": ""
       },
       {
         "nombre": "sportdigitalde",
-        "url": "https://epaly.fun/maxsport.php?id=primadigital1",
+        "url": "https://antenasport.top/sportdigitalde.php",
         "calidad": ""
       }
     ],
@@ -2798,7 +2756,7 @@
     "canales": [
       {
         "nombre": "28",
-        "url": "https://streamcrichd.com/update/do28.php",
+        "url": "https://antenasport.top/28.php",
         "calidad": ""
       }
     ],
@@ -2815,17 +2773,17 @@
     "canales": [
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "25",
-        "url": "https://streamcrichd.com/update/do25.php",
+        "url": "https://antenasport.top/25.php",
         "calidad": ""
       },
       {
         "nombre": "setantapremium",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantapremiu",
+        "url": "https://antenasport.top/setantapremium.php",
         "calidad": ""
       }
     ],
@@ -2842,12 +2800,12 @@
     "canales": [
       {
         "nombre": "38",
-        "url": "https://streamcrichd.com/update/do38.php",
+        "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
         "nombre": "canal3poland",
-        "url": "https://epaly.fun/maxsport.php?id=primacanal3poland",
+        "url": "https://antenasport.top/canal3poland.php",
         "calidad": ""
       }
     ],
@@ -2864,12 +2822,12 @@
     "canales": [
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "movistar1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistar1",
+        "url": "https://antenasport.top/movistar1.php",
         "calidad": ""
       }
     ],
@@ -2886,7 +2844,7 @@
     "canales": [
       {
         "nombre": "arenasport3sr",
-        "url": "https://epaly.fun/maxsport.php?id=cnarenasport3serbia",
+        "url": "https://antenasport.top/arenasport3sr.php",
         "calidad": ""
       }
     ],
@@ -2903,7 +2861,7 @@
     "canales": [
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       }
     ],
@@ -2920,12 +2878,12 @@
     "canales": [
       {
         "nombre": "liga1",
-        "url": "https://epaly.fun/maxsport.php?id=primaliga1",
+        "url": "https://antenasport.top/liga1.php",
         "calidad": ""
       },
       {
         "nombre": "28",
-        "url": "https://streamcrichd.com/update/do28.php",
+        "url": "https://antenasport.top/28.php",
         "calidad": ""
       }
     ],
@@ -2942,27 +2900,27 @@
     "canales": [
       {
         "nombre": "rtl",
-        "url": "https://epaly.fun/maxsport.php?id=primartl",
+        "url": "https://antenasport.top/rtl.php",
         "calidad": ""
       },
       {
         "nombre": "skytopeventde",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Top_Event_HD",
+        "url": "https://antenasport.top/skytopeventde.php",
         "calidad": ""
       },
       {
         "nombre": "11",
-        "url": "https://streamcrichd.com/update/do11.php",
+        "url": "https://antenasport.top/11.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraineplus",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraineplus",
+        "url": "https://antenasport.top/setantaukraineplus.php",
         "calidad": ""
       }
     ],
@@ -2979,37 +2937,37 @@
     "canales": [
       {
         "nombre": "9",
-        "url": "https://streamcrichd.com/update/do9.php",
+        "url": "https://antenasport.top/9.php",
         "calidad": ""
       },
       {
         "nombre": "match1",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch1",
+        "url": "https://antenasport.top/match1.php",
         "calidad": ""
       },
       {
         "nombre": "espnbrazil",
-        "url": "https://epaly.fun/maxsport.php?id=cnespnbrazil",
+        "url": "https://antenasport.top/espnbrazil.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport4hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4croatia",
+        "url": "https://antenasport.top/arenasport4hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -3026,47 +2984,47 @@
     "canales": [
       {
         "nombre": "bbc1",
-        "url": "https://epaly.fun/maxsport.php?id=primabbc1",
+        "url": "https://antenasport.top/bbc1.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt1",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt1",
+        "url": "https://antenasport.top/maxtnt1.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport6hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena6croatia",
+        "url": "https://antenasport.top/arenasport6hr.php",
         "calidad": ""
       },
       {
         "nombre": "espn1argentina",
-        "url": "https://epaly.fun/maxsport.php?id=cnargespn",
+        "url": "https://antenasport.top/espn1argentina.php",
         "calidad": ""
       },
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "diemasport2",
-        "url": "https://epaly.fun/maxsport.php?id=cndiemasport2",
+        "url": "https://antenasport.top/diemasport2.php",
         "calidad": ""
       },
       {
         "nombre": "sport2il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport2il",
+        "url": "https://antenasport.top/sport2il.php",
         "calidad": ""
       },
       {
         "nombre": "sport6pt",
-        "url": "https://epaly.fun/maxsport.php?id=primaSPORTTV6",
+        "url": "https://antenasport.top/sport6pt.php",
         "calidad": ""
       }
     ],
@@ -3083,32 +3041,32 @@
     "canales": [
       {
         "nombre": "17",
-        "url": "https://streamcrichd.com/update/do17.php",
+        "url": "https://antenasport.top/17.php",
         "calidad": ""
       },
       {
         "nombre": "5",
-        "url": "https://streamcrichd.com/update/do5.php",
+        "url": "https://antenasport.top/5.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt5",
-        "url": "https://streamcrichd.com/update/ch10.php",
+        "url": "https://antenasport.top/maxtnt5.php",
         "calidad": ""
       },
       {
         "nombre": "dazn1de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn1de",
+        "url": "https://antenasport.top/dazn1de.php",
         "calidad": ""
       },
       {
         "nombre": "novasportbg",
-        "url": "https://epaly.fun/maxsport.php?id=primanovasportbulgaria",
+        "url": "https://antenasport.top/novasportbg.php",
         "calidad": ""
       },
       {
         "nombre": "sport4il",
-        "url": "https://popcdn.day/go.php?stream=SPORT4IL",
+        "url": "https://antenasport.top/sport4il.php",
         "calidad": ""
       }
     ],
@@ -3125,37 +3083,37 @@
     "canales": [
       {
         "nombre": "30",
-        "url": "https://streamcrichd.com/update/do30.php",
+        "url": "https://antenasport.top/30.php",
         "calidad": ""
       },
       {
         "nombre": "6",
-        "url": "https://streamcrichd.com/update/do6.php",
+        "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -3172,12 +3130,12 @@
     "canales": [
       {
         "nombre": "beinsportusa",
-        "url": "https://epaly.fun/maxsport.php?id=primabeinsportusa",
+        "url": "https://antenasport.top/beinsportusa.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport2hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2croatia",
+        "url": "https://antenasport.top/arenasport2hr.php",
         "calidad": ""
       }
     ],
@@ -3194,22 +3152,22 @@
     "canales": [
       {
         "nombre": "33",
-        "url": "https://streamcrichd.com/update/do33.php",
+        "url": "https://antenasport.top/33.php",
         "calidad": ""
       },
       {
         "nombre": "34",
-        "url": "https://streamcrichd.com/update/do34.php",
+        "url": "https://antenasport.top/34.php",
         "calidad": ""
       },
       {
         "nombre": "sky9nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz9",
+        "url": "https://antenasport.top/sky9nz.php",
         "calidad": ""
       },
       {
         "nombre": "tsn1",
-        "url": "https://epaly.fun/maxsport.php?id=primatsn1",
+        "url": "https://antenasport.top/tsn1.php",
         "calidad": ""
       }
     ],
@@ -3226,12 +3184,12 @@
     "canales": [
       {
         "nombre": "megogosport",
-        "url": "https://epaly.fun/maxsport.php?id=primamegogosport",
+        "url": "https://antenasport.top/megogosport.php",
         "calidad": ""
       },
       {
         "nombre": "sport2pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV2",
+        "url": "https://antenasport.top/sport2pt.php",
         "calidad": ""
       }
     ],
@@ -3248,72 +3206,72 @@
     "canales": [
       {
         "nombre": "eurosport1uk",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayereurosp1",
+        "url": "https://antenasport.top/eurosport1uk.php",
         "calidad": ""
       },
       {
         "nombre": "sky2nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz2",
+        "url": "https://antenasport.top/sky2nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky3nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz3",
+        "url": "https://antenasport.top/sky3nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky4nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz4",
+        "url": "https://antenasport.top/sky4nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky7nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz7",
+        "url": "https://antenasport.top/sky7nz.php",
         "calidad": ""
       },
       {
         "nombre": "suspilnetv",
-        "url": "https://epaly.fun/maxsport.php?id=primasuspilnesport",
+        "url": "https://antenasport.top/suspilnetv.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport",
+        "url": "https://antenasport.top/okkosport.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport2",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport2",
+        "url": "https://antenasport.top/okkosport2.php",
         "calidad": ""
       },
       {
         "nombre": "ctsport",
-        "url": "https://epaly.fun/maxsport.php?id=primactsport",
+        "url": "https://antenasport.top/ctsport.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt2",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt2",
+        "url": "https://antenasport.top/maxtnt2.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt4",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt4",
+        "url": "https://antenasport.top/maxtnt4.php",
         "calidad": ""
       }
     ],
@@ -3330,7 +3288,7 @@
     "canales": [
       {
         "nombre": "diemasport",
-        "url": "https://epaly.fun/maxsport.php?id=cndiemasport",
+        "url": "https://antenasport.top/diemasport.php",
         "calidad": ""
       }
     ],
@@ -3347,17 +3305,17 @@
     "canales": [
       {
         "nombre": "sky1nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky1nz.php",
         "calidad": ""
       },
       {
         "nombre": "17",
-        "url": "https://streamcrichd.com/update/do17.php",
+        "url": "https://antenasport.top/17.php",
         "calidad": ""
       },
       {
         "nombre": "33",
-        "url": "https://streamcrichd.com/update/do33.php",
+        "url": "https://antenasport.top/33.php",
         "calidad": ""
       }
     ],
@@ -3374,12 +3332,12 @@
     "canales": [
       {
         "nombre": "sky9nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz9",
+        "url": "https://antenasport.top/sky9nz.php",
         "calidad": ""
       },
       {
         "nombre": "8",
-        "url": "https://streamcrichd.com/update/do8.php",
+        "url": "https://antenasport.top/8.php",
         "calidad": ""
       }
     ],
@@ -3396,12 +3354,12 @@
     "canales": [
       {
         "nombre": "pro7",
-        "url": "https://epaly.fun/maxsport.php?id=primapro7",
+        "url": "https://antenasport.top/pro7.php",
         "calidad": ""
       },
       {
         "nombre": "16",
-        "url": "https://streamcrichd.com/update/do16.php",
+        "url": "https://antenasport.top/16.php",
         "calidad": ""
       }
     ],
@@ -3418,47 +3376,47 @@
     "canales": [
       {
         "nombre": "18",
-        "url": "https://streamcrichd.com/update/do18.php",
+        "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
         "nombre": "38",
-        "url": "https://streamcrichd.com/update/do38.php",
+        "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt1",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt1",
+        "url": "https://antenasport.top/maxtnt1.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "espnbrazil",
-        "url": "https://epaly.fun/maxsport.php?id=cnespnbrazil",
+        "url": "https://antenasport.top/espnbrazil.php",
         "calidad": ""
       },
       {
         "nombre": "dazn2de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn2de",
+        "url": "https://antenasport.top/dazn2de.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       }
     ],
@@ -3475,7 +3433,7 @@
     "canales": [
       {
         "nombre": "sport2il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport2il",
+        "url": "https://antenasport.top/sport2il.php",
         "calidad": ""
       }
     ],
@@ -3492,7 +3450,7 @@
     "canales": [
       {
         "nombre": "diemasport",
-        "url": "https://epaly.fun/maxsport.php?id=cndiemasport",
+        "url": "https://antenasport.top/diemasport.php",
         "calidad": ""
       }
     ],
@@ -3509,42 +3467,42 @@
     "canales": [
       {
         "nombre": "6",
-        "url": "https://streamcrichd.com/update/do6.php",
+        "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "movistarliga1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistarliga1",
+        "url": "https://antenasport.top/movistarliga1.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       }
     ],
@@ -3561,12 +3519,12 @@
     "canales": [
       {
         "nombre": "liga1",
-        "url": "https://epaly.fun/maxsport.php?id=primaliga1",
+        "url": "https://antenasport.top/liga1.php",
         "calidad": ""
       },
       {
         "nombre": "26",
-        "url": "https://streamcrichd.com/update/do26.php",
+        "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
     ],
@@ -3583,7 +3541,7 @@
     "canales": [
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -3600,7 +3558,7 @@
     "canales": [
       {
         "nombre": "maxsport1croatia",
-        "url": "https://epaly.fun/maxsport.php?id=primamaxsport1croatia",
+        "url": "https://antenasport.top/maxsport1croatia.php",
         "calidad": ""
       }
     ],
@@ -3617,32 +3575,32 @@
     "canales": [
       {
         "nombre": "9",
-        "url": "https://streamcrichd.com/update/do9.php",
+        "url": "https://antenasport.top/9.php",
         "calidad": ""
       },
       {
         "nombre": "match1",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch1",
+        "url": "https://antenasport.top/match1.php",
         "calidad": ""
       },
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport5hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5croatia",
+        "url": "https://antenasport.top/arenasport5hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "foxdeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primafoxdeportes",
+        "url": "https://antenasport.top/foxdeportes.php",
         "calidad": ""
       }
     ],
@@ -3659,22 +3617,22 @@
     "canales": [
       {
         "nombre": "40",
-        "url": "https://streamcrichd.com/update/do40.php",
+        "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
       {
         "nombre": "itv1",
-        "url": "https://epaly.fun/maxsport.php?id=cnitv1uk",
+        "url": "https://antenasport.top/itv1.php",
         "calidad": ""
       },
       {
         "nombre": "tf1",
-        "url": "https://epaly.fun/maxsport.php?id=primatf1",
+        "url": "https://antenasport.top/tf1.php",
         "calidad": ""
       },
       {
         "nombre": "vamos",
-        "url": "https://epaly.fun/maxsport.php?id=cnmovistarvamos",
+        "url": "https://antenasport.top/vamos.php",
         "calidad": ""
       }
     ],
@@ -3691,17 +3649,17 @@
     "canales": [
       {
         "nombre": "12",
-        "url": "https://streamcrichd.com/update/do12.php",
+        "url": "https://antenasport.top/12.php",
         "calidad": ""
       },
       {
         "nombre": "sky2de",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Bundesliga_2_HD",
+        "url": "https://antenasport.top/sky2de.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport4sr",
-        "url": "https://epaly.fun/maxsport.php?id=cnarenasport4serbia",
+        "url": "https://antenasport.top/arenasport4sr.php",
         "calidad": ""
       }
     ],
@@ -3718,27 +3676,27 @@
     "canales": [
       {
         "nombre": "15",
-        "url": "https://streamcrichd.com/update/do15.php",
+        "url": "https://antenasport.top/15.php",
         "calidad": ""
       },
       {
         "nombre": "17",
-        "url": "https://streamcrichd.com/update/do17.php",
+        "url": "https://antenasport.top/17.php",
         "calidad": ""
       },
       {
         "nombre": "skytopeventde",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Top_Event_HD",
+        "url": "https://antenasport.top/skytopeventde.php",
         "calidad": ""
       },
       {
         "nombre": "sky5de",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Bundesliga_5_HD",
+        "url": "https://antenasport.top/sky5de.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport2sr",
-        "url": "https://epaly.fun/maxsport.php?id=cnarenasport2serbia",
+        "url": "https://antenasport.top/arenasport2sr.php",
         "calidad": ""
       }
     ],
@@ -3755,17 +3713,17 @@
     "canales": [
       {
         "nombre": "13",
-        "url": "https://streamcrichd.com/update/do13.php",
+        "url": "https://antenasport.top/13.php",
         "calidad": ""
       },
       {
         "nombre": "sky3de",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Bundesliga_3_HD",
+        "url": "https://antenasport.top/sky3de.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3sr",
-        "url": "https://epaly.fun/maxsport.php?id=cnarenasport3serbia",
+        "url": "https://antenasport.top/arenasport3sr.php",
         "calidad": ""
       }
     ],
@@ -3782,42 +3740,42 @@
     "canales": [
       {
         "nombre": "11",
-        "url": "https://streamcrichd.com/update/do11.php",
+        "url": "https://antenasport.top/11.php",
         "calidad": ""
       },
       {
         "nombre": "sky1de",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Bundesliga_1_HD",
+        "url": "https://antenasport.top/sky1de.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraineplus",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraineplus",
+        "url": "https://antenasport.top/setantaukraineplus.php",
         "calidad": ""
       },
       {
         "nombre": "espn2argentina",
-        "url": "https://epaly.fun/maxsport.php?id=cnarg_espn2",
+        "url": "https://antenasport.top/espn2argentina.php",
         "calidad": ""
       },
       {
         "nombre": "elevensport1pl",
-        "url": "https://epaly.fun/maxsport.php?id=cnelevensports1pl",
+        "url": "https://antenasport.top/elevensport1pl.php",
         "calidad": ""
       },
       {
         "nombre": "diemasport3",
-        "url": "https://epaly.fun/maxsport.php?id=primadiemasport3",
+        "url": "https://antenasport.top/diemasport3.php",
         "calidad": ""
       },
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "digisport2",
-        "url": "https://epaly.fun/maxsport.php?id=premium401",
+        "url": "https://antenasport.top/digisport2.php",
         "calidad": ""
       }
     ],
@@ -3834,12 +3792,12 @@
     "canales": [
       {
         "nombre": "14",
-        "url": "https://streamcrichd.com/update/do14.php",
+        "url": "https://antenasport.top/14.php",
         "calidad": ""
       },
       {
         "nombre": "sky4de",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Bundesliga_4_HD",
+        "url": "https://antenasport.top/sky4de.php",
         "calidad": ""
       }
     ],
@@ -3856,7 +3814,7 @@
     "canales": [
       {
         "nombre": "7",
-        "url": "https://streamcrichd.com/update/do7.php",
+        "url": "https://antenasport.top/7.php",
         "calidad": ""
       }
     ],
@@ -3873,17 +3831,17 @@
     "canales": [
       {
         "nombre": "8",
-        "url": "https://streamcrichd.com/update/do8.php",
+        "url": "https://antenasport.top/8.php",
         "calidad": ""
       },
       {
         "nombre": "cbssports",
-        "url": "https://epaly.fun/maxsport.php?id=cncbssn",
+        "url": "https://antenasport.top/cbssports.php",
         "calidad": ""
       },
       {
         "nombre": "sport2il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport2il",
+        "url": "https://antenasport.top/sport2il.php",
         "calidad": ""
       }
     ],
@@ -3900,22 +3858,22 @@
     "canales": [
       {
         "nombre": "34",
-        "url": "https://streamcrichd.com/update/do34.php",
+        "url": "https://antenasport.top/34.php",
         "calidad": ""
       },
       {
         "nombre": "sport1il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport1il",
+        "url": "https://antenasport.top/sport1il.php",
         "calidad": ""
       },
       {
         "nombre": "viasatpremium",
-        "url": "https://cdn-live.tv/api/v1/channels/player/?name=v+sport+premium&code=se&user=cdnlivetv&plan=free",
+        "url": "https://antenasport.top/viasatpremium.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport4hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4croatia",
+        "url": "https://antenasport.top/arenasport4hr.php",
         "calidad": ""
       }
     ],
@@ -3932,17 +3890,17 @@
     "canales": [
       {
         "nombre": "33",
-        "url": "https://streamcrichd.com/update/do33.php",
+        "url": "https://antenasport.top/33.php",
         "calidad": ""
       },
       {
         "nombre": "espnplus1",
-        "url": "https://embedhd.org/source/fetch.php?hd=120",
+        "url": "https://antenasport.top/espnplus1.php",
         "calidad": ""
       },
       {
         "nombre": "novasportbg",
-        "url": "https://epaly.fun/maxsport.php?id=primanovasportbulgaria",
+        "url": "https://antenasport.top/novasportbg.php",
         "calidad": ""
       }
     ],
@@ -3959,22 +3917,22 @@
     "canales": [
       {
         "nombre": "32",
-        "url": "https://streamcrichd.com/update/do32.php",
+        "url": "https://antenasport.top/32.php",
         "calidad": ""
       },
       {
         "nombre": "espnplus2",
-        "url": "https://embedhd.io/source/antenna.php?hd=323",
+        "url": "https://antenasport.top/espnplus2.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport8hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena8croatia",
+        "url": "https://antenasport.top/arenasport8hr.php",
         "calidad": ""
       },
       {
         "nombre": "cosmote8",
-        "url": "https://epaly.fun/maxsport.php?id=primacosmote8",
+        "url": "https://antenasport.top/cosmote8.php",
         "calidad": ""
       }
     ],
@@ -3991,7 +3949,7 @@
     "canales": [
       {
         "nombre": "35",
-        "url": "https://streamcrichd.com/update/do35.php",
+        "url": "https://antenasport.top/35.php",
         "calidad": ""
       }
     ],
@@ -4008,7 +3966,7 @@
     "canales": [
       {
         "nombre": "36",
-        "url": "https://streamcrichd.com/update/do36.php",
+        "url": "https://antenasport.top/36.php",
         "calidad": ""
       }
     ],
@@ -4025,7 +3983,7 @@
     "canales": [
       {
         "nombre": "37",
-        "url": "https://streamcrichd.com/update/do37.php",
+        "url": "https://antenasport.top/37.php",
         "calidad": ""
       }
     ],
@@ -4042,12 +4000,12 @@
     "canales": [
       {
         "nombre": "31",
-        "url": "https://streamcrichd.com/update/do31.php",
+        "url": "https://antenasport.top/31.php",
         "calidad": ""
       },
       {
         "nombre": "espnplus3",
-        "url": "https://embedhd.io/source/antenna.php?hd=334",
+        "url": "https://antenasport.top/espnplus3.php",
         "calidad": ""
       }
     ],
@@ -4064,47 +4022,47 @@
     "canales": [
       {
         "nombre": "maxtnt1",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt1",
+        "url": "https://antenasport.top/maxtnt1.php",
         "calidad": ""
       },
       {
         "nombre": "18",
-        "url": "https://streamcrichd.com/update/do18.php",
+        "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
         "nombre": "38",
-        "url": "https://streamcrichd.com/update/do38.php",
+        "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "espn1argentina",
-        "url": "https://epaly.fun/maxsport.php?id=cnargespn",
+        "url": "https://antenasport.top/espn1argentina.php",
         "calidad": ""
       },
       {
         "nombre": "espnbrazil",
-        "url": "https://epaly.fun/maxsport.php?id=cnespnbrazil",
+        "url": "https://antenasport.top/espnbrazil.php",
         "calidad": ""
       },
       {
         "nombre": "dazn2de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn2de",
+        "url": "https://antenasport.top/dazn2de.php",
         "calidad": ""
       },
       {
         "nombre": "sport2pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV2",
+        "url": "https://antenasport.top/sport2pt.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       }
     ],
@@ -4121,12 +4079,12 @@
     "canales": [
       {
         "nombre": "cosmote2",
-        "url": "https://epaly.fun/maxsport.php?id=cnftkcosmote2",
+        "url": "https://antenasport.top/cosmote2.php",
         "calidad": ""
       },
       {
         "nombre": "23",
-        "url": "https://streamcrichd.com/update/do23.php",
+        "url": "https://antenasport.top/23.php",
         "calidad": ""
       }
     ],
@@ -4143,7 +4101,7 @@
     "canales": [
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       }
     ],
@@ -4160,32 +4118,32 @@
     "canales": [
       {
         "nombre": "6",
-        "url": "https://streamcrichd.com/update/do6.php",
+        "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -4202,7 +4160,7 @@
     "canales": [
       {
         "nombre": "diemasport",
-        "url": "https://epaly.fun/maxsport.php?id=cndiemasport",
+        "url": "https://antenasport.top/diemasport.php",
         "calidad": ""
       }
     ],
@@ -4219,12 +4177,12 @@
     "canales": [
       {
         "nombre": "liga1",
-        "url": "https://epaly.fun/maxsport.php?id=primaliga1",
+        "url": "https://antenasport.top/liga1.php",
         "calidad": ""
       },
       {
         "nombre": "26",
-        "url": "https://streamcrichd.com/update/do26.php",
+        "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
     ],
@@ -4241,12 +4199,12 @@
     "canales": [
       {
         "nombre": "sport1pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV1",
+        "url": "https://antenasport.top/sport1pt.php",
         "calidad": ""
       },
       {
         "nombre": "21",
-        "url": "https://streamcrichd.com/update/do21.php",
+        "url": "https://antenasport.top/21.php",
         "calidad": ""
       }
     ],
@@ -4263,7 +4221,7 @@
     "canales": [
       {
         "nombre": "espn2nl",
-        "url": "https://epaly.fun/maxsport.php?id=cnespn2nl",
+        "url": "https://antenasport.top/espn2nl.php",
         "calidad": ""
       }
     ],
@@ -4280,12 +4238,12 @@
     "canales": [
       {
         "nombre": "sky9nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz9",
+        "url": "https://antenasport.top/sky9nz.php",
         "calidad": ""
       },
       {
         "nombre": "10",
-        "url": "https://streamcrichd.com/update/do10.php",
+        "url": "https://antenasport.top/10.php",
         "calidad": ""
       }
     ],
@@ -4302,7 +4260,7 @@
     "canales": [
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -4319,7 +4277,7 @@
     "canales": [
       {
         "nombre": "tv2sportdk",
-        "url": "https://epaly.fun/maxsport.php?id=primatv2sportdk",
+        "url": "https://antenasport.top/tv2sportdk.php",
         "calidad": ""
       }
     ],
@@ -4336,27 +4294,27 @@
     "canales": [
       {
         "nombre": "39",
-        "url": "https://streamcrichd.com/update/do39.php",
+        "url": "https://antenasport.top/39.php",
         "calidad": ""
       },
       {
         "nombre": "beinsportusa",
-        "url": "https://epaly.fun/maxsport.php?id=primabeinsportusa",
+        "url": "https://antenasport.top/beinsportusa.php",
         "calidad": ""
       },
       {
         "nombre": "megogosport",
-        "url": "https://epaly.fun/maxsport.php?id=primamegogosport",
+        "url": "https://antenasport.top/megogosport.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport6hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena6croatia",
+        "url": "https://antenasport.top/arenasport6hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -4373,7 +4331,7 @@
     "canales": [
       {
         "nombre": "maxsport1croatia",
-        "url": "https://epaly.fun/maxsport.php?id=primamaxsport1croatia",
+        "url": "https://antenasport.top/maxsport1croatia.php",
         "calidad": ""
       }
     ],
@@ -4390,22 +4348,22 @@
     "canales": [
       {
         "nombre": "40",
-        "url": "https://streamcrichd.com/update/do40.php",
+        "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
       {
         "nombre": "itv1",
-        "url": "https://epaly.fun/maxsport.php?id=cnitv1uk",
+        "url": "https://antenasport.top/itv1.php",
         "calidad": ""
       },
       {
         "nombre": "tf1",
-        "url": "https://epaly.fun/maxsport.php?id=primatf1",
+        "url": "https://antenasport.top/tf1.php",
         "calidad": ""
       },
       {
         "nombre": "movistar1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistar1",
+        "url": "https://antenasport.top/movistar1.php",
         "calidad": ""
       }
     ],
@@ -4422,32 +4380,32 @@
     "canales": [
       {
         "nombre": "match1",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch1",
+        "url": "https://antenasport.top/match1.php",
         "calidad": ""
       },
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport4hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4croatia",
+        "url": "https://antenasport.top/arenasport4hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "foxdeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primafoxdeportes",
+        "url": "https://antenasport.top/foxdeportes.php",
         "calidad": ""
       }
     ],
@@ -4464,52 +4422,52 @@
     "canales": [
       {
         "nombre": "11",
-        "url": "https://streamcrichd.com/update/do11.php",
+        "url": "https://antenasport.top/11.php",
         "calidad": ""
       },
       {
         "nombre": "skyfootball",
-        "url": "https://epaly.fun/maxsport.php?id=eplayerskyfoot",
+        "url": "https://antenasport.top/skyfootball.php",
         "calidad": ""
       },
       {
         "nombre": "skytopeventde",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Top_Event_HD",
+        "url": "https://antenasport.top/skytopeventde.php",
         "calidad": ""
       },
       {
         "nombre": "sky1de",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSky_Sport_Bundesliga_1_HD",
+        "url": "https://antenasport.top/sky1de.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "bein2fr",
-        "url": "https://epaly.fun/maxsport.php?id=cnbeinsport2fr",
+        "url": "https://antenasport.top/bein2fr.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "espn2argentina",
-        "url": "https://epaly.fun/maxsport.php?id=cnarg_espn2",
+        "url": "https://antenasport.top/espn2argentina.php",
         "calidad": ""
       },
       {
         "nombre": "diemasport3",
-        "url": "https://epaly.fun/maxsport.php?id=primadiemasport3",
+        "url": "https://antenasport.top/diemasport3.php",
         "calidad": ""
       },
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -4526,32 +4484,32 @@
     "canales": [
       {
         "nombre": "6",
-        "url": "https://streamcrichd.com/update/do6.php",
+        "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "movistarliga1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistarliga1",
+        "url": "https://antenasport.top/movistarliga1.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -4568,12 +4526,12 @@
     "canales": [
       {
         "nombre": "liga1",
-        "url": "https://epaly.fun/maxsport.php?id=primaliga1",
+        "url": "https://antenasport.top/liga1.php",
         "calidad": ""
       },
       {
         "nombre": "26",
-        "url": "https://streamcrichd.com/update/do26.php",
+        "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
     ],
@@ -4590,12 +4548,12 @@
     "canales": [
       {
         "nombre": "novasportprime",
-        "url": "https://epaly.fun/maxsport.php?id=primanovasportprime",
+        "url": "https://antenasport.top/novasportprime.php",
         "calidad": ""
       },
       {
         "nombre": "26",
-        "url": "https://streamcrichd.com/update/do26.php",
+        "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
     ],
@@ -4612,62 +4570,62 @@
     "canales": [
       {
         "nombre": "18",
-        "url": "https://streamcrichd.com/update/do18.php",
+        "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
         "nombre": "38",
-        "url": "https://streamcrichd.com/update/do38.php",
+        "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
         "nombre": "3",
-        "url": "https://streamcrichd.com/update/do3.php",
+        "url": "https://antenasport.top/3.php",
         "calidad": ""
       },
       {
         "nombre": "bbc1",
-        "url": "https://epaly.fun/maxsport.php?id=primabbc1",
+        "url": "https://antenasport.top/bbc1.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraineplus",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraineplus",
+        "url": "https://antenasport.top/setantaukraineplus.php",
         "calidad": ""
       },
       {
         "nombre": "espnbrazil",
-        "url": "https://epaly.fun/maxsport.php?id=cnespnbrazil",
+        "url": "https://antenasport.top/espnbrazil.php",
         "calidad": ""
       },
       {
         "nombre": "espn1argentina",
-        "url": "https://epaly.fun/maxsport.php?id=cnargespn",
+        "url": "https://antenasport.top/espn1argentina.php",
         "calidad": ""
       },
       {
         "nombre": "dazn2de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn2de",
+        "url": "https://antenasport.top/dazn2de.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "sport2pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV2",
+        "url": "https://antenasport.top/sport2pt.php",
         "calidad": ""
       },
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       }
     ],
@@ -4684,7 +4642,7 @@
     "canales": [
       {
         "nombre": "espn3nl",
-        "url": "https://epaly.fun/maxsport.php?id=cnespn3nl",
+        "url": "https://antenasport.top/espn3nl.php",
         "calidad": ""
       }
     ],
@@ -4701,22 +4659,22 @@
     "canales": [
       {
         "nombre": "39",
-        "url": "https://streamcrichd.com/update/do39.php",
+        "url": "https://antenasport.top/39.php",
         "calidad": ""
       },
       {
         "nombre": "beinsportusa",
-        "url": "https://epaly.fun/maxsport.php?id=primabeinsportusa",
+        "url": "https://antenasport.top/beinsportusa.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport6hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena6croatia",
+        "url": "https://antenasport.top/arenasport6hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -4733,12 +4691,12 @@
     "canales": [
       {
         "nombre": "megogosport",
-        "url": "https://epaly.fun/maxsport.php?id=primamegogosport",
+        "url": "https://antenasport.top/megogosport.php",
         "calidad": ""
       },
       {
         "nombre": "21",
-        "url": "https://streamcrichd.com/update/do21.php",
+        "url": "https://antenasport.top/21.php",
         "calidad": ""
       }
     ],
@@ -4755,12 +4713,12 @@
     "canales": [
       {
         "nombre": "cosmote1",
-        "url": "https://epaly.fun/maxsport.php?id=primacosmote1",
+        "url": "https://antenasport.top/cosmote1.php",
         "calidad": ""
       },
       {
         "nombre": "23",
-        "url": "https://streamcrichd.com/update/do23.php",
+        "url": "https://antenasport.top/23.php",
         "calidad": ""
       }
     ],
@@ -4777,22 +4735,22 @@
     "canales": [
       {
         "nombre": "30",
-        "url": "https://streamcrichd.com/update/do30.php",
+        "url": "https://antenasport.top/30.php",
         "calidad": ""
       },
       {
         "nombre": "espn1nl",
-        "url": "https://epaly.fun/maxsport.php?id=cnespn1nl",
+        "url": "https://antenasport.top/espn1nl.php",
         "calidad": ""
       },
       {
         "nombre": "setantapremium",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantapremiu",
+        "url": "https://antenasport.top/setantapremium.php",
         "calidad": ""
       },
       {
         "nombre": "sportdigitalde",
-        "url": "https://epaly.fun/maxsport.php?id=primadigital1",
+        "url": "https://antenasport.top/sportdigitalde.php",
         "calidad": ""
       }
     ],
@@ -4809,47 +4767,47 @@
     "canales": [
       {
         "nombre": "9",
-        "url": "https://streamcrichd.com/update/do9.php",
+        "url": "https://antenasport.top/9.php",
         "calidad": ""
       },
       {
         "nombre": "3",
-        "url": "https://streamcrichd.com/update/do3.php",
+        "url": "https://antenasport.top/3.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "match1",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch1",
+        "url": "https://antenasport.top/match1.php",
         "calidad": ""
       },
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "sport4pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV4",
+        "url": "https://antenasport.top/sport4pt.php",
         "calidad": ""
       },
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport4hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4croatia",
+        "url": "https://antenasport.top/arenasport4hr.php",
         "calidad": ""
       }
     ],
@@ -4866,62 +4824,62 @@
     "canales": [
       {
         "nombre": "40",
-        "url": "https://streamcrichd.com/update/do40.php",
+        "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
       {
         "nombre": "6",
-        "url": "https://streamcrichd.com/update/do6.php",
+        "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "movistarliga1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistarliga1",
+        "url": "https://antenasport.top/movistarliga1.php",
         "calidad": ""
       },
       {
         "nombre": "espn1argentina",
-        "url": "https://epaly.fun/maxsport.php?id=cnargespn",
+        "url": "https://antenasport.top/espn1argentina.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "dazn1pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayereleven1",
+        "url": "https://antenasport.top/dazn1pt.php",
         "calidad": ""
       },
       {
         "nombre": "novasport1gr",
-        "url": "https://epaly.fun/maxsport.php?id=cnftknovasport1",
+        "url": "https://antenasport.top/novasport1gr.php",
         "calidad": ""
       }
     ],
@@ -4938,47 +4896,47 @@
     "canales": [
       {
         "nombre": "18",
-        "url": "https://streamcrichd.com/update/do18.php",
+        "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
         "nombre": "38",
-        "url": "https://streamcrichd.com/update/do38.php",
+        "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt1",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt1",
+        "url": "https://antenasport.top/maxtnt1.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "dazn2de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn2de",
+        "url": "https://antenasport.top/dazn2de.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
         "nombre": "espnbrazil",
-        "url": "https://epaly.fun/maxsport.php?id=cnespnbrazil",
+        "url": "https://antenasport.top/espnbrazil.php",
         "calidad": ""
       },
       {
         "nombre": "sport2pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV2",
+        "url": "https://antenasport.top/sport2pt.php",
         "calidad": ""
       },
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       }
     ],
@@ -4995,12 +4953,12 @@
     "canales": [
       {
         "nombre": "espn2nl",
-        "url": "https://epaly.fun/maxsport.php?id=cnespn2nl",
+        "url": "https://antenasport.top/espn2nl.php",
         "calidad": ""
       },
       {
         "nombre": "39",
-        "url": "https://streamcrichd.com/update/do39.php",
+        "url": "https://antenasport.top/39.php",
         "calidad": ""
       }
     ],
@@ -5017,12 +4975,12 @@
     "canales": [
       {
         "nombre": "liga1",
-        "url": "https://epaly.fun/maxsport.php?id=primaliga1",
+        "url": "https://antenasport.top/liga1.php",
         "calidad": ""
       },
       {
         "nombre": "26",
-        "url": "https://streamcrichd.com/update/do26.php",
+        "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
     ],
@@ -5039,17 +4997,17 @@
     "canales": [
       {
         "nombre": "beinsportusa",
-        "url": "https://epaly.fun/maxsport.php?id=primabeinsportusa",
+        "url": "https://antenasport.top/beinsportusa.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport2hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2croatia",
+        "url": "https://antenasport.top/arenasport2hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -5066,12 +5024,12 @@
     "canales": [
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       },
       {
         "nombre": "10",
-        "url": "https://streamcrichd.com/update/do10.php",
+        "url": "https://antenasport.top/10.php",
         "calidad": ""
       }
     ],
@@ -5088,17 +5046,17 @@
     "canales": [
       {
         "nombre": "sport1pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV1",
+        "url": "https://antenasport.top/sport1pt.php",
         "calidad": ""
       },
       {
         "nombre": "megogosport",
-        "url": "https://epaly.fun/maxsport.php?id=primamegogosport",
+        "url": "https://antenasport.top/megogosport.php",
         "calidad": ""
       },
       {
         "nombre": "21",
-        "url": "https://streamcrichd.com/update/do21.php",
+        "url": "https://antenasport.top/21.php",
         "calidad": ""
       }
     ],
@@ -5115,72 +5073,72 @@
     "canales": [
       {
         "nombre": "eurosport1uk",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayereurosp1",
+        "url": "https://antenasport.top/eurosport1uk.php",
         "calidad": ""
       },
       {
         "nombre": "sky2nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz2",
+        "url": "https://antenasport.top/sky2nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky3nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz3",
+        "url": "https://antenasport.top/sky3nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky4nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz4",
+        "url": "https://antenasport.top/sky4nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky7nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz7",
+        "url": "https://antenasport.top/sky7nz.php",
         "calidad": ""
       },
       {
         "nombre": "suspilnetv",
-        "url": "https://epaly.fun/maxsport.php?id=primasuspilnesport",
+        "url": "https://antenasport.top/suspilnetv.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport",
+        "url": "https://antenasport.top/okkosport.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport2",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport2",
+        "url": "https://antenasport.top/okkosport2.php",
         "calidad": ""
       },
       {
         "nombre": "ctsport",
-        "url": "https://epaly.fun/maxsport.php?id=primactsport",
+        "url": "https://antenasport.top/ctsport.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt2",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt2",
+        "url": "https://antenasport.top/maxtnt2.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt4",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt4",
+        "url": "https://antenasport.top/maxtnt4.php",
         "calidad": ""
       }
     ],
@@ -5197,7 +5155,7 @@
     "canales": [
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       }
     ],
@@ -5214,12 +5172,12 @@
     "canales": [
       {
         "nombre": "canal3poland",
-        "url": "https://epaly.fun/maxsport.php?id=primacanal3poland",
+        "url": "https://antenasport.top/canal3poland.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -5236,32 +5194,32 @@
     "canales": [
       {
         "nombre": "match1",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch1",
+        "url": "https://antenasport.top/match1.php",
         "calidad": ""
       },
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "foxdeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primafoxdeportes",
+        "url": "https://antenasport.top/foxdeportes.php",
         "calidad": ""
       }
     ],
@@ -5278,7 +5236,7 @@
     "canales": [
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       }
     ],
@@ -5295,32 +5253,32 @@
     "canales": [
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "diemasport3",
-        "url": "https://epaly.fun/maxsport.php?id=primadiemasport3",
+        "url": "https://antenasport.top/diemasport3.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport6hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena6croatia",
+        "url": "https://antenasport.top/arenasport6hr.php",
         "calidad": ""
       },
       {
         "nombre": "sport3pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV3",
+        "url": "https://antenasport.top/sport3pt.php",
         "calidad": ""
       }
     ],
@@ -5337,7 +5295,7 @@
     "canales": [
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -5354,37 +5312,37 @@
     "canales": [
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "movistarliga1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistarliga1",
+        "url": "https://antenasport.top/movistarliga1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -5401,22 +5359,22 @@
     "canales": [
       {
         "nombre": "maxtnt1",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt1",
+        "url": "https://antenasport.top/maxtnt1.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "diemasport2",
-        "url": "https://epaly.fun/maxsport.php?id=cndiemasport2",
+        "url": "https://antenasport.top/diemasport2.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport9hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena9croatia",
+        "url": "https://antenasport.top/arenasport9hr.php",
         "calidad": ""
       }
     ],
@@ -5433,12 +5391,12 @@
     "canales": [
       {
         "nombre": "canal3poland",
-        "url": "https://epaly.fun/maxsport.php?id=primacanal3poland",
+        "url": "https://antenasport.top/canal3poland.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport8hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena8croatia",
+        "url": "https://antenasport.top/arenasport8hr.php",
         "calidad": ""
       }
     ],
@@ -5455,7 +5413,7 @@
     "canales": [
       {
         "nombre": "arenasport5hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5croatia",
+        "url": "https://antenasport.top/arenasport5hr.php",
         "calidad": ""
       }
     ],
@@ -5472,27 +5430,27 @@
     "canales": [
       {
         "nombre": "sport1il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport1il",
+        "url": "https://antenasport.top/sport1il.php",
         "calidad": ""
       },
       {
         "nombre": "foxdeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primafoxdeportes",
+        "url": "https://antenasport.top/foxdeportes.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "sport4pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV4",
+        "url": "https://antenasport.top/sport4pt.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport6hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena6croatia",
+        "url": "https://antenasport.top/arenasport6hr.php",
         "calidad": ""
       }
     ],
@@ -5509,17 +5467,17 @@
     "canales": [
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "megogosport",
-        "url": "https://epaly.fun/maxsport.php?id=primamegogosport",
+        "url": "https://antenasport.top/megogosport.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -5536,32 +5494,32 @@
     "canales": [
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt6",
-        "url": "https://streamcrichd.com/update/ch11.php",
+        "url": "https://antenasport.top/maxtnt6.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "sport2pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV2",
+        "url": "https://antenasport.top/sport2pt.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraineplus",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraineplus",
+        "url": "https://antenasport.top/setantaukraineplus.php",
         "calidad": ""
       },
       {
         "nombre": "diemasport3",
-        "url": "https://epaly.fun/maxsport.php?id=primadiemasport3",
+        "url": "https://antenasport.top/diemasport3.php",
         "calidad": ""
       }
     ],
@@ -5578,22 +5536,22 @@
     "canales": [
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt5",
-        "url": "https://streamcrichd.com/update/ch10.php",
+        "url": "https://antenasport.top/maxtnt5.php",
         "calidad": ""
       },
       {
         "nombre": "novasportbg",
-        "url": "https://epaly.fun/maxsport.php?id=primanovasportbulgaria",
+        "url": "https://antenasport.top/novasportbg.php",
         "calidad": ""
       },
       {
         "nombre": "setantapremium",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantapremiu",
+        "url": "https://antenasport.top/setantapremium.php",
         "calidad": ""
       }
     ],
@@ -5610,7 +5568,7 @@
     "canales": [
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       }
     ],
@@ -5627,17 +5585,17 @@
     "canales": [
       {
         "nombre": "dazn2de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn2de",
+        "url": "https://antenasport.top/dazn2de.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport2sr",
-        "url": "https://epaly.fun/maxsport.php?id=cnarenasport2serbia",
+        "url": "https://antenasport.top/arenasport2sr.php",
         "calidad": ""
       }
     ],
@@ -5654,7 +5612,7 @@
     "canales": [
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -5671,22 +5629,22 @@
     "canales": [
       {
         "nombre": "bbc1",
-        "url": "https://epaly.fun/maxsport.php?id=primabbc1",
+        "url": "https://antenasport.top/bbc1.php",
         "calidad": ""
       },
       {
         "nombre": "sky1nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky1nz.php",
         "calidad": ""
       },
       {
         "nombre": "tf1",
-        "url": "https://epaly.fun/maxsport.php?id=primatf1",
+        "url": "https://antenasport.top/tf1.php",
         "calidad": ""
       },
       {
         "nombre": "vamos",
-        "url": "https://epaly.fun/maxsport.php?id=cnmovistarvamos",
+        "url": "https://antenasport.top/vamos.php",
         "calidad": ""
       }
     ],
@@ -5703,27 +5661,27 @@
     "canales": [
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -5740,7 +5698,7 @@
     "canales": [
       {
         "nombre": "sport1pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV1",
+        "url": "https://antenasport.top/sport1pt.php",
         "calidad": ""
       }
     ],
@@ -5757,7 +5715,7 @@
     "canales": [
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       }
     ],
@@ -5774,7 +5732,7 @@
     "canales": [
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -5791,7 +5749,7 @@
     "canales": [
       {
         "nombre": "arenasport5hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5croatia",
+        "url": "https://antenasport.top/arenasport5hr.php",
         "calidad": ""
       }
     ],
@@ -5808,7 +5766,7 @@
     "canales": [
       {
         "nombre": "arenasport9hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena9croatia",
+        "url": "https://antenasport.top/arenasport9hr.php",
         "calidad": ""
       }
     ],
@@ -5825,42 +5783,42 @@
     "canales": [
       {
         "nombre": "maxtnt1",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt1",
+        "url": "https://antenasport.top/maxtnt1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
         "nombre": "espn1argentina",
-        "url": "https://epaly.fun/maxsport.php?id=cnargespn",
+        "url": "https://antenasport.top/espn1argentina.php",
         "calidad": ""
       },
       {
         "nombre": "bein1fr",
-        "url": "https://epaly.fun/maxsport.php?id=cnbeinsport1fr",
+        "url": "https://antenasport.top/bein1fr.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "setantaukraine",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantaukraine",
+        "url": "https://antenasport.top/setantaukraine.php",
         "calidad": ""
       },
       {
         "nombre": "arena1premiumbosnia",
-        "url": "https://epaly.fun/maxsport.php?id=primaarena1premiubosnia",
+        "url": "https://antenasport.top/arena1premiumbosnia.php",
         "calidad": ""
       },
       {
         "nombre": "sport2pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV2",
+        "url": "https://antenasport.top/sport2pt.php",
         "calidad": ""
       }
     ],
@@ -5877,27 +5835,27 @@
     "canales": [
       {
         "nombre": "dazn1de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn1de",
+        "url": "https://antenasport.top/dazn1de.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "setantapremium",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantapremiu",
+        "url": "https://antenasport.top/setantapremium.php",
         "calidad": ""
       },
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "diemasport3",
-        "url": "https://epaly.fun/maxsport.php?id=primadiemasport3",
+        "url": "https://antenasport.top/diemasport3.php",
         "calidad": ""
       }
     ],
@@ -5914,12 +5872,12 @@
     "canales": [
       {
         "nombre": "canal3poland",
-        "url": "https://epaly.fun/maxsport.php?id=primacanal3poland",
+        "url": "https://antenasport.top/canal3poland.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport8hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena8croatia",
+        "url": "https://antenasport.top/arenasport8hr.php",
         "calidad": ""
       }
     ],
@@ -5936,7 +5894,7 @@
     "canales": [
       {
         "nombre": "tvrsport",
-        "url": "https://epaly.fun/maxsport.php?id=primatvrsport",
+        "url": "https://antenasport.top/tvrsport.php",
         "calidad": ""
       }
     ],
@@ -5953,17 +5911,17 @@
     "canales": [
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport2hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2croatia",
+        "url": "https://antenasport.top/arenasport2hr.php",
         "calidad": ""
       },
       {
         "nombre": "match1",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch1",
+        "url": "https://antenasport.top/match1.php",
         "calidad": ""
       }
     ],
@@ -5980,37 +5938,37 @@
     "canales": [
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "movistarliga1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistarliga1",
+        "url": "https://antenasport.top/movistarliga1.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -6027,7 +5985,7 @@
     "canales": [
       {
         "nombre": "arenasport6hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena6croatia",
+        "url": "https://antenasport.top/arenasport6hr.php",
         "calidad": ""
       }
     ],
@@ -6044,7 +6002,7 @@
     "canales": [
       {
         "nombre": "sport2pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV2",
+        "url": "https://antenasport.top/sport2pt.php",
         "calidad": ""
       }
     ],
@@ -6061,7 +6019,7 @@
     "canales": [
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -6078,12 +6036,12 @@
     "canales": [
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport4hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4croatia",
+        "url": "https://antenasport.top/arenasport4hr.php",
         "calidad": ""
       }
     ],
@@ -6100,7 +6058,7 @@
     "canales": [
       {
         "nombre": "sky2nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz2",
+        "url": "https://antenasport.top/sky2nz.php",
         "calidad": ""
       }
     ],
@@ -6117,12 +6075,12 @@
     "canales": [
       {
         "nombre": "arena3premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3premiuserbia",
+        "url": "https://antenasport.top/arena3premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport8hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena8croatia",
+        "url": "https://antenasport.top/arenasport8hr.php",
         "calidad": ""
       }
     ],
@@ -6139,7 +6097,7 @@
     "canales": [
       {
         "nombre": "arenasport5hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5croatia",
+        "url": "https://antenasport.top/arenasport5hr.php",
         "calidad": ""
       }
     ],
@@ -6156,17 +6114,17 @@
     "canales": [
       {
         "nombre": "beinsportusa",
-        "url": "https://epaly.fun/maxsport.php?id=primabeinsportusa",
+        "url": "https://antenasport.top/beinsportusa.php",
         "calidad": ""
       },
       {
         "nombre": "arena5premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena5premiuserbia",
+        "url": "https://antenasport.top/arena5premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport2hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2croatia",
+        "url": "https://antenasport.top/arenasport2hr.php",
         "calidad": ""
       }
     ],
@@ -6183,27 +6141,27 @@
     "canales": [
       {
         "nombre": "match1",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch1",
+        "url": "https://antenasport.top/match1.php",
         "calidad": ""
       },
       {
         "nombre": "starzplaysports1",
-        "url": "https://epaly.fun/maxsport.php?id=primastarzplaysports1",
+        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport1hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1croatia",
+        "url": "https://antenasport.top/arenasport1hr.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport1",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport1",
+        "url": "https://antenasport.top/setantasport1.php",
         "calidad": ""
       },
       {
         "nombre": "arena2premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena2premiuserbia",
+        "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": ""
       }
     ],
@@ -6220,12 +6178,12 @@
     "canales": [
       {
         "nombre": "arena1premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena1premiuserbia",
+        "url": "https://antenasport.top/arena1premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport4hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4croatia",
+        "url": "https://antenasport.top/arenasport4hr.php",
         "calidad": ""
       }
     ],
@@ -6242,37 +6200,37 @@
     "canales": [
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "megogosport",
-        "url": "https://epaly.fun/maxsport.php?id=primamegogosport",
+        "url": "https://antenasport.top/megogosport.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "match2",
-        "url": "https://epaly.fun/maxsport.php?id=primamatch2",
+        "url": "https://antenasport.top/match2.php",
         "calidad": ""
       },
       {
         "nombre": "arena4premiumserbia",
-        "url": "https://epaly.fun/maxsport.php?id=primarena4premiuserbia",
+        "url": "https://antenasport.top/arena4premiumserbia.php",
         "calidad": ""
       },
       {
         "nombre": "arenasport3hr",
-        "url": "https://epaly.fun/maxsport.php?id=primarena3croatia",
+        "url": "https://antenasport.top/arenasport3hr.php",
         "calidad": ""
       }
     ],
@@ -6289,7 +6247,7 @@
     "canales": [
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       }
     ],
@@ -6306,17 +6264,17 @@
     "canales": [
       {
         "nombre": "sport1pt",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerSPORTTV1",
+        "url": "https://antenasport.top/sport1pt.php",
         "calidad": ""
       },
       {
         "nombre": "sportdigitalde",
-        "url": "https://epaly.fun/maxsport.php?id=primadigital1",
+        "url": "https://antenasport.top/sportdigitalde.php",
         "calidad": ""
       },
       {
         "nombre": "sport2il",
-        "url": "https://epaly.fun/maxsport.php?id=primasport2il",
+        "url": "https://antenasport.top/sport2il.php",
         "calidad": ""
       }
     ],
@@ -6333,72 +6291,72 @@
     "canales": [
       {
         "nombre": "eurosport1uk",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayereurosp1",
+        "url": "https://antenasport.top/eurosport1uk.php",
         "calidad": ""
       },
       {
         "nombre": "sky2nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz2",
+        "url": "https://antenasport.top/sky2nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky3nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz3",
+        "url": "https://antenasport.top/sky3nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky4nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz4",
+        "url": "https://antenasport.top/sky4nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky7nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz7",
+        "url": "https://antenasport.top/sky7nz.php",
         "calidad": ""
       },
       {
         "nombre": "suspilnetv",
-        "url": "https://epaly.fun/maxsport.php?id=primasuspilnesport",
+        "url": "https://antenasport.top/suspilnetv.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport",
+        "url": "https://antenasport.top/okkosport.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport2",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport2",
+        "url": "https://antenasport.top/okkosport2.php",
         "calidad": ""
       },
       {
         "nombre": "ctsport",
-        "url": "https://epaly.fun/maxsport.php?id=primactsport",
+        "url": "https://antenasport.top/ctsport.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt2",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt2",
+        "url": "https://antenasport.top/maxtnt2.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt4",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt4",
+        "url": "https://antenasport.top/maxtnt4.php",
         "calidad": ""
       }
     ],
@@ -6415,27 +6373,27 @@
     "canales": [
       {
         "nombre": "viaplaylaliga",
-        "url": "https://epaly.fun/maxsport.php?id=cnlaligatvuk",
+        "url": "https://antenasport.top/viaplaylaliga.php",
         "calidad": ""
       },
       {
         "nombre": "espndeportes",
-        "url": "https://epaly.fun/maxsport.php?id=primaespndeportes",
+        "url": "https://antenasport.top/espndeportes.php",
         "calidad": ""
       },
       {
         "nombre": "setantasport2",
-        "url": "https://epaly.fun/maxsport.php?id=primasetantasport2",
+        "url": "https://antenasport.top/setantasport2.php",
         "calidad": ""
       },
       {
         "nombre": "movistarliga1",
-        "url": "https://epaly.fun/maxsport.php?id=primamovistarliga1",
+        "url": "https://antenasport.top/movistarliga1.php",
         "calidad": ""
       },
       {
         "nombre": "dazn1de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn1de",
+        "url": "https://antenasport.top/dazn1de.php",
         "calidad": ""
       }
     ],
@@ -6452,12 +6410,12 @@
     "canales": [
       {
         "nombre": "skymain",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerskymain2",
+        "url": "https://antenasport.top/skymain.php",
         "calidad": ""
       },
       {
         "nombre": "cbssports",
-        "url": "https://epaly.fun/maxsport.php?id=cncbssn",
+        "url": "https://antenasport.top/cbssports.php",
         "calidad": ""
       }
     ],
@@ -6474,72 +6432,72 @@
     "canales": [
       {
         "nombre": "eurosport1uk",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayereurosp1",
+        "url": "https://antenasport.top/eurosport1uk.php",
         "calidad": ""
       },
       {
         "nombre": "sky2nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz2",
+        "url": "https://antenasport.top/sky2nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky3nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz3",
+        "url": "https://antenasport.top/sky3nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky4nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz4",
+        "url": "https://antenasport.top/sky4nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky7nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz7",
+        "url": "https://antenasport.top/sky7nz.php",
         "calidad": ""
       },
       {
         "nombre": "suspilnetv",
-        "url": "https://epaly.fun/maxsport.php?id=primasuspilnesport",
+        "url": "https://antenasport.top/suspilnetv.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport",
+        "url": "https://antenasport.top/okkosport.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport2",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport2",
+        "url": "https://antenasport.top/okkosport2.php",
         "calidad": ""
       },
       {
         "nombre": "ctsport",
-        "url": "https://epaly.fun/maxsport.php?id=primactsport",
+        "url": "https://antenasport.top/ctsport.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt2",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt2",
+        "url": "https://antenasport.top/maxtnt2.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt4",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt4",
+        "url": "https://antenasport.top/maxtnt4.php",
         "calidad": ""
       }
     ],
@@ -6556,7 +6514,7 @@
     "canales": [
       {
         "nombre": "dazn1de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn1de",
+        "url": "https://antenasport.top/dazn1de.php",
         "calidad": ""
       }
     ],
@@ -6573,7 +6531,7 @@
     "canales": [
       {
         "nombre": "dazn1de",
-        "url": "https://epaly.fun/maxsport.php?id=cndazn1de",
+        "url": "https://antenasport.top/dazn1de.php",
         "calidad": ""
       }
     ],
@@ -6656,72 +6614,72 @@
     "canales": [
       {
         "nombre": "eurosport1uk",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayereurosp1",
+        "url": "https://antenasport.top/eurosport1uk.php",
         "calidad": ""
       },
       {
         "nombre": "sky2nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz2",
+        "url": "https://antenasport.top/sky2nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky3nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz3",
+        "url": "https://antenasport.top/sky3nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky4nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz4",
+        "url": "https://antenasport.top/sky4nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky5nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz1",
+        "url": "https://antenasport.top/sky5nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky6nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz6",
+        "url": "https://antenasport.top/sky6nz.php",
         "calidad": ""
       },
       {
         "nombre": "sky7nz",
-        "url": "https://epaly.fun/maxsport.php?id=cnskynz7",
+        "url": "https://antenasport.top/sky7nz.php",
         "calidad": ""
       },
       {
         "nombre": "suspilnetv",
-        "url": "https://epaly.fun/maxsport.php?id=primasuspilnesport",
+        "url": "https://antenasport.top/suspilnetv.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport",
+        "url": "https://antenasport.top/okkosport.php",
         "calidad": ""
       },
       {
         "nombre": "okkosport2",
-        "url": "https://epaly.fun/maxsport.php?id=primaokkosport2",
+        "url": "https://antenasport.top/okkosport2.php",
         "calidad": ""
       },
       {
         "nombre": "ctsport",
-        "url": "https://epaly.fun/maxsport.php?id=primactsport",
+        "url": "https://antenasport.top/ctsport.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt2",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt2",
+        "url": "https://antenasport.top/maxtnt2.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt3",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt3",
+        "url": "https://antenasport.top/maxtnt3.php",
         "calidad": ""
       },
       {
         "nombre": "maxtnt4",
-        "url": "https://epaly.fun/maxsport.php?id=cneplayerdigitvbt4",
+        "url": "https://antenasport.top/maxtnt4.php",
         "calidad": ""
       }
     ],
