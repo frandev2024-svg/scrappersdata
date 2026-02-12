@@ -1374,7 +1374,7 @@
     "hora_argentina": "2026-02-12 09:00",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png",
     "liga": "",
-    "equipos": "Famos-SA�K vs Lakta�i Kup Bosne i Hercegovine",
+    "equipos": "Famos-SAŠK vs Laktaši Kup Bosne i Hercegovine",
     "deporte": "Deportes",
     "pais": "",
     "canales": [
@@ -1418,7 +1418,7 @@
     "hora_argentina": "2026-02-12 14:00",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png",
     "liga": "",
-    "equipos": "�eljeznicar vs Slavija Kup Bosne i Hercegovine",
+    "equipos": "Željeznicar vs Slavija Kup Bosne i Hercegovine",
     "deporte": "Deportes",
     "pais": "",
     "canales": [
@@ -2980,7 +2980,7 @@
     "hora_argentina": "2026-02-14 11:30",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png",
     "liga": "Bundesliga",
-    "equipos": "Werder Bremen vs Bayern M�nchen",
+    "equipos": "Werder Bremen vs Bayern München",
     "deporte": "Fútbol",
     "pais": "Alemania",
     "canales": [
@@ -4067,7 +4067,7 @@
     "hora_argentina": "2026-02-15 08:15",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
     "liga": "Ekstraklasa",
-    "equipos": "Motor Lublin vs Lechia Gdańsk",
+    "equipos": "Motor Lublin vs Lechia GdaÅ„sk",
     "deporte": "Fútbol",
     "pais": "Polonia",
     "canales": [
@@ -4131,7 +4131,7 @@
     "hora_argentina": "2026-02-15 09:00",
     "logo": "",
     "liga": "",
-    "equipos": "�iroki Brijeg vs Vele� Premijer Liga",
+    "equipos": "Široki Brijeg vs Velež Premijer Liga",
     "deporte": "Fútbol",
     "pais": "",
     "canales": [
@@ -4286,7 +4286,7 @@
     "hora_argentina": "2026-02-15 10:45",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
     "liga": "Ekstraklasa",
-    "equipos": "Pogoń Szczecin vs Arka Gdynia",
+    "equipos": "PogoÅ„ Szczecin vs Arka Gdynia",
     "deporte": "Fútbol",
     "pais": "Polonia",
     "canales": [
@@ -4463,7 +4463,7 @@
     "hora_argentina": "2026-02-15 11:15",
     "logo": "",
     "liga": "",
-    "equipos": "Radnik Bijeljina vs Posu�je Premijer Liga",
+    "equipos": "Radnik Bijeljina vs Posušje Premijer Liga",
     "deporte": "Fútbol",
     "pais": "",
     "canales": [
@@ -4767,7 +4767,7 @@
     "hora_argentina": "2026-02-15 13:30",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
     "liga": "Ekstraklasa",
-    "equipos": "Lech Poznań vs Piast Gliwice",
+    "equipos": "Lech PoznaÅ„ vs Piast Gliwice",
     "deporte": "Fútbol",
     "pais": "Polonia",
     "canales": [
@@ -5301,7 +5301,7 @@
     "hora_argentina": "2026-02-18 14:45",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
     "liga": "Premier League",
-    "equipos": "Qarabağ vs Newcastle United",
+    "equipos": "QarabaÄŸ vs Newcastle United",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
     "canales": [],
@@ -5420,11 +5420,11 @@
   {
     "hora_utc": "2026-02-19T17:45:00Z",
     "hora_argentina": "2026-02-19 14:45",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
-    "liga": "Ekstraklasa",
-    "equipos": "KuPS vs Lech Poznań",
-    "deporte": "Fútbol",
-    "pais": "Polonia",
+    "logo": "",
+    "liga": "",
+    "equipos": "KuPS vs Lech PoznaÅ„",
+    "deporte": "Deportes",
+    "pais": "",
     "canales": [],
     "date_offset": 0
   },
@@ -5433,7 +5433,7 @@
     "hora_argentina": "2026-02-19 17:00",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
     "liga": "Super League Greece",
-    "equipos": "Panathinaikos vs Viktoria Plzeň",
+    "equipos": "Panathinaikos vs Viktoria PlzeÅˆ",
     "deporte": "Deportes",
     "pais": "Grecia",
     "canales": [],
@@ -5488,7 +5488,7 @@
     "hora_argentina": "2026-02-19 17:00",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png",
     "liga": "Serie A",
-    "equipos": "Jagiellonia Białystok vs Fiorentina",
+    "equipos": "Jagiellonia BiaÅ‚ystok vs Fiorentina",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [],
@@ -5508,11 +5508,11 @@
   {
     "hora_utc": "2026-02-19T20:00:00Z",
     "hora_argentina": "2026-02-19 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
-    "liga": "Macedonian First League",
-    "equipos": "Škendija 79 vs Samsunspor",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png",
+    "liga": "Super Lig",
+    "equipos": "Å kendija 79 vs Samsunspor",
     "deporte": "Fútbol",
-    "pais": "",
+    "pais": "Turquía",
     "canales": [],
     "date_offset": 0
   }
