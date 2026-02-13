@@ -352,7 +352,7 @@
   {
     "id": "gen_paraguay_36",
     "name": "GEN",
-    "image": "https://bestleague.world/img/genpy.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gen_logo.svg/1280px-Gen_logo.svg.png",
     "iframe_url": "[\"https://tvlibree.com/html/fl/?get=R0VOX1RW\"]",
     "category": "Paraguay",
     "country": "Unknown",
@@ -932,7 +932,7 @@
   {
     "id": "gourmet_gastronoma_94",
     "name": "Gourmet",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png",
+    "image": "https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest/scale-to-width-down/200?cb=20241115195526",
     "iframe_url": "[\"https://tvlibree.com/html/fl/?get=R291cm1ldA==\"]",
     "category": "Gastronomía",
     "country": "Unknown",
@@ -1002,7 +1002,7 @@
   {
     "id": "sporttv1pt_deportesportugal_298",
     "name": "Sport TV 1 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv1pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -1012,7 +1012,7 @@
   {
     "id": "sporttv2pt_deportesportugal_299",
     "name": "Sport TV 2 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv2pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -1022,7 +1022,7 @@
   {
     "id": "sporttv3pt_deportesportugal_300",
     "name": "Sport TV 3 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv3pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -1312,7 +1312,7 @@
   {
     "id": "golden_entretenimiento_129",
     "name": "Golden",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/golden.png",
     "iframe_url": "[\"https://tvlibree.com/html/fl/?get=R29sZGVu\", \"https://bestleague.world/mpdk/?get=aHR0cHM6Ly9jc2MtYXhzLWVkZ2UwMi5zZW5zYS5jb20uYXIvbGl2ZS9lZHMvR29sZGVuRWRnZS9saXZlX2Rhc2hfY2xkL0dvbGRlbkVkZ2UubXBk&key=MjAyYzg1NzljOTRkZjUwNmMxYTFjNTRlZjQ5YTBjNjA=&key2=ODcxZjg0OTAxZjM1ODBjZmE3MjczMjkzNDgyYTY2YzU=\"]",
     "category": "Entretenimiento",
     "country": "Unknown",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "holatv_entretenimiento_134",
-    "name": "¡Hola! TV",
+    "name": "Hola! TV",
     "image": "https://bestleague.world/img/holatv.jpg",
     "iframe_url": "[\"https://tvlibree.com/html/fl/?get=SG9sYV9UVg==\"]",
     "category": "Entretenimiento",
@@ -1522,7 +1522,7 @@
   {
     "id": "sport1cz_deporteseuropa_350",
     "name": "Sport 1 Checa",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport1cz.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -1532,7 +1532,7 @@
   {
     "id": "sport2cz_deporteseuropa_351",
     "name": "Sport 2 Checa",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport2cz.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -1632,7 +1632,7 @@
   {
     "id": "nhltv_deportesusa_361",
     "name": "NHL TV",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhltv.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -1642,7 +1642,7 @@
   {
     "id": "nhlpass1_deportesusa_362",
     "name": "NHL Pass 1",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass1.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -1992,7 +1992,7 @@
   {
     "id": "nhltv_deportesusa_183",
     "name": "NHL TV",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhltv.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2002,7 +2002,7 @@
   {
     "id": "nhlpass1_deportesusa_184",
     "name": "NHL Pass 1",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass1.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2012,7 +2012,7 @@
   {
     "id": "nhlpass2_deportesusa_185",
     "name": "NHL Pass 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass2.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2022,7 +2022,7 @@
   {
     "id": "nhlpass3_deportesusa_186",
     "name": "NHL Pass 3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass3.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2032,7 +2032,7 @@
   {
     "id": "nhlpass4_deportesusa_187",
     "name": "NHL Pass 4",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass4.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2042,7 +2042,7 @@
   {
     "id": "nhlpass5_deportesusa_188",
     "name": "NHL Pass 5",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass5.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2052,7 +2052,7 @@
   {
     "id": "nhlpass6_deportesusa_189",
     "name": "NHL Pass 6",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass6.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2062,7 +2062,7 @@
   {
     "id": "nhlpass7_deportesusa_190",
     "name": "NHL Pass 7",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass7.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2072,7 +2072,7 @@
   {
     "id": "nhlextra1_deportesusa_191",
     "name": "NHL Extra 1",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlextra1.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -2542,7 +2542,7 @@
   {
     "id": "movistarplus2_deportesespaña_231",
     "name": "Movistar Plus 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/1024px-Movistar%2B_Logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
     "iframe_url": "[\"https://welivesports.shop/embed/movistarplus2.php\"]",
     "category": "Deportes España",
     "country": "Unknown",
@@ -2552,7 +2552,7 @@
   {
     "id": "beines_deportesespaña_232",
     "name": "beIN Sports España",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/beines.php\"]",
     "category": "Deportes España",
     "country": "Unknown",
@@ -2562,7 +2562,7 @@
   {
     "id": "beinxtraes_deportesespaña_233",
     "name": "beIN Sports Xtra España",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/beinxtraes.php\"]",
     "category": "Deportes España",
     "country": "Unknown",
@@ -2572,7 +2572,7 @@
   {
     "id": "bein1fr_deportesfrancia_234",
     "name": "beIN Sports 1 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein1fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2582,7 +2582,7 @@
   {
     "id": "bein2fr_deportesfrancia_235",
     "name": "beIN Sports 2 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein2fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2592,7 +2592,7 @@
   {
     "id": "bein3fr_deportesfrancia_236",
     "name": "beIN Sports 3 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein3fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2602,7 +2602,7 @@
   {
     "id": "bein4fr_deportesfrancia_237",
     "name": "beIN Sports 4 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein4fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2612,7 +2612,7 @@
   {
     "id": "bein5fr_deportesfrancia_238",
     "name": "beIN Sports 5 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein5fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2622,7 +2622,7 @@
   {
     "id": "bein6fr_deportesfrancia_239",
     "name": "beIN Sports 6 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein6fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2632,7 +2632,7 @@
   {
     "id": "bein7fr_deportesfrancia_240",
     "name": "beIN Sports 7 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein7fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2642,7 +2642,7 @@
   {
     "id": "bein8fr_deportesfrancia_241",
     "name": "beIN Sports 8 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein8fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2652,7 +2652,7 @@
   {
     "id": "bein9fr_deportesfrancia_242",
     "name": "beIN Sports 9 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein9fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2662,7 +2662,7 @@
   {
     "id": "bein10fr_deportesfrancia_243",
     "name": "beIN Sports 10 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein10fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -2672,7 +2672,7 @@
   {
     "id": "bein1tr_deportesturquía_244",
     "name": "beIN Sports 1 Turquía",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein1tr.php\"]",
     "category": "Deportes Turquía",
     "country": "Unknown",
@@ -2682,7 +2682,7 @@
   {
     "id": "bein2tr_deportesturquía_245",
     "name": "beIN Sports 2 Turquía",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein2tr.php\"]",
     "category": "Deportes Turquía",
     "country": "Unknown",
@@ -2692,7 +2692,7 @@
   {
     "id": "bein6r_deportesinternacional_246",
     "name": "beIN Sports 6",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein6r.php\"]",
     "category": "Deportes Internacional",
     "country": "Unknown",
@@ -2702,7 +2702,7 @@
   {
     "id": "bundes1_deportesalemania_247",
     "name": "Sky Bundesliga 1",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes1.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -2712,7 +2712,7 @@
   {
     "id": "skyaustria5_deportesaustria_450",
     "name": "Sky Sport Austria 5",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria5.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -2752,7 +2752,7 @@
   {
     "id": "bundes2_deportesalemania_248",
     "name": "Sky Bundesliga 2",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes2.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -2762,7 +2762,7 @@
   {
     "id": "bundes3_deportesalemania_249",
     "name": "Sky Bundesliga 3",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes3.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -2772,7 +2772,7 @@
   {
     "id": "bundes4_deportesalemania_250",
     "name": "Sky Bundesliga 4",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes4.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -2782,7 +2782,7 @@
   {
     "id": "bundes5_deportesalemania_251",
     "name": "Sky Bundesliga 5",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes5.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -2792,7 +2792,7 @@
   {
     "id": "bundes6_deportesalemania_252",
     "name": "Sky Bundesliga 6",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes6.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -2802,7 +2802,7 @@
   {
     "id": "skyspbundes_deportesalemania_253",
     "name": "Sky Sport Bundesliga",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyspbundes.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -2812,157 +2812,18 @@
   {
     "id": "skymixde_deportesalemania_254",
     "name": "Sky Mix Alemania",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skymixde.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
     "quality": "HD",
     "is_active": true
   },
-  {
-    "id": "magenta_deportesalemania_255",
-    "name": "Magenta Sport",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/960px-Magenta_Sport_Logo_2020.svg.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta1_deportesalemania_256",
-    "name": "Magenta Sport 1",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/960px-Magenta_Sport_Logo_2020.svg.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta1.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta2_deportesalemania_257",
-    "name": "Magenta Sport 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/960px-Magenta_Sport_Logo_2020.svg.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta2.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta3_deportesalemania_258",
-    "name": "Magenta Sport 3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/960px-Magenta_Sport_Logo_2020.svg.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta3.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta4_deportesalemania_259",
-    "name": "Magenta Sport 4",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/960px-Magenta_Sport_Logo_2020.svg.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta4.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta5_deportesalemania_260",
-    "name": "Magenta Sport 5",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/960px-Magenta_Sport_Logo_2020.svg.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta5.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta6_deportesalemania_261",
-    "name": "Magenta Sport 6",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta6.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta7_deportesalemania_262",
-    "name": "Magenta Sport 7",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta7.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta8_deportesalemania_263",
-    "name": "Magenta Sport 8",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta8.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta9_deportesalemania_264",
-    "name": "Magenta Sport 9",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta9.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta10_deportesalemania_265",
-    "name": "Magenta Sport 10",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta10.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta11_deportesalemania_266",
-    "name": "Magenta Sport 11",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta11.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta12_deportesalemania_267",
-    "name": "Magenta Sport 12",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta12.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "magenta18_deportesalemania_268",
-    "name": "Magenta Sport 18",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/magenta18.php\"]",
-    "category": "Deportes Alemania",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
+  
   {
     "id": "skyaustria1_deportesaustria_269",
     "name": "Sky Sport Austria 1",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria1.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -2972,7 +2833,7 @@
   {
     "id": "skyaustria2_deportesaustria_270",
     "name": "Sky Sport Austria 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria2.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -2982,7 +2843,7 @@
   {
     "id": "skyaustria3_deportesaustria_271",
     "name": "Sky Sport Austria 3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria3.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -2992,7 +2853,7 @@
   {
     "id": "skyaustria5_deportesaustria_272",
     "name": "Sky Sport Austria 5",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria5.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -3249,26 +3110,7 @@
     "quality": "HD",
     "is_active": true
   },
-  {
-    "id": "cosmote4gr_deportesgrecia_516",
-    "name": "Cosmote Sport 4",
-    "image": "https://images.seeklogo.com/logo-png/45/2/cosmote-logo-png_seeklogo-456540.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/cosmote4gr.php\"]",
-    "category": "Deportes Grecia",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "cosmote7gr_deportesgrecia_517",
-    "name": "Cosmote Sport 7",
-    "image": "https://images.seeklogo.com/logo-png/45/2/cosmote-logo-png_seeklogo-456540.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/cosmote7gr.php\"]",
-    "category": "Deportes Grecia",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
+
   {
     "id": "sportv1br_deportesbrasil_518",
     "name": "SporTV 1 Brasil",
@@ -3282,7 +3124,7 @@
   {
     "id": "sporttv4pt_deportesportugal_301",
     "name": "Sport TV 4 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv4pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -3292,7 +3134,7 @@
   {
     "id": "sporttv5pt_deportesportugal_302",
     "name": "Sport TV 5 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv5pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -3302,7 +3144,7 @@
   {
     "id": "sporttv6pt_deportesportugal_303",
     "name": "Sport TV 6 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv6pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -3462,7 +3304,7 @@
   {
     "id": "arena1hr_deportesbalcanes_319",
     "name": "Arena Sport 1 HR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena1hr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3472,7 +3314,7 @@
   {
     "id": "arena2hr_deportesbalcanes_320",
     "name": "Arena Sport 2 HR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena2hr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3482,7 +3324,7 @@
   {
     "id": "arena3hr_deportesbalcanes_321",
     "name": "Arena Sport 3 HR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena3hr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3492,7 +3334,7 @@
   {
     "id": "arena4hr_deportesbalcanes_322",
     "name": "Arena Sport 4 HR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena4hr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3502,7 +3344,7 @@
   {
     "id": "arena5hr_deportesbalcanes_323",
     "name": "Arena Sport 5 HR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena5hr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3512,7 +3354,7 @@
   {
     "id": "arena6hr_deportesbalcanes_324",
     "name": "Arena Sport 6 HR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena6hr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3522,7 +3364,7 @@
   {
     "id": "arena1sr_deportesbalcanes_325",
     "name": "Arena Sport 1 SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena1sr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3532,7 +3374,7 @@
   {
     "id": "arena2sr_deportesbalcanes_326",
     "name": "Arena Sport 2 SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena2sr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3542,7 +3384,7 @@
   {
     "id": "arena3sr_deportesbalcanes_327",
     "name": "Arena Sport 3 SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena3sr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3552,7 +3394,7 @@
   {
     "id": "arena4sr_deportesbalcanes_328",
     "name": "Arena Sport 4 SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena4sr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3562,7 +3404,7 @@
   {
     "id": "arena5sr_deportesbalcanes_329",
     "name": "Arena Sport 5 SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena5sr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3572,7 +3414,7 @@
   {
     "id": "arena1srpr_deportesbalcanes_330",
     "name": "Arena Sport 1 Premium SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena1srpr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3582,7 +3424,7 @@
   {
     "id": "arena2srpr_deportesbalcanes_331",
     "name": "Arena Sport 2 Premium SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena2srpr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
@@ -3592,13 +3434,14 @@
   {
     "id": "arena3srpr_deportesbalcanes_333",
     "name": "Arena Sport 3 Premium SR",
-    "image": "https://arenasportevents.com/wp-content/uploads/2024/10/logo_arenasportsN.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/arenasports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/arena3srpr.php\"]",
     "category": "Deportes Balcanes",
     "country": "Unknown",
     "quality": "HD",
     "is_active": true
   },
+
   {
     "id": "cosmote1gr_deportesgrecia_335",
     "name": "Cosmote Sport 1",
@@ -3732,7 +3575,7 @@
   {
     "id": "sport1hu_deporteseuropa_348",
     "name": "Sport 1 Hungría",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport1hu.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -3742,7 +3585,7 @@
   {
     "id": "sport2hu_deporteseuropa_349",
     "name": "Sport 2 Hungría",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport2hu.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -3762,7 +3605,7 @@
   {
     "id": "nhlpass2_deportesusa_363",
     "name": "NHL Pass 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass2.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -3772,7 +3615,7 @@
   {
     "id": "nhlpass3_deportesusa_364",
     "name": "NHL Pass 3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass3.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -3782,7 +3625,7 @@
   {
     "id": "nhlpass4_deportesusa_365",
     "name": "NHL Pass 4",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass4.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -3792,7 +3635,7 @@
   {
     "id": "nhlpass5_deportesusa_366",
     "name": "NHL Pass 5",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass5.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -3802,7 +3645,7 @@
   {
     "id": "nhlpass6_deportesusa_367",
     "name": "NHL Pass 6",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass6.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -3812,7 +3655,7 @@
   {
     "id": "nhlpass7_deportesusa_368",
     "name": "NHL Pass 7",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlpass7.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -3822,7 +3665,7 @@
   {
     "id": "nhlextra1_deportesusa_369",
     "name": "NHL Extra 1",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/National_Hockey_League_shield.svg/1829px-National_Hockey_League_shield.svg.png",
+    "image": "https://logos-world.net/wp-content/uploads/2021/09/NHL-Logo-1917-1946-700x394.png",
     "iframe_url": "[\"https://welivesports.shop/embed/nhlextra1.php\"]",
     "category": "Deportes USA",
     "country": "Unknown",
@@ -4152,7 +3995,7 @@
   {
     "id": "movistarplus2_deportesespaña_409",
     "name": "Movistar Plus 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/1024px-Movistar%2B_Logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png",
     "iframe_url": "[\"https://welivesports.shop/embed/movistarplus2.php\"]",
     "category": "Deportes España",
     "country": "Unknown",
@@ -4162,7 +4005,7 @@
   {
     "id": "beines_deportesespaña_410",
     "name": "beIN Sports España",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/beines.php\"]",
     "category": "Deportes España",
     "country": "Unknown",
@@ -4172,7 +4015,7 @@
   {
     "id": "beinxtraes_deportesespaña_411",
     "name": "beIN Sports Xtra España",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/beinxtraes.php\"]",
     "category": "Deportes España",
     "country": "Unknown",
@@ -4182,7 +4025,7 @@
   {
     "id": "bein1fr_deportesfrancia_412",
     "name": "beIN Sports 1 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein1fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4192,7 +4035,7 @@
   {
     "id": "bein2fr_deportesfrancia_413",
     "name": "beIN Sports 2 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein2fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4202,7 +4045,7 @@
   {
     "id": "bein3fr_deportesfrancia_414",
     "name": "beIN Sports 3 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein3fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4212,7 +4055,7 @@
   {
     "id": "bein4fr_deportesfrancia_415",
     "name": "beIN Sports 4 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein4fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4222,7 +4065,7 @@
   {
     "id": "bein5fr_deportesfrancia_416",
     "name": "beIN Sports 5 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein5fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4232,7 +4075,7 @@
   {
     "id": "bein6fr_deportesfrancia_417",
     "name": "beIN Sports 6 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein6fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4242,7 +4085,7 @@
   {
     "id": "bein7fr_deportesfrancia_418",
     "name": "beIN Sports 7 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein7fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4252,7 +4095,7 @@
   {
     "id": "bein8fr_deportesfrancia_419",
     "name": "beIN Sports 8 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein8fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4262,7 +4105,7 @@
   {
     "id": "bein9fr_deportesfrancia_420",
     "name": "beIN Sports 9 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein9fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4272,7 +4115,7 @@
   {
     "id": "bein10fr_deportesfrancia_421",
     "name": "beIN Sports 10 Francia",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein10fr.php\"]",
     "category": "Deportes Francia",
     "country": "Unknown",
@@ -4282,7 +4125,7 @@
   {
     "id": "bein1tr_deportesturquía_422",
     "name": "beIN Sports 1 Turquía",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein1tr.php\"]",
     "category": "Deportes Turquía",
     "country": "Unknown",
@@ -4292,7 +4135,7 @@
   {
     "id": "bein2tr_deportesturquía_423",
     "name": "beIN Sports 2 Turquía",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein2tr.php\"]",
     "category": "Deportes Turquía",
     "country": "Unknown",
@@ -4302,7 +4145,7 @@
   {
     "id": "bein6r_deportesinternacional_424",
     "name": "beIN Sports 6",
-    "image": "https://play-lh.googleusercontent.com/CIBbQ0Xc3EnYnbAfyWYH4Y8b9GxO046GvV1PA1UxOC0b5iePizzgDNt4L24l8Ht25A",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png",
     "iframe_url": "[\"https://welivesports.shop/embed/bein6r.php\"]",
     "category": "Deportes Internacional",
     "country": "Unknown",
@@ -4312,7 +4155,7 @@
   {
     "id": "bundes1_deportesalemania_425",
     "name": "Sky Bundesliga 1",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes1.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4322,7 +4165,7 @@
   {
     "id": "bundes2_deportesalemania_426",
     "name": "Sky Bundesliga 2",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes2.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4332,7 +4175,7 @@
   {
     "id": "bundes3_deportesalemania_427",
     "name": "Sky Bundesliga 3",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes3.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4342,7 +4185,7 @@
   {
     "id": "bundes4_deportesalemania_428",
     "name": "Sky Bundesliga 4",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes4.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4352,7 +4195,7 @@
   {
     "id": "bundes5_deportesalemania_429",
     "name": "Sky Bundesliga 5",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes5.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4362,7 +4205,7 @@
   {
     "id": "bundes6_deportesalemania_430",
     "name": "Sky Bundesliga 6",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/bundes6.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4372,7 +4215,7 @@
   {
     "id": "skyspbundes_deportesalemania_431",
     "name": "Sky Sport Bundesliga",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyspbundes.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4382,7 +4225,7 @@
   {
     "id": "skymixde_deportesalemania_432",
     "name": "Sky Mix Alemania",
-    "image": "https://cache.pressmailing.net/thumbnail/story_hires/fbd69fdf-4236-4073-b192-b0a9d8b7d9f0/image.jpg",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skymixde.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4392,7 +4235,7 @@
   {
     "id": "magenta_deportesalemania_433",
     "name": "Magenta Sport",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4402,7 +4245,7 @@
   {
     "id": "magenta1_deportesalemania_434",
     "name": "Magenta Sport 1",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta1.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4412,7 +4255,7 @@
   {
     "id": "magenta2_deportesalemania_435",
     "name": "Magenta Sport 2",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta2.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4422,7 +4265,7 @@
   {
     "id": "magenta3_deportesalemania_436",
     "name": "Magenta Sport 3",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta3.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4432,7 +4275,7 @@
   {
     "id": "magenta4_deportesalemania_437",
     "name": "Magenta Sport 4",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta4.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4442,7 +4285,7 @@
   {
     "id": "magenta5_deportesalemania_438",
     "name": "Magenta Sport 5",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta5.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4452,7 +4295,7 @@
   {
     "id": "magenta6_deportesalemania_439",
     "name": "Magenta Sport 6",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta6.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4462,7 +4305,7 @@
   {
     "id": "magenta7_deportesalemania_440",
     "name": "Magenta Sport 7",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta7.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4472,7 +4315,7 @@
   {
     "id": "magenta8_deportesalemania_441",
     "name": "Magenta Sport 8",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta8.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4482,7 +4325,7 @@
   {
     "id": "magenta9_deportesalemania_442",
     "name": "Magenta Sport 9",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta9.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4492,7 +4335,7 @@
   {
     "id": "magenta10_deportesalemania_443",
     "name": "Magenta Sport 10",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta10.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4502,7 +4345,7 @@
   {
     "id": "magenta11_deportesalemania_444",
     "name": "Magenta Sport 11",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta11.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4512,7 +4355,7 @@
   {
     "id": "magenta12_deportesalemania_445",
     "name": "Magenta Sport 12",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta12.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4522,7 +4365,7 @@
   {
     "id": "magenta18_deportesalemania_446",
     "name": "Magenta Sport 18",
-    "image": "https://www.eisloewen.de/wp-content/uploads/2020/10/MagentaTest.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/magentasport.png",
     "iframe_url": "[\"https://welivesports.shop/embed/magenta18.php\"]",
     "category": "Deportes Alemania",
     "country": "Unknown",
@@ -4532,7 +4375,7 @@
   {
     "id": "skyaustria1_deportesaustria_447",
     "name": "Sky Sport Austria 1",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria1.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -4542,7 +4385,7 @@
   {
     "id": "skyaustria2_deportesaustria_448",
     "name": "Sky Sport Austria 2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria2.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -4552,7 +4395,7 @@
   {
     "id": "skyaustria3_deportesaustria_449",
     "name": "Sky Sport Austria 3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sky_Sport_Austria_Logo_2020.svg/2560px-Sky_Sport_Austria_Logo_2020.svg.png",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skyaustria3.php\"]",
     "category": "Deportes Austria",
     "country": "Unknown",
@@ -4712,7 +4555,7 @@
   {
     "id": "skysport1nz_deportesnuevazelanda_469",
     "name": "Sky Sport 1 NZ",
-    "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skysport1nz.php\"]",
     "category": "Deportes Nueva Zelanda",
     "country": "Unknown",
@@ -4722,7 +4565,7 @@
   {
     "id": "skysport2nz_deportesnuevazelanda_470",
     "name": "Sky Sport 2 NZ",
-    "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skysport2nz.php\"]",
     "category": "Deportes Nueva Zelanda",
     "country": "Unknown",
@@ -4732,7 +4575,7 @@
   {
     "id": "skysport3nz_deportesnuevazelanda_471",
     "name": "Sky Sport 3 NZ",
-    "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skysport3nz.php\"]",
     "category": "Deportes Nueva Zelanda",
     "country": "Unknown",
@@ -4742,7 +4585,7 @@
   {
     "id": "skysport4nz_deportesnuevazelanda_472",
     "name": "Sky Sport 4 NZ",
-    "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skysport4nz.php\"]",
     "category": "Deportes Nueva Zelanda",
     "country": "Unknown",
@@ -4752,7 +4595,7 @@
   {
     "id": "skysport5nz_deportesnuevazelanda_473",
     "name": "Sky Sport 5 NZ",
-    "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skysport5nz.php\"]",
     "category": "Deportes Nueva Zelanda",
     "country": "Unknown",
@@ -4762,7 +4605,7 @@
   {
     "id": "skysport7nz_deportesnuevazelanda_474",
     "name": "Sky Sport 7 NZ",
-    "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skysport7nz.php\"]",
     "category": "Deportes Nueva Zelanda",
     "country": "Unknown",
@@ -4772,7 +4615,7 @@
   {
     "id": "skysport8nz_deportesnuevazelanda_475",
     "name": "Sky Sport 8 NZ",
-    "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201",
+    "image": "https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt",
     "iframe_url": "[\"https://welivesports.shop/embed/skysport8nz.php\"]",
     "category": "Deportes Nueva Zelanda",
     "country": "Unknown",
@@ -4782,7 +4625,7 @@
   {
     "id": "sporttv1pt_deportesportugal_476",
     "name": "Sport TV 1 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv1pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -4792,7 +4635,7 @@
   {
     "id": "sporttv2pt_deportesportugal_477",
     "name": "Sport TV 2 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv2pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -4802,7 +4645,7 @@
   {
     "id": "sporttv3pt_deportesportugal_478",
     "name": "Sport TV 3 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv3pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -4812,7 +4655,7 @@
   {
     "id": "sporttv4pt_deportesportugal_479",
     "name": "Sport TV 4 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv4pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -4822,7 +4665,7 @@
   {
     "id": "sporttv5pt_deportesportugal_480",
     "name": "Sport TV 5 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv5pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -4832,7 +4675,7 @@
   {
     "id": "sporttv6pt_deportesportugal_481",
     "name": "Sport TV 6 Portugal",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sporttv6pt.php\"]",
     "category": "Deportes Portugal",
     "country": "Unknown",
@@ -4989,36 +4832,7 @@
     "quality": "HD",
     "is_active": true
   },
-  {
-    "id": "cosmote1gr_deportesgrecia_513",
-    "name": "Cosmote Sport 1",
-    "image": "https://images.seeklogo.com/logo-png/45/2/cosmote-logo-png_seeklogo-456540.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/cosmote1gr.php\"]",
-    "category": "Deportes Grecia",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "cosmote2gr_deportesgrecia_514",
-    "name": "Cosmote Sport 2",
-    "image": "https://images.seeklogo.com/logo-png/45/2/cosmote-logo-png_seeklogo-456540.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/cosmote2gr.php\"]",
-    "category": "Deportes Grecia",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
-  {
-    "id": "cosmote3gr_deportesgrecia_515",
-    "name": "Cosmote Sport 3",
-    "image": "https://images.seeklogo.com/logo-png/45/2/cosmote-logo-png_seeklogo-456540.png",
-    "iframe_url": "[\"https://welivesports.shop/embed/cosmote3gr.php\"]",
-    "category": "Deportes Grecia",
-    "country": "Unknown",
-    "quality": "HD",
-    "is_active": true
-  },
+
   {
     "id": "sportv2br_deportesbrasil_519",
     "name": "SporTV 2 Brasil",
@@ -5092,7 +4906,7 @@
   {
     "id": "sport1hu_deporteseuropa_526",
     "name": "Sport 1 Hungría",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport1hu.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -5102,7 +4916,7 @@
   {
     "id": "sport2hu_deporteseuropa_527",
     "name": "Sport 2 Hungría",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport2hu.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -5112,7 +4926,7 @@
   {
     "id": "sport1cz_deporteseuropa_528",
     "name": "Sport 1 Checa",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport1cz.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -5122,7 +4936,7 @@
   {
     "id": "sport2cz_deporteseuropa_529",
     "name": "Sport 2 Checa",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7jvHSov8bbm8RYQW3wN2eOwIzIlkHwJIUA&s",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg",
     "iframe_url": "[\"https://welivesports.shop/embed/sport2cz.php\"]",
     "category": "Deportes Europa",
     "country": "Unknown",
@@ -5562,7 +5376,7 @@
   {
     "id": "combate_deportes_1",
     "name": "Combate",
-    "image": "https://api.reidoscanais.io/img/combate.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",
     "iframe_url": "[\"https://rdcanais.top/combate\"]",
     "category": "Deportes",
     "country": "Brasil",
@@ -6572,7 +6386,7 @@
   {
     "id": "ufcfightpass_deportes_1",
     "name": "UFC Fight Pass",
-    "image": "https://api.reidoscanais.io/img/ufcfightpass.png",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/UFC_FIGHTPASS_LOGO_F.PNG",
     "iframe_url": "[\"https://rdcanais.top/ufcfightpass\"]",
     "category": "Deportes",
     "country": "Brasil",
@@ -6624,6 +6438,16 @@
     "name": "XSports",
     "image": "https://api.reidoscanais.io/img/xsports.png",
     "iframe_url": "[\"https://rdcanais.top/xsports\"]",
+    "category": "Deportes",
+    "country": "Brasil",
+    "quality": "HD",
+    "is_active": true
+  },
+  {
+    "id": "cazetv_deportes_1",
+    "name": "CAZÉ TV",
+    "image": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/caze%20tv.png",
+    "iframe_url": "[\"https://rdcanais.top/cazetv\", \"https://rdcanais.top/cazetv3\", \"https://rdcanais.top/cazetv2\"]",
     "category": "Deportes",
     "country": "Brasil",
     "quality": "HD",
