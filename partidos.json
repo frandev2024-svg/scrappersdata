@@ -17,68 +17,6 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=sportdigital",
         "calidad": ""
-      },
-      {
-        "nombre": "Fox Sports 2 USA",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even2",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T15:25:00Z",
-    "hora_argentina": "2026-02-13 12:25",
-    "logo": "https://bestleague.world/jr/104.png",
-    "liga": "Saudi Pro League",
-    "equipos": "Al Hilal - Al Ettifaq",
-    "deporte": "Fútbol",
-    "pais": "Arabia Saudita",
-    "canales": [
-      {
-        "nombre": "ES Vamos (WIGI)",
-        "url": "https://bolaloca.my/player/1/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (HOCA)",
-        "url": "https://bolaloca.my/player/2/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (CAST)",
-        "url": "https://bolaloca.my/player/3/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (WIGI)",
-        "url": "https://bolaloca.my/player/1/61",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (HOCA)",
-        "url": "https://bolaloca.my/player/2/61",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (CAST)",
-        "url": "https://bolaloca.my/player/3/61",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE dazn 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/124",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE dazn 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/124",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE dazn 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/124",
-        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -1255,6 +1193,23 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-13T18:30:00Z",
+    "hora_argentina": "2026-02-13 15:30",
+    "logo": "",
+    "liga": "DALLAS Open - Cuartos de Final",
+    "equipos": "DALLAS Open - Cuartos de Final",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even10",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
     "logo": "https://bestleague.world/jr/38.png",
@@ -2300,7 +2255,7 @@
       },
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
         "calidad": ""
       }
     ],
