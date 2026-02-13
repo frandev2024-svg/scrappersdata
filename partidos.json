@@ -1,61 +1,5 @@
 [
   {
-    "hora_utc": "2026-02-13T15:25:00Z",
-    "hora_argentina": "2026-02-13 12:25",
-    "logo": "https://bestleague.world/jr/55.png",
-    "liga": "Futbol Argentino",
-    "equipos": "Al Hilal vs Al Ittifaq",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=foxone1",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=sportdigital",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T15:25:00Z",
-    "hora_argentina": "2026-02-13 12:25",
-    "logo": "",
-    "liga": "Al-Hilal vs Al-Ettifaq",
-    "equipos": "Al-Hilal vs Al-Ettifaq",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "canal 148",
-        "url": "https://miatvhd.xyz/reproductor/canal148.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T16:30:00Z",
-    "hora_argentina": "2026-02-13 13:30",
-    "logo": "",
-    "liga": "Alejando Tabilo vs Tomas Echeverry",
-    "equipos": "Alejando Tabilo vs Tomas Echeverry",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even10",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-13T17:00:00Z",
     "hora_argentina": "2026-02-13 14:00",
     "logo": "https://bestleague.world/jr/123.png",
@@ -67,73 +11,6 @@
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney1",
-        "calidad": ""
-      },
-      {
-        "nombre": "beIN max 10 (WIGI)",
-        "url": "https://bolaloca.my/player/1/10",
-        "calidad": ""
-      },
-      {
-        "nombre": "beIN max 10 (HOCA)",
-        "url": "https://bolaloca.my/player/2/10",
-        "calidad": ""
-      },
-      {
-        "nombre": "beIN max 10 (CAST)",
-        "url": "https://bolaloca.my/player/3/10",
-        "calidad": ""
-      },
-      {
-        "nombre": "TR BeIN sport 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/151",
-        "calidad": ""
-      },
-      {
-        "nombre": "TR BeIN sport 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/151",
-        "calidad": ""
-      },
-      {
-        "nombre": "TR BeIN sport 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/151",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 60",
-        "url": "https://miatvhd.xyz/reproductor/canal60.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T17:00:00Z",
-    "hora_argentina": "2026-02-13 14:00",
-    "logo": "https://bestleague.world/jr/123.png",
-    "liga": "Super Lig",
-    "equipos": "Antalyaspor - Samsunspor",
-    "deporte": "Fútbol",
-    "pais": "Turquía",
-    "canales": [
-      {
-        "nombre": "TR BeIN sport 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/152",
-        "calidad": ""
-      },
-      {
-        "nombre": "TR BeIN sport 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/152",
-        "calidad": ""
-      },
-      {
-        "nombre": "TR BeIN sport 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/152",
         "calidad": ""
       },
       {
@@ -171,13 +48,30 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "38",
+        "nombre": "Antenasport Servidor 38",
         "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
         "nombre": "canal3poland",
         "url": "https://antenasport.top/canal3poland.php",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T17:00:00Z",
+    "hora_argentina": "2026-02-13 14:00",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/tr.png",
+    "liga": "Super Lig",
+    "equipos": "Antalyaspor vs Samsunspor",
+    "deporte": "Fútbol",
+    "pais": "Turquía",
+    "canales": [
+      {
+        "nombre": "canal 60",
+        "url": "https://miatvhd.xyz/reproductor/canal60.html",
         "calidad": ""
       }
     ],
@@ -405,7 +299,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/sa.png",
     "liga": "Al-Ittihad FC vs Al Fayha",
     "equipos": "Al-Ittihad FC vs Al Fayha",
     "deporte": "Deportes",
@@ -604,7 +498,7 @@
         "calidad": ""
       },
       {
-        "nombre": "39",
+        "nombre": "Antenasport Servidor 39",
         "url": "https://antenasport.top/39.php",
         "calidad": ""
       },
@@ -888,12 +782,12 @@
         "calidad": ""
       },
       {
-        "nombre": "19",
+        "nombre": "Antenasport Servidor 19",
         "url": "https://antenasport.top/19.php",
         "calidad": ""
       },
       {
-        "nombre": "21",
+        "nombre": "Antenasport Servidor 21",
         "url": "https://antenasport.top/21.php",
         "calidad": ""
       },
@@ -940,11 +834,11 @@
   {
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
-    "logo": "",
-    "liga": "National",
+    "logo": "https://flagcdn.com/w320/fr.png",
+    "liga": "Championnat National",
     "equipos": "Aubagne - Bourg en Bresse",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Francia",
     "canales": [
       {
         "nombre": "C+Live 12 (WIGI)",
@@ -967,11 +861,11 @@
   {
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
-    "logo": "",
-    "liga": "National",
+    "logo": "https://flagcdn.com/w320/fr.png",
+    "liga": "Championnat National",
     "equipos": "Fleury-Merogis - Villefranche",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Francia",
     "canales": [
       {
         "nombre": "C+Live 13 (WIGI)",
@@ -994,11 +888,11 @@
   {
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
-    "logo": "",
-    "liga": "National",
+    "logo": "https://flagcdn.com/w320/fr.png",
+    "liga": "Championnat National",
     "equipos": "Valenciennes - Stade Briochin",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Francia",
     "canales": [
       {
         "nombre": "C+Live 11 (WIGI)",
@@ -1178,7 +1072,7 @@
   {
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/bkb.png",
     "liga": "MĂłnaco vs Baskonia",
     "equipos": "MĂłnaco vs Baskonia",
     "deporte": "Deportes",
@@ -1195,7 +1089,7 @@
   {
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
-    "logo": "",
+    "logo": "https://static.futbolenlatv.com/img/32/20130618113307-tenis.png",
     "liga": "DALLAS Open - Cuartos de Final",
     "equipos": "DALLAS Open - Cuartos de Final",
     "deporte": "Deportes",
@@ -1224,7 +1118,7 @@
         "calidad": ""
       },
       {
-        "nombre": "28",
+        "nombre": "Antenasport Servidor 28",
         "url": "https://antenasport.top/28.php",
         "calidad": ""
       },
@@ -1497,7 +1391,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
     "liga": "Torneo Amistoso De Verano Cuartos De Final",
     "equipos": "San Antonio vs Deportivo Aurora",
     "deporte": "Fútbol",
@@ -1583,7 +1477,7 @@
         "calidad": ""
       },
       {
-        "nombre": "25",
+        "nombre": "Antenasport Servidor 25",
         "url": "https://antenasport.top/25.php",
         "calidad": ""
       },
@@ -1598,7 +1492,7 @@
   {
     "hora_utc": "2026-02-13T19:15:00Z",
     "hora_argentina": "2026-02-13 16:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/bkb.png",
     "liga": "Super League Greece",
     "equipos": "Panathinaikos vs FenerbahĂ§e",
     "deporte": "Fútbol",
@@ -1659,7 +1553,7 @@
         "calidad": ""
       },
       {
-        "nombre": "28",
+        "nombre": "Antenasport Servidor 28",
         "url": "https://antenasport.top/28.php",
         "calidad": ""
       },
@@ -1691,7 +1585,7 @@
         "calidad": ""
       },
       {
-        "nombre": "rtl",
+        "nombre": "Antenasport",
         "url": "https://antenasport.top/rtl.php",
         "calidad": ""
       },
@@ -1701,7 +1595,7 @@
         "calidad": ""
       },
       {
-        "nombre": "11",
+        "nombre": "Antenasport Servidor 11",
         "url": "https://antenasport.top/11.php",
         "calidad": ""
       },
@@ -1881,7 +1775,7 @@
     "pais": "Polonia",
     "canales": [
       {
-        "nombre": "38",
+        "nombre": "Antenasport Servidor 38",
         "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
@@ -1957,7 +1851,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/es.png",
     "liga": "AlmerĂ­a vs Andorra",
     "equipos": "AlmerĂ­a vs Andorra",
     "deporte": "Deportes",
@@ -2219,7 +2113,7 @@
         "calidad": ""
       },
       {
-        "nombre": "9",
+        "nombre": "Antenasport Servidor 9",
         "url": "https://antenasport.top/9.php",
         "calidad": ""
       },
@@ -2281,12 +2175,12 @@
         "calidad": ""
       },
       {
-        "nombre": "17",
+        "nombre": "Antenasport Servidor 17",
         "url": "https://antenasport.top/17.php",
         "calidad": ""
       },
       {
-        "nombre": "5",
+        "nombre": "Antenasport Servidor 5",
         "url": "https://antenasport.top/5.php",
         "calidad": ""
       },
@@ -2435,11 +2329,11 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "",
+    "logo": "https://bestleague.world/jr/104.png",
     "liga": "Pro League",
     "equipos": "KV Mechelen - Genk",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Bélgica",
     "canales": [
       {
         "nombre": "BE channel1 (WIGI)",
@@ -2635,12 +2529,12 @@
         "calidad": ""
       },
       {
-        "nombre": "30",
+        "nombre": "Antenasport Servidor 30",
         "url": "https://antenasport.top/30.php",
         "calidad": ""
       },
       {
-        "nombre": "6",
+        "nombre": "Antenasport Servidor 6",
         "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
@@ -3107,12 +3001,12 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "33",
+        "nombre": "Antenasport Servidor 33",
         "url": "https://antenasport.top/33.php",
         "calidad": ""
       },
       {
-        "nombre": "34",
+        "nombre": "Antenasport Servidor 34",
         "url": "https://antenasport.top/34.php",
         "calidad": ""
       },
@@ -3174,11 +3068,11 @@
   {
     "hora_utc": "2026-02-13T21:00:00Z",
     "hora_argentina": "2026-02-13 18:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
-    "liga": "Premier League",
+    "logo": "https://bestleague.world/jr/35.png",
+    "liga": "Primera Division Chile",
     "equipos": "Everton vs. Huachipato",
     "deporte": "Fútbol",
-    "pais": "Italia",
+    "pais": "Chile",
     "canales": [
       {
         "nombre": "TNT Sports Premium",
@@ -3211,7 +3105,7 @@
         "calidad": ""
       },
       {
-        "nombre": "MAX",
+        "nombre": "Tvtvhd",
         "url": "https://tvtvhd.com/canales.php?stream=max1",
         "calidad": ""
       },
@@ -3226,11 +3120,11 @@
   {
     "hora_utc": "2026-02-13T21:00:00Z",
     "hora_argentina": "2026-02-13 18:00",
-    "logo": "",
-    "liga": "Primera División",
+    "logo": "https://bestleague.world/jr/35.png",
+    "liga": "Primera Division Chile",
     "equipos": "Everton vs. Huachipato 22:00",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Chile",
     "canales": [
       {
         "nombre": "MAX Calidad 720p",
@@ -3285,11 +3179,11 @@
   {
     "hora_utc": "2026-02-13T21:30:00Z",
     "hora_argentina": "2026-02-13 18:30",
-    "logo": "",
-    "liga": "Primera División",
+    "logo": "https://flagcdn.com/w320/py.png",
+    "liga": "Primera Division Paraguay",
     "equipos": "Guaraní vs Sportivo San Lorenzo",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Paraguay",
     "canales": [
       {
         "nombre": "Tigo Sports Paraguay",
@@ -3302,11 +3196,11 @@
   {
     "hora_utc": "2026-02-13T22:00:00Z",
     "hora_argentina": "2026-02-13 19:00",
-    "logo": "",
-    "liga": "Cerro Largo vs Wanderers",
+    "logo": "https://bestleague.world/jr/56.png",
+    "liga": "Primera Division Uruguay",
     "equipos": "Cerro Largo vs Wanderers",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Uruguay",
     "canales": [
       {
         "nombre": "StreamX10",
@@ -3344,11 +3238,11 @@
   {
     "hora_utc": "2026-02-13T22:00:00Z",
     "hora_argentina": "2026-02-13 19:00",
-    "logo": "",
-    "liga": "Primera División",
+    "logo": "https://bestleague.world/jr/56.png",
+    "liga": "Primera Division Uruguay",
     "equipos": "Cerro Largo vs. Wanderers 23:00",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Uruguay",
     "canales": [
       {
         "nombre": "Disney+ Calidad 720p",
@@ -3361,11 +3255,11 @@
   {
     "hora_utc": "2026-02-13T22:00:00Z",
     "hora_argentina": "2026-02-13 19:00",
-    "logo": "",
+    "logo": "https://flagcdn.com/w320/co.png",
     "liga": "Liga Femenina",
     "equipos": "América de Cali vs Junior",
     "deporte": "Fútbol",
-    "pais": "",
+    "pais": "Colombia",
     "canales": [
       {
         "nombre": "Win Sports",
@@ -3467,7 +3361,7 @@
   {
     "hora_utc": "2026-02-13T23:00:00Z",
     "hora_argentina": "2026-02-13 20:00",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/arg.png",
     "liga": "Independiente vs LanĂşs",
     "equipos": "Independiente vs LanĂşs",
     "deporte": "Deportes",
@@ -3501,7 +3395,7 @@
   {
     "hora_utc": "2026-02-13T23:00:00Z",
     "hora_argentina": "2026-02-13 20:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
     "liga": "Torneo Amistoso De Verano Cuartos De Final",
     "equipos": "Bolívar vs Real Potosí",
     "deporte": "Fútbol",
@@ -3528,8 +3422,8 @@
   {
     "hora_utc": "2026-02-13T23:30:00Z",
     "hora_argentina": "2026-02-13 20:30",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
+    "logo": "https://bestleague.world/jr/35.png",
+    "liga": "Primera Division Chile",
     "equipos": "Palestino vs. U. De Chile",
     "deporte": "Fútbol",
     "pais": "Italia",
@@ -3555,7 +3449,7 @@
         "calidad": ""
       },
       {
-        "nombre": "cdf",
+        "nombre": "Miatvhd",
         "url": "https://miatvhd.xyz/reproductor/cdf.html",
         "calidad": ""
       }
@@ -3565,11 +3459,11 @@
   {
     "hora_utc": "2026-02-13T23:30:00Z",
     "hora_argentina": "2026-02-13 20:30",
-    "logo": "",
-    "liga": "Primera División",
+    "logo": "https://bestleague.world/jr/35.png",
+    "liga": "Primera Division Chile",
     "equipos": "Palestino vs Universidad Chile",
-    "deporte": "Fútbol",
-    "pais": "",
+    "deporte": "Deportes",
+    "pais": "Chile",
     "canales": [
       {
         "nombre": "StreamX10",
@@ -3582,7 +3476,7 @@
         "calidad": ""
       },
       {
-        "nombre": "MAX",
+        "nombre": "Tvtvhd",
         "url": "https://tvtvhd.com/canales.php?stream=max3",
         "calidad": ""
       }
@@ -3592,11 +3486,11 @@
   {
     "hora_utc": "2026-02-13T23:30:00Z",
     "hora_argentina": "2026-02-13 20:30",
-    "logo": "",
-    "liga": "Primera División",
+    "logo": "https://flagcdn.com/w320/py.png",
+    "liga": "Primera Division Paraguay",
     "equipos": "Deportivo Recoleta vs Sportivo Luqueño",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Paraguay",
     "canales": [
       {
         "nombre": "Tigo Sports Paraguay",
@@ -3631,11 +3525,11 @@
   {
     "hora_utc": "2026-02-14T00:30:00Z",
     "hora_argentina": "2026-02-13 21:30",
-    "logo": "",
-    "liga": "Primera División",
+    "logo": "https://bestleague.world/jr/56.png",
+    "liga": "Primera Division Uruguay",
     "equipos": "Liverpool vs Defensor Sporting",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Uruguay",
     "canales": [
       {
         "nombre": "StreamX10",
@@ -3653,11 +3547,11 @@
   {
     "hora_utc": "2026-02-14T00:30:00Z",
     "hora_argentina": "2026-02-13 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
-    "liga": "Premier League",
+    "logo": "https://bestleague.world/jr/56.png",
+    "liga": "Primera Division Uruguay",
     "equipos": "Liverpool M. - Defensor Sp.",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
+    "deporte": "Deportes",
+    "pais": "Uruguay",
     "canales": [
       {
         "nombre": "VTV plus (WIGI)",
@@ -3729,7 +3623,7 @@
         "calidad": ""
       },
       {
-        "nombre": "udn",
+        "nombre": "Miatvhd",
         "url": "https://miatvhd.xyz/reproductor/udn.html",
         "calidad": ""
       },
@@ -3944,7 +3838,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/co.png",
     "liga": "AmĂ©rica de Cali vs Ind. Santa Fe",
     "equipos": "AmĂ©rica de Cali vs Ind. Santa Fe",
     "deporte": "Deportes",
@@ -4140,11 +4034,11 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Torneo Lpf",
     "equipos": "Union de Santa Fe - San Lorenzo",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Argentina",
     "canales": [
       {
         "nombre": "TNT sport arg (WIGI)",
@@ -4167,7 +4061,7 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/arg.png",
     "liga": "Defensa y Justicia vs VĂ©lez Sarsfield",
     "equipos": "Defensa y Justicia vs VĂ©lez Sarsfield",
     "deporte": "Deportes",
@@ -4184,7 +4078,7 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/arg.png",
     "liga": "UniĂłn Santa Fe vs San Lorenzo",
     "equipos": "UniĂłn Santa Fe vs San Lorenzo",
     "deporte": "Deportes",
@@ -4287,11 +4181,11 @@
   {
     "hora_utc": "2026-02-14T02:00:00Z",
     "hora_argentina": "2026-02-13 23:00",
-    "logo": "",
-    "liga": "Primera División",
+    "logo": "https://flagcdn.com/w320/cr.png",
+    "liga": "Primera Division Costa Rica",
     "equipos": "Puntarenas vs Pérez Zeledón",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Costa Rica",
     "canales": [
       {
         "nombre": "FUTV",
@@ -4375,7 +4269,7 @@
         "calidad": ""
       },
       {
-        "nombre": "tdn",
+        "nombre": "Miatvhd",
         "url": "https://miatvhd.xyz/reproductor/tdn.html",
         "calidad": ""
       },
@@ -4568,12 +4462,12 @@
         "calidad": ""
       },
       {
-        "nombre": "17",
+        "nombre": "Antenasport Servidor 17",
         "url": "https://antenasport.top/17.php",
         "calidad": ""
       },
       {
-        "nombre": "33",
+        "nombre": "Antenasport Servidor 33",
         "url": "https://antenasport.top/33.php",
         "calidad": ""
       }
@@ -4595,7 +4489,7 @@
         "calidad": ""
       },
       {
-        "nombre": "8",
+        "nombre": "Antenasport Servidor 8",
         "url": "https://antenasport.top/8.php",
         "calidad": ""
       }
@@ -4617,7 +4511,7 @@
         "calidad": ""
       },
       {
-        "nombre": "16",
+        "nombre": "Antenasport Servidor 16",
         "url": "https://antenasport.top/16.php",
         "calidad": ""
       }
@@ -4634,12 +4528,12 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "18",
+        "nombre": "Antenasport Servidor 18",
         "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
-        "nombre": "38",
+        "nombre": "Antenasport Servidor 38",
         "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
@@ -4725,7 +4619,7 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "6",
+        "nombre": "Antenasport Servidor 6",
         "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
@@ -4782,7 +4676,7 @@
         "calidad": ""
       },
       {
-        "nombre": "26",
+        "nombre": "Antenasport Servidor 26",
         "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
@@ -4833,7 +4727,7 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "9",
+        "nombre": "Antenasport Servidor 9",
         "url": "https://antenasport.top/9.php",
         "calidad": ""
       },
@@ -4875,7 +4769,7 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "40",
+        "nombre": "Antenasport Servidor 40",
         "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
@@ -4885,7 +4779,7 @@
         "calidad": ""
       },
       {
-        "nombre": "tf1",
+        "nombre": "Antenasport",
         "url": "https://antenasport.top/tf1.php",
         "calidad": ""
       },
@@ -4907,7 +4801,7 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "12",
+        "nombre": "Antenasport Servidor 12",
         "url": "https://antenasport.top/12.php",
         "calidad": ""
       },
@@ -4934,12 +4828,12 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "15",
+        "nombre": "Antenasport Servidor 15",
         "url": "https://antenasport.top/15.php",
         "calidad": ""
       },
       {
-        "nombre": "17",
+        "nombre": "Antenasport Servidor 17",
         "url": "https://antenasport.top/17.php",
         "calidad": ""
       },
@@ -4971,7 +4865,7 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "13",
+        "nombre": "Antenasport Servidor 13",
         "url": "https://antenasport.top/13.php",
         "calidad": ""
       },
@@ -4998,7 +4892,7 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "11",
+        "nombre": "Antenasport Servidor 11",
         "url": "https://antenasport.top/11.php",
         "calidad": ""
       },
@@ -5050,7 +4944,7 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "14",
+        "nombre": "Antenasport Servidor 14",
         "url": "https://antenasport.top/14.php",
         "calidad": ""
       },
@@ -5072,7 +4966,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "7",
+        "nombre": "Antenasport Servidor 7",
         "url": "https://antenasport.top/7.php",
         "calidad": ""
       }
@@ -5089,7 +4983,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "8",
+        "nombre": "Antenasport Servidor 8",
         "url": "https://antenasport.top/8.php",
         "calidad": ""
       },
@@ -5116,7 +5010,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "34",
+        "nombre": "Antenasport Servidor 34",
         "url": "https://antenasport.top/34.php",
         "calidad": ""
       },
@@ -5148,7 +5042,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "33",
+        "nombre": "Antenasport Servidor 33",
         "url": "https://antenasport.top/33.php",
         "calidad": ""
       },
@@ -5175,7 +5069,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "32",
+        "nombre": "Antenasport Servidor 32",
         "url": "https://antenasport.top/32.php",
         "calidad": ""
       },
@@ -5207,7 +5101,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "35",
+        "nombre": "Antenasport Servidor 35",
         "url": "https://antenasport.top/35.php",
         "calidad": ""
       }
@@ -5224,7 +5118,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "36",
+        "nombre": "Antenasport Servidor 36",
         "url": "https://antenasport.top/36.php",
         "calidad": ""
       }
@@ -5241,7 +5135,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "37",
+        "nombre": "Antenasport Servidor 37",
         "url": "https://antenasport.top/37.php",
         "calidad": ""
       }
@@ -5258,7 +5152,7 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "31",
+        "nombre": "Antenasport Servidor 31",
         "url": "https://antenasport.top/31.php",
         "calidad": ""
       },
@@ -5285,12 +5179,12 @@
         "calidad": ""
       },
       {
-        "nombre": "18",
+        "nombre": "Antenasport Servidor 18",
         "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
-        "nombre": "38",
+        "nombre": "Antenasport Servidor 38",
         "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
@@ -5342,7 +5236,7 @@
         "calidad": ""
       },
       {
-        "nombre": "23",
+        "nombre": "Antenasport Servidor 23",
         "url": "https://antenasport.top/23.php",
         "calidad": ""
       }
@@ -5352,11 +5246,11 @@
   {
     "hora_utc": "2026-02-14T15:00:00Z",
     "hora_argentina": "2026-02-14 12:00",
-    "logo": "",
-    "liga": "Borac Banja Luka vs Zrinjski",
+    "logo": "https://flagcdn.com/w320/ba.png",
+    "liga": "Premijer Liga",
     "equipos": "Borac Banja Luka vs Zrinjski",
-    "deporte": "Deportes",
-    "pais": "",
+    "deporte": "Fútbol",
+    "pais": "Bosnia y Herzegovina",
     "canales": [
       {
         "nombre": "arena1premiumbosnia",
@@ -5376,7 +5270,7 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "6",
+        "nombre": "Antenasport Servidor 6",
         "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
@@ -5440,7 +5334,7 @@
         "calidad": ""
       },
       {
-        "nombre": "26",
+        "nombre": "Antenasport Servidor 26",
         "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
@@ -5462,7 +5356,7 @@
         "calidad": ""
       },
       {
-        "nombre": "21",
+        "nombre": "Antenasport Servidor 21",
         "url": "https://antenasport.top/21.php",
         "calidad": ""
       }
@@ -5501,7 +5395,7 @@
         "calidad": ""
       },
       {
-        "nombre": "10",
+        "nombre": "Antenasport Servidor 10",
         "url": "https://antenasport.top/10.php",
         "calidad": ""
       }
@@ -5528,11 +5422,11 @@
   {
     "hora_utc": "2026-02-14T16:00:00Z",
     "hora_argentina": "2026-02-14 13:00",
-    "logo": "",
-    "liga": "København vs Nordsjælland",
+    "logo": "https://flagcdn.com/w320/dk.png",
+    "liga": "Danish Superliga",
     "equipos": "København vs Nordsjælland",
-    "deporte": "Deportes",
-    "pais": "",
+    "deporte": "Fútbol",
+    "pais": "Dinamarca",
     "canales": [
       {
         "nombre": "tv2sportdk",
@@ -5552,7 +5446,7 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "39",
+        "nombre": "Antenasport Servidor 39",
         "url": "https://antenasport.top/39.php",
         "calidad": ""
       },
@@ -5606,7 +5500,7 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "40",
+        "nombre": "Antenasport Servidor 40",
         "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
@@ -5616,7 +5510,7 @@
         "calidad": ""
       },
       {
-        "nombre": "tf1",
+        "nombre": "Antenasport",
         "url": "https://antenasport.top/tf1.php",
         "calidad": ""
       },
@@ -5680,7 +5574,7 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "11",
+        "nombre": "Antenasport Servidor 11",
         "url": "https://antenasport.top/11.php",
         "calidad": ""
       },
@@ -5742,7 +5636,7 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "6",
+        "nombre": "Antenasport Servidor 6",
         "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
@@ -5789,7 +5683,7 @@
         "calidad": ""
       },
       {
-        "nombre": "26",
+        "nombre": "Antenasport Servidor 26",
         "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
@@ -5811,7 +5705,7 @@
         "calidad": ""
       },
       {
-        "nombre": "26",
+        "nombre": "Antenasport Servidor 26",
         "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
@@ -5828,17 +5722,17 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "18",
+        "nombre": "Antenasport Servidor 18",
         "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
-        "nombre": "38",
+        "nombre": "Antenasport Servidor 38",
         "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
       {
-        "nombre": "3",
+        "nombre": "Antenasport Servidor 3",
         "url": "https://antenasport.top/3.php",
         "calidad": ""
       },
@@ -5917,7 +5811,7 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "39",
+        "nombre": "Antenasport Servidor 39",
         "url": "https://antenasport.top/39.php",
         "calidad": ""
       },
@@ -5954,7 +5848,7 @@
         "calidad": ""
       },
       {
-        "nombre": "21",
+        "nombre": "Antenasport Servidor 21",
         "url": "https://antenasport.top/21.php",
         "calidad": ""
       }
@@ -5976,7 +5870,7 @@
         "calidad": ""
       },
       {
-        "nombre": "23",
+        "nombre": "Antenasport Servidor 23",
         "url": "https://antenasport.top/23.php",
         "calidad": ""
       }
@@ -5993,7 +5887,7 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "30",
+        "nombre": "Antenasport Servidor 30",
         "url": "https://antenasport.top/30.php",
         "calidad": ""
       },
@@ -6025,12 +5919,12 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "9",
+        "nombre": "Antenasport Servidor 9",
         "url": "https://antenasport.top/9.php",
         "calidad": ""
       },
       {
-        "nombre": "3",
+        "nombre": "Antenasport Servidor 3",
         "url": "https://antenasport.top/3.php",
         "calidad": ""
       },
@@ -6082,12 +5976,12 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "40",
+        "nombre": "Antenasport Servidor 40",
         "url": "https://antenasport.top/40.php",
         "calidad": ""
       },
       {
-        "nombre": "6",
+        "nombre": "Antenasport Servidor 6",
         "url": "https://antenasport.top/6.php",
         "calidad": ""
       },
@@ -6154,12 +6048,12 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "18",
+        "nombre": "Antenasport Servidor 18",
         "url": "https://antenasport.top/18.php",
         "calidad": ""
       },
       {
-        "nombre": "38",
+        "nombre": "Antenasport Servidor 38",
         "url": "https://antenasport.top/38.php",
         "calidad": ""
       },
@@ -6216,7 +6110,7 @@
         "calidad": ""
       },
       {
-        "nombre": "39",
+        "nombre": "Antenasport Servidor 39",
         "url": "https://antenasport.top/39.php",
         "calidad": ""
       }
@@ -6238,7 +6132,7 @@
         "calidad": ""
       },
       {
-        "nombre": "26",
+        "nombre": "Antenasport Servidor 26",
         "url": "https://antenasport.top/26.php",
         "calidad": ""
       }
@@ -6287,7 +6181,7 @@
         "calidad": ""
       },
       {
-        "nombre": "10",
+        "nombre": "Antenasport Servidor 10",
         "url": "https://antenasport.top/10.php",
         "calidad": ""
       }
@@ -6314,7 +6208,7 @@
         "calidad": ""
       },
       {
-        "nombre": "21",
+        "nombre": "Antenasport Servidor 21",
         "url": "https://antenasport.top/21.php",
         "calidad": ""
       }
@@ -6487,11 +6381,11 @@
   {
     "hora_utc": "2026-02-15T12:00:00Z",
     "hora_argentina": "2026-02-15 09:00",
-    "logo": "",
-    "liga": "Široki Brijeg vs Velež Premijer Liga",
+    "logo": "https://flagcdn.com/w320/ba.png",
+    "liga": "Premijer Liga",
     "equipos": "Široki Brijeg vs Velež Premijer Liga",
-    "deporte": "Deportes",
-    "pais": "",
+    "deporte": "Fútbol",
+    "pais": "Bosnia y Herzegovina",
     "canales": [
       {
         "nombre": "arena1premiumbosnia",
@@ -6819,11 +6713,11 @@
   {
     "hora_utc": "2026-02-15T14:15:00Z",
     "hora_argentina": "2026-02-15 11:15",
-    "logo": "",
-    "liga": "Radnik Bijeljina vs Posušje Premijer Liga",
+    "logo": "https://flagcdn.com/w320/ba.png",
+    "liga": "Premijer Liga",
     "equipos": "Radnik Bijeljina vs Posušje Premijer Liga",
-    "deporte": "Deportes",
-    "pais": "",
+    "deporte": "Fútbol",
+    "pais": "Bosnia y Herzegovina",
     "canales": [
       {
         "nombre": "arena1premiumbosnia",
@@ -6897,7 +6791,7 @@
         "calidad": ""
       },
       {
-        "nombre": "tf1",
+        "nombre": "Antenasport",
         "url": "https://antenasport.top/tf1.php",
         "calidad": ""
       },
@@ -8024,11 +7918,11 @@
   {
     "hora_utc": "2026-02-19T17:45:00Z",
     "hora_argentina": "2026-02-19 14:45",
-    "logo": "",
-    "liga": "KuPS vs Lech PoznaÅ„",
+    "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/3/3a/05_NHL_Shield.svg/1280px-05_NHL_Shield.svg.png",
+    "liga": "Veikkausliiga",
     "equipos": "KuPS vs Lech PoznaÅ„",
-    "deporte": "Deportes",
-    "pais": "",
+    "deporte": "Hockey",
+    "pais": "Finlandia",
     "canales": [],
     "date_offset": 0
   },
