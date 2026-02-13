@@ -2410,6 +2410,12 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://voe.sx/e/koanrw564kfw"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/jki6jhivrwsb"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/w500/ecpETxTPyVFai17hMMoFGy1ruLO.jpg",
@@ -3364,6 +3370,12 @@
         "quality": "HD",
         "language": "LATINO",
         "embed_url": "https://voe.sx/e/xrjs8wdqflye"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ar0exx8aoenz"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/dfJ9PqicF0cswNDsostHrGVueiq.jpg",
@@ -52677,13 +52689,94 @@
         "quality": "HD",
         "language": "EN",
         "embed_url": "https://streamwish.to/e/p70f7q3nlbik"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/9gtbdpui5dgq"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/bebv6tdh2a8y"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/ueofs008uctc"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/fh8jdfczekuk"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/qTW25RBkeDs3"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/9mcgjslnyfuh"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/int2yu6j7prz"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/h4bmifyqtwyb"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/9D6Z7RJYaJw8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/hfzx1bi3eb5l"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/sm8l3vptfmws"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/i7qgrzng9ufb"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/vpYs6ABMiqNu"
       }
     ],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
+    "poster_url": "https://image.tmdb.org/t/p/original/u6DNzvz4y3XS5QYqsvvauIx4Xvc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/1leYKN0DPNffpldGnCWnbXaiWoD.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Suspenso"
+    ],
+    "overview": "Una madre que huye de su marido, relacionado con la mafia, encuentra refugio en casa de un vagabundo llamado Jake, pero cuando los hombres de su marido se acercan, Jake resulta ser más peligroso que cualquiera de los que ella huye.",
+    "rating": 6.63
   },
   {
     "tmdb_id": 1060691,
@@ -56400,6 +56493,30 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/5uKLUGtBMmPc"
+      },
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/sfh8hgi00knl"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/twox47fdykfl"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/eepycows1otf"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/SZtcrKNVzdha"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg",
@@ -56715,6 +56832,24 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/MN8DSyj7r2m5"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/gmotxu38npoi"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/qyingkdxhe0j"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/erh04mczkebu"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/on7B7pjf2XsI1oa8fQxszMoa4Rg.jpg",
@@ -57472,6 +57607,36 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/Muk9tZ4aMHw2"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/foz5583oigla"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/yvnconqyrncq"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/yiyycv0lqn33"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/6gk8wuq2bami"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/qJGxZlWGnTLM"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/cv09iyQhL9jqYQ7G0p9KE7ccwCZ.jpg",
@@ -58374,6 +58539,36 @@
         "quality": "CAM",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/nAFkoCQw3mLp"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/bzjp5p0obv6h"
+      },
+      {
+        "server": "filemoon",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/n2u0muuqi8cp"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/uj9cnhyvoiig"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/e5dcljzygtyt"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/wrU5qaZIqCs1"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/tgmtRhwt3NuWXF9piH1pA7CEQA5.jpg",
@@ -58608,6 +58803,30 @@
         "quality": "CAM",
         "language": "LATINO",
         "embed_url": "https://voe.sx/e/xhzir89wkqj5"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/ygv6mv7wsttd"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/1c2douwtvbcv"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/nl8bpikblnby"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/mAdEsGbbtUFh"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg",
@@ -59556,6 +59775,12 @@
         "quality": "SCR",
         "language": "LATINO",
         "embed_url": "https://voe.sx/e/xwqf41zgfbc6"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/emuqfvwe1nyf"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/1hRdOzLWpXdNawaNhktTnRoM0w1.jpg",
@@ -60026,6 +60251,24 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://voe.sx/e/evcdeyyhrwdc"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/bpjziiouprqb"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/uq8aup8brpuc"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/q02eox8ld3ni"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/hENLu86h3zljg0x8bdy8cOUxZF5.jpg",
@@ -60114,6 +60357,18 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://voe.sx/e/hvx7u6bbi0iw"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/zacgmgwvtnsc"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/cwkopg5digig"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
@@ -60850,6 +61105,30 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://voe.sx/e/6g3arwkopsoz"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/cca8bo91t1hf"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/v5w285sqd2oz"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/a8m08ylqh1jd"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/x4p3t2nvlorj"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/afTkeXGBGhp3jekam0vG1dQihOr.jpg",
@@ -60973,6 +61252,18 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://voe.sx/e/g7qexikxzx6b"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/9ic7lajed9mu"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/rwldowapcgjv"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg",
@@ -63917,6 +64208,12 @@
         "quality": "HD",
         "language": "ESPANOL",
         "embed_url": "https://voe.sx/e/dgltuf3rkqpe"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/xe12od8apvbf"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/a2EdW8sk22fNCvrpOiaHbR2hOuZ.jpg",
@@ -63993,6 +64290,36 @@
         "quality": "HD",
         "language": "ESPANOL",
         "embed_url": "https://waaw.to/f/Wytagq8UlrIp"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/va7n5h15djn4"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/oo9db7y46d5d"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/4m5zm3d526tr"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/r0d6njaghn33"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/4fykaqwXmeW0"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/fDcHWsESmG7j8fnVbPxR6dQz0vA.jpg",
@@ -64113,6 +64440,36 @@
         "quality": "HD",
         "language": "LATINO",
         "embed_url": "https://waaw.to/f/ftGkT4kw0wbd"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/mj74yf55kxxz"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/eai9113ggtxc"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/t42l7unqh5qs"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/8gdiv69fbhdp"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/7voYK9hikwwR"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/x84psre99S5nqaFatB8wtHVXFYA.jpg",
@@ -64439,6 +64796,12 @@
         "quality": "CAM",
         "language": "LATINO",
         "embed_url": "https://voe.sx/e/w9m7rcqek62r"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/l21oeeh9p50j"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/v12qqT8GrLjdGj4mnp4iMik7kvx.jpg",
@@ -64840,6 +65203,30 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://voe.sx/e/wwjonbsenbji"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/n8cp9j0s73cv"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/cguukv8vokxh"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/z0k41ude1djg"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/w0eg0mnqcqoc"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/cTi6t2F7i5MjhqRIEBjav6GJLfa.jpg",
@@ -65392,6 +65779,36 @@
         "quality": "CAM",
         "language": "LATINO",
         "embed_url": "https://waaw.to/f/NDtthtVQ0Gje"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/oomi7defm9jo"
+      },
+      {
+        "server": "filemoon",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/vok4fsdinle1"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/1ziicf21z5wq"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/g1dyx1fekraf"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Mqmk19SMuV45"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/cApRXj6meulAQMYQrhjfVvZEItl.jpg",
@@ -65470,6 +65887,30 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/F5CeRnBbudUI"
+      },
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/iufgg4q7udup"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/6rxfb643vy9i"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/kofb3qz5zdvl"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/xzuGDIkYfNPn"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
@@ -65544,5 +65985,981 @@
     ],
     "overview": "A gangster in modern day Chicago, inspired by the repentance story of the fourth-century saint of the same name.",
     "rating": 6
+  },
+  {
+    "tmdb_id": 83533,
+    "title": "Avatar: Fuego y ceniza",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/6ilq2xsjim7l"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/4g76c541856q"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/tdbbzf45jv0e"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/S7rGRtqPXOJ5"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/f6xeup495w8a"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/dkkme261e3j9"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/edwvobt0xpxs"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/3DrjO2gH5ZcR"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+    "genres_spanish": [
+      "Ciencia ficción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "overview": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
+    "rating": 7.3
+  },
+  {
+    "tmdb_id": 76600,
+    "title": "Avatar: El camino del agua",
+    "year": "2022",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/7qjav5oqg6it"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/3ta088a8o2u0"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/aobxdeu7lekb"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamtape.com/e/Lko6PbY2wlcR09O"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Ut6BzTYyDfSY"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/qrz21b9ir82y"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/d0o1abxauk7f"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/hbmabcfllrsd"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamtape.com/e/6xmklwYMQMs93Jz"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/EbNQqWPiZ6Rj"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/8ktcnvwnsf77"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/j0hbchejn4ki"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/bx1dzwqtwgcu"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamtape.com/e/bg1X1bJOVjIP11m"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/aBk31zi8pF04"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/oIVSTKNyKvjm4NmmJi4zjQqHJ02.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ],
+    "overview": "Más de una década después, los hombres del cielo regresan a Pandora. Entonces Jake Sully, Neytiri y sus hijos deciden hacer un gran sacrificio para mantener a su pueblo a salvo y seguir con vida.",
+    "rating": 7.6
+  },
+  {
+    "tmdb_id": 19995,
+    "title": "Avatar",
+    "year": "2009",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/0vq1yrj22ugs"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/159htcteizva"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/o93m2kptzblp"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ksjuftahnmud"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamtape.com/e/90g7ZVqOOpFadZZ"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/eBj494x56M3u"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/5aqpedmpbl8e"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/xy11okfp13cb"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamtape.com/e/zVG7kXPYArTYqoM"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/LsqVKw3HhwyZ"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/fvggevd6ko64"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/7ylil263fq8g"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/hz537hu1z43t"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamtape.com/e/VOJVOO2vW6hKl4w"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/4EgMYfAOI34h"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8zHIgB6tP34Ie34ddllzLg3F4YP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Aventura",
+      "Fantasía",
+      "Ciencia ficción"
+    ],
+    "overview": "Jake Sully, un soldado parapléjico, ha sido designado para ir a la luna Pandora, habitado por una raza de humanoides extraterrestres inteligentes llamados Los Na'vi, en una misión única a través de un avatar.",
+    "rating": 7.6
+  },
+  {
+    "tmdb_id": 613200,
+    "title": "The King's Avatar: Por la gloria",
+    "year": "2019",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/h3qg9978v3x6"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/zt4mcrn4ddfk"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/hc14db1ifmev"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/6xiyohyyarob"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/VCAqwgjYVLol"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/zQKPOfneRHrCa3U41yDSNv3U7HT.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/479lwbWHo18dO5RayDNXSU5J1FL.jpg",
+    "genres_spanish": [
+      "Animación",
+      "Acción",
+      "Drama"
+    ],
+    "overview": "Un grupo de jóvenes es patrocinado por el dueño de un cibercafé para formar un equipo de e-sports para participar en las competencias nacionales.",
+    "rating": 6.5
+  },
+  {
+    "tmdb_id": 1332632,
+    "title": "El diablo en el camino",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/9ycshaom3wdo"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/nismcdelau32"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/u14r254977d8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/33cibqxcdylc"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/zF87P166dAWq"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/3Fykh6rJgA81Qae2TwMmLbmbH8v.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/haDYsKBl30bwe5GeXtshPMAt8Ep.jpg",
+    "genres_spanish": [],
+    "overview": "Tras ser herido en la guerra cristera en 1926, en la que peleó como mercenario del Ejército Federal, Juan deserta de la batalla. Años más tarde, sufre la muerte de su hijo, Jesús. Esta tragedia obliga a Juan a cargar el ataúd para enterrar a Jesús en Porvenir, el pueblo donde yace la tumba de su esposa. En su travesía, debe cruzar un devastado país, olvidado por Dios, y perderse en caminos acechados por el Diablo.",
+    "rating": 0
+  },
+  {
+    "tmdb_id": 1570282,
+    "title": "Ahí estoy yo",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/xorbshs1wesd"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/95u2owo8m4x3"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/uazscdtqw7f8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/pix5w6theaov"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/6apKPkQOuu1S"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/2wpcyna2cpdh"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/27vogecoo6cf"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/hh76hxashh8d"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/qeuw96uvx0tj"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/kngVRPRj7eJ2"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/4FP1VC8igFCrARf7bEpjScVjusy.jpg",
+    "genres_spanish": [
+      "Drama",
+      "Música"
+    ],
+    "overview": "Tras descubrir un sentido de pertenencia en un cabaré y recibir ayuda de un médico, Kenji, un chico acosado por querer ser una estrella, saca a la luz su verdadero ser, Ai Haruna.",
+    "rating": 6
+  },
+  {
+    "tmdb_id": 1286185,
+    "title": "El Hijo Del Carpintero",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/c3dgw3bsz7wc"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/05hh8pxstg5y"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/m63oj1wzhigj"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/fnb5stodgqng"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/KaPRpWaCUgAT"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/knrltu7mmesr"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/w27cguv3cukc"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/hhjtnyzamziv"
+      },
+      {
+        "server": "streamtape",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamtape.com/e/vPOjjbov87i4p72"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/5D9Bp2i1llzy"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/uoXkBUyKPSs6aLVHZZBTsskEXGy.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/aP7w2JPEDyIukrYxIGHmTrmYOWJ.jpg",
+    "genres_spanish": [
+      "Terror"
+    ],
+    "overview": "En una aldea en las remotas fronteras del Imperio Romano, un niño bajo la protección de un carpintero comienza a cuestionar la autoridad de su guardián. Su curiosidad y su búsqueda por desentrañar los secretos de su familia despertarán fuerzas sobrenaturales que trascienden la comprensión.",
+    "rating": 5.35
+  },
+  {
+    "tmdb_id": 1456349,
+    "title": "Fue solo un accidente",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/f19bh5xxd0cr"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/v593qf33shbp"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/wqmo5953l4e3"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/qmy84ckom7mf"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Hk2HK1O4clZ9"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/a6l66mjf7z0q"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/0ggseqcc1959"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/j0uzza33gqiu"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/ZQoUiDRn9p93"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8xmahzfDqS7di4kIoIDxXz1dgPC.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+    "genres_spanish": [
+      "Drama",
+      "Suspenso",
+      "Crimen",
+      "Misterio"
+    ],
+    "overview": "Vahid, un modesto mecánico iraní, se ve repentinamente forzado a rememorar su tiempo entre rejas a raíz de un encuentro casual con Eghbal, quien le recuerda a su sádico carcelero. Alarmado, Vahid reúne a sus antiguos compañeros de prisión para verificar la identidad de Eghbal. Pero… ¿Qué harán si resulta ser él?",
+    "rating": 7.18
+  },
+  {
+    "tmdb_id": 1364904,
+    "title": "Un fantasma para servirte",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/q6fck4qbfvag"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/wlbeqzz4wjcy"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/48otsmk0p1ec"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/l0msatfgsegn"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/v1kw0edL4zfh"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/bcwbvv2jcr26"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/gb0ngjdpg5ny"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/ewi6ai69g680"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/nbpmzmpuqtit"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/5ZQdAQy8OZBb"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/t1TwPiXtkE3WlkU5r7cqKwTth0C.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/ceTxx1kqdygf9mBvVOT9oE1OCil.jpg",
+    "genres_spanish": [
+      "Comedia",
+      "Drama",
+      "Fantasía"
+    ],
+    "overview": "Tras la trágica muerte de Nat a causa de la contaminación por polvo, March se ve consumido por el dolor. Pero su vida cotidiana da un vuelco cuando descubre que el espíritu de su mujer se ha reencarnado en una aspiradora. Por absurdo que parezca, su vínculo se reaviva, haciéndose más fuerte que nunca...",
+    "rating": 6.9
+  },
+  {
+    "tmdb_id": 1503900,
+    "title": "Halloween: La noche del espantapajaros",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/6zmh6te3a23o"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/5t7mum0kwitr"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/69yh8yi1lj7l"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/xh1wgvgx5qny"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/z1KogQKAS9Ch"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/yep5v07o8uvs"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/9gubspaip6c2"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/t4055m7t0xn7"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/zoegtnhuv5vd"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/zAjoYZEJWWGm"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/04ybzp9l10zz"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/8kwb5595299o"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/cnq181e1r3ti"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/gl8a7yfettuj"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/7FzdpV7AcvLI"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/sYDbxAPS7pD5S1HBvwvhvh80fxr.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/ez8EB8pWGZYDWx9OEVqDR5r9hQc.jpg",
+    "genres_spanish": [
+      "Terror",
+      "Suspenso"
+    ],
+    "overview": "Ambientada en la noche de Halloween en la Seattle de los años 80, Die'ced: Reloaded sigue a un asesino en serie llamado Benny que escapa de un manicomio y desata una violenta matanza. Su principal objetivo es Cassandra, una joven con una conexión oculta con su pasado. A medida que avanza la noche, un grupo de sobrevivientes debe enfrentarse a Benny antes de que más vidas sean reclamadas.",
+    "rating": 4
+  },
+  {
+    "tmdb_id": 1317288,
+    "title": "Marty Supremo",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/hw0fjms9fxwx"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/mt6fiexrah7e"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/dynrodjuninm"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/sHahPxKQqsak"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/q21z48i4cvhx"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/h5tr0l6gl3h8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/54vfq0urucr7"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/edhw35t2nfad"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/jctiZ1I2p4b6mceR85QxYhgs4Ft.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+    "genres_spanish": [
+      "Drama"
+    ],
+    "overview": "Muestra el viaje de Marty Reisman, un buscavidas convertido en campeón de ping-pong que se convirtió en el más veterano en ganar una competición nacional, con 67 años.",
+    "rating": 7.71
+  },
+  {
+    "tmdb_id": 1262815,
+    "title": "El coro de Ramsden",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/7l0x1bay0sr0"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/l0510vlrgwwh"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/ax0qq4ovwxkw"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/vszlzgp6y5wp"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/wTS2gV7feGQD"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/vmvump37sp9x"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/oo82et99fcfy"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/2qaf57idek3r"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/f95bsqnnhw2h"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/RKjC0QdDITjC"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/iLNyy9jXTdod8yPOn2tQrVEyuO2.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/4zyeIE8ceP95gehaPsgqamEYRuy.jpg",
+    "genres_spanish": [
+      "Comedia",
+      "Drama",
+      "Música"
+    ],
+    "overview": "Los miembros masculinos de un coro se alistan en la Primera Guerra Mundial, dejando al exigente Dr. Guthrie a cargo de reclutar adolescentes. Juntos experimentan la alegría de cantar mientras los jóvenes se enfrentan a su inminente alistamiento en el ejército.",
+    "rating": 6.4
+  },
+  {
+    "tmdb_id": 1037352,
+    "title": "Went Up the Hill",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/b2hja3ppwi2i"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/b1h6u931e5ph"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/lsuexbb7mqta"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/pn60bNUqT9dL"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/40tamgl12rhc"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/z0w4ym98dbzm"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/dsqhbnro4k1c"
+      },
+      {
+        "server": "streamtape",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamtape.com/e/JDJpPW70vQUjz2d"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/4QqD5hj4stvm"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/aDNgBFBlO61lNVCcP2L37oC9M7E.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/dQ4MeunffSq7K4rgTW4KNHUbHfN.jpg",
+    "genres_spanish": [
+      "Drama",
+      "Fantasía",
+      "Terror",
+      "Romance",
+      "Suspenso"
+    ],
+    "overview": "Jack ventures to remote New Zealand for the funeral of his estranged mother and meets her widow Jill. But his mother's spirit returns to inhabit each of their bodies, instigating a life-threatening three-way nocturnal dance.",
+    "rating": 7.5
   }
 ]
