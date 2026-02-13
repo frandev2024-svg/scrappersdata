@@ -1,25 +1,8 @@
 [
   {
-    "hora_utc": "2026-02-13T13:50:00Z",
-    "hora_argentina": "2026-02-13 10:50",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/350.png",
-    "liga": "AFC Champions League",
-    "equipos": "Al Shabab vs Al Ahli SC",
-    "deporte": "Fútbol",
-    "pais": "Europa",
-    "canales": [
-      {
-        "nombre": "canal 149",
-        "url": "https://miatvhd.xyz/reproductor/canal149.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-13T15:25:00Z",
     "hora_argentina": "2026-02-13 12:25",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Futbol Argentino",
     "equipos": "Al Hilal vs Al Ittifaq",
     "deporte": "Fútbol",
@@ -46,7 +29,7 @@
   {
     "hora_utc": "2026-02-13T15:25:00Z",
     "hora_argentina": "2026-02-13 12:25",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/253.png",
+    "logo": "https://bestleague.world/jr/104.png",
     "liga": "Saudi Pro League",
     "equipos": "Al Hilal - Al Ettifaq",
     "deporte": "Fútbol",
@@ -104,7 +87,7 @@
     "hora_utc": "2026-02-13T15:25:00Z",
     "hora_argentina": "2026-02-13 12:25",
     "logo": "",
-    "liga": "",
+    "liga": "Al-Hilal vs Al-Ettifaq",
     "equipos": "Al-Hilal vs Al-Ettifaq",
     "deporte": "Deportes",
     "pais": "",
@@ -121,7 +104,7 @@
     "hora_utc": "2026-02-13T16:30:00Z",
     "hora_argentina": "2026-02-13 13:30",
     "logo": "",
-    "liga": "",
+    "liga": "Alejando Tabilo vs Tomas Echeverry",
     "equipos": "Alejando Tabilo vs Tomas Echeverry",
     "deporte": "Deportes",
     "pais": "",
@@ -137,7 +120,7 @@
   {
     "hora_utc": "2026-02-13T17:00:00Z",
     "hora_argentina": "2026-02-13 14:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png",
+    "logo": "https://bestleague.world/jr/123.png",
     "liga": "Super Lig",
     "equipos": "Galatasaray vs Eyüpspor",
     "deporte": "Fútbol",
@@ -164,7 +147,7 @@
   {
     "hora_utc": "2026-02-13T17:00:00Z",
     "hora_argentina": "2026-02-13 14:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png",
+    "logo": "https://bestleague.world/jr/123.png",
     "liga": "Super Lig",
     "equipos": "Antalyaspor - Samsunspor",
     "deporte": "Fútbol",
@@ -191,7 +174,7 @@
   {
     "hora_utc": "2026-02-13T17:00:00Z",
     "hora_argentina": "2026-02-13 14:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png",
+    "logo": "https://bestleague.world/jr/123.png",
     "liga": "Super Lig",
     "equipos": "Galatasaray - Eyupspor",
     "deporte": "Fútbol",
@@ -250,7 +233,7 @@
   {
     "hora_utc": "2026-02-13T17:00:00Z",
     "hora_argentina": "2026-02-13 14:00",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Radomiak Radom vs Korona Kielce",
     "deporte": "Fútbol",
@@ -272,7 +255,7 @@
   {
     "hora_utc": "2026-02-13T17:00:00Z",
     "hora_argentina": "2026-02-13 14:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png",
+    "logo": "https://bestleague.world/jr/123.png",
     "liga": "Super Lig",
     "equipos": "Antalyaspor vs Samsunspor",
     "deporte": "Fútbol",
@@ -289,7 +272,7 @@
   {
     "hora_utc": "2026-02-13T17:00:00Z",
     "hora_argentina": "2026-02-13 14:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png",
+    "logo": "https://bestleague.world/jr/123.png",
     "liga": "Super Lig",
     "equipos": "Galatasaray vs. Eyüpspor 18:00",
     "deporte": "Fútbol",
@@ -306,7 +289,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Futbol Argentino",
     "equipos": "Al Ittihad vs Al-Fayha",
     "deporte": "Fútbol",
@@ -343,7 +326,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga 2",
     "equipos": "bundesliga 2 konferenz -",
     "deporte": "Fútbol",
@@ -370,7 +353,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga 2",
     "equipos": "Dusseldorf - Preussen Munster",
     "deporte": "Fútbol",
@@ -397,7 +380,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga 2",
     "equipos": "Nurnberg - Karlsruher SC",
     "deporte": "Fútbol",
@@ -439,7 +422,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/253.png",
+    "logo": "https://bestleague.world/jr/104.png",
     "liga": "Saudi Pro League",
     "equipos": "Al Ittihad - Al Fayha",
     "deporte": "Fútbol",
@@ -499,7 +482,7 @@
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
     "logo": "",
-    "liga": "",
+    "liga": "Al-Ittihad FC vs Al Fayha",
     "equipos": "Al-Ittihad FC vs Al Fayha",
     "deporte": "Deportes",
     "pais": "",
@@ -515,7 +498,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/253.png",
+    "logo": "https://bestleague.world/jr/104.png",
     "liga": "Saudi Pro League",
     "equipos": "Al Ittihad vs Al-Fayha 18:30",
     "deporte": "Fútbol",
@@ -532,7 +515,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga 2",
     "equipos": "Nürnberg vs. Karlsruher SC 18:30",
     "deporte": "Fútbol",
@@ -559,7 +542,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga 2",
     "equipos": "Fortuna Düsseldorf vs. Preußen Münster 18:30",
     "deporte": "Fútbol",
@@ -576,7 +559,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "2. Bundesliga",
     "equipos": "Nürnberg vs Karlsruher SC",
     "deporte": "Fútbol",
@@ -598,7 +581,7 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "2. Bundesliga",
     "equipos": "Fortuna Düsseldorf vs Preußen Münster",
     "deporte": "Fútbol",
@@ -632,7 +615,7 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Rennes vs PSG",
     "deporte": "Fútbol",
@@ -721,7 +704,7 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Rennes - PSG",
     "deporte": "Fútbol",
@@ -842,7 +825,7 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Stade Rennais vs PSG",
     "deporte": "Fútbol",
@@ -870,7 +853,7 @@
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
     "logo": "",
-    "liga": "",
+    "liga": "Zalgiris Kaunas vs Hapoel Tel-Aviv",
     "equipos": "Zalgiris Kaunas vs Hapoel Tel-Aviv",
     "deporte": "Deportes",
     "pais": "",
@@ -886,7 +869,7 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Rennes vs. PSG 19:00",
     "deporte": "Fútbol",
@@ -938,7 +921,7 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Futbol Argentino",
     "equipos": "Francisco Cerúndolo (ARG) vs. Vit Kopriva (CZE) (Día 5) 19:00",
     "deporte": "Fútbol",
@@ -1330,7 +1313,7 @@
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
     "logo": "",
-    "liga": "",
+    "liga": "MĂłnaco vs Baskonia",
     "equipos": "MĂłnaco vs Baskonia",
     "deporte": "Deportes",
     "pais": "",
@@ -1346,7 +1329,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Volendam vs PSV",
     "deporte": "Fútbol",
@@ -1383,7 +1366,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "FC Volendam - PSV",
     "deporte": "Fútbol",
@@ -1587,7 +1570,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "FC Volendam vs PSV",
     "deporte": "Fútbol",
@@ -1604,7 +1587,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "",
+    "logo": "https://bestleague.world/jr/61.png",
     "liga": "Women's Super League",
     "equipos": "Manchester City vs. Leicester City WFC 20:00",
     "deporte": "Deportes",
@@ -1621,7 +1604,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Volendam vs. PSV 20:00",
     "deporte": "Fútbol",
@@ -1670,7 +1653,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "",
+    "logo": "https://bestleague.world/jr/61.png",
     "liga": "Women's Super League",
     "equipos": "Manchester City vs Leicester City WFC",
     "deporte": "Deportes",
@@ -1800,7 +1783,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "Laliga 2",
     "equipos": "Almería vs FC Andorra",
     "deporte": "Fútbol",
@@ -1832,7 +1815,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Borussia Dortmund vs Mainz 05",
     "deporte": "Fútbol",
@@ -1889,7 +1872,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Dortmund - Mainz",
     "deporte": "Fútbol",
@@ -2000,7 +1983,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "Laliga 2",
     "equipos": "Almeria - Andorra",
     "deporte": "Fútbol",
@@ -2111,7 +2094,7 @@
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
     "logo": "",
-    "liga": "",
+    "liga": "AlmerĂ­a vs Andorra",
     "equipos": "AlmerĂ­a vs Andorra",
     "deporte": "Deportes",
     "pais": "",
@@ -2127,7 +2110,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Olimpia Milano vs Dubai",
     "deporte": "Fútbol",
@@ -2144,7 +2127,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Borussia Dortmund vs. Mainz 05 20:30",
     "deporte": "Fútbol",
@@ -2171,7 +2154,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "Laliga 2",
     "equipos": "Almería vs. FC Andorra 20:30",
     "deporte": "Fútbol",
@@ -2332,7 +2315,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Pisa vs Milan",
     "deporte": "Fútbol",
@@ -2389,7 +2372,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/eng.png",
+    "logo": "https://bestleague.world/jr/61.png",
     "liga": "Fa Cup",
     "equipos": "Wrexham vs Ipswich Town",
     "deporte": "Fútbol",
@@ -2446,7 +2429,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/eng.png",
+    "logo": "https://bestleague.world/jr/61.png",
     "liga": "Fa Cup",
     "equipos": "Hull - Chelsea",
     "deporte": "Fútbol",
@@ -2518,7 +2501,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/eng.png",
+    "logo": "https://bestleague.world/jr/61.png",
     "liga": "Fa Cup",
     "equipos": "Wrexham - Ipswich",
     "deporte": "Fútbol",
@@ -2572,7 +2555,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Pisa - AC Milan",
     "deporte": "Fútbol",
@@ -2668,7 +2651,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Pisa vs. Milan 20:45",
     "deporte": "Fútbol",
@@ -2685,7 +2668,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/eng.png",
+    "logo": "https://bestleague.world/jr/61.png",
     "liga": "Fa Cup",
     "equipos": "Hull City vs. Chelsea 20:45",
     "deporte": "Fútbol",
@@ -2747,7 +2730,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/eng.png",
+    "logo": "https://bestleague.world/jr/61.png",
     "liga": "Fa Cup",
     "equipos": "Wrexham vs. Ipswich Town 20:45",
     "deporte": "Fútbol",
@@ -2898,7 +2881,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://elcanaldeportivo.com/img/pe.png",
+    "logo": "https://bestleague.world/jr/127.png",
     "liga": "Liga 1",
     "equipos": "UTC Cajamarca vs Cusco",
     "deporte": "Fútbol",
@@ -2930,7 +2913,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "Laliga",
     "equipos": "Elche - Osasuna",
     "deporte": "Fútbol",
@@ -2987,7 +2970,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://elcanaldeportivo.com/img/pe.png",
+    "logo": "https://bestleague.world/jr/127.png",
     "liga": "Liga 1 Te Apuesto",
     "equipos": "Cajamarca - Cusco",
     "deporte": "Fútbol",
@@ -3041,7 +3024,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "Laliga",
     "equipos": "Elche vs. Osasuna 21:00",
     "deporte": "Fútbol",
@@ -3123,7 +3106,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://elcanaldeportivo.com/img/pe.png",
+    "logo": "https://bestleague.world/jr/127.png",
     "liga": "Liga 1",
     "equipos": "UTC Cajamarca vs. Cusco 21:00",
     "deporte": "Fútbol",
@@ -3155,7 +3138,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "",
+    "logo": "https://bestleague.world/jr/79.png",
     "liga": "Campeonato Carioca",
     "equipos": "Madureira vs. Boavista 21:00",
     "deporte": "Deportes",
@@ -3177,7 +3160,7 @@
   {
     "hora_utc": "2026-02-13T20:05:00Z",
     "hora_argentina": "2026-02-13 17:05",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Monaco vs Nantes",
     "deporte": "Fútbol",
@@ -3214,7 +3197,7 @@
   {
     "hora_utc": "2026-02-13T20:05:00Z",
     "hora_argentina": "2026-02-13 17:05",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Monaco - Nantes",
     "deporte": "Fútbol",
@@ -3271,7 +3254,7 @@
   {
     "hora_utc": "2026-02-13T20:05:00Z",
     "hora_argentina": "2026-02-13 17:05",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "MĂłnaco vs Nantes",
     "deporte": "Fútbol",
@@ -3293,7 +3276,7 @@
   {
     "hora_utc": "2026-02-13T20:05:00Z",
     "hora_argentina": "2026-02-13 17:05",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Monaco vs. Nantes 21:05",
     "deporte": "Fútbol",
@@ -3433,7 +3416,7 @@
   {
     "hora_utc": "2026-02-13T21:00:00Z",
     "hora_argentina": "2026-02-13 18:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Everton - Huachipato",
     "deporte": "Fútbol",
@@ -3477,7 +3460,7 @@
   {
     "hora_utc": "2026-02-13T21:30:00Z",
     "hora_argentina": "2026-02-13 18:30",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Futbol Argentino",
     "equipos": "Camilo Ugo Carabelli (ARG) vs. Sebastián Baez (ARG) (Día 5) 22:30",
     "deporte": "Fútbol",
@@ -3726,7 +3709,7 @@
     "hora_utc": "2026-02-13T23:00:00Z",
     "hora_argentina": "2026-02-13 20:00",
     "logo": "",
-    "liga": "",
+    "liga": "Independiente vs LanĂşs",
     "equipos": "Independiente vs LanĂşs",
     "deporte": "Deportes",
     "pais": "",
@@ -3835,7 +3818,7 @@
   {
     "hora_utc": "2026-02-13T23:30:00Z",
     "hora_argentina": "2026-02-13 20:30",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Palestino - U. De Chile",
     "deporte": "Fútbol",
@@ -3879,7 +3862,7 @@
   {
     "hora_utc": "2026-02-14T00:00:00Z",
     "hora_argentina": "2026-02-13 21:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+    "logo": "https://bestleague.world/img/nba.svg",
     "liga": "Nba",
     "equipos": "All-Star Celebrity Game",
     "deporte": "Basketball",
@@ -4051,7 +4034,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://elcanaldeportivo.com/img/col.png",
+    "logo": "https://bestleague.world/jr/118.png",
     "liga": "Liga Betplay",
     "equipos": "América de Cali vs Santa Fe",
     "deporte": "Fútbol",
@@ -4088,7 +4071,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://elcanaldeportivo.com/img/col.png",
+    "logo": "https://bestleague.world/jr/118.png",
     "liga": "Liga Betplay Dimayor",
     "equipos": "America De Cali - Santa Fe",
     "deporte": "Fútbol",
@@ -4169,7 +4152,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://elcanaldeportivo.com/img/mex.png",
+    "logo": "https://bestleague.world/jr/69.png",
     "liga": "Liga Mx",
     "equipos": "Puebla - UNAM Pumas",
     "deporte": "Fútbol",
@@ -4211,7 +4194,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://elcanaldeportivo.com/img/mex.png",
+    "logo": "https://bestleague.world/jr/69.png",
     "liga": "Liga Mx Women",
     "equipos": "Tigres UANL W - Puebla W",
     "deporte": "Fútbol",
@@ -4239,7 +4222,7 @@
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
     "logo": "",
-    "liga": "",
+    "liga": "AmĂ©rica de Cali vs Ind. Santa Fe",
     "equipos": "AmĂ©rica de Cali vs Ind. Santa Fe",
     "deporte": "Deportes",
     "pais": "",
@@ -4255,7 +4238,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+    "logo": "https://static.futbolenlatv.com/img/32/20130618113222-futbol.png",
     "liga": "Partido Amistoso Internacional",
     "equipos": "Independiente del Valle vs Inter Miami",
     "deporte": "Fútbol",
@@ -4299,7 +4282,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://elcanaldeportivo.com/img/mex.png",
+    "logo": "https://bestleague.world/jr/69.png",
     "liga": "Liga Mx Femenil",
     "equipos": "Tigres UANL vs Puebla",
     "deporte": "Fútbol",
@@ -4397,7 +4380,7 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Futbol Argentino",
     "equipos": "Unión Santa Fe vs San Lorenzo",
     "deporte": "Fútbol",
@@ -4474,7 +4457,7 @@
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
     "logo": "",
-    "liga": "",
+    "liga": "Defensa y Justicia vs VĂ©lez Sarsfield",
     "equipos": "Defensa y Justicia vs VĂ©lez Sarsfield",
     "deporte": "Deportes",
     "pais": "",
@@ -4491,7 +4474,7 @@
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
     "logo": "",
-    "liga": "",
+    "liga": "UniĂłn Santa Fe vs San Lorenzo",
     "equipos": "UniĂłn Santa Fe vs San Lorenzo",
     "deporte": "Deportes",
     "pais": "",
@@ -4549,7 +4532,7 @@
   {
     "hora_utc": "2026-02-14T01:30:00Z",
     "hora_argentina": "2026-02-13 22:30",
-    "logo": "https://elcanaldeportivo.com/img/pe.png",
+    "logo": "https://bestleague.world/jr/127.png",
     "liga": "Liga 1 Te Apuesto",
     "equipos": "U. de Deportes - Cienciano",
     "deporte": "Fútbol",
@@ -4576,7 +4559,7 @@
   {
     "hora_utc": "2026-02-14T02:00:00Z",
     "hora_argentina": "2026-02-13 23:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+    "logo": "https://bestleague.world/img/nba.svg",
     "liga": "Nba",
     "equipos": "Rising Star",
     "deporte": "Basketball",
@@ -4721,7 +4704,7 @@
   {
     "hora_utc": "2026-02-14T03:05:00Z",
     "hora_argentina": "2026-02-14 00:05",
-    "logo": "https://elcanaldeportivo.com/img/mex.png",
+    "logo": "https://bestleague.world/jr/69.png",
     "liga": "Liga Mx",
     "equipos": "Toluca - Club Tijuana",
     "deporte": "Fútbol",
@@ -4763,7 +4746,7 @@
   {
     "hora_utc": "2026-02-14T08:00:00Z",
     "hora_argentina": "2026-02-14 05:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
     "deporte": "Fútbol",
@@ -5024,7 +5007,7 @@
   {
     "hora_utc": "2026-02-14T13:00:00Z",
     "hora_argentina": "2026-02-14 10:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Espanyol vs Celta de Vigo",
     "deporte": "Fútbol",
@@ -5076,7 +5059,7 @@
   {
     "hora_utc": "2026-02-14T13:00:00Z",
     "hora_argentina": "2026-02-14 10:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Córdoba vs Leganés",
     "deporte": "Fútbol",
@@ -5132,7 +5115,7 @@
   {
     "hora_utc": "2026-02-14T14:00:00Z",
     "hora_argentina": "2026-02-14 11:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Como vs Fiorentina",
     "deporte": "Fútbol",
@@ -5206,7 +5189,7 @@
   {
     "hora_utc": "2026-02-14T14:30:00Z",
     "hora_argentina": "2026-02-14 11:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Hoffenheim vs Freiburg",
     "deporte": "Fútbol",
@@ -5233,7 +5216,7 @@
   {
     "hora_utc": "2026-02-14T14:30:00Z",
     "hora_argentina": "2026-02-14 11:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Bayer Leverkusen vs St. Pauli",
     "deporte": "Fútbol",
@@ -5270,7 +5253,7 @@
   {
     "hora_utc": "2026-02-14T14:30:00Z",
     "hora_argentina": "2026-02-14 11:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Eintracht Frankfurt vs Borussia M'gladbach",
     "deporte": "Fútbol",
@@ -5297,7 +5280,7 @@
   {
     "hora_utc": "2026-02-14T14:30:00Z",
     "hora_argentina": "2026-02-14 11:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Werder Bremen vs Bayern München",
     "deporte": "Fútbol",
@@ -5349,7 +5332,7 @@
   {
     "hora_utc": "2026-02-14T14:30:00Z",
     "hora_argentina": "2026-02-14 11:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Hamburger SV vs Union Berlin",
     "deporte": "Fútbol",
@@ -5659,7 +5642,7 @@
     "hora_utc": "2026-02-14T15:00:00Z",
     "hora_argentina": "2026-02-14 12:00",
     "logo": "",
-    "liga": "",
+    "liga": "Borac Banja Luka vs Zrinjski",
     "equipos": "Borac Banja Luka vs Zrinjski",
     "deporte": "Deportes",
     "pais": "",
@@ -5675,7 +5658,7 @@
   {
     "hora_utc": "2026-02-14T15:15:00Z",
     "hora_argentina": "2026-02-14 12:15",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Getafe vs Villarreal",
     "deporte": "Fútbol",
@@ -5734,7 +5717,7 @@
   {
     "hora_utc": "2026-02-14T15:15:00Z",
     "hora_argentina": "2026-02-14 12:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga 2",
     "equipos": "Burgos vs Cádiz",
     "deporte": "Fútbol",
@@ -5778,7 +5761,7 @@
   {
     "hora_utc": "2026-02-14T15:30:00Z",
     "hora_argentina": "2026-02-14 12:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Heracles vs NAC Breda",
     "deporte": "Fútbol",
@@ -5835,7 +5818,7 @@
     "hora_utc": "2026-02-14T16:00:00Z",
     "hora_argentina": "2026-02-14 13:00",
     "logo": "",
-    "liga": "",
+    "liga": "København vs Nordsjælland",
     "equipos": "København vs Nordsjælland",
     "deporte": "Deportes",
     "pais": "",
@@ -5851,7 +5834,7 @@
   {
     "hora_utc": "2026-02-14T16:00:00Z",
     "hora_argentina": "2026-02-14 13:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Olympique Marseille vs Strasbourg",
     "deporte": "Fútbol",
@@ -5888,7 +5871,7 @@
   {
     "hora_utc": "2026-02-14T16:15:00Z",
     "hora_argentina": "2026-02-14 13:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Rijeka vs Varaždin",
     "deporte": "Fútbol",
@@ -5937,7 +5920,7 @@
   {
     "hora_utc": "2026-02-14T17:00:00Z",
     "hora_argentina": "2026-02-14 14:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Lazio vs Atalanta",
     "deporte": "Fútbol",
@@ -5979,7 +5962,7 @@
   {
     "hora_utc": "2026-02-14T17:30:00Z",
     "hora_argentina": "2026-02-14 14:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Stuttgart vs Koln",
     "deporte": "Fútbol",
@@ -6041,7 +6024,7 @@
   {
     "hora_utc": "2026-02-14T17:30:00Z",
     "hora_argentina": "2026-02-14 14:30",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Sevilla vs Deportivo Alavés",
     "deporte": "Fútbol",
@@ -6083,7 +6066,7 @@
   {
     "hora_utc": "2026-02-14T17:30:00Z",
     "hora_argentina": "2026-02-14 14:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga 2",
     "equipos": "Cultural Leonesa vs Real Zaragoza",
     "deporte": "Fútbol",
@@ -6199,7 +6182,7 @@
   {
     "hora_utc": "2026-02-14T17:45:00Z",
     "hora_argentina": "2026-02-14 14:45",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Excelsior vs AZ",
     "deporte": "Fútbol",
@@ -6216,7 +6199,7 @@
   {
     "hora_utc": "2026-02-14T18:00:00Z",
     "hora_argentina": "2026-02-14 15:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Lille vs Brest",
     "deporte": "Fútbol",
@@ -6292,7 +6275,7 @@
   {
     "hora_utc": "2026-02-14T19:00:00Z",
     "hora_argentina": "2026-02-14 16:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Ajax vs Fortuna Sittard",
     "deporte": "Fútbol",
@@ -6324,7 +6307,7 @@
   {
     "hora_utc": "2026-02-14T19:45:00Z",
     "hora_argentina": "2026-02-14 16:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Internazionale vs Juventus",
     "deporte": "Fútbol",
@@ -6381,7 +6364,7 @@
   {
     "hora_utc": "2026-02-14T20:00:00Z",
     "hora_argentina": "2026-02-14 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Real Madrid vs Real Sociedad",
     "deporte": "Fútbol",
@@ -6510,7 +6493,7 @@
   {
     "hora_utc": "2026-02-14T20:00:00Z",
     "hora_argentina": "2026-02-14 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Groningen vs Utrecht",
     "deporte": "Fútbol",
@@ -6532,7 +6515,7 @@
   {
     "hora_utc": "2026-02-14T20:00:00Z",
     "hora_argentina": "2026-02-14 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Granada vs Real Valladolid",
     "deporte": "Fútbol",
@@ -6554,7 +6537,7 @@
   {
     "hora_utc": "2026-02-14T20:05:00Z",
     "hora_argentina": "2026-02-14 17:05",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Paris vs Lens",
     "deporte": "Fútbol",
@@ -6630,7 +6613,7 @@
   {
     "hora_utc": "2026-02-15T08:00:00Z",
     "hora_argentina": "2026-02-15 05:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
     "deporte": "Fútbol",
@@ -6751,7 +6734,7 @@
   {
     "hora_utc": "2026-02-15T11:30:00Z",
     "hora_argentina": "2026-02-15 08:30",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Udinese vs Sassuolo",
     "deporte": "Fútbol",
@@ -6794,7 +6777,7 @@
     "hora_utc": "2026-02-15T12:00:00Z",
     "hora_argentina": "2026-02-15 09:00",
     "logo": "",
-    "liga": "",
+    "liga": "Široki Brijeg vs Velež Premijer Liga",
     "equipos": "Široki Brijeg vs Velež Premijer Liga",
     "deporte": "Deportes",
     "pais": "",
@@ -6852,7 +6835,7 @@
   {
     "hora_utc": "2026-02-15T13:00:00Z",
     "hora_argentina": "2026-02-15 10:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Novi Pazar vs OFK Beograd",
     "deporte": "Fútbol",
@@ -6869,7 +6852,7 @@
   {
     "hora_utc": "2026-02-15T13:00:00Z",
     "hora_argentina": "2026-02-15 10:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Real Oviedo vs Athletic Club",
     "deporte": "Fútbol",
@@ -6970,7 +6953,7 @@
   {
     "hora_utc": "2026-02-15T14:00:00Z",
     "hora_argentina": "2026-02-15 11:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "LE HAVRE vs TOULOUSE",
     "deporte": "Fútbol",
@@ -6987,7 +6970,7 @@
   {
     "hora_utc": "2026-02-15T14:00:00Z",
     "hora_argentina": "2026-02-15 11:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Cremonese vs Genoa",
     "deporte": "Fútbol",
@@ -7024,7 +7007,7 @@
   {
     "hora_utc": "2026-02-15T14:00:00Z",
     "hora_argentina": "2026-02-15 11:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Parma vs Verona",
     "deporte": "Fútbol",
@@ -7126,7 +7109,7 @@
     "hora_utc": "2026-02-15T14:15:00Z",
     "hora_argentina": "2026-02-15 11:15",
     "logo": "",
-    "liga": "",
+    "liga": "Radnik Bijeljina vs Posušje Premijer Liga",
     "equipos": "Radnik Bijeljina vs Posušje Premijer Liga",
     "deporte": "Deportes",
     "pais": "",
@@ -7142,7 +7125,7 @@
   {
     "hora_utc": "2026-02-15T14:30:00Z",
     "hora_argentina": "2026-02-15 11:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Augsburg vs Heidenheim",
     "deporte": "Fútbol",
@@ -7218,7 +7201,7 @@
   {
     "hora_utc": "2026-02-15T15:15:00Z",
     "hora_argentina": "2026-02-15 12:15",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Rayo Vallecano vs Atlético Madrid",
     "deporte": "Fútbol",
@@ -7306,7 +7289,7 @@
   {
     "hora_utc": "2026-02-15T16:15:00Z",
     "hora_argentina": "2026-02-15 13:15",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "METZ vs AUXERRE",
     "deporte": "Fútbol",
@@ -7323,7 +7306,7 @@
   {
     "hora_utc": "2026-02-15T16:15:00Z",
     "hora_argentina": "2026-02-15 13:15",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Lorient vs Angers",
     "deporte": "Fútbol",
@@ -7392,7 +7375,7 @@
   {
     "hora_utc": "2026-02-15T16:30:00Z",
     "hora_argentina": "2026-02-15 13:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "RB Leipzig vs Wolfsburg",
     "deporte": "Fútbol",
@@ -7468,7 +7451,7 @@
   {
     "hora_utc": "2026-02-15T17:00:00Z",
     "hora_argentina": "2026-02-15 14:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Torino vs Bologna",
     "deporte": "Fútbol",
@@ -7495,7 +7478,7 @@
   {
     "hora_utc": "2026-02-15T17:30:00Z",
     "hora_argentina": "2026-02-15 14:30",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Levante vs Valencia",
     "deporte": "Fútbol",
@@ -7671,7 +7654,7 @@
   {
     "hora_utc": "2026-02-15T19:45:00Z",
     "hora_argentina": "2026-02-15 16:45",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Olympique Lyonnais vs Nice",
     "deporte": "Fútbol",
@@ -7698,7 +7681,7 @@
   {
     "hora_utc": "2026-02-15T19:45:00Z",
     "hora_argentina": "2026-02-15 16:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Napoli vs Roma",
     "deporte": "Fútbol",
@@ -7757,7 +7740,7 @@
   {
     "hora_utc": "2026-02-15T20:00:00Z",
     "hora_argentina": "2026-02-15 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Mallorca vs Real Betis",
     "deporte": "Fútbol",
@@ -7848,7 +7831,7 @@
   {
     "hora_utc": "2026-02-16T08:00:00Z",
     "hora_argentina": "2026-02-16 05:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
     "deporte": "Fútbol",
@@ -7930,7 +7913,7 @@
   {
     "hora_utc": "2026-02-16T20:00:00Z",
     "hora_argentina": "2026-02-16 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Girona vs Barcelona",
     "deporte": "Fútbol",
@@ -7989,7 +7972,7 @@
   {
     "hora_utc": "2026-02-17T08:00:00Z",
     "hora_argentina": "2026-02-17 05:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
     "deporte": "Fútbol",
@@ -8071,7 +8054,7 @@
   {
     "hora_utc": "2026-02-17T17:45:00Z",
     "hora_argentina": "2026-02-17 14:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Galatasaray vs Juventus",
     "deporte": "Fútbol",
@@ -8088,7 +8071,7 @@
   {
     "hora_utc": "2026-02-17T20:00:00Z",
     "hora_argentina": "2026-02-17 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Benfica vs Real Madrid",
     "deporte": "Fútbol",
@@ -8105,7 +8088,7 @@
   {
     "hora_utc": "2026-02-17T20:00:00Z",
     "hora_argentina": "2026-02-17 17:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Borussia Dortmund vs Atalanta",
     "deporte": "Fútbol",
@@ -8116,7 +8099,7 @@
   {
     "hora_utc": "2026-02-17T20:00:00Z",
     "hora_argentina": "2026-02-17 17:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Monaco vs PSG",
     "deporte": "Fútbol",
@@ -8138,7 +8121,7 @@
   {
     "hora_utc": "2026-02-18T20:00:00Z",
     "hora_argentina": "2026-02-18 17:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Bodø / Glimt vs Internazionale",
     "deporte": "Fútbol",
@@ -8149,7 +8132,7 @@
   {
     "hora_utc": "2026-02-18T20:00:00Z",
     "hora_argentina": "2026-02-18 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "Club Brugge vs Atlético Madrid",
     "deporte": "Fútbol",
@@ -8160,7 +8143,7 @@
   {
     "hora_utc": "2026-02-18T20:00:00Z",
     "hora_argentina": "2026-02-18 17:00",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Olympiakos Piraeus vs Bayer Leverkusen",
     "deporte": "Fútbol",
@@ -8171,7 +8154,7 @@
   {
     "hora_utc": "2026-02-19T08:00:00Z",
     "hora_argentina": "2026-02-19 05:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
     "deporte": "Fútbol",
@@ -8253,7 +8236,7 @@
   {
     "hora_utc": "2026-02-19T17:45:00Z",
     "hora_argentina": "2026-02-19 14:45",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
+    "logo": "https://bestleague.world/jr/34.png",
     "liga": "La Liga",
     "equipos": "PAOK vs Celta de Vigo",
     "deporte": "Fútbol",
@@ -8286,7 +8269,7 @@
   {
     "hora_utc": "2026-02-19T17:45:00Z",
     "hora_argentina": "2026-02-19 14:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Brann vs Bologna",
     "deporte": "Fútbol",
@@ -8319,7 +8302,7 @@
   {
     "hora_utc": "2026-02-19T17:45:00Z",
     "hora_argentina": "2026-02-19 14:45",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "logo": "https://bestleague.world/jr/38.png",
     "liga": "Eredivisie",
     "equipos": "Noah vs AZ",
     "deporte": "Fútbol",
@@ -8331,7 +8314,7 @@
     "hora_utc": "2026-02-19T17:45:00Z",
     "hora_argentina": "2026-02-19 14:45",
     "logo": "",
-    "liga": "",
+    "liga": "KuPS vs Lech PoznaÅ„",
     "equipos": "KuPS vs Lech PoznaÅ„",
     "deporte": "Deportes",
     "pais": "",
@@ -8363,7 +8346,7 @@
   {
     "hora_utc": "2026-02-19T20:00:00Z",
     "hora_argentina": "2026-02-19 17:00",
-    "logo": "https://elcanaldeportivo.com/img/fra.png",
+    "logo": "https://bestleague.world/jr/45.png",
     "liga": "Ligue 1",
     "equipos": "Lille vs Crvena Zvezda",
     "deporte": "Fútbol",
@@ -8374,7 +8357,7 @@
   {
     "hora_utc": "2026-02-19T20:00:00Z",
     "hora_argentina": "2026-02-19 17:00",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Celtic vs Stuttgart",
     "deporte": "Fútbol",
@@ -8396,7 +8379,7 @@
   {
     "hora_utc": "2026-02-19T20:00:00Z",
     "hora_argentina": "2026-02-19 17:00",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Jagiellonia BiaÅ‚ystok vs Fiorentina",
     "deporte": "Fútbol",
@@ -8418,7 +8401,7 @@
   {
     "hora_utc": "2026-02-19T20:00:00Z",
     "hora_argentina": "2026-02-19 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/18.png",
+    "logo": "https://bestleague.world/jr/123.png",
     "liga": "Super Lig",
     "equipos": "Å kendija 79 vs Samsunspor",
     "deporte": "Fútbol",
