@@ -31,6 +31,7 @@ STREAMX10_URL = "https://streamx10.cloud/json/agenda345.json"
 BOLALOCA_URL = "https://bolaloca.my/"
 ANTENASPORT_URL = "https://antenasport.top/index2.txt"
 PIRLOTV_URL = "https://pirlotvoficial.com/"
+PIRLOTV_ICON_BASE = "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/"
 TVLIBREE_URL = "https://tvlibree.com/agenda/"
 TVTVHD_URL = "https://tvtvhd.com/eventos/"
 TVTVHD_JSON_URL = "https://pltvhd.com/diaries.json"
@@ -2081,6 +2082,15 @@ def parse_pirlotvoficial(session: requests.Session) -> List[Dict[str, Any]]:
         time_str = time_span.get_text(strip=True) if time_span else ""
         if not time_str:
             continue
+
+        icon_url = ""
+        flag_span = cols[1].find("span")
+        if flag_span:
+            classes = flag_span.get("class", [])
+            code = next((c for c in classes if c != "before"), "")
+            if code:
+                icon_url = f"{PIRLOTV_ICON_BASE}{code}.png"
+
         liga_text = normalize_ws(cols[2].get_text(" ", strip=True))
         match_text = ""
         match_tag = cols[2].find("b")
@@ -2115,7 +2125,7 @@ def parse_pirlotvoficial(session: requests.Session) -> List[Dict[str, Any]]:
                 "calidad": "",
             })
 
-        events.append(build_event(dt_arg, "", liga, equipos, canales, date_offset))
+        events.append(build_event(dt_arg, icon_url, liga, equipos, canales, date_offset))
 
     return events
 
