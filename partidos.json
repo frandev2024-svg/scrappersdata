@@ -19,11 +19,11 @@
   {
     "hora_utc": "2026-02-13T15:25:00Z",
     "hora_argentina": "2026-02-13 12:25",
-    "logo": "",
-    "liga": "Liga Profesional Saudí",
+    "logo": "https://cdn.worldvectorlogo.com/logos/argentina-national-football-team-logo.svg",
+    "liga": "Futbol Argentino",
     "equipos": "Al Hilal vs Al Ittifaq",
     "deporte": "Fútbol",
-    "pais": "",
+    "pais": "Argentina",
     "canales": [
       {
         "nombre": "StreamX10",
@@ -306,11 +306,11 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "",
-    "liga": "Liga Profesional Saudí",
+    "logo": "https://cdn.worldvectorlogo.com/logos/argentina-national-football-team-logo.svg",
+    "liga": "Futbol Argentino",
     "equipos": "Al Ittihad vs Al-Fayha",
     "deporte": "Fútbol",
-    "pais": "",
+    "pais": "Argentina",
     "canales": [
       {
         "nombre": "StreamX10",
@@ -615,7 +615,7 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png",
+    "logo": "https://elcanaldeportivo.com/img/fra.png",
     "liga": "Ligue 1",
     "equipos": "Stade Rennais vs. Paris Saint-Germain",
     "deporte": "Fútbol",
@@ -938,8 +938,8 @@
   {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
+    "logo": "https://cdn.worldvectorlogo.com/logos/argentina-national-football-team-logo.svg",
+    "liga": "Futbol Argentino",
     "equipos": "Francisco Cerúndolo (ARG) vs. Vit Kopriva (CZE) (Día 5) 19:00",
     "deporte": "Fútbol",
     "pais": "Argentina",
@@ -1425,7 +1425,7 @@
   {
     "hora_utc": "2026-02-13T19:00:00Z",
     "hora_argentina": "2026-02-13 16:00",
-    "logo": "https://flagcdn.com/w320/fr.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/hi/thumb/8/84/Indian_Premier_League_Official_Logo.svg/1280px-Indian_Premier_League_Official_Logo.svg.png",
     "liga": "Ligue 2",
     "equipos": "Multiplex Ligue 2 -",
     "deporte": "Fútbol",
@@ -1773,7 +1773,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png",
+    "logo": "https://elcanaldeportivo.com/img/ale.png",
     "liga": "Bundesliga",
     "equipos": "Borussia Dortmund vs. Mainz",
     "deporte": "Fútbol",
@@ -2188,7 +2188,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/41.png",
+    "logo": "https://elcanaldeportivo.com/img/eng.png",
     "liga": "Fa Cup",
     "equipos": "Hull City vs. Chelsea",
     "deporte": "Fútbol",
@@ -2305,7 +2305,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png",
+    "logo": "https://elcanaldeportivo.com/img/it.png",
     "liga": "Serie A",
     "equipos": "Pisa vs. AC Milan",
     "deporte": "Fútbol",
@@ -2764,7 +2764,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "logo": "https://elcanaldeportivo.com/img/es.png",
     "liga": "Laliga",
     "equipos": "Elche vs. Osasuna",
     "deporte": "Fútbol",
@@ -3477,8 +3477,8 @@
   {
     "hora_utc": "2026-02-13T21:30:00Z",
     "hora_argentina": "2026-02-13 18:30",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
+    "logo": "https://cdn.worldvectorlogo.com/logos/argentina-national-football-team-logo.svg",
+    "liga": "Futbol Argentino",
     "equipos": "Camilo Ugo Carabelli (ARG) vs. Sebastián Baez (ARG) (Día 5) 22:30",
     "deporte": "Fútbol",
     "pais": "Argentina",
@@ -3634,8 +3634,8 @@
   {
     "hora_utc": "2026-02-13T23:00:00Z",
     "hora_argentina": "2026-02-13 20:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
+    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "liga": "Futbol Argentino",
     "equipos": "Independiente vs. Lanús",
     "deporte": "Fútbol",
     "pais": "Argentina",
@@ -3671,7 +3671,7 @@
   {
     "hora_utc": "2026-02-13T23:00:00Z",
     "hora_argentina": "2026-02-13 20:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansion Mx",
     "equipos": "Tapatio - Jaiba Brava",
     "deporte": "Fútbol",
@@ -3742,7 +3742,7 @@
   {
     "hora_utc": "2026-02-13T23:00:00Z",
     "hora_argentina": "2026-02-13 20:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansión Mx",
     "equipos": "Tapatío vs CDS Tampico Madero",
     "deporte": "Fútbol",
@@ -3967,7 +3967,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
+    "logo": "https://elcanaldeportivo.com/img/col.png",
     "liga": "Liga Betplay",
     "equipos": "América de Cali vs. Ind. Santa Fe",
     "deporte": "Fútbol",
@@ -3984,7 +3984,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png",
+    "logo": "https://elcanaldeportivo.com/img/mex.png",
     "liga": "Liga Mx",
     "equipos": "Puebla vs. Pumas UNAM",
     "deporte": "Fútbol",
@@ -4115,7 +4115,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansion Mx",
     "equipos": "Alebrijes Oaxaca - Tlaxcala",
     "deporte": "Fútbol",
@@ -4142,7 +4142,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansion Mx",
     "equipos": "Correcaminos - Atlante",
     "deporte": "Fútbol",
@@ -4282,7 +4282,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansión Mx",
     "equipos": "Correcaminos UAT vs Atlante",
     "deporte": "Fútbol",
@@ -4326,7 +4326,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansión Mx",
     "equipos": "Alebrijes de Oaxaca vs Tlaxcala",
     "deporte": "Fútbol",
@@ -4343,8 +4343,8 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
+    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "liga": "Futbol Argentino",
     "equipos": "Defensa y Justicia vs. Vélez Sarsfield",
     "deporte": "Fútbol",
     "pais": "Argentina",
@@ -4380,8 +4380,8 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
+    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "liga": "Futbol Argentino",
     "equipos": "Unión (SF) vs. San Lorenzo",
     "deporte": "Fútbol",
     "pais": "Argentina",
@@ -4397,11 +4397,11 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "",
-    "liga": "Liga Profesional",
+    "logo": "https://cdn.worldvectorlogo.com/logos/argentina-national-football-team-logo.svg",
+    "liga": "Futbol Argentino",
     "equipos": "Unión Santa Fe vs San Lorenzo",
     "deporte": "Fútbol",
-    "pais": "",
+    "pais": "Argentina",
     "canales": [
       {
         "nombre": "StreamX10",
@@ -4610,7 +4610,7 @@
   {
     "hora_utc": "2026-02-14T03:00:00Z",
     "hora_argentina": "2026-02-14 00:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansion Mx",
     "equipos": "Irapuato - Dorados de Sinaloa",
     "deporte": "Fútbol",
@@ -4637,7 +4637,7 @@
   {
     "hora_utc": "2026-02-14T03:00:00Z",
     "hora_argentina": "2026-02-14 00:00",
-    "logo": "",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2306.png",
     "liga": "Liga De Expansión Mx",
     "equipos": "Irapuato vs Dorados",
     "deporte": "Fútbol",
@@ -4654,7 +4654,7 @@
   {
     "hora_utc": "2026-02-14T03:05:00Z",
     "hora_argentina": "2026-02-14 00:05",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png",
+    "logo": "https://elcanaldeportivo.com/img/mex.png",
     "liga": "Liga Mx",
     "equipos": "Toluca vs. Tijuana",
     "deporte": "Fútbol",
