@@ -97,11 +97,11 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://bestleague.world/jr/55.png",
-    "liga": "Futbol Argentino",
+    "logo": "https://bestleague.world/jr/104.png",
+    "liga": "Saudi Pro League",
     "equipos": "Al Ittihad vs Al-Fayha",
     "deporte": "Fútbol",
-    "pais": "Argentina",
+    "pais": "Arabia Saudita",
     "canales": [
       {
         "nombre": "StreamX10",
@@ -134,154 +134,6 @@
   {
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "Bundesliga 2",
-    "equipos": "bundesliga 2 konferenz -",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "DE bundliga2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/112",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE bundliga2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/112",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE bundliga2 (CAST)",
-        "url": "https://bolaloca.my/player/3/112",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T17:30:00Z",
-    "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "Bundesliga 2",
-    "equipos": "Dusseldorf - Preussen Munster",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "DE bundliga4 (WIGI)",
-        "url": "https://bolaloca.my/player/1/114",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE bundliga4 (HOCA)",
-        "url": "https://bolaloca.my/player/2/114",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE bundliga4 (CAST)",
-        "url": "https://bolaloca.my/player/3/114",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T17:30:00Z",
-    "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Nurnberg - Karlsruher SC",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "DE bundliga3 (WIGI)",
-        "url": "https://bolaloca.my/player/1/113",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE bundliga3 (HOCA)",
-        "url": "https://bolaloca.my/player/2/113",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE bundliga3 (CAST)",
-        "url": "https://bolaloca.my/player/3/113",
-        "calidad": ""
-      },
-      {
-        "nombre": "FOXsport3 arg (WIGI)",
-        "url": "https://bolaloca.my/player/1/80",
-        "calidad": ""
-      },
-      {
-        "nombre": "FOXsport3 arg (HOCA)",
-        "url": "https://bolaloca.my/player/2/80",
-        "calidad": ""
-      },
-      {
-        "nombre": "FOXsport3 arg (CAST)",
-        "url": "https://bolaloca.my/player/3/80",
-        "calidad": ""
-      },
-      {
-        "nombre": "Fox Sports 3",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
-        "calidad": ""
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T17:30:00Z",
-    "hora_argentina": "2026-02-13 14:30",
-    "logo": "https://bestleague.world/jr/104.png",
-    "liga": "Saudi Pro League",
-    "equipos": "Al Ittihad - Al Fayha",
-    "deporte": "Fútbol",
-    "pais": "Arabia Saudita",
-    "canales": [
-      {
-        "nombre": "ES Vamos (WIGI)",
-        "url": "https://bolaloca.my/player/1/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (HOCA)",
-        "url": "https://bolaloca.my/player/2/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (CAST)",
-        "url": "https://bolaloca.my/player/3/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (WIGI)",
-        "url": "https://bolaloca.my/player/1/61",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (HOCA)",
-        "url": "https://bolaloca.my/player/2/61",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (CAST)",
-        "url": "https://bolaloca.my/player/3/61",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T17:30:00Z",
-    "hora_argentina": "2026-02-13 14:30",
     "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
     "liga": "Basketball Aba Liga",
     "equipos": "Derby vs Spartak",
@@ -300,10 +152,10 @@
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
     "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/sa.png",
-    "liga": "Al-Ittihad FC vs Al Fayha",
+    "liga": "Saudi Pro League",
     "equipos": "Al-Ittihad FC vs Al Fayha",
-    "deporte": "Deportes",
-    "pais": "",
+    "deporte": "Fútbol",
+    "pais": "Arabia Saudita",
     "canales": [
       {
         "nombre": "canal 147",
@@ -369,6 +221,28 @@
       {
         "nombre": "Disney+ Calidad 720p",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney3",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T17:30:00Z",
+    "hora_argentina": "2026-02-13 14:30",
+    "logo": "https://bestleague.world/jr/96.png",
+    "liga": "2. Bundesliga",
+    "equipos": "Nürnberg vs Karlsruher SC",
+    "deporte": "Fútbol",
+    "pais": "Alemania",
+    "canales": [
+      {
+        "nombre": "Fox Sports 3",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
+        "calidad": ""
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
         "calidad": ""
       }
     ],
@@ -736,10 +610,10 @@
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
-    "liga": "UEFA Champions League",
+    "liga": "Uefa Champions League",
     "equipos": "Santa Clara vs Benfica",
     "deporte": "Fútbol",
-    "pais": "Portugal",
+    "pais": "Europa",
     "canales": [
       {
         "nombre": "StreamX10",
