@@ -34,7 +34,9 @@ class HenaojaraAnimeScraper:
         self.session.headers.update({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         })
-        self.animes = []
+        self.animes = []          # anime2.json (destino)
+        self.legacy_animes = []   # anime.json (solo lectura + borrado)
+        self.legacy_modified = False
         self.processed_tmdb_ids = set()
         self.visited_anime_urls = set()
 
@@ -551,7 +553,7 @@ class HenaojaraAnimeScraper:
             except Exception as e:
                 logger.error(f"Error procesando anime {anime.get('title')}: {e}")
 
-    def guardar_animes(self, output_file: str = "anime.json"):
+    def guardar_animes(self, output_file: str = "anime2.json"):
         """Guarda la lista de animes en JSON."""
         try:
             full_path = os.path.join(self._workspace_root(), output_file)
@@ -567,48 +569,242 @@ class HenaojaraAnimeScraper:
         except Exception as e:
             logger.error(f"Error guardando animes: {e}")
 
-    def _cargar_animes_existentes(self, output_file: str = "anime.json"):
-        """Carga animes existentes del JSON al inicio."""
+    def _guardar_legacy(self):
+        """Guarda anime.json si fue modificado (tras borrar entradas movidas)."""
+        if not self.legacy_modified:
+            return
+        try:
+            full_path = os.path.join(self._workspace_root(), "anime.json")
+            with open(full_path, "w", encoding="utf-8") as f:
+                json.dump(self.legacy_animes, f, indent=4, ensure_ascii=False)
+            logger.info(f"💾 anime.json actualizado ({len(self.legacy_animes)} animes)")
+        except Exception as e:
+            logger.error(f"Error guardando anime.json: {e}")
+
+    def _cargar_animes_existentes(self, output_file: str = "anime2.json"):
+        """Carga animes existentes del JSON destino al inicio."""
         try:
             full_path = os.path.join(self._workspace_root(), output_file)
             
             if os.path.exists(full_path):
                 with open(full_path, "r", encoding="utf-8") as f:
                     self.animes = json.load(f)
-                    logger.info(f"📂 Cargados {len(self.animes)} animes existentes")
+                    logger.info(f"📂 Cargados {len(self.animes)} animes de {output_file}")
             else:
-                logger.info("📂 No hay archivo existente, iniciando desde cero")
+                logger.info(f"📂 No existe {output_file}, iniciando desde cero")
         except Exception as e:
-            logger.warning(f"No se pudo cargar archivo existente: {e}")
+            logger.warning(f"No se pudo cargar {output_file}: {e}")
 
-    def run(self, max_animes: int = None, max_pages: int = None):
+    def _cargar_legacy(self):
+        """Carga anime.json (legacy) para verificar duplicados."""
+        try:
+            full_path = os.path.join(self._workspace_root(), "anime.json")
+            if os.path.exists(full_path):
+                with open(full_path, "r", encoding="utf-8") as f:
+                    self.legacy_animes = json.load(f)
+                    logger.info(f"📂 Cargados {len(self.legacy_animes)} animes de anime.json (legacy)")
+            else:
+                logger.info("📂 No existe anime.json (legacy)")
+        except Exception as e:
+            logger.warning(f"No se pudo cargar anime.json: {e}")
+
+    def _buscar_en_legacy(self, tmdb_id: int) -> dict | None:
+        """Busca un anime en anime.json por tmdb_id."""
+        if not tmdb_id:
+            return None
+        return next((a for a in self.legacy_animes if a.get("tmdb_id") == tmdb_id), None)
+
+    def _mover_de_legacy(self, tmdb_id: int) -> dict | None:
+        """Mueve un anime de anime.json a anime2.json (lo borra de legacy y lo retorna)."""
+        legacy = self._buscar_en_legacy(tmdb_id)
+        if not legacy:
+            return None
+        self.legacy_animes = [a for a in self.legacy_animes if a.get("tmdb_id") != tmdb_id]
+        self.legacy_modified = True
+        logger.info(f"📦 Movido de anime.json → anime2.json: {legacy.get('title')}")
+        return legacy
+
+    def _contar_episodios(self, anime_entry: dict, season_number: int) -> set:
+        """Retorna set de números de episodio existentes en una temporada."""
+        season = next((s for s in anime_entry.get("seasons", []) if s.get("number") == season_number), None)
+        if not season:
+            return set()
+        return {e.get("number") for e in season.get("episodes", [])}
+
+    def procesar_url(self, anime_url: str):
+        """Procesa un anime específico por URL."""
+        logger.info(f"\n🎯 Procesando URL: {anime_url}")
+        
+        info = self.extraer_info_anime(anime_url)
+        if not info:
+            logger.error(f"No se pudo extraer info de {anime_url}")
+            return
+        
+        tmdb_id = info.get("tmdb_id")
+        base_title = info.get("title")
+        season_number = info.get("season_number", 1)
+        base_url = info.get("base_url")
+        
+        logger.info(f"📺 Anime: {base_title} (Temporada {season_number})")
+        logger.info(f"   TMDB ID: {tmdb_id}")
+        
+        # Extraer episodios disponibles en la web
+        episodios = self.extraer_episodios(anime_url)
+        logger.info(f"   Episodios en la web: {len(episodios)}")
+        
+        if not episodios:
+            logger.warning("No se encontraron episodios")
+            return
+        
+        eps_web = {ep.get("number") for ep in episodios}
+        
+        # === VERIFICAR EN LEGACY (anime.json) ===
+        legacy_entry = self._buscar_en_legacy(tmdb_id)
+        if legacy_entry:
+            legacy_eps = self._contar_episodios(legacy_entry, season_number)
+            faltan_en_legacy = eps_web - legacy_eps
+            
+            if not faltan_en_legacy:
+                logger.info(f"⏭️ Ya existe completo en anime.json ({len(legacy_eps)} eps). No hacemos nada.")
+                return
+            else:
+                logger.info(f"🔄 Existe en anime.json con {len(legacy_eps)} eps, faltan {len(faltan_en_legacy)}. Moviendo a anime2.json...")
+                moved = self._mover_de_legacy(tmdb_id)
+                if moved:
+                    # Agregar a anime2.json
+                    self.animes.append(moved)
+        
+        # === VERIFICAR EN DESTINO (anime2.json) ===
+        existing = next((s for s in self.animes if s.get("tmdb_id") == tmdb_id), None) if tmdb_id else None
+        
+        if existing:
+            existing_eps = self._contar_episodios(existing, season_number)
+            nuevos = [ep for ep in episodios if ep.get("number") not in existing_eps]
+            logger.info(f"   Ya en anime2.json: {len(existing_eps)} eps, faltan {len(nuevos)}")
+        else:
+            existing_eps = set()
+            nuevos = episodios
+        
+        if not nuevos:
+            logger.info("⏭️ Todos los episodios ya están en anime2.json.")
+            return
+        
+        # Extraer servidores de episodios faltantes
+        episodes_data = []
+        for i, ep in enumerate(nuevos):
+            ep_number = ep.get("number")
+            logger.info(f"   Ep {ep_number} ({i+1}/{len(nuevos)})...")
+            servers = self.extraer_servidores_episodio(ep["url"])
+            title = f"{base_title} Episodio {ep_number}" if ep_number else base_title
+            episodes_data.append({
+                "title": title,
+                "number": ep_number,
+                "servers": servers
+            })
+            time.sleep(0.5)
+        
+        # También procesar base_url (temporada 1) si es diferente
+        base_episodes_data = []
+        if base_url and base_url != anime_url and base_url not in self.visited_anime_urls:
+            self.visited_anime_urls.add(base_url)
+            logger.info(f"   También procesando temporada base: {base_url}")
+            base_episodios = self.extraer_episodios(base_url)
+            for ep in base_episodios:
+                servers = self.extraer_servidores_episodio(ep["url"])
+                number = ep.get("number")
+                title = f"{base_title} Episodio {number}" if number else base_title
+                base_episodes_data.append({
+                    "title": title,
+                    "number": number,
+                    "servers": servers
+                })
+                time.sleep(0.5)
+        
+        # Crear o actualizar entrada
+        if not existing:
+            serie = {
+                "tmdb_id": tmdb_id,
+                "title": base_title,
+                "year": info.get("year", ""),
+                "overview": info.get("overview", ""),
+                "rating": info.get("rating", 0),
+                "genres": info.get("genres", []),
+                "seasons": []
+            }
+            self.animes.append(serie)
+            existing = serie
+        
+        # Agregar temporada
+        seasons = existing.get("seasons", [])
+        season_obj = next((s for s in seasons if s.get("number") == season_number), None)
+        if not season_obj:
+            season_obj = {"number": season_number, "episodes": []}
+            seasons.append(season_obj)
+            existing["seasons"] = seasons
+        
+        # Agregar episodios sin duplicar
+        existing_ep_nums = {e.get("number") for e in season_obj["episodes"]}
+        added = 0
+        for ep in episodes_data:
+            if ep.get("number") not in existing_ep_nums:
+                season_obj["episodes"].append(ep)
+                added += 1
+        
+        # Agregar temporada 1 desde base_url si corresponde
+        if base_episodes_data:
+            season1 = next((s for s in seasons if s.get("number") == 1), None)
+            if not season1:
+                season1 = {"number": 1, "episodes": []}
+                seasons.append(season1)
+                existing["seasons"] = seasons
+            existing_eps_1 = {e.get("number") for e in season1["episodes"]}
+            for ep in base_episodes_data:
+                if ep.get("number") not in existing_eps_1:
+                    season1["episodes"].append(ep)
+        
+        logger.info(f"✅ {base_title} - Temporada {season_number}: {added} episodios nuevos en anime2.json")
+
+    def run(self, max_animes: int = None, max_pages: int = None, url: str = None, output_file: str = "anime2.json"):
         logger.info("Iniciando scraper de animes desde ww1.henaojara.net...")
-        self._cargar_animes_existentes()
-        self.procesar_animes(max_animes=max_animes, max_pages=max_pages)
-        self.guardar_animes()
-        logger.info(f"✅ Scraping completado. Total: {len(self.animes)} animes")
+        self._cargar_animes_existentes(output_file)
+        self._cargar_legacy()
+        
+        if url:
+            self.procesar_url(url)
+        else:
+            self.procesar_animes(max_animes=max_animes, max_pages=max_pages)
+        
+        self.guardar_animes(output_file)
+        self._guardar_legacy()
+        logger.info(f"✅ Scraping completado. Total en {output_file}: {len(self.animes)} animes")
 
 
 def main():
     import argparse
 
     parser = argparse.ArgumentParser(description="Scraper de animes desde ww1.henaojara.net")
+    parser.add_argument("--url", type=str, default=None, help="URL de un anime específico (ej: https://ww1.henaojara.net/anime/naruto-shippuden)")
+    parser.add_argument("--output", type=str, default="anime2.json", help="Archivo de salida (default: anime2.json)")
     parser.add_argument("--max-animes", type=int, default=None, help="Número máximo de animes (default: todos)")
     parser.add_argument("--max-pages", type=int, default=None, help="Número máximo de páginas (default: todas)")
 
     args = parser.parse_args()
 
-    max_pages = args.max_pages
-    if max_pages is None:
-        try:
-            raw = input("¿Cuántas páginas quieres extraer? (Enter = todas): ").strip()
-            if raw:
-                max_pages = int(raw)
-        except Exception:
-            max_pages = None
+    if args.url:
+        scraper = HenaojaraAnimeScraper()
+        scraper.run(url=args.url, output_file=args.output)
+    else:
+        max_pages = args.max_pages
+        if max_pages is None:
+            try:
+                raw = input("¿Cuántas páginas quieres extraer? (Enter = todas): ").strip()
+                if raw:
+                    max_pages = int(raw)
+            except Exception:
+                max_pages = None
 
-    scraper = HenaojaraAnimeScraper()
-    scraper.run(max_animes=args.max_animes, max_pages=max_pages)
+        scraper = HenaojaraAnimeScraper()
+        scraper.run(max_animes=args.max_animes, max_pages=max_pages, output_file=args.output)
 
 
 if __name__ == "__main__":
