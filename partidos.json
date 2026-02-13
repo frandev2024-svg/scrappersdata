@@ -1,1847 +1,5 @@
 [
   {
-    "hora_utc": "2026-02-12T17:00:00Z",
-    "hora_argentina": "2026-02-12 14:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png",
-    "liga": "",
-    "equipos": "Željeznicar vs Slavija Kup Bosne i Hercegovine",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "arena1premiumbosnia",
-        "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T17:30:00Z",
-    "hora_argentina": "2026-02-12 14:30",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Euroleague",
-    "equipos": "Anadolu Efes - Virtus Bologna",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ES M+ Deportes6 (WIGI)",
-        "url": "https://bolaloca.my/player/1/67",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Deportes6 (HOCA)",
-        "url": "https://bolaloca.my/player/2/67",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Deportes6 (CAST)",
-        "url": "https://bolaloca.my/player/3/67",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T17:30:00Z",
-    "hora_argentina": "2026-02-12 14:30",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Basketball Euroleague",
-    "equipos": "Anadolu Efes vs Virtus Bologna",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "40",
-        "url": "https://antenasport.top/40.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "setantasport1",
-        "url": "https://antenasport.top/setantasport1.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "setantaukraine",
-        "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "arena2premiumserbia",
-        "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T17:30:00Z",
-    "hora_argentina": "2026-02-12 14:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Anadolu Efes vs Virtus Bolonia",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "canal 85",
-        "url": "https://miatvhd.xyz/reproductor/canal85.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T17:45:00Z",
-    "hora_argentina": "2026-02-12 14:45",
-    "logo": "",
-    "liga": "Ligue Des Champions Femmes",
-    "equipos": "Wolfsburg W - Juventus W",
-    "deporte": "Fútbol",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN Deportes (WIGI)",
-        "url": "https://bolaloca.my/player/1/71",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Deportes (HOCA)",
-        "url": "https://bolaloca.my/player/2/71",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Deportes (CAST)",
-        "url": "https://bolaloca.my/player/3/71",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN5 (WIGI)",
-        "url": "https://bolaloca.my/player/1/91",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN5 (HOCA)",
-        "url": "https://bolaloca.my/player/2/91",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN5 (CAST)",
-        "url": "https://bolaloca.my/player/3/91",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T17:45:00Z",
-    "hora_argentina": "2026-02-12 14:45",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
-    "liga": "Uefa Women's Champions League",
-    "equipos": "Wolfsburg vs. Juventus 18:45",
-    "deporte": "Fútbol",
-    "pais": "Europa",
-    "canales": [
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjQ=",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=espn5",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://welivesports.shop/embed/espn5col.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://elcanaldeportivo.com/espn5.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://rereyano.ru/player/3/91",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=RVNQTjQ=",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 2 AR Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T18:00:00Z",
-    "hora_argentina": "2026-02-12 15:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
-    "equipos": "Juan Manuel Cerúndolo (ARG) vs. Pedro Martínez (ESP) (Día 4) 19:00",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=tycsports",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://welivesports.shop/embed/tycsportarg.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://rereyano.ru/player/3/77",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=VHlDU3BvcnQ",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://tvlibree.com/pc/ext/?r=https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8%3Fheaders%3DeyJvcmlnaW4iOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbSIsInJlZmVyZXIiOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbS8ifQ%3D%3D",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:00:00Z",
-    "hora_argentina": "2026-02-12 16:00",
-    "logo": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
-    "liga": "Basketball Aba Liga",
-    "equipos": "Zadar vs Igokea",
-    "deporte": "Basketball",
-    "pais": "Balcanes",
-    "canales": [
-      {
-        "nombre": "arenasport2hr",
-        "url": "https://antenasport.top/arenasport2hr.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:05:00Z",
-    "hora_argentina": "2026-02-12 16:05",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Euroleague",
-    "equipos": "Maccabi Tel Aviv - Bayern",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "EXTRA SPORT6 (WIGI)",
-        "url": "https://bolaloca.my/player/1/160",
-        "calidad": ""
-      },
-      {
-        "nombre": "EXTRA SPORT6 (HOCA)",
-        "url": "https://bolaloca.my/player/2/160",
-        "calidad": ""
-      },
-      {
-        "nombre": "EXTRA SPORT6 (CAST)",
-        "url": "https://bolaloca.my/player/3/160",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:05:00Z",
-    "hora_argentina": "2026-02-12 16:05",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Basketball Euroleague",
-    "equipos": "Maccabi Tel Aviv vs Bayern Munich",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "sport5il",
-        "url": "https://antenasport.top/sport5il.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:05:00Z",
-    "hora_argentina": "2026-02-12 16:05",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png",
-    "liga": "Bundesliga",
-    "equipos": "Maccabi Tel Aviv vs Bayern",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "canal 86",
-        "url": "https://miatvhd.xyz/reproductor/canal86.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:15:00Z",
-    "hora_argentina": "2026-02-12 16:15",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Euroleague",
-    "equipos": "Olympiacos - Crvena zvezda",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ES M+ Deportes5 (WIGI)",
-        "url": "https://bolaloca.my/player/1/66",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Deportes5 (HOCA)",
-        "url": "https://bolaloca.my/player/2/66",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Deportes5 (CAST)",
-        "url": "https://bolaloca.my/player/3/66",
-        "calidad": ""
-      },
-      {
-        "nombre": "GR SPORT 3 (WIGI)",
-        "url": "https://bolaloca.my/player/1/150",
-        "calidad": ""
-      },
-      {
-        "nombre": "GR SPORT 3 (HOCA)",
-        "url": "https://bolaloca.my/player/2/150",
-        "calidad": ""
-      },
-      {
-        "nombre": "GR SPORT 3 (CAST)",
-        "url": "https://bolaloca.my/player/3/150",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:15:00Z",
-    "hora_argentina": "2026-02-12 16:15",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Basketball Euroleague",
-    "equipos": "Olympiacos vs. Crvena Zvezda",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "27",
-        "url": "https://antenasport.top/27.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "25",
-        "url": "https://antenasport.top/25.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "arena1premiumserbia",
-        "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "setantasport2",
-        "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "setantapremium",
-        "url": "https://antenasport.top/setantapremium.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:15:00Z",
-    "hora_argentina": "2026-02-12 16:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Olympiacos vs Estrella Roja",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "canal 87",
-        "url": "https://miatvhd.xyz/reproductor/canal87.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "",
-    "liga": "Coupe De Belgique",
-    "equipos": "Antwerp - Anderlecht",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "BE channel1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/153",
-        "calidad": ""
-      },
-      {
-        "nombre": "BE channel1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/153",
-        "calidad": ""
-      },
-      {
-        "nombre": "BE channel1 (CAST)",
-        "url": "https://bolaloca.my/player/3/153",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Euroleague",
-    "equipos": "Barcelona - Paris",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ES Vamos (WIGI)",
-        "url": "https://bolaloca.my/player/1/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (HOCA)",
-        "url": "https://bolaloca.my/player/2/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (CAST)",
-        "url": "https://bolaloca.my/player/3/55",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Euroleague",
-    "equipos": "Valencia - Lyon-Villeurbanne",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ES M+ Deportes (WIGI)",
-        "url": "https://bolaloca.my/player/1/62",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Deportes (HOCA)",
-        "url": "https://bolaloca.my/player/2/62",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Deportes (CAST)",
-        "url": "https://bolaloca.my/player/3/62",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Basketball Euroleague",
-    "equipos": "Barcelona vs Paris",
-    "deporte": "Basketball",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "28",
-        "url": "https://antenasport.top/28.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "arena4premiumserbia",
-        "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "vamos",
-        "url": "https://antenasport.top/vamos.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 88",
-        "url": "https://miatvhd.xyz/reproductor/canal88.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Basketball Euroleague",
-    "equipos": "Valencia vs ASVEL",
-    "deporte": "Basketball",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "26",
-        "url": "https://antenasport.top/26.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "arena5premiumserbia",
-        "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "movistar1",
-        "url": "https://antenasport.top/movistar1.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
-    "liga": "Swiss Super League",
-    "equipos": "Sion vs Basel",
-    "deporte": "Fútbol",
-    "pais": "Suiza",
-    "canales": [
-      {
-        "nombre": "15",
-        "url": "https://antenasport.top/15.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "bluesport1d",
-        "url": "https://antenasport.top/bluesport1d.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
-    "liga": "Swiss Super League",
-    "equipos": "Thun vs Lausanne Sport",
-    "deporte": "Fútbol",
-    "pais": "Suiza",
-    "canales": [
-      {
-        "nombre": "16",
-        "url": "https://antenasport.top/16.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "bluesport2d",
-        "url": "https://antenasport.top/bluesport2d.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "",
-    "liga": "",
-    "equipos": "Antwerp vs Anderlecht",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "canal 96",
-        "url": "https://miatvhd.xyz/reproductor/canal96.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T19:30:00Z",
-    "hora_argentina": "2026-02-12 16:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
-    "liga": "La Liga",
-    "equipos": "Valencia Basket vs Asvel Basket",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "canal 89",
-        "url": "https://miatvhd.xyz/reproductor/canal89.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/553.png",
-    "liga": "Copa Del Rey",
-    "equipos": "Atlético de Madrid vs. Barcelona",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "America Tv",
-        "url": "https://elcanaldeportivo.com/america.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "canal 61",
-        "url": "https://miatvhd.xyz/reproductor/canal61.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 64",
-        "url": "https://miatvhd.xyz/reproductor/canal64.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 62",
-        "url": "https://miatvhd.xyz/reproductor/canal62.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 63",
-        "url": "https://miatvhd.xyz/reproductor/canal63.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 67",
-        "url": "https://miatvhd.xyz/reproductor/canal67.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 66",
-        "url": "https://miatvhd.xyz/reproductor/canal66.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 65",
-        "url": "https://miatvhd.xyz/reproductor/canal65.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
-    "liga": "Premier League",
-    "equipos": "Brentford vs. Arsenal",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://elcanaldeportivo.com/espnhd.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "ESPN (Sharecast)",
-        "url": "https://elcanaldeportivo.com/espn-sharecast.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney1",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espn",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=foxone1",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=universo",
-        "calidad": ""
-      },
-      {
-        "nombre": "29",
-        "url": "https://antenasport.top/29.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "40",
-        "url": "https://antenasport.top/40.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "20",
-        "url": "https://antenasport.top/20.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "hubpremier1",
-        "url": "https://antenasport.top/hubpremier1.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "hubpremier2",
-        "url": "https://antenasport.top/hubpremier2.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "setantasport1",
-        "url": "https://antenasport.top/setantasport1.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "setantaukraine",
-        "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "maxtnt1",
-        "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "arena3premiumserbia",
-        "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "arenasport1hr",
-        "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 1",
-        "url": "https://miatvhd.xyz/reproductor/canal1.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 125",
-        "url": "https://miatvhd.xyz/reproductor/canal125.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "espn",
-        "url": "https://miatvhd.xyz/reproductor/espn.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/553.png",
-    "liga": "Copa Del Rey",
-    "equipos": "Atlético Madrid vs Barcelona",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=skylaliga",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=mlaliga",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winsports",
-        "calidad": ""
-      },
-      {
-        "nombre": "digisport2",
-        "url": "https://antenasport.top/digisport2.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "30",
-        "url": "https://antenasport.top/30.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "movistarplus",
-        "url": "https://antenasport.top/movistarplus.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "tve1",
-        "url": "https://antenasport.top/tve1.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "match",
-        "url": "https://antenasport.top/match.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "match2",
-        "url": "https://antenasport.top/match2.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "arenasport3hr",
-        "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "sport1pt",
-        "url": "https://antenasport.top/sport1pt.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "sport4il",
-        "url": "https://antenasport.top/sport4il.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "elevensport1pl",
-        "url": "https://antenasport.top/elevensport1pl.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "",
-    "liga": "Coupe Du Roi",
-    "equipos": "Atl. Madrid - Barcelona",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "C+Live 15 (WIGI)",
-        "url": "https://bolaloca.my/player/1/45",
-        "calidad": ""
-      },
-      {
-        "nombre": "C+Live 15 (HOCA)",
-        "url": "https://bolaloca.my/player/2/45",
-        "calidad": ""
-      },
-      {
-        "nombre": "C+Live 15 (CAST)",
-        "url": "https://bolaloca.my/player/3/45",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES m.laliga (WIGI)",
-        "url": "https://bolaloca.my/player/1/49",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES m.laliga (HOCA)",
-        "url": "https://bolaloca.my/player/2/49",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES m.laliga (CAST)",
-        "url": "https://bolaloca.my/player/3/49",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES DAZN F1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/60",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES DAZN F1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/60",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES DAZN F1 (CAST)",
-        "url": "https://bolaloca.my/player/3/60",
-        "calidad": ""
-      },
-      {
-        "nombre": "WINsport (WIGI)",
-        "url": "https://bolaloca.my/player/1/82",
-        "calidad": ""
-      },
-      {
-        "nombre": "WINsport (HOCA)",
-        "url": "https://bolaloca.my/player/2/82",
-        "calidad": ""
-      },
-      {
-        "nombre": "WINsport (CAST)",
-        "url": "https://bolaloca.my/player/3/82",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "",
-    "liga": "Ligue Des Champions Femmes",
-    "equipos": "Atl. Madrid W - Manchester Utd W",
-    "deporte": "Fútbol",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN Deportes (WIGI)",
-        "url": "https://bolaloca.my/player/1/71",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Deportes (HOCA)",
-        "url": "https://bolaloca.my/player/2/71",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Deportes (CAST)",
-        "url": "https://bolaloca.my/player/3/71",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN5 (WIGI)",
-        "url": "https://bolaloca.my/player/1/91",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN5 (HOCA)",
-        "url": "https://bolaloca.my/player/2/91",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN5 (CAST)",
-        "url": "https://bolaloca.my/player/3/91",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
-    "liga": "Premier League",
-    "equipos": "Brentford - Arsenal",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "canal+ foot (WIGI)",
-        "url": "https://bolaloca.my/player/1/12",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal+ foot (HOCA)",
-        "url": "https://bolaloca.my/player/2/12",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal+ foot (CAST)",
-        "url": "https://bolaloca.my/player/3/12",
-        "calidad": ""
-      },
-      {
-        "nombre": "UK TNT SPORT (WIGI)",
-        "url": "https://bolaloca.my/player/1/126",
-        "calidad": ""
-      },
-      {
-        "nombre": "UK TNT SPORT (HOCA)",
-        "url": "https://bolaloca.my/player/2/126",
-        "calidad": ""
-      },
-      {
-        "nombre": "UK TNT SPORT (CAST)",
-        "url": "https://bolaloca.my/player/3/126",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES DAZN 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/56",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES DAZN 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/56",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES DAZN 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/56",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE skyde PL (WIGI)",
-        "url": "https://bolaloca.my/player/1/120",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE skyde PL (HOCA)",
-        "url": "https://bolaloca.my/player/2/120",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE skyde PL (CAST)",
-        "url": "https://bolaloca.my/player/3/120",
-        "calidad": ""
-      },
-      {
-        "nombre": "NBC UNIVERSO (WIGI)",
-        "url": "https://bolaloca.my/player/1/72",
-        "calidad": ""
-      },
-      {
-        "nombre": "NBC UNIVERSO (HOCA)",
-        "url": "https://bolaloca.my/player/2/72",
-        "calidad": ""
-      },
-      {
-        "nombre": "NBC UNIVERSO (CAST)",
-        "url": "https://bolaloca.my/player/3/72",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/87",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/87",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN1 (CAST)",
-        "url": "https://bolaloca.my/player/3/87",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "",
-    "liga": "Pro D2",
-    "equipos": "Nevers - Colomiers",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "canal+ sport (WIGI)",
-        "url": "https://bolaloca.my/player/1/13",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal+ sport (HOCA)",
-        "url": "https://bolaloca.my/player/2/13",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal+ sport (CAST)",
-        "url": "https://bolaloca.my/player/3/13",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Hielo Juegos Olímpicos",
-    "equipos": "Latvia vs USA",
-    "deporte": "Juegos Olímpicos",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "nombre": "sky5nz",
-        "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "10",
-        "url": "https://antenasport.top/10.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
-    "liga": "Premier League",
-    "equipos": "Brentford vs. Arsenal 21:00",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=espn",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://welivesports.shop/embed/espn1arg.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://welivesports.shop/embed/espn1col.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://elcanaldeportivo.com/espnhd.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://elcanaldeportivo.com/espn-sharecast.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://rereyano.ru/player/3/87",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 1 Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=RVNQTjJIRA",
-        "calidad": ""
-      },
-      {
-        "nombre": "Disney+ Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=disney1",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/553.png",
-    "liga": "Copa Del Rey",
-    "equipos": "Atlético Madrid vs. Barcelona 21:00",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "ESPN+ Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=espnplus1",
-        "calidad": ""
-      },
-      {
-        "nombre": "Flow Sports Calidad 720p",
-        "url": "/html/fl/?get=RXZlbnRvczFIRA",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN+ (English) Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=espnplus2",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win Sports Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=winsports",
-        "calidad": ""
-      },
-      {
-        "nombre": "América TV PE Calidad 720p",
-        "url": "https://elcanaldeportivo.com/america.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "",
-    "liga": "Torneo De Reserva",
-    "equipos": "Platense vs. Central Córdoba SdE 21:00",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN 3 Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjM",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 3 Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=espn3",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 3 Calidad 720p",
-        "url": "https://welivesports.shop/embed/espn3col.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 3 Calidad 720p",
-        "url": "https://elcanaldeportivo.com/espn3hd.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 3 Calidad 720p",
-        "url": "https://rereyano.ru/player/3/89",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 3 Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=RVNQTjM",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:00:00Z",
-    "hora_argentina": "2026-02-12 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
-    "liga": "Uefa Women's Champions League",
-    "equipos": "Atletico Madrid vs. Manchester United 21:00",
-    "deporte": "Fútbol",
-    "pais": "Europa",
-    "canales": [
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjQ=",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=espn5",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://welivesports.shop/embed/espn5col.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://elcanaldeportivo.com/espn5.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://rereyano.ru/player/3/91",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 5 Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=RVNQTjQ=",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN 2 AR Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T20:15:00Z",
-    "hora_argentina": "2026-02-12 17:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Hielo Juegos Olímpicos",
-    "equipos": "Germany vs Denmark",
-    "deporte": "Juegos Olímpicos",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "nombre": "sky4nz",
-        "url": "https://antenasport.top/sky4nz.php",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T21:10:00Z",
-    "hora_argentina": "2026-02-12 18:10",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
-    "liga": "Liga Betplay",
-    "equipos": "Boyacá Chicó vs. Jaguares de Córdoba",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "Win Sports+",
-        "url": "https://elcanaldeportivo.com/winmas.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winplus",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winplus2",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 11",
-        "url": "https://miatvhd.xyz/reproductor/canal11.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T21:10:00Z",
-    "hora_argentina": "2026-02-12 18:10",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
-    "liga": "Liga Betplay Dimayor",
-    "equipos": "Chico - Jaguares de Cordoba",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "WINsport+ (WIGI)",
-        "url": "https://bolaloca.my/player/1/81",
-        "calidad": ""
-      },
-      {
-        "nombre": "WINsport+ (HOCA)",
-        "url": "https://bolaloca.my/player/2/81",
-        "calidad": ""
-      },
-      {
-        "nombre": "WINsport+ (CAST)",
-        "url": "https://bolaloca.my/player/3/81",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T21:10:00Z",
-    "hora_argentina": "2026-02-12 18:10",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
-    "liga": "Liga Betplay",
-    "equipos": "Boyacá Chicó vs. Jaguares de Córdoba 22:10",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=winplus",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=winplus2",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://elcanaldeportivo.com/winmas.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win+ Fútbol Calidad 720p",
-        "url": "https://rereyano.ru/player/3/81",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T21:30:00Z",
-    "hora_argentina": "2026-02-12 18:30",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
-    "equipos": "Ignacio Buse (PER) vs. Sebastián Báez (ARG) (Día 4) 22:30",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=tycsports",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://welivesports.shop/embed/tycsportarg.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://rereyano.ru/player/3/77",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=VHlDU3BvcnQ",
-        "calidad": ""
-      },
-      {
-        "nombre": "TyC Sports Calidad 720p",
-        "url": "https://tvlibree.com/pc/ext/?r=https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8%3Fheaders%3DeyJvcmlnaW4iOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbSIsInJlZmVyZXIiOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbS8ifQ%3D%3D",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:00:00Z",
-    "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
-    "liga": "Fútbol Argentino",
-    "equipos": "Tigre vs. Aldosivi",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://elcanaldeportivo.com/espnpremium.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=tycint",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 70",
-        "url": "https://miatvhd.xyz/reproductor/canal70.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:00:00Z",
-    "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Athletico-PR vs Santos",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=premiere4",
-        "calidad": ""
-      },
-      {
-        "nombre": "gol",
-        "url": "https://miatvhd.xyz/reproductor/gol.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:00:00Z",
-    "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Athletico-PR - Santos",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [
-      {
-        "nombre": "DE Sportdigital Fussball (WIGI)",
-        "url": "https://bolaloca.my/player/1/125",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE Sportdigital Fussball (HOCA)",
-        "url": "https://bolaloca.my/player/2/125",
-        "calidad": ""
-      },
-      {
-        "nombre": "DE Sportdigital Fussball (CAST)",
-        "url": "https://bolaloca.my/player/3/125",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:00:00Z",
-    "hora_argentina": "2026-02-12 19:00",
-    "logo": "",
-    "liga": "Torneo Lpf",
-    "equipos": "Tigre - Aldosivi",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN Premium (WIGI)",
-        "url": "https://bolaloca.my/player/1/76",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium (HOCA)",
-        "url": "https://bolaloca.my/player/2/76",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium (CAST)",
-        "url": "https://bolaloca.my/player/3/76",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:00:00Z",
-    "hora_argentina": "2026-02-12 19:00",
-    "logo": "",
-    "liga": "Liga Profesional",
-    "equipos": "Tigre vs. Aldosivi 23:00",
-    "deporte": "Fútbol",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=espnpremium",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "https://welivesports.shop/embed/espnpremarg.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "https://elcanaldeportivo.com/espnpremium.php",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "https://rereyano.ru/player/3/76",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "https://nebunexa.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "/pc/dex/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN Premium Calidad 720p",
-        "url": "https://tvlibree.com/pc/ext/?r=https%3A%2F%2Fsupercanal-cdn2.tbxdrm.com%2Fespnpremium%2Fmanifest.mpd%3Fck%3DeyI5NGM5ZTRkMjJiN2Y1OTAwODEwMDU0MDM5NWFiNjA3MSI6ImM4NTY3OTY2N2UyNDdkNGNmOWFlMDdjZGQ1YjY0NjU1IiwKIjgwZGJiNzcxNGViNDViMzU4OGQzYzM1MDRmYzU0NDA3IjoiOGFhZjc3ZWQzNzRlMDEyODNjNWY5ZWVkNWZjMGIwZTUiLAoiZDY5YWI4ZmM3ODRmNTEzNjg2YTEyMWI2OWYwODViNWMiOiI5NDVjZmU2MWU0YzJjN2JjNDkwZDZjNzUzZWRjYTU1NyJ9%26%26headers%3DeyJvcmlnaW4iOiJodHRwczovL3d3dy5taW8udHYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubWlvLnR2LyJ9",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:00:00Z",
-    "hora_argentina": "2026-02-12 19:00",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Athletico-PR vs. Santos 23:00",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:30:00Z",
-    "hora_argentina": "2026-02-12 19:30",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Fluminense vs Botafogo",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winsports",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=premiere1",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=premiere2",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 51",
-        "url": "https://miatvhd.xyz/reproductor/canal51.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:30:00Z",
-    "hora_argentina": "2026-02-12 19:30",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Fluminense - Botafogo RJ",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [
-      {
-        "nombre": "ES Vamos (WIGI)",
-        "url": "https://bolaloca.my/player/1/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (HOCA)",
-        "url": "https://bolaloca.my/player/2/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES Vamos (CAST)",
-        "url": "https://bolaloca.my/player/3/55",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (WIGI)",
-        "url": "https://bolaloca.my/player/1/61",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (HOCA)",
-        "url": "https://bolaloca.my/player/2/61",
-        "calidad": ""
-      },
-      {
-        "nombre": "ES M+ Liga de Campeones (CAST)",
-        "url": "https://bolaloca.my/player/3/61",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T22:30:00Z",
-    "hora_argentina": "2026-02-12 19:30",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Fluminense vs. Botafogo 23:30",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [
-      {
-        "nombre": "Flow Sports Calidad 720p",
-        "url": "/html/fl/?get=RXZlbnRvczFIRA",
-        "calidad": ""
-      },
-      {
-        "nombre": "Win Sports Calidad 720p",
-        "url": "https://streamtp10.com/global1.php?stream=winsports",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T23:00:00Z",
-    "hora_argentina": "2026-02-12 20:00",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Corinthians vs RB Bragantino",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=liga1max",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=premiere3",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T23:00:00Z",
-    "hora_argentina": "2026-02-12 20:00",
-    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
-    "liga": "Brasileirão",
-    "equipos": "Corinthians - Bragantino",
-    "deporte": "Fútbol",
-    "pais": "Brasil",
-    "canales": [
-      {
-        "nombre": "Liga1MAX (WIGI)",
-        "url": "https://bolaloca.my/player/1/84",
-        "calidad": ""
-      },
-      {
-        "nombre": "Liga1MAX (HOCA)",
-        "url": "https://bolaloca.my/player/2/84",
-        "calidad": ""
-      },
-      {
-        "nombre": "Liga1MAX (CAST)",
-        "url": "https://bolaloca.my/player/3/84",
-        "calidad": ""
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-12T23:00:00Z",
-    "hora_argentina": "2026-02-12 20:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
-    "liga": "Liga Portugal",
-    "equipos": "Corinthians vs Bragantino",
-    "deporte": "Fútbol",
-    "pais": "Portugal",
-    "canales": [
-      {
-        "nombre": "canal 52",
-        "url": "https://miatvhd.xyz/reproductor/canal52.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T23:20:00Z",
-    "hora_argentina": "2026-02-12 20:20",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
-    "liga": "Liga Betplay",
-    "equipos": "Once Caldas vs. Junior",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "Win Sports+",
-        "url": "https://elcanaldeportivo.com/winmas.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winplus",
-        "calidad": ""
-      },
-      {
-        "nombre": "StreamX10",
-        "url": "https://streamx10.cloud/global1.php?channel=winplus2",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 8",
-        "url": "https://miatvhd.xyz/reproductor/canal8.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-12T23:20:00Z",
-    "hora_argentina": "2026-02-12 20:20",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
-    "liga": "Liga Betplay Dimayor",
-    "equipos": "Once Caldas - Junior",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "WINsport+ (WIGI)",
-        "url": "https://bolaloca.my/player/1/81",
-        "calidad": ""
-      },
-      {
-        "nombre": "WINsport+ (HOCA)",
-        "url": "https://bolaloca.my/player/2/81",
-        "calidad": ""
-      },
-      {
-        "nombre": "WINsport+ (CAST)",
-        "url": "https://bolaloca.my/player/3/81",
-        "calidad": ""
-      }
-    ],
-    "date_offset": -1
-  },
-  {
     "hora_utc": "2026-02-13T00:15:00Z",
     "hora_argentina": "2026-02-12 21:15",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_LPF_AFA.svg",
@@ -1879,85 +37,6 @@
     "date_offset": -1
   },
   {
-    "hora_utc": "2026-02-13T00:15:00Z",
-    "hora_argentina": "2026-02-12 21:15",
-    "logo": "",
-    "liga": "Torneo Lpf",
-    "equipos": "Argentinos Jrs - River Plate",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "TNT sport arg (WIGI)",
-        "url": "https://bolaloca.my/player/1/75",
-        "calidad": ""
-      },
-      {
-        "nombre": "TNT sport arg (HOCA)",
-        "url": "https://bolaloca.my/player/2/75",
-        "calidad": ""
-      },
-      {
-        "nombre": "TNT sport arg (CAST)",
-        "url": "https://bolaloca.my/player/3/75",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/88",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/88",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN2 (CAST)",
-        "url": "https://bolaloca.my/player/3/88",
-        "calidad": ""
-      },
-      {
-        "nombre": "PT SPORT 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/145",
-        "calidad": ""
-      },
-      {
-        "nombre": "PT SPORT 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/145",
-        "calidad": ""
-      },
-      {
-        "nombre": "PT SPORT 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/145",
-        "calidad": ""
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-13T00:15:00Z",
-    "hora_argentina": "2026-02-12 21:15",
-    "logo": "",
-    "liga": "",
-    "equipos": "Argentinos Jrs. vs River Plate",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "canal 73",
-        "url": "https://miatvhd.xyz/reproductor/canal73.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 72",
-        "url": "https://miatvhd.xyz/reproductor/canal72.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-13T00:30:00Z",
     "hora_argentina": "2026-02-12 21:30",
     "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
@@ -1975,16 +54,6 @@
         "nombre": "ESPN (Sharecast)",
         "url": "https://elcanaldeportivo.com/espn-sharecast.php",
         "calidad": "720p"
-      },
-      {
-        "nombre": "espn",
-        "url": "https://miatvhd.xyz/reproductor/espn.html",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 1",
-        "url": "https://miatvhd.xyz/reproductor/canal1.html",
-        "calidad": ""
       }
     ],
     "date_offset": -1
@@ -2034,11 +103,6 @@
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=amazon1",
         "calidad": ""
-      },
-      {
-        "nombre": "canal 53",
-        "url": "https://miatvhd.xyz/reproductor/canal53.html",
-        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -2055,107 +119,6 @@
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=amazon2",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T00:30:00Z",
-    "hora_argentina": "2026-02-12 21:30",
-    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
-    "liga": "Copa Libertadores",
-    "equipos": "U. Catolica",
-    "deporte": "Fútbol",
-    "pais": "Sudamérica",
-    "canales": [
-      {
-        "nombre": "ESPN1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/87",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/87",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN1 (CAST)",
-        "url": "https://bolaloca.my/player/3/87",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN2MX (WIGI)",
-        "url": "https://bolaloca.my/player/1/98",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN2MX (HOCA)",
-        "url": "https://bolaloca.my/player/2/98",
-        "calidad": ""
-      },
-      {
-        "nombre": "ESPN2MX (CAST)",
-        "url": "https://bolaloca.my/player/3/98",
-        "calidad": ""
-      },
-      {
-        "nombre": "beIN En espanol (WIGI)",
-        "url": "https://bolaloca.my/player/1/69",
-        "calidad": ""
-      },
-      {
-        "nombre": "beIN En espanol (HOCA)",
-        "url": "https://bolaloca.my/player/2/69",
-        "calidad": ""
-      },
-      {
-        "nombre": "beIN En espanol (CAST)",
-        "url": "https://bolaloca.my/player/3/69",
-        "calidad": ""
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-13T00:30:00Z",
-    "hora_argentina": "2026-02-12 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-    "liga": "Nba",
-    "equipos": "Oklahoma City Thunder - Milwaukee Bucks",
-    "deporte": "Basketball",
-    "pais": "Estados Unidos",
-    "canales": [
-      {
-        "nombre": "EXTRA SPORT26 (WIGI)",
-        "url": "https://bolaloca.my/player/1/180",
-        "calidad": ""
-      },
-      {
-        "nombre": "EXTRA SPORT26 (HOCA)",
-        "url": "https://bolaloca.my/player/2/180",
-        "calidad": ""
-      },
-      {
-        "nombre": "EXTRA SPORT26 (CAST)",
-        "url": "https://bolaloca.my/player/3/180",
-        "calidad": ""
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-13T00:30:00Z",
-    "hora_argentina": "2026-02-12 21:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
-    "liga": "Swiss Super League",
-    "equipos": "Oklahoma City Thunder vs Milwaukee Bucks",
-    "deporte": "Fútbol",
-    "pais": "Suiza",
-    "canales": [
-      {
-        "nombre": "canal 108",
-        "url": "https://miatvhd.xyz/reproductor/canal108.html",
         "calidad": ""
       }
     ],
@@ -2188,11 +151,6 @@
       {
         "nombre": "StreamX10",
         "url": "https://streamx10.cloud/global1.php?channel=tudnus",
-        "calidad": ""
-      },
-      {
-        "nombre": "canal 90",
-        "url": "https://miatvhd.xyz/reproductor/canal90.html",
         "calidad": ""
       }
     ],
@@ -2238,11 +196,6 @@
         "nombre": "Win Sports+",
         "url": "https://elcanaldeportivo.com/winmas.php",
         "calidad": "720p"
-      },
-      {
-        "nombre": "canal 11",
-        "url": "https://miatvhd.xyz/reproductor/canal11.html",
-        "calidad": ""
       }
     ],
     "date_offset": -1
@@ -2297,6 +250,38 @@
     "date_offset": -1
   },
   {
+    "hora_utc": "2026-02-13T01:30:00Z",
+    "hora_argentina": "2026-02-12 22:30",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/LigaBetPlay.png/revision/latest?cb=20210410195804&path-prefix=es",
+    "liga": "Liga Betplay",
+    "equipos": "Atlético Nacional vs. Fortaleza CEIF 02:30",
+    "deporte": "Fútbol",
+    "pais": "Colombia",
+    "canales": [
+      {
+        "nombre": "Win+ Fútbol Calidad 720p",
+        "url": "https://streamtp10.com/global1.php?stream=winplus",
+        "calidad": ""
+      },
+      {
+        "nombre": "Win+ Fútbol Calidad 720p",
+        "url": "https://streamtp10.com/global1.php?stream=winplus2",
+        "calidad": ""
+      },
+      {
+        "nombre": "Win+ Fútbol Calidad 720p",
+        "url": "https://elcanaldeportivo.com/winmas.php",
+        "calidad": ""
+      },
+      {
+        "nombre": "Win+ Fútbol Calidad 720p",
+        "url": "https://rereyano.ru/player/3/81",
+        "calidad": ""
+      }
+    ],
+    "date_offset": -1
+  },
+  {
     "hora_utc": "2026-02-13T02:00:00Z",
     "hora_argentina": "2026-02-12 23:00",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
@@ -2322,23 +307,6 @@
       }
     ],
     "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-13T02:00:00Z",
-    "hora_argentina": "2026-02-12 23:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
-    "liga": "Eredivisie",
-    "equipos": "Utah Jazz vs Portland Trail Blazers",
-    "deporte": "Fútbol",
-    "pais": "Países Bajos",
-    "canales": [
-      {
-        "nombre": "canal 109",
-        "url": "https://miatvhd.xyz/reproductor/canal109.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
   },
   {
     "hora_utc": "2026-02-13T03:00:00Z",
@@ -2383,23 +351,6 @@
       }
     ],
     "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-13T03:00:00Z",
-    "hora_argentina": "2026-02-13 00:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
-    "liga": "NBA",
-    "equipos": "Los Angeles Lakers vs Dallas Mavericks",
-    "deporte": "Basketball",
-    "pais": "Estados Unidos",
-    "canales": [
-      {
-        "nombre": "canal 110",
-        "url": "https://miatvhd.xyz/reproductor/canal110.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 1
   },
   {
     "hora_utc": "2026-02-13T07:00:00Z",
@@ -2643,6 +594,23 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-13T17:30:00Z",
+    "hora_argentina": "2026-02-13 14:30",
+    "logo": "",
+    "liga": "",
+    "equipos": "Anadolu Efes vs Virtus Bolonia",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "canal 85",
+        "url": "https://miatvhd.xyz/reproductor/canal85.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-13T18:00:00Z",
     "hora_argentina": "2026-02-13 15:00",
     "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
@@ -2763,6 +731,23 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-13T19:05:00Z",
+    "hora_argentina": "2026-02-13 16:05",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png",
+    "liga": "Bundesliga",
+    "equipos": "Maccabi Tel Aviv vs Bayern",
+    "deporte": "Fútbol",
+    "pais": "Alemania",
+    "canales": [
+      {
+        "nombre": "canal 86",
+        "url": "https://miatvhd.xyz/reproductor/canal86.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-13T19:15:00Z",
     "hora_argentina": "2026-02-13 16:15",
     "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
@@ -2784,6 +769,23 @@
       {
         "nombre": "setantapremium",
         "url": "https://antenasport.top/setantapremium.php",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T19:15:00Z",
+    "hora_argentina": "2026-02-13 16:15",
+    "logo": "",
+    "liga": "",
+    "equipos": "Olympiacos vs Estrella Roja",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "canal 87",
+        "url": "https://miatvhd.xyz/reproductor/canal87.html",
         "calidad": ""
       }
     ],
@@ -2921,6 +923,57 @@
       {
         "nombre": "setantaukraineplus",
         "url": "https://antenasport.top/setantaukraineplus.php",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T19:30:00Z",
+    "hora_argentina": "2026-02-13 16:30",
+    "logo": "",
+    "liga": "",
+    "equipos": "Antwerp vs Anderlecht",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "canal 96",
+        "url": "https://miatvhd.xyz/reproductor/canal96.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T19:30:00Z",
+    "hora_argentina": "2026-02-13 16:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "liga": "La Liga",
+    "equipos": "Barcelona vs Paris",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [
+      {
+        "nombre": "canal 88",
+        "url": "https://miatvhd.xyz/reproductor/canal88.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T19:30:00Z",
+    "hora_argentina": "2026-02-13 16:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "liga": "La Liga",
+    "equipos": "Valencia Basket vs Asvel Basket",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [
+      {
+        "nombre": "canal 89",
+        "url": "https://miatvhd.xyz/reproductor/canal89.html",
         "calidad": ""
       }
     ],
@@ -3120,6 +1173,80 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-13T20:00:00Z",
+    "hora_argentina": "2026-02-13 17:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "liga": "La Liga",
+    "equipos": "Atlético de Madrid vs Barcelona",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [
+      {
+        "nombre": "canal 61",
+        "url": "https://miatvhd.xyz/reproductor/canal61.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 64",
+        "url": "https://miatvhd.xyz/reproductor/canal64.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 62",
+        "url": "https://miatvhd.xyz/reproductor/canal62.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 63",
+        "url": "https://miatvhd.xyz/reproductor/canal63.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 67",
+        "url": "https://miatvhd.xyz/reproductor/canal67.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 66",
+        "url": "https://miatvhd.xyz/reproductor/canal66.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 65",
+        "url": "https://miatvhd.xyz/reproductor/canal65.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T20:00:00Z",
+    "hora_argentina": "2026-02-13 17:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
+    "equipos": "Brentford vs Arsenal",
+    "deporte": "Fútbol",
+    "pais": "Inglaterra",
+    "canales": [
+      {
+        "nombre": "canal 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 125",
+        "url": "https://miatvhd.xyz/reproductor/canal125.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "espn",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-13T20:05:00Z",
     "hora_argentina": "2026-02-13 17:05",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/9.png",
@@ -3194,6 +1321,254 @@
       }
     ],
     "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T21:10:00Z",
+    "hora_argentina": "2026-02-13 18:10",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "liga": "La Liga 2",
+    "equipos": "Boyacá Chicó vs Jaguares de Córdoba",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [
+      {
+        "nombre": "canal 11",
+        "url": "https://miatvhd.xyz/reproductor/canal11.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T22:00:00Z",
+    "hora_argentina": "2026-02-13 19:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",
+    "liga": "La Liga",
+    "equipos": "Athletico-PR vs Santos",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [
+      {
+        "nombre": "gol",
+        "url": "https://miatvhd.xyz/reproductor/gol.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T22:00:00Z",
+    "hora_argentina": "2026-02-13 19:00",
+    "logo": "",
+    "liga": "",
+    "equipos": "Tigre vs Aldosivi",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "canal 70",
+        "url": "https://miatvhd.xyz/reproductor/canal70.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T22:30:00Z",
+    "hora_argentina": "2026-02-13 19:30",
+    "logo": "",
+    "liga": "",
+    "equipos": "Fluminense vs Botafogo",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "canal 51",
+        "url": "https://miatvhd.xyz/reproductor/canal51.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T23:00:00Z",
+    "hora_argentina": "2026-02-13 20:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
+    "liga": "Liga Portugal",
+    "equipos": "Corinthians vs Bragantino",
+    "deporte": "Fútbol",
+    "pais": "Portugal",
+    "canales": [
+      {
+        "nombre": "canal 52",
+        "url": "https://miatvhd.xyz/reproductor/canal52.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-13T23:20:00Z",
+    "hora_argentina": "2026-02-13 20:20",
+    "logo": "",
+    "liga": "",
+    "equipos": "Once Caldas vs Junior",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "canal 8",
+        "url": "https://miatvhd.xyz/reproductor/canal8.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T00:15:00Z",
+    "hora_argentina": "2026-02-13 21:15",
+    "logo": "",
+    "liga": "",
+    "equipos": "Argentinos Jrs. vs River Plate",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "canal 73",
+        "url": "https://miatvhd.xyz/reproductor/canal73.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 72",
+        "url": "https://miatvhd.xyz/reproductor/canal72.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T00:30:00Z",
+    "hora_argentina": "2026-02-13 21:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png",
+    "liga": "Serie A",
+    "equipos": "Internacional vs Palmeiras",
+    "deporte": "Fútbol",
+    "pais": "Italia",
+    "canales": [
+      {
+        "nombre": "canal 53",
+        "url": "https://miatvhd.xyz/reproductor/canal53.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T00:30:00Z",
+    "hora_argentina": "2026-02-13 21:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
+    "liga": "Swiss Super League",
+    "equipos": "Oklahoma City Thunder vs Milwaukee Bucks",
+    "deporte": "Fútbol",
+    "pais": "Suiza",
+    "canales": [
+      {
+        "nombre": "canal 108",
+        "url": "https://miatvhd.xyz/reproductor/canal108.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T00:30:00Z",
+    "hora_argentina": "2026-02-13 21:30",
+    "logo": "",
+    "liga": "",
+    "equipos": "U. Católica (Ecu) vs Juventud (Uru)",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "espn",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "calidad": ""
+      },
+      {
+        "nombre": "canal 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T01:00:00Z",
+    "hora_argentina": "2026-02-13 22:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "liga": "Eredivisie",
+    "equipos": "Cruz Azul vs Vancouver FC",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [
+      {
+        "nombre": "canal 90",
+        "url": "https://miatvhd.xyz/reproductor/canal90.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T01:30:00Z",
+    "hora_argentina": "2026-02-13 22:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
+    "liga": "Liga Portugal",
+    "equipos": "Atl. Nacional vs Fortaleza",
+    "deporte": "Fútbol",
+    "pais": "Portugal",
+    "canales": [
+      {
+        "nombre": "canal 11",
+        "url": "https://miatvhd.xyz/reproductor/canal11.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T02:00:00Z",
+    "hora_argentina": "2026-02-13 23:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png",
+    "liga": "Eredivisie",
+    "equipos": "Utah Jazz vs Portland Trail Blazers",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [
+      {
+        "nombre": "canal 109",
+        "url": "https://miatvhd.xyz/reproductor/canal109.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T03:00:00Z",
+    "hora_argentina": "2026-02-14 00:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",
+    "liga": "NBA",
+    "equipos": "Los Angeles Lakers vs Dallas Mavericks",
+    "deporte": "Basketball",
+    "pais": "Estados Unidos",
+    "canales": [
+      {
+        "nombre": "canal 110",
+        "url": "https://miatvhd.xyz/reproductor/canal110.html",
+        "calidad": ""
+      }
+    ],
+    "date_offset": 1
   },
   {
     "hora_utc": "2026-02-14T08:00:00Z",
