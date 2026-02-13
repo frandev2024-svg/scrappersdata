@@ -295,7 +295,7 @@
     "hora_utc": "2026-02-13T17:30:00Z",
     "hora_argentina": "2026-02-13 14:30",
     "logo": "https://bestleague.world/jr/96.png",
-    "liga": "Bundesliga 2",
+    "liga": "2. Bundesliga",
     "equipos": "Nurnberg - Karlsruher SC",
     "deporte": "Fútbol",
     "pais": "Alemania",
@@ -841,8 +841,8 @@
   {
     "hora_utc": "2026-02-13T18:30:00Z",
     "hora_argentina": "2026-02-13 15:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
-    "liga": "Primeira Liga",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
+    "liga": "UEFA Champions League",
     "equipos": "Santa Clara vs Benfica",
     "deporte": "Fútbol",
     "pais": "Portugal",
@@ -1542,7 +1542,7 @@
     "hora_utc": "2026-02-13T19:15:00Z",
     "hora_argentina": "2026-02-13 16:15",
     "logo": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
-    "liga": "Euroleague",
+    "liga": "Basketball Euroleague",
     "equipos": "Panathinaikos - Fenerbahce",
     "deporte": "Basketball",
     "pais": "",
@@ -1615,7 +1615,7 @@
   {
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
-    "logo": "https://elcanaldeportivo.com/img/ale.png",
+    "logo": "https://bestleague.world/jr/96.png",
     "liga": "Bundesliga",
     "equipos": "Borussia Dortmund vs. Mainz",
     "deporte": "Fútbol",
@@ -1643,7 +1643,7 @@
     "hora_utc": "2026-02-13T19:30:00Z",
     "hora_argentina": "2026-02-13 16:30",
     "logo": "https://bestleague.world/jr/34.png",
-    "liga": "Laliga 2",
+    "liga": "Laliga Smartbank",
     "equipos": "Almería vs FC Andorra",
     "deporte": "Fútbol",
     "pais": "España",
@@ -2018,8 +2018,8 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/eng.png",
-    "liga": "Fa Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
     "equipos": "Hull City vs. Chelsea",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
@@ -2135,7 +2135,7 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
+    "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Pisa vs. AC Milan",
     "deporte": "Fútbol",
@@ -2264,8 +2264,8 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Fa Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
     "equipos": "Wrexham vs Ipswich Town",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
@@ -2321,8 +2321,8 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Fa Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
     "equipos": "Hull - Chelsea",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
@@ -2403,8 +2403,8 @@
   {
     "hora_utc": "2026-02-13T19:45:00Z",
     "hora_argentina": "2026-02-13 16:45",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Fa Cup",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
     "equipos": "Wrexham - Ipswich",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
@@ -2558,8 +2558,8 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
-    "liga": "Laliga",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga",
     "equipos": "Elche vs. Osasuna",
     "deporte": "Fútbol",
     "pais": "España",
@@ -2735,7 +2735,7 @@
   {
     "hora_utc": "2026-02-13T20:00:00Z",
     "hora_argentina": "2026-02-13 17:00",
-    "logo": "https://elcanaldeportivo.com/img/pe.png",
+    "logo": "https://bestleague.world/jr/127.png",
     "liga": "Liga 1",
     "equipos": "UTC vs. Cusco",
     "deporte": "Fútbol",
@@ -3133,7 +3133,7 @@
     "hora_utc": "2026-02-13T20:45:00Z",
     "hora_argentina": "2026-02-13 17:45",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
-    "liga": "Liga Portugal",
+    "liga": "Liga Portugal 2",
     "equipos": "Tondela - Alverca",
     "deporte": "Fútbol",
     "pais": "Portugal",
@@ -3174,8 +3174,8 @@
   {
     "hora_utc": "2026-02-13T21:00:00Z",
     "hora_argentina": "2026-02-13 18:00",
-    "logo": "https://elcanaldeportivo.com/img/chi.png",
-    "liga": "Futbol Chileno",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
     "equipos": "Everton vs. Huachipato",
     "deporte": "Fútbol",
     "pais": "Italia",
@@ -3303,7 +3303,7 @@
     "hora_utc": "2026-02-13T22:00:00Z",
     "hora_argentina": "2026-02-13 19:00",
     "logo": "",
-    "liga": "Primera División",
+    "liga": "Cerro Largo vs Wanderers",
     "equipos": "Cerro Largo vs Wanderers",
     "deporte": "Deportes",
     "pais": "",
@@ -3335,7 +3335,7 @@
       },
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13",
         "calidad": ""
       }
     ],
@@ -3388,7 +3388,7 @@
   {
     "hora_utc": "2026-02-13T23:00:00Z",
     "hora_argentina": "2026-02-13 20:00",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Futbol Argentino",
     "equipos": "Independiente vs. Lanús",
     "deporte": "Fútbol",
@@ -3528,8 +3528,8 @@
   {
     "hora_utc": "2026-02-13T23:30:00Z",
     "hora_argentina": "2026-02-13 20:30",
-    "logo": "https://elcanaldeportivo.com/img/chi.png",
-    "liga": "Futbol Chileno",
+    "logo": "https://bestleague.world/jr/37.png",
+    "liga": "Serie A",
     "equipos": "Palestino vs. U. De Chile",
     "deporte": "Fútbol",
     "pais": "Italia",
@@ -3566,7 +3566,7 @@
     "hora_utc": "2026-02-13T23:30:00Z",
     "hora_argentina": "2026-02-13 20:30",
     "logo": "",
-    "liga": "Liga De Primera",
+    "liga": "Primera División",
     "equipos": "Palestino vs Universidad Chile",
     "deporte": "Fútbol",
     "pais": "",
@@ -3577,13 +3577,13 @@
         "calidad": ""
       },
       {
-        "nombre": "MAX",
-        "url": "https://tvtvhd.com/canales.php?stream=max1",
+        "nombre": "TNT Sports Premium Chile",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even8",
         "calidad": ""
       },
       {
-        "nombre": "TNT Sports Premium Chile",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even8",
+        "nombre": "MAX",
+        "url": "https://tvtvhd.com/canales.php?stream=max3",
         "calidad": ""
       }
     ],
@@ -3644,7 +3644,7 @@
       },
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney14",
         "calidad": ""
       }
     ],
@@ -3654,7 +3654,7 @@
     "hora_utc": "2026-02-14T00:30:00Z",
     "hora_argentina": "2026-02-13 21:30",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
-    "liga": "Liga Auf Uruguaya",
+    "liga": "Premier League",
     "equipos": "Liverpool M. - Defensor Sp.",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
@@ -3702,7 +3702,7 @@
   {
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
-    "logo": "https://elcanaldeportivo.com/img/mex.png",
+    "logo": "https://bestleague.world/jr/69.png",
     "liga": "Liga Mx",
     "equipos": "Puebla vs. Pumas UNAM",
     "deporte": "Fútbol",
@@ -3770,7 +3770,7 @@
     "hora_utc": "2026-02-14T01:00:00Z",
     "hora_argentina": "2026-02-13 22:00",
     "logo": "https://bestleague.world/jr/118.png",
-    "liga": "Liga Betplay",
+    "liga": "Liga Betplay Dimayor",
     "equipos": "América de Cali vs Santa Fe",
     "deporte": "Fútbol",
     "pais": "Colombia",
@@ -4049,7 +4049,7 @@
   {
     "hora_utc": "2026-02-14T01:15:00Z",
     "hora_argentina": "2026-02-13 22:15",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "logo": "https://bestleague.world/jr/55.png",
     "liga": "Futbol Argentino",
     "equipos": "Defensa y Justicia vs. Vélez Sarsfield",
     "deporte": "Fútbol",
@@ -4201,7 +4201,7 @@
   {
     "hora_utc": "2026-02-14T01:30:00Z",
     "hora_argentina": "2026-02-13 22:30",
-    "logo": "https://elcanaldeportivo.com/img/pe.png",
+    "logo": "https://bestleague.world/jr/127.png",
     "liga": "Liga 1",
     "equipos": "Universitario vs. Cienciano",
     "deporte": "Fútbol",
@@ -4348,7 +4348,7 @@
   {
     "hora_utc": "2026-02-14T03:05:00Z",
     "hora_argentina": "2026-02-14 00:05",
-    "logo": "https://elcanaldeportivo.com/img/mex.png",
+    "logo": "https://bestleague.world/jr/69.png",
     "liga": "Liga Mx",
     "equipos": "Toluca vs. Tijuana",
     "deporte": "Fútbol",
