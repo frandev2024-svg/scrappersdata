@@ -2708,6 +2708,26 @@
         "nombre": "ESPN 2 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
         "calidad": ""
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney11",
+        "calidad": ""
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "calidad": ""
+      },
+      {
+        "nombre": "ESPN Deportes | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "calidad": ""
+      },
+      {
+        "nombre": "ESPN Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": ""
       }
     ],
     "date_offset": 0
@@ -3032,7 +3052,7 @@
       },
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney12",
         "calidad": ""
       }
     ],
