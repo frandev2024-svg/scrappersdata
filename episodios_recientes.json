@@ -1,48 +1,230 @@
 {
   "episodios_recientes": [
     {
-      "tmdb_id": "6768677",
-      "serie_tmdb_id": "250307",
-      "serie_title": "The Pitt",
-      "title": "The Pitt 2x5",
+      "tmdb_id": "6705029",
+      "serie_tmdb_id": "249522",
+      "serie_title": "Beast Games",
+      "title": "Beast Games 2x8",
+      "number_text": "2x8",
+      "season": 2,
+      "episode": 8,
+      "image": "https://image.tmdb.org/t/p/original/7ycVlSCYOi1gNUrrXxdifYmdQNZ.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/mi1jhh6g3rqk",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/4mcwjfpys5xp",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/rd4xr106048k",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/gz3ggqcf4dbb",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/qpwjpyd3265q",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/Cq0zs2YzWOrJ",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/e0tmvq4q1uyj",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/b70m7bmywp8z",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/6fg7jje3zt20",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/fdwvakckkoue",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/45mcz0cp48hn",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/bZAfRfcNV2Fz",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:25:29.999494"
+    },
+    {
+      "tmdb_id": "6676411",
+      "serie_tmdb_id": "130464",
+      "serie_title": "Dime más mentiras",
+      "title": "Dime más mentiras 3x7",
+      "number_text": "3x7",
+      "season": 3,
+      "episode": 7,
+      "image": "https://image.tmdb.org/t/p/original/aVasAvM6MJyw5SZrPV4R3J3OZpq.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/a8hc14omfptt",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/k3o6ajceapxc",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/g66x1shlenm6",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/hxpfugttlhht",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/6u0lhb3u8twd",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/yFhwrNiu9ewB",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/jhoaaiaqsm7w",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/s413v1ags7z5",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/v8xe4hyg4rnc",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/vot5p6bncmov",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/kqrjvojdgcn4",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/T4srrm6v7OjD",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:25:44.431655"
+    },
+    {
+      "tmdb_id": "6618117",
+      "serie_tmdb_id": "198102",
+      "serie_title": "Hijack",
+      "title": "Hijack 2x5",
       "number_text": "2x5",
       "season": 2,
       "episode": 5,
-      "image": "https://image.tmdb.org/t/p/original/wLPM0ZsFzfDh2hg7mj7fhtUobax.jpg",
+      "image": "https://image.tmdb.org/t/p/original/5GyxB9WJoUCXR2r2K4MioCPWQ7E.jpg",
       "servers": {
         "latino": [
           {
-            "url": "https://streamwish.to/e/5qjnewvrj1af",
+            "url": "https://streamwish.to/e/zw3djw6h3ww6",
             "server": "streamwish",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://bysejikuar.com/e/43efz6bula6i",
+            "url": "https://bysejikuar.com/e/r83fnmkzoa1c",
             "server": "filemoon",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://vidhidepro.com/v/ywv67v9axtta",
+            "url": "https://vidhidepro.com/v/1ustm4bwtlhn",
             "server": "vidhide",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://voe.sx/e/ta5huzkgqtxx",
+            "url": "https://voe.sx/e/h3nfpm31xqdd",
             "server": "voesx",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://doodstream.com/e/uii8ol37y0dc",
+            "url": "https://doodstream.com/e/wn97t4c1so1u",
             "server": "doodstream",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://waaw.to/f/2jZDfaZ0dvCg",
+            "url": "https://waaw.to/f/16fH2igt3B3r",
             "server": "netu",
             "quality": "HD",
             "language": "latino"
@@ -50,37 +232,37 @@
         ],
         "english": [
           {
-            "url": "https://streamwish.to/e/7j3sha962aci",
+            "url": "https://streamwish.to/e/rbjtlqourdtc",
             "server": "streamwish",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://bysejikuar.com/e/x1aew4iaec4y",
+            "url": "https://bysejikuar.com/e/w1unptdsirag",
             "server": "filemoon",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://vidhidepro.com/v/isfti3jin86u",
+            "url": "https://vidhidepro.com/v/9d45xjlyvvt3",
             "server": "vidhide",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://voe.sx/e/vegmtvk1q5vd",
+            "url": "https://voe.sx/e/nvirdrqv50wf",
             "server": "voesx",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://doodstream.com/e/3jwvyqm7te5e",
+            "url": "https://doodstream.com/e/om7x29dsqd6q",
             "server": "doodstream",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://waaw.to/f/uEyUcgQ233dG",
+            "url": "https://waaw.to/f/OHZdFxd8KBFz",
             "server": "netu",
             "quality": "HD",
             "language": "english"
@@ -89,651 +271,51 @@
         "spanish": [],
         "subtitulado": []
       },
-      "extracted_at": "2026-02-08T11:07:37.454386"
+      "extracted_at": "2026-02-13T08:25:59.021757"
     },
     {
-      "tmdb_id": "6613703",
-      "serie_tmdb_id": "224372",
-      "serie_title": "El caballero de los Siete Reinos",
-      "title": "El caballero de los Siete Reinos 1x4",
-      "number_text": "1x4",
-      "season": 1,
-      "episode": 4,
-      "image": "https://image.tmdb.org/t/p/original/wl4Lm6bcmOc79Jxtl06pGZeLFhk.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/u9yu181l5jkw",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/8l4a2d49wz86",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/j491od60x44t",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/ndqbdbjmtdel",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/ukoxgm39k8ry",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/3qgu9yIueuw3",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/569jmm1gztwi",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/qs77r73j8hgp",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/p8olo14jkoth",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/hjgrjzvz9div",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/pm153xhlqe69",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/FlGNfuhJx1Rj",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:07:51.472528"
-    },
-    {
-      "tmdb_id": "6821859",
-      "serie_tmdb_id": "208569",
-      "serie_title": "Will Trent: Agente especial",
-      "title": "Will Trent: Agente especial 4x5",
-      "number_text": "4x5",
-      "season": 4,
+      "tmdb_id": "6749568",
+      "serie_tmdb_id": "208397",
+      "serie_title": "Espíritus en la Escuela",
+      "title": "Espíritus en la Escuela 3x5",
+      "number_text": "3x5",
+      "season": 3,
       "episode": 5,
-      "image": "https://image.tmdb.org/t/p/original/1rRxnT3B1Tkg9uLmnKY3z9AKuKu.jpg",
-      "servers": {
-        "latino": [],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/ap8tcu38t58h",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/yt93k51hm0lf",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/q6an09el2nmw",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/wrus7wslpage",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/wvpr0eohhet8",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/g8sNVyUQDLFl",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:07:59.634402"
-    },
-    {
-      "tmdb_id": "6875380",
-      "serie_tmdb_id": "274776",
-      "serie_title": "Unfamiliar",
-      "title": "Unfamiliar 1x6",
-      "number_text": "1x6",
-      "season": 1,
-      "episode": 6,
-      "image": "https://image.tmdb.org/t/p/original/tGRUBMDyujaWULqLqgJwQKZqFW3.jpg",
+      "image": "https://image.tmdb.org/t/p/original/c1MM45GOtk0zfwwIOf6lrvSOuWF.jpg",
       "servers": {
         "latino": [
           {
-            "url": "https://streamwish.to/e/2ht7ddafabdf",
+            "url": "https://streamwish.to/e/r4igtpyrjql6",
             "server": "streamwish",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://bysejikuar.com/e/w8b6tz66srfr",
+            "url": "https://bysejikuar.com/e/uglzot30n44c",
             "server": "filemoon",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://vidhidepro.com/v/led6ytphngkk",
+            "url": "https://vidhidepro.com/v/mfurkthsi581",
             "server": "vidhide",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://voe.sx/e/2w2xutsjft5q",
+            "url": "https://voe.sx/e/m77orq46tzhk",
             "server": "voesx",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://doodstream.com/e/mdyg38fny7m6",
+            "url": "https://doodstream.com/e/8s374sbn50lw",
             "server": "doodstream",
             "quality": "HD",
             "language": "latino"
           },
           {
-            "url": "https://waaw.to/f/PuMdRPG1PGph",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/uzucajs1ksfo",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/crx5rloknux0",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/30g0o0yd4gnu",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/nkpmdncniyl0",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/axs6sndq0iny",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/Zi36LdBwHjH6",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:08:13.765417"
-    },
-    {
-      "tmdb_id": "6875378",
-      "serie_tmdb_id": "274776",
-      "serie_title": "Unfamiliar",
-      "title": "Unfamiliar 1x5",
-      "number_text": "1x5",
-      "season": 1,
-      "episode": 5,
-      "image": "https://image.tmdb.org/t/p/original/5Pc7W9tFUYHpkqkd0IJPpzzytga.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/o2c7mnhuxa6h",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/rz307dactali",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/q61mif0t0692",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/5yjjeuozdcwf",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/5nw0tjq94cno",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/s0xAcnrUsMcv",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/i4dhrx5hjc3i",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/rdat51g2qzkh",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/sum7k9wg9iav",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/dkuox7mrijp3",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/0gp3qsqiei9s",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/w73xGfvIacXn",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:08:28.738262"
-    },
-    {
-      "tmdb_id": "6875377",
-      "serie_tmdb_id": "274776",
-      "serie_title": "Unfamiliar",
-      "title": "Unfamiliar 1x4",
-      "number_text": "1x4",
-      "season": 1,
-      "episode": 4,
-      "image": "https://image.tmdb.org/t/p/original/uvAV8pONJYUSeyLk57ZphjwPSYo.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/q37n2x2cbbs9",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/a8d3o6hxhx59",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/uu2ssx5r9ccl",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/zkrihor7cw1w",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/yf2e2hokkhvj",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/WtKFdf1wiQR0",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/yq0jq0jcsbfm",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/8sglh0a8hedv",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/8g0uwg7rysw1",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/nubtvi7o3eas",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/7hjobg6c8kk8",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/I62AD01YqEl1",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:08:46.519263"
-    },
-    {
-      "tmdb_id": "6875375",
-      "serie_tmdb_id": "274776",
-      "serie_title": "Unfamiliar",
-      "title": "Unfamiliar 1x3",
-      "number_text": "1x3",
-      "season": 1,
-      "episode": 3,
-      "image": "https://image.tmdb.org/t/p/original/x2jaYQ9RAdJbCobDwt67ik8F3Fb.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/49gle8icsp4g",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/whujjok52fl4",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/46e29xqxeebj",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/3eoab4ejzmfz",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/a6i8r4pymwyz",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/gho0SIEWr6w2",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/rvllxvp11fr2",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/qjgvgjgtffj0",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/446d3dje3x6a",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/helhydqi9whd",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/kcx4c2r0k5pv",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/DDjtJy9i30j0",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:09:00.709840"
-    },
-    {
-      "tmdb_id": "6875374",
-      "serie_tmdb_id": "274776",
-      "serie_title": "Unfamiliar",
-      "title": "Unfamiliar 1x2",
-      "number_text": "1x2",
-      "season": 1,
-      "episode": 2,
-      "image": "https://image.tmdb.org/t/p/original/cA1L7v6JxWBWqeU5r9KN6JmTZP.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/2enit4hengee",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/4z97w865trbc",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/fhzodlsi8hba",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/pbuv9j1wijnh",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/9so7fb85oql1",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/zsXehNTdEuKz",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/7q4mvby91z0n",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/5bxllh8hyooq",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/1x8yvcvxnkx2",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/4bewqiuknlzt",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/t02wk588figx",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/PfgbbgI9un77",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:09:15.107140"
-    },
-    {
-      "tmdb_id": "6875196",
-      "serie_tmdb_id": "274776",
-      "serie_title": "Unfamiliar",
-      "title": "Unfamiliar 1x1",
-      "number_text": "1x1",
-      "season": 1,
-      "episode": 1,
-      "image": "https://image.tmdb.org/t/p/original/2IXeonZNwUnHHcTWlpjulINSQgG.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/ox9v4hbqrbve",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/4ilqtkgbrplt",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/dq4d9gionj9c",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/hbqb8mthmwkh",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/s8jpdpn86n6v",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/vCWgfBhlru86",
+            "url": "https://waaw.to/f/90qeStiAuzTm",
             "server": "netu",
             "quality": "HD",
             "language": "latino"
@@ -743,487 +325,106 @@
         "spanish": [],
         "subtitulado": []
       },
-      "extracted_at": "2026-02-08T11:09:23.192373"
+      "extracted_at": "2026-02-13T08:26:07.516285"
     },
     {
-      "tmdb_id": "6736816",
-      "serie_tmdb_id": "273160",
-      "serie_title": "Belleza perfecta",
-      "title": "Belleza perfecta 1x5",
-      "number_text": "1x5",
-      "season": 1,
-      "episode": 5,
-      "image": "https://image.tmdb.org/t/p/original/cb7yagjevLu45SSqUz2wUrMuuC4.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/nu3kdavucvf3",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/bsj4lj5taotm",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/c1g2gqy5wh4c",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/vgp5fjjyc4lm",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/cr2a1clgeuha",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/yMvkRkgiY8sd",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/iqyk8nvvje91",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/ibiu9nqq548e",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/rftt8q1ez77b",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/buzzhagc4j1b",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/bzgxkp37ytc1",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/sMLNKm1F6aOU",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:09:37.976192"
-    },
-    {
-      "tmdb_id": "6594796",
-      "serie_tmdb_id": "223530",
-      "serie_title": "Star Trek: Starfleet Academy",
-      "title": "Star Trek: Starfleet Academy 1x5",
-      "number_text": "1x5",
-      "season": 1,
-      "episode": 5,
-      "image": "https://image.tmdb.org/t/p/original/sMBKqU7Mv5R4SB1enu3z92NhcBd.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/rvt7p0rhvc69",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/aeuburn1vn08",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/xi6gff1dnlvi",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/8ebddnzipkc0",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/39knexr8iic9",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/j3V4VjwLq8yC",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/j2dcrf02zorx",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/mzdfwnnvlyat",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/jqqltgqa6w5t",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/almm1kbp3eod",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/c2qo1a1iepau",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/QEcfCkJijoxJ",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:09:53.494651"
-    },
-    {
-      "tmdb_id": "6770754",
-      "serie_tmdb_id": "251941",
-      "serie_title": "St. Denis Medical",
-      "title": "St. Denis Medical 2x12",
-      "number_text": "2x12",
-      "season": 2,
-      "episode": 12,
-      "image": "https://image.tmdb.org/t/p/original/6ZtA38TWIHF7w23P3C6nZ3r1O0T.jpg",
-      "servers": {
-        "latino": [],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/ia6q294yif7a",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/uyry8irm8xuq",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/utkz68pf4hpo",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/5tse2fyjsesn",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/0zbw8s3rzfv2",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/KOn6suP1yFfa",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:10:01.838832"
-    },
-    {
-      "tmdb_id": "6661880",
-      "serie_tmdb_id": "240459",
-      "serie_title": "Spartacus: House of Ashur",
-      "title": "Spartacus: House of Ashur 1x10",
-      "number_text": "1x10",
-      "season": 1,
-      "episode": 10,
-      "image": "https://image.tmdb.org/t/p/original/doaBxNchToYNiBGIrzmDsljw55L.jpg",
-      "servers": {
-        "latino": [],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/kzkcqtjnz77i",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/sy5b2vcqo7ld",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/amt813o2wrld",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/95c8o5y9gf8e",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/oi4mu4p3y035",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/JKvVAcKauMOq",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:10:10.321452"
-    },
-    {
-      "tmdb_id": "6714555",
-      "serie_tmdb_id": "90812",
-      "serie_title": "Industry",
-      "title": "Industry 4x5",
-      "number_text": "4x5",
-      "season": 4,
-      "episode": 5,
-      "image": "https://image.tmdb.org/t/p/original/ybYZwzuDuMPsKQtmC5ypnimqDn6.jpg",
-      "servers": {
-        "latino": [
-          {
-            "url": "https://streamwish.to/e/ilw7bain7euq",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://bysejikuar.com/e/q4kqmxr81ivs",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://vidhidepro.com/v/dxswjuqsf1fb",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://voe.sx/e/rziad7vtbvrd",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://doodstream.com/e/erbf06avxih7",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "latino"
-          },
-          {
-            "url": "https://waaw.to/f/5qBT43jarDlZ",
-            "server": "netu",
-            "quality": "HD",
-            "language": "latino"
-          }
-        ],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/rjrb29j014mq",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/bjrpvc40fast",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/rylxkoopexf5",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/kfvmn1eg0w4f",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/mlc34tigpt30",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/Smc4IoBVZ7JY",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:10:24.747713"
-    },
-    {
-      "tmdb_id": "6548921",
-      "serie_tmdb_id": "241549",
-      "serie_title": "Murder in a Small Town",
-      "title": "Murder in a Small Town 2x4",
-      "number_text": "2x4",
-      "season": 2,
-      "episode": 4,
-      "image": "https://image.tmdb.org/t/p/original/aO1QLgfvaX8Th1VELPT8GFxiKyP.jpg",
-      "servers": {
-        "latino": [],
-        "english": [
-          {
-            "url": "https://streamwish.to/e/de5w6t8iafkg",
-            "server": "streamwish",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://bysejikuar.com/e/snq1zedxe6mq",
-            "server": "filemoon",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://vidhidepro.com/v/glzeguxc8hmj",
-            "server": "vidhide",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://voe.sx/e/cpi3drgg5qeh",
-            "server": "voesx",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://doodstream.com/e/2qzwaaf36hjk",
-            "server": "doodstream",
-            "quality": "HD",
-            "language": "english"
-          },
-          {
-            "url": "https://waaw.to/f/b3Fn93ezvuBW",
-            "server": "netu",
-            "quality": "HD",
-            "language": "english"
-          }
-        ],
-        "spanish": [],
-        "subtitulado": []
-      },
-      "extracted_at": "2026-02-08T11:10:33.639841"
-    },
-    {
-      "tmdb_id": "6548920",
-      "serie_tmdb_id": "241549",
-      "serie_title": "Murder in a Small Town",
-      "title": "Murder in a Small Town 2x3",
-      "number_text": "2x3",
-      "season": 2,
+      "tmdb_id": "6617354",
+      "serie_tmdb_id": "136311",
+      "serie_title": "Terapia sin filtro",
+      "title": "Terapia sin filtro 3x3",
+      "number_text": "3x3",
+      "season": 3,
       "episode": 3,
-      "image": "https://image.tmdb.org/t/p/original/rmS3y0Re5Hj4gjaJfxm0DgxZcs2.jpg",
+      "image": "https://image.tmdb.org/t/p/original/lzOCcdmKQpumNaeue0R6ZVFkpvM.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/zjezw75u6l04",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/y8qokkl7wmu5",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/fzvmoutcbm18",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/o00bgbniqllp",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/u4yt52nvc319",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/qWLMcTcFPtO7",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:26:15.853803"
+    },
+    {
+      "tmdb_id": "6830938",
+      "serie_tmdb_id": "270444",
+      "serie_title": "Niños de plomo",
+      "title": "Niños de plomo 1x6",
+      "number_text": "1x6",
+      "season": 1,
+      "episode": 6,
+      "image": "https://image.tmdb.org/t/p/original/PxhqaiZeD397Hoc0aaIzn3fpw6.jpg",
       "servers": {
         "latino": [],
         "english": [
           {
-            "url": "https://streamwish.to/e/c39z66km7q8u",
+            "url": "https://streamwish.to/e/3wo534hef3xs",
             "server": "streamwish",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://bysejikuar.com/e/yol8r278p130",
+            "url": "https://bysejikuar.com/e/2uusblph2pxg",
             "server": "filemoon",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://vidhidepro.com/v/oyv7dx3qvvo2",
+            "url": "https://vidhidepro.com/v/40s4vytmm5sh",
             "server": "vidhide",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://voe.sx/e/1wenpynlystd",
+            "url": "https://voe.sx/e/jxf5dyqnj9ih",
             "server": "voesx",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://doodstream.com/e/awjqftrv9oko",
+            "url": "https://doodstream.com/e/rbflc3pgmlo2",
             "server": "doodstream",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://waaw.to/f/vpJSMN6VQ14f",
+            "url": "https://waaw.to/f/QIuCXJw03EQl",
             "server": "netu",
             "quality": "HD",
             "language": "english"
@@ -1232,52 +433,106 @@
         "spanish": [],
         "subtitulado": []
       },
-      "extracted_at": "2026-02-08T11:10:41.972781"
+      "extracted_at": "2026-02-13T08:26:25.078666"
     },
     {
-      "tmdb_id": "6888399",
-      "serie_tmdb_id": "308402",
-      "serie_title": "It's Not Like That",
-      "title": "It's Not Like That 1x4",
+      "tmdb_id": "6830937",
+      "serie_tmdb_id": "270444",
+      "serie_title": "Niños de plomo",
+      "title": "Niños de plomo 1x5",
+      "number_text": "1x5",
+      "season": 1,
+      "episode": 5,
+      "image": "https://image.tmdb.org/t/p/original/25EqW7BWqFd3Ul6Oddoo2yU8Y6r.jpg",
+      "servers": {
+        "latino": [],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/da4u5n1gmag8",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/3mixmxdgztlr",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/6w3iifx1htx3",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/dco1d4rkaywv",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/pauuq69aoqko",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/ewigaSrFdIht",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:26:33.620720"
+    },
+    {
+      "tmdb_id": "6830936",
+      "serie_tmdb_id": "270444",
+      "serie_title": "Niños de plomo",
+      "title": "Niños de plomo 1x4",
       "number_text": "1x4",
       "season": 1,
       "episode": 4,
-      "image": "https://image.tmdb.org/t/p/original/tNmwWz76PjoLvMVU88IFFNiwwPc.jpg",
+      "image": "https://image.tmdb.org/t/p/original/5reib2hlBVxdpVvKWaW5AwLhsXP.jpg",
       "servers": {
         "latino": [],
         "english": [
           {
-            "url": "https://streamwish.to/e/5lqddaefkgee",
+            "url": "https://streamwish.to/e/rfevhzwyf5ha",
             "server": "streamwish",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://bysejikuar.com/e/4tr5ckl1hjxj",
+            "url": "https://bysejikuar.com/e/ktqzuqmmsyb7",
             "server": "filemoon",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://vidhidepro.com/v/swgy4j0qj9jn",
+            "url": "https://vidhidepro.com/v/03su7gls38k1",
             "server": "vidhide",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://voe.sx/e/ezd7rhpx2qry",
+            "url": "https://voe.sx/e/jgriwqmk9zvr",
             "server": "voesx",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://doodstream.com/e/qukwdmj5yh26",
+            "url": "https://doodstream.com/e/v155kdcdxvzn",
             "server": "doodstream",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://waaw.to/f/QumtiS7RU8gg",
+            "url": "https://waaw.to/f/wD3Kr5TKOXe6",
             "server": "netu",
             "quality": "HD",
             "language": "english"
@@ -1286,52 +541,52 @@
         "spanish": [],
         "subtitulado": []
       },
-      "extracted_at": "2026-02-08T11:10:50.681191"
+      "extracted_at": "2026-02-13T08:26:41.981848"
     },
     {
-      "tmdb_id": "6815171",
-      "serie_tmdb_id": "226637",
-      "serie_title": "High Potential: Detective Inesperada",
-      "title": "High Potential: Detective Inesperada 2x12",
-      "number_text": "2x12",
-      "season": 2,
-      "episode": 12,
-      "image": "https://image.tmdb.org/t/p/original/3uyBpuQspfzQDkiKk8jaicsrCzN.jpg",
+      "tmdb_id": "6830935",
+      "serie_tmdb_id": "270444",
+      "serie_title": "Niños de plomo",
+      "title": "Niños de plomo 1x3",
+      "number_text": "1x3",
+      "season": 1,
+      "episode": 3,
+      "image": "https://image.tmdb.org/t/p/original/vd3CO1QL0LD3cnadNj4z59OJINO.jpg",
       "servers": {
         "latino": [],
         "english": [
           {
-            "url": "https://streamwish.to/e/tknp5umpqisc",
+            "url": "https://streamwish.to/e/dvrih3v3i928",
             "server": "streamwish",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://bysejikuar.com/e/43h5vwiq6em4",
+            "url": "https://bysejikuar.com/e/rfjm6bj91qup",
             "server": "filemoon",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://vidhidepro.com/v/kb5a97pi7x2i",
+            "url": "https://vidhidepro.com/v/7gtotk9iikeb",
             "server": "vidhide",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://voe.sx/e/djoxl4jll0qz",
+            "url": "https://voe.sx/e/x2thtchymjbq",
             "server": "voesx",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://doodstream.com/e/l5kra8cygnkr",
+            "url": "https://doodstream.com/e/4cdaukclz6z5",
             "server": "doodstream",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://waaw.to/f/kShwumSmXvne",
+            "url": "https://waaw.to/f/RJ0YWu6EOC26",
             "server": "netu",
             "quality": "HD",
             "language": "english"
@@ -1340,52 +595,52 @@
         "spanish": [],
         "subtitulado": []
       },
-      "extracted_at": "2026-02-08T11:10:58.654627"
+      "extracted_at": "2026-02-13T08:26:50.334768"
     },
     {
-      "tmdb_id": "6905890",
-      "serie_tmdb_id": "312017",
-      "serie_title": "A Knight in the Making",
-      "title": "A Knight in the Making 1x2",
+      "tmdb_id": "6830934",
+      "serie_tmdb_id": "270444",
+      "serie_title": "Niños de plomo",
+      "title": "Niños de plomo 1x2",
       "number_text": "1x2",
       "season": 1,
       "episode": 2,
-      "image": "https://image.tmdb.org/t/p/original/e2G9NwfB1qw5OI82ItmMZFrHZa7.jpg",
+      "image": "https://image.tmdb.org/t/p/original/6biLHeVe56izZWaV5IYzuSXI7Oa.jpg",
       "servers": {
         "latino": [],
         "english": [
           {
-            "url": "https://streamwish.to/e/n6fwhmpjbwyu",
+            "url": "https://streamwish.to/e/wvhivgjs3lr3",
             "server": "streamwish",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://bysejikuar.com/e/e9nzxy398net",
+            "url": "https://bysejikuar.com/e/9xrrbjb1rhcs",
             "server": "filemoon",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://vidhidepro.com/v/cvvltu1oqg9l",
+            "url": "https://vidhidepro.com/v/vvsr6sbekwpe",
             "server": "vidhide",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://voe.sx/e/prh0ozolyl5e",
+            "url": "https://voe.sx/e/nwnf9el7z9nb",
             "server": "voesx",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://doodstream.com/e/oxhxy7tjlwoi",
+            "url": "https://doodstream.com/e/xytok7qb3u3c",
             "server": "doodstream",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://waaw.to/f/Arc2xI8wb6Pg",
+            "url": "https://waaw.to/f/lcJccC4dvJwY",
             "server": "netu",
             "quality": "HD",
             "language": "english"
@@ -1394,52 +649,52 @@
         "spanish": [],
         "subtitulado": []
       },
-      "extracted_at": "2026-02-08T11:11:06.835116"
+      "extracted_at": "2026-02-13T08:26:58.894938"
     },
     {
-      "tmdb_id": "6873249",
-      "serie_tmdb_id": "312017",
-      "serie_title": "A Knight in the Making",
-      "title": "A Knight in the Making 1x1",
+      "tmdb_id": "5576807",
+      "serie_tmdb_id": "270444",
+      "serie_title": "Niños de plomo",
+      "title": "Niños de plomo 1x1",
       "number_text": "1x1",
       "season": 1,
       "episode": 1,
-      "image": "https://image.tmdb.org/t/p/original/217dycJdmtJACrQIAC8SRRFn3bl.jpg",
+      "image": "https://image.tmdb.org/t/p/original/qISlsreyFVKOqOkCfrJ5Cv0m5JZ.jpg",
       "servers": {
         "latino": [],
         "english": [
           {
-            "url": "https://streamwish.to/e/24mekvoa54dz",
+            "url": "https://streamwish.to/e/abt3tpgb6xiz",
             "server": "streamwish",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://bysejikuar.com/e/dquiipzqt09f",
+            "url": "https://bysejikuar.com/e/z4b0vtjw60gs",
             "server": "filemoon",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://vidhidepro.com/v/2rzkdr10ot80",
+            "url": "https://vidhidepro.com/v/q22de5c2slgn",
             "server": "vidhide",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://voe.sx/e/fgvcafab0l4h",
+            "url": "https://voe.sx/e/yn0otqfflgsn",
             "server": "voesx",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://doodstream.com/e/x9ffwervq80w",
+            "url": "https://doodstream.com/e/cgm61ilu7fex",
             "server": "doodstream",
             "quality": "HD",
             "language": "english"
           },
           {
-            "url": "https://waaw.to/f/fpz6G5NDSmm3",
+            "url": "https://waaw.to/f/mRsBqVvUK1vw",
             "server": "netu",
             "quality": "HD",
             "language": "english"
@@ -1448,62 +703,1049 @@
         "spanish": [],
         "subtitulado": []
       },
-      "extracted_at": "2026-02-08T11:11:15.117487"
+      "extracted_at": "2026-02-13T08:27:07.276153"
+    },
+    {
+      "tmdb_id": "6769802",
+      "serie_tmdb_id": "283370",
+      "serie_title": "Motorvalley",
+      "title": "Motorvalley 1x5",
+      "number_text": "1x5",
+      "season": 1,
+      "episode": 5,
+      "image": "https://image.tmdb.org/t/p/original/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/jg0ntocdx4x0",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/5ewce2vp9gxp",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/rz0qtwbwfjwp",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/4zw7fs4kjieb",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/h4tdso4mwjqo",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/GVMACukNMYyg",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/nmtnfkg4x1o5",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/jow1vf5baoqq",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/g34ozdwfnc0v",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/j1kzn47p8v0e",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/a2n4ln1cxohb",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/ixUpictvcw2v",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:27:32.229483"
+    },
+    {
+      "tmdb_id": "6769801",
+      "serie_tmdb_id": "283370",
+      "serie_title": "Motorvalley",
+      "title": "Motorvalley 1x4",
+      "number_text": "1x4",
+      "season": 1,
+      "episode": 4,
+      "image": "https://image.tmdb.org/t/p/original/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/fddgexaobtjq",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/1daucuxmmoae",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/tle4qmhs4jpq",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/s4umops8q4go",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/4fd8g7qrhade",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/DViahTxgVvn5",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/erk19lxr2r21",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/wrtlpdjq5bfw",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/05k5w3ckhivs",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/mwgfejvfdzrt",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/dvl6kgus88qy",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/J5uYPsA96QiL",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:27:55.976723"
+    },
+    {
+      "tmdb_id": "6769803",
+      "serie_tmdb_id": "283370",
+      "serie_title": "Motorvalley",
+      "title": "Motorvalley 1x6",
+      "number_text": "1x6",
+      "season": 1,
+      "episode": 6,
+      "image": "https://image.tmdb.org/t/p/original/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/bc5iybbq8hi0",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/jtkba6cw5y4t",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/zbm80xx889ql",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/qi9jevr4suri",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/6lc00fbkqpyl",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/yGsiLrasmgGT",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:28:11.016181"
+    },
+    {
+      "tmdb_id": "6769800",
+      "serie_tmdb_id": "283370",
+      "serie_title": "Motorvalley",
+      "title": "Motorvalley 1x3",
+      "number_text": "1x3",
+      "season": 1,
+      "episode": 3,
+      "image": "https://image.tmdb.org/t/p/original/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/134ztn8hq2kn",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/t9h6mi8ongif",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/hfmjr9db2xiq",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/m9gexmbr0hc7",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/o0arzx5ooi7x",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/DbdoHiEXnIpu",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/qoncfd78yr3s",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/01us3ky91fx7",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/d4fw7k7w63o8",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/27anneaonoyi",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/avus903hld6a",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/y6457IcBiqZB",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:28:26.305381"
+    },
+    {
+      "tmdb_id": "6769799",
+      "serie_tmdb_id": "283370",
+      "serie_title": "Motorvalley",
+      "title": "Motorvalley 1x2",
+      "number_text": "1x2",
+      "season": 1,
+      "episode": 2,
+      "image": "https://image.tmdb.org/t/p/original/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/951ylzici15s",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/hdny3iiefk5f",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/pyy5bxon2oyv",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/zpvpb7lwe783",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/pukybdeboewg",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/lWGYMGzVKFcK",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/hv80kc2zkj70",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/smpgjkcn5bjb",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/e33jcg7xqfp6",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/ywurumclxta4",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/wcpxgq7e9k83",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/jW0H5OasYfIf",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:28:41.248154"
+    },
+    {
+      "tmdb_id": "6769798",
+      "serie_tmdb_id": "283370",
+      "serie_title": "Motorvalley",
+      "title": "Motorvalley 1x1",
+      "number_text": "1x1",
+      "season": 1,
+      "episode": 1,
+      "image": "https://image.tmdb.org/t/p/original/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/bauq6hngmqdz",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/2i1n3defmp4d",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/3nlxqv92ja4i",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/lbdnugmj8v3j",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/x0sgnj0x4j3f",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/xxuSLWhZjeCA",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/2798w6g1z7qi",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/z7ohgzw6nv04",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/ua4s92xvugc2",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/k31bwj0ecxbn",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/9kvmdrwto3f9",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/WKAy0HRRJ9Hv",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:28:56.545988"
+    },
+    {
+      "tmdb_id": "6588609",
+      "serie_tmdb_id": "213306",
+      "serie_title": "Detective Alex Cross",
+      "title": "Detective Alex Cross 2x3",
+      "number_text": "2x3",
+      "season": 2,
+      "episode": 3,
+      "image": "https://image.tmdb.org/t/p/original/vPoPen9EvI3VSwyzlzefbiSvgvB.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/y2pd0mmr7ps5",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/njl1sqcxh8qy",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/ekmzmpg5smyw",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/ed90x36mbfhi",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/15rvkaimt1eo",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/jxKrttWyVISh",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/kt1jy66bu7mt",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/tvma6zag75sc",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/n8zr3tufg7be",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/1uxfpbix7q3y",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/4cm4vncg7m0q",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/Uo3nQFAxJxh0",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:29:13.581727"
+    },
+    {
+      "tmdb_id": "6588608",
+      "serie_tmdb_id": "213306",
+      "serie_title": "Detective Alex Cross",
+      "title": "Detective Alex Cross 2x2",
+      "number_text": "2x2",
+      "season": 2,
+      "episode": 2,
+      "image": "https://image.tmdb.org/t/p/original/x9qX4oWfZywEhjkiuWfGQ1DPaCt.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/kox4zaiqdt7q",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/nsk0ma0vuryf",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/6zqlx10umxkq",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/xgn6ec79hhfx",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/4y3j6h49qqw1",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/jPvEdCqjybJD",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/twhnrgfmbhku",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/7z3mkb4o0iyp",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/2u4g4s96a9cb",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/2y2ojvkpowvz",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/ruqct60gdpzl",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/o58nbqwRpxju",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:29:35.602873"
+    },
+    {
+      "tmdb_id": "6588607",
+      "serie_tmdb_id": "213306",
+      "serie_title": "Detective Alex Cross",
+      "title": "Detective Alex Cross 2x1",
+      "number_text": "2x1",
+      "season": 2,
+      "episode": 1,
+      "image": "https://image.tmdb.org/t/p/original/nLzETLBtRJz1jlKq5OCAx78SxLd.jpg",
+      "servers": {
+        "latino": [
+          {
+            "url": "https://streamwish.to/e/dojbevp2opfn",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://bysejikuar.com/e/ofcxrodjhw8d",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://vidhidepro.com/v/qqty6bchodju",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://voe.sx/e/vpzgwooyxfi1",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://doodstream.com/e/8sgbupikombw",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "latino"
+          },
+          {
+            "url": "https://waaw.to/f/tFDPcbnkYRGQ",
+            "server": "netu",
+            "quality": "HD",
+            "language": "latino"
+          }
+        ],
+        "english": [
+          {
+            "url": "https://streamwish.to/e/03tqilx6d8nc",
+            "server": "streamwish",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://bysejikuar.com/e/p4na0t9e66xz",
+            "server": "filemoon",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://vidhidepro.com/v/2ceq7ghjnka2",
+            "server": "vidhide",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://voe.sx/e/lpg0zvvv8zv7",
+            "server": "voesx",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://doodstream.com/e/rhxd3gdv9x0q",
+            "server": "doodstream",
+            "quality": "HD",
+            "language": "english"
+          },
+          {
+            "url": "https://waaw.to/f/BtdgDysfEA9Y",
+            "server": "netu",
+            "quality": "HD",
+            "language": "english"
+          }
+        ],
+        "spanish": [],
+        "subtitulado": []
+      },
+      "extracted_at": "2026-02-13T08:29:54.165869"
     }
   ],
   "series_nuevas": [
     {
-      "tmdb_id": "250307",
-      "title": "The Pitt",
-      "year": "2025",
-      "overview": "El personal del Centro Médico de Traumatismo de Pittsburgh trabaja para salvar vidas en un servicio de urgencias saturado y sin fondos suficientes.",
-      "rating": 8.69,
-      "genres": [
-        "Drama"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+      "tmdb_id": "249522",
+      "title": "Beast Games",
+      "year": "2024",
+      "overview": "De la innovadora mente de MrBeast, llega la nueva y exitosa serie de concursos Beast Games. 1000 concursantes compiten en emocionantes pruebas físicas y mentales por la oportunidad de ganar el increíb",
+      "rating": 7.52,
+      "genres": [],
+      "poster": "https://image.tmdb.org/t/p/original/gkqCQfUuJ0xzB5xyv8G4o2bdFx4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/p1rQJ5bljPSk3LoCo5UKRkpsiSd.jpg",
       "seasons": [
         {
           "number": 2,
           "episodes": [
             {
-              "title": "The Pitt 2x5",
+              "title": "Beast Games 2x8",
+              "number_text": "2x8",
+              "servers": {
+                "latino": [
+                  {
+                    "url": "https://streamwish.to/e/mi1jhh6g3rqk",
+                    "server": "streamwish",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://bysejikuar.com/e/4mcwjfpys5xp",
+                    "server": "filemoon",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://vidhidepro.com/v/rd4xr106048k",
+                    "server": "vidhide",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://voe.sx/e/gz3ggqcf4dbb",
+                    "server": "voesx",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://doodstream.com/e/qpwjpyd3265q",
+                    "server": "doodstream",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://waaw.to/f/Cq0zs2YzWOrJ",
+                    "server": "netu",
+                    "quality": "HD",
+                    "language": "latino"
+                  }
+                ],
+                "english": [
+                  {
+                    "url": "https://streamwish.to/e/e0tmvq4q1uyj",
+                    "server": "streamwish",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://bysejikuar.com/e/b70m7bmywp8z",
+                    "server": "filemoon",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://vidhidepro.com/v/6fg7jje3zt20",
+                    "server": "vidhide",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://voe.sx/e/fdwvakckkoue",
+                    "server": "voesx",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://doodstream.com/e/45mcz0cp48hn",
+                    "server": "doodstream",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://waaw.to/f/bZAfRfcNV2Fz",
+                    "server": "netu",
+                    "quality": "HD",
+                    "language": "english"
+                  }
+                ],
+                "spanish": [],
+                "subtitulado": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": "130464",
+      "title": "Dime más mentiras",
+      "year": "2022",
+      "overview": "Cuando Lucy Albright y Stephen DeMarco se conocen en la universidad, están en esa edad formativa en la que decisiones aparentemente mundanas conducen a consecuencias irreversibles. Rápidamente caen en",
+      "rating": 7.5,
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/1BFjSo1N6C5HfATLBcrttl5mzCa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/uVe8fWCLMqIhgMTI9maIUncfZAP.jpg",
+      "seasons": [
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "title": "Dime más mentiras 3x7",
+              "number_text": "3x7",
+              "servers": {
+                "latino": [
+                  {
+                    "url": "https://streamwish.to/e/a8hc14omfptt",
+                    "server": "streamwish",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://bysejikuar.com/e/k3o6ajceapxc",
+                    "server": "filemoon",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://vidhidepro.com/v/g66x1shlenm6",
+                    "server": "vidhide",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://voe.sx/e/hxpfugttlhht",
+                    "server": "voesx",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://doodstream.com/e/6u0lhb3u8twd",
+                    "server": "doodstream",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://waaw.to/f/yFhwrNiu9ewB",
+                    "server": "netu",
+                    "quality": "HD",
+                    "language": "latino"
+                  }
+                ],
+                "english": [
+                  {
+                    "url": "https://streamwish.to/e/jhoaaiaqsm7w",
+                    "server": "streamwish",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://bysejikuar.com/e/s413v1ags7z5",
+                    "server": "filemoon",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://vidhidepro.com/v/v8xe4hyg4rnc",
+                    "server": "vidhide",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://voe.sx/e/vot5p6bncmov",
+                    "server": "voesx",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://doodstream.com/e/kqrjvojdgcn4",
+                    "server": "doodstream",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://waaw.to/f/T4srrm6v7OjD",
+                    "server": "netu",
+                    "quality": "HD",
+                    "language": "english"
+                  }
+                ],
+                "spanish": [],
+                "subtitulado": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": "198102",
+      "title": "Hijack",
+      "year": "2023",
+      "overview": "Sam Nelson es un experto negociador que está por vivir el viaje de su vida junto a todos los que van a bordo con él, luego de que secuestradores toman el control. Sam intenta utilizar sus habilidades ",
+      "rating": 7.6,
+      "genres": [
+        "Drama"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/pAon3hPvgl6oNUwVH6jUheSTwoc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/t5OhMJHdgzXxiwZ8iNXMMLSglUK.jpg",
+      "seasons": [
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "title": "Hijack 2x5",
               "number_text": "2x5",
               "servers": {
                 "latino": [
                   {
-                    "url": "https://streamwish.to/e/5qjnewvrj1af",
+                    "url": "https://streamwish.to/e/zw3djw6h3ww6",
                     "server": "streamwish",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://bysejikuar.com/e/43efz6bula6i",
+                    "url": "https://bysejikuar.com/e/r83fnmkzoa1c",
                     "server": "filemoon",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://vidhidepro.com/v/ywv67v9axtta",
+                    "url": "https://vidhidepro.com/v/1ustm4bwtlhn",
                     "server": "vidhide",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://voe.sx/e/ta5huzkgqtxx",
+                    "url": "https://voe.sx/e/h3nfpm31xqdd",
                     "server": "voesx",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://doodstream.com/e/uii8ol37y0dc",
+                    "url": "https://doodstream.com/e/wn97t4c1so1u",
                     "server": "doodstream",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://waaw.to/f/2jZDfaZ0dvCg",
+                    "url": "https://waaw.to/f/16fH2igt3B3r",
                     "server": "netu",
                     "quality": "HD",
                     "language": "latino"
@@ -1511,37 +1753,37 @@
                 ],
                 "english": [
                   {
-                    "url": "https://streamwish.to/e/7j3sha962aci",
+                    "url": "https://streamwish.to/e/rbjtlqourdtc",
                     "server": "streamwish",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://bysejikuar.com/e/x1aew4iaec4y",
+                    "url": "https://bysejikuar.com/e/w1unptdsirag",
                     "server": "filemoon",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://vidhidepro.com/v/isfti3jin86u",
+                    "url": "https://vidhidepro.com/v/9d45xjlyvvt3",
                     "server": "vidhide",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://voe.sx/e/vegmtvk1q5vd",
+                    "url": "https://voe.sx/e/nvirdrqv50wf",
                     "server": "voesx",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://doodstream.com/e/3jwvyqm7te5e",
+                    "url": "https://doodstream.com/e/om7x29dsqd6q",
                     "server": "doodstream",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://waaw.to/f/uEyUcgQ233dG",
+                    "url": "https://waaw.to/f/OHZdFxd8KBFz",
                     "server": "netu",
                     "quality": "HD",
                     "language": "english"
@@ -1556,277 +1798,131 @@
       ]
     },
     {
-      "tmdb_id": "224372",
-      "title": "El caballero de los Siete Reinos",
-      "year": "2026",
-      "overview": "Ambientada en una época en la que el linaje Targaryen todavía ostenta el Trono de Hierro y el recuerdo del último dragón aún no ha desaparecido de la memoria viva, grandes destinos, enemigos poderosos",
-      "rating": 8.14,
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía",
-        "Acción",
-        "Aventura"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/499KGkZ5AAxIrivrJekTZ3iifX4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "title": "El caballero de los Siete Reinos 1x4",
-              "number_text": "1x4",
-              "servers": {
-                "latino": [
-                  {
-                    "url": "https://streamwish.to/e/u9yu181l5jkw",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/8l4a2d49wz86",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/j491od60x44t",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://voe.sx/e/ndqbdbjmtdel",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/ukoxgm39k8ry",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://waaw.to/f/3qgu9yIueuw3",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "latino"
-                  }
-                ],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/569jmm1gztwi",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/qs77r73j8hgp",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/p8olo14jkoth",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/hjgrjzvz9div",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/pm153xhlqe69",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/FlGNfuhJx1Rj",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "208569",
-      "title": "Will Trent: Agente especial",
+      "tmdb_id": "208397",
+      "title": "Espíritus en la Escuela",
       "year": "2023",
-      "overview": "El agente especial Will Trent de la Oficina de Investigación de Georgia (GBI) fue abandonado al nacer y soportó una dura madurez en el abrumado sistema de crianza temporal de Atlanta. Pero ahora, deci",
-      "rating": 7.4,
+      "overview": "Una adolescente atrapada en el más allá decide investigar su misteriosa desaparición junto con un grupo de otros estudiantes que también están atrapados en el limbo de su escuela secundaria.",
+      "rating": 7.76,
       "genres": [
-        "Crimen",
+        "Misterio",
+        "Drama"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/eTGKwCLm7DkMbjuaNYRqDbqHuIo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/vwbFFaMuPQdLXbjiGzc40Wd6nv6.jpg",
+      "seasons": [
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "title": "Espíritus en la Escuela 3x5",
+              "number_text": "3x5",
+              "servers": {
+                "latino": [
+                  {
+                    "url": "https://streamwish.to/e/r4igtpyrjql6",
+                    "server": "streamwish",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://bysejikuar.com/e/uglzot30n44c",
+                    "server": "filemoon",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://vidhidepro.com/v/mfurkthsi581",
+                    "server": "vidhide",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://voe.sx/e/m77orq46tzhk",
+                    "server": "voesx",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://doodstream.com/e/8s374sbn50lw",
+                    "server": "doodstream",
+                    "quality": "HD",
+                    "language": "latino"
+                  },
+                  {
+                    "url": "https://waaw.to/f/90qeStiAuzTm",
+                    "server": "netu",
+                    "quality": "HD",
+                    "language": "latino"
+                  }
+                ],
+                "english": [],
+                "spanish": [],
+                "subtitulado": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": "136311",
+      "title": "Terapia sin filtro",
+      "year": "2023",
+      "overview": "Jimmy tiene problemas para sobrellevar la muerte de su esposa al ser padre, amigo y terapeuta. Decide tener un método nuevo con todas las personas que se le crucen: completa sinceridad sin filtros. ¿H",
+      "rating": 7.81,
+      "genres": [
         "Drama",
         "Comedia"
       ],
-      "poster": "https://image.tmdb.org/t/p/original/g3uXy5GZFKJflyHWEnU827q6qqM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/imdWToan0MpzCUZfw2nTrjI25dE.jpg",
+      "poster": "https://image.tmdb.org/t/p/original/1paLVdoniAR45emRMlOTGnZG0F7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/hI9z1UuNhBthvkm3iJ8m3zv43Pf.jpg",
       "seasons": [
         {
-          "number": 4,
+          "number": 3,
           "episodes": [
             {
-              "title": "Will Trent: Agente especial 4x5",
-              "number_text": "4x5",
-              "servers": {
-                "latino": [],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/ap8tcu38t58h",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/yt93k51hm0lf",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/q6an09el2nmw",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/wrus7wslpage",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/wvpr0eohhet8",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/g8sNVyUQDLFl",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "274776",
-      "title": "Unfamiliar",
-      "year": "2026",
-      "overview": "El pasado de dos exespías toca a su puerta. Ahora, lo más difícil no son las persecuciones, los tiroteos ni las peleas, sino decirse la verdad.",
-      "rating": 7.71,
-      "genres": [
-        "Drama",
-        "Acción",
-        "Aventura"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/fX0Kvvo6hj9feqS3JyFpVmscz2Y.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/qDq3dG4ElRohih5fUGNQRLHuBaC.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "title": "Unfamiliar 1x6",
-              "number_text": "1x6",
+              "title": "Terapia sin filtro 3x3",
+              "number_text": "3x3",
               "servers": {
                 "latino": [
                   {
-                    "url": "https://streamwish.to/e/2ht7ddafabdf",
+                    "url": "https://streamwish.to/e/zjezw75u6l04",
                     "server": "streamwish",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://bysejikuar.com/e/w8b6tz66srfr",
+                    "url": "https://bysejikuar.com/e/y8qokkl7wmu5",
                     "server": "filemoon",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://vidhidepro.com/v/led6ytphngkk",
+                    "url": "https://vidhidepro.com/v/fzvmoutcbm18",
                     "server": "vidhide",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://voe.sx/e/2w2xutsjft5q",
+                    "url": "https://voe.sx/e/o00bgbniqllp",
                     "server": "voesx",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://doodstream.com/e/mdyg38fny7m6",
+                    "url": "https://doodstream.com/e/u4yt52nvc319",
                     "server": "doodstream",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://waaw.to/f/PuMdRPG1PGph",
+                    "url": "https://waaw.to/f/qWLMcTcFPtO7",
                     "server": "netu",
                     "quality": "HD",
                     "language": "latino"
                   }
                 ],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/uzucajs1ksfo",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/crx5rloknux0",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/30g0o0yd4gnu",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/nkpmdncniyl0",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/axs6sndq0iny",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/Zi36LdBwHjH6",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
+                "english": [],
                 "spanish": [],
                 "subtitulado": []
               }
@@ -1836,402 +1932,125 @@
       ]
     },
     {
-      "tmdb_id": "273160",
-      "title": "Belleza perfecta",
+      "tmdb_id": "270444",
+      "title": "Niños de plomo",
       "year": "2026",
-      "overview": "Los socios Drew y Kara investigan la enfermedad de transmisión sexual \"la belleza\", que causa efectos estéticos, pero que resulta letal.",
-      "rating": 6.2,
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/52OoN8hj5jSllNxZRACxIVIenuG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "title": "Belleza perfecta 1x5",
-              "number_text": "1x5",
-              "servers": {
-                "latino": [
-                  {
-                    "url": "https://streamwish.to/e/nu3kdavucvf3",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/bsj4lj5taotm",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/c1g2gqy5wh4c",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://voe.sx/e/vgp5fjjyc4lm",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/cr2a1clgeuha",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://waaw.to/f/yMvkRkgiY8sd",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "latino"
-                  }
-                ],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/iqyk8nvvje91",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/ibiu9nqq548e",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/rftt8q1ez77b",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/buzzhagc4j1b",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/bzgxkp37ytc1",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/sMLNKm1F6aOU",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "223530",
-      "title": "Star Trek: Starfleet Academy",
-      "year": "2026",
-      "overview": "Un grupo de jóvenes cadetes se unen para perseguir un sueño en común de esperanza y optimismo. Bajo la supervisión de sus instructores, descubrirán lo que se necesita para ser un oficial de la Flota E",
-      "rating": 4.86,
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Acción",
-        "Aventura"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "title": "Star Trek: Starfleet Academy 1x5",
-              "number_text": "1x5",
-              "servers": {
-                "latino": [
-                  {
-                    "url": "https://streamwish.to/e/rvt7p0rhvc69",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/aeuburn1vn08",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/xi6gff1dnlvi",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://voe.sx/e/8ebddnzipkc0",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/39knexr8iic9",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "latino"
-                  },
-                  {
-                    "url": "https://waaw.to/f/j3V4VjwLq8yC",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "latino"
-                  }
-                ],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/j2dcrf02zorx",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/mzdfwnnvlyat",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/jqqltgqa6w5t",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/almm1kbp3eod",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/c2qo1a1iepau",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/QEcfCkJijoxJ",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "251941",
-      "title": "St. Denis Medical",
-      "year": "2024",
-      "overview": "An eclectic group of underfunded yet dedicated doctors and nurses navigates caring for patients — and each other — while keeping it all together at an Oregon hospital.",
-      "rating": 6.82,
-      "genres": [
-        "Comedia"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/dtACf4sRA640q4l6oLyfMy75Viy.jpg",
-      "seasons": [
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "title": "St. Denis Medical 2x12",
-              "number_text": "2x12",
-              "servers": {
-                "latino": [],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/ia6q294yif7a",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/uyry8irm8xuq",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/utkz68pf4hpo",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/5tse2fyjsesn",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/0zbw8s3rzfv2",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/KOn6suP1yFfa",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "240459",
-      "title": "Spartacus: House of Ashur",
-      "year": "2025",
-      "overview": "La historia se basa en la suposición de que Ashur no murió en el Vesubio, en el desenlace de la segunda temporada de la ficción original.",
-      "rating": 6.4,
-      "genres": [
-        "Drama",
-        "Acción",
-        "Aventura"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/zdEZX1GChq3z51xAFLqxaQXXXDS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/c78kbj781ddvmSn5mgLWFQbC7di.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "title": "Spartacus: House of Ashur 1x10",
-              "number_text": "1x10",
-              "servers": {
-                "latino": [],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/kzkcqtjnz77i",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/sy5b2vcqo7ld",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/amt813o2wrld",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/95c8o5y9gf8e",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/oi4mu4p3y035",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/JKvVAcKauMOq",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "90812",
-      "title": "Industry",
-      "year": "2020",
-      "overview": "Un grupo de ambiciosos jóvenes recién graduados navegan por el ambiente tenso y competitivo de un importante banco de inversión de Londres.",
-      "rating": 6.8,
+      "overview": "Cuando una joven médica descubre que los niños que viven cerca de una planta de fundición sufren de envenenamiento por plomo, arriesga su vida y su carrera para salvarlos.",
+      "rating": 10,
       "genres": [
         "Drama"
       ],
-      "poster": "https://image.tmdb.org/t/p/original/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/qcV7ebwtZcoRxBufUmXQl0KKdht.jpg",
+      "poster": "https://image.tmdb.org/t/p/original/ous8IYSqDHNd8gOJDDQBL3kNqqW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/ra12F3J3uVe112FEqBGmQapW2Bu.jpg",
       "seasons": [
         {
-          "number": 4,
+          "number": 1,
           "episodes": [
             {
-              "title": "Industry 4x5",
-              "number_text": "4x5",
+              "title": "Niños de plomo 1x6",
+              "number_text": "1x6",
+              "servers": {
+                "latino": [],
+                "english": [
+                  {
+                    "url": "https://streamwish.to/e/3wo534hef3xs",
+                    "server": "streamwish",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://bysejikuar.com/e/2uusblph2pxg",
+                    "server": "filemoon",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://vidhidepro.com/v/40s4vytmm5sh",
+                    "server": "vidhide",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://voe.sx/e/jxf5dyqnj9ih",
+                    "server": "voesx",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://doodstream.com/e/rbflc3pgmlo2",
+                    "server": "doodstream",
+                    "quality": "HD",
+                    "language": "english"
+                  },
+                  {
+                    "url": "https://waaw.to/f/QIuCXJw03EQl",
+                    "server": "netu",
+                    "quality": "HD",
+                    "language": "english"
+                  }
+                ],
+                "spanish": [],
+                "subtitulado": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdb_id": "283370",
+      "title": "Motorvalley",
+      "year": "2026",
+      "overview": "Ansiosa por apoderarse del imperio de carreras de su familia, una heredera contrata a una conductora temeraria y a un piloto atormentado para competir en el Gran Turismo.",
+      "rating": 7.3,
+      "genres": [
+        "Drama",
+        "Acción",
+        "Aventura"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/dJhLe1XSlIhetCsArAzgubg2aD5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/zyMMXRpCZoMLYIret8seCZyIlr6.jpg",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "title": "Motorvalley 1x5",
+              "number_text": "1x5",
               "servers": {
                 "latino": [
                   {
-                    "url": "https://streamwish.to/e/ilw7bain7euq",
+                    "url": "https://streamwish.to/e/jg0ntocdx4x0",
                     "server": "streamwish",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://bysejikuar.com/e/q4kqmxr81ivs",
+                    "url": "https://bysejikuar.com/e/5ewce2vp9gxp",
                     "server": "filemoon",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://vidhidepro.com/v/dxswjuqsf1fb",
+                    "url": "https://vidhidepro.com/v/rz0qtwbwfjwp",
                     "server": "vidhide",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://voe.sx/e/rziad7vtbvrd",
+                    "url": "https://voe.sx/e/4zw7fs4kjieb",
                     "server": "voesx",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://doodstream.com/e/erbf06avxih7",
+                    "url": "https://doodstream.com/e/h4tdso4mwjqo",
                     "server": "doodstream",
                     "quality": "HD",
                     "language": "latino"
                   },
                   {
-                    "url": "https://waaw.to/f/5qBT43jarDlZ",
+                    "url": "https://waaw.to/f/GVMACukNMYyg",
                     "server": "netu",
                     "quality": "HD",
                     "language": "latino"
@@ -2239,37 +2058,37 @@
                 ],
                 "english": [
                   {
-                    "url": "https://streamwish.to/e/rjrb29j014mq",
+                    "url": "https://streamwish.to/e/nmtnfkg4x1o5",
                     "server": "streamwish",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://bysejikuar.com/e/bjrpvc40fast",
+                    "url": "https://bysejikuar.com/e/jow1vf5baoqq",
                     "server": "filemoon",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://vidhidepro.com/v/rylxkoopexf5",
+                    "url": "https://vidhidepro.com/v/g34ozdwfnc0v",
                     "server": "vidhide",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://voe.sx/e/kfvmn1eg0w4f",
+                    "url": "https://voe.sx/e/j1kzn47p8v0e",
                     "server": "voesx",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://doodstream.com/e/mlc34tigpt30",
+                    "url": "https://doodstream.com/e/a2n4ln1cxohb",
                     "server": "doodstream",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://waaw.to/f/Smc4IoBVZ7JY",
+                    "url": "https://waaw.to/f/ixUpictvcw2v",
                     "server": "netu",
                     "quality": "HD",
                     "language": "english"
@@ -2284,259 +2103,97 @@
       ]
     },
     {
-      "tmdb_id": "241549",
-      "title": "Murder in a Small Town",
+      "tmdb_id": "213306",
+      "title": "Detective Alex Cross",
       "year": "2024",
-      "overview": "Karl Alberg moves to a quiet coastal town to soothe a psyche that has been battered by big-city police work but finds himself needing to call upon all his skills to solve the murders that continue to ",
-      "rating": 6.75,
+      "overview": "Sigue las investigaciones del brillante psicólogo forense y detective de la Policía de DC, Alex Cross. Junto con su mejor amigo y socio, el detective John Sampson, Cross analiza las mentes de asesinos",
+      "rating": 7.1,
       "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/r8rdmK4vSIhNDQAtbamEFL2kLhG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
-      "seasons": [
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "title": "Murder in a Small Town 2x4",
-              "number_text": "2x4",
-              "servers": {
-                "latino": [],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/de5w6t8iafkg",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/snq1zedxe6mq",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/glzeguxc8hmj",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/cpi3drgg5qeh",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/2qzwaaf36hjk",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/b3Fn93ezvuBW",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "308402",
-      "title": "It's Not Like That",
-      "year": "2026",
-      "overview": "Freshly divorced Lori and recently widowed minister Malcolm, friends with teens, navigate singlehood while questioning if their longstanding bond hints at a romantic future",
-      "rating": 7.9,
-      "genres": [
-        "Familia"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/tNmwWz76PjoLvMVU88IFFNiwwPc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/ifCvSx7U1EiRoleSUtv1Nb9NBoS.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "title": "It's Not Like That 1x4",
-              "number_text": "1x4",
-              "servers": {
-                "latino": [],
-                "english": [
-                  {
-                    "url": "https://streamwish.to/e/5lqddaefkgee",
-                    "server": "streamwish",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://bysejikuar.com/e/4tr5ckl1hjxj",
-                    "server": "filemoon",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://vidhidepro.com/v/swgy4j0qj9jn",
-                    "server": "vidhide",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://voe.sx/e/ezd7rhpx2qry",
-                    "server": "voesx",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://doodstream.com/e/qukwdmj5yh26",
-                    "server": "doodstream",
-                    "quality": "HD",
-                    "language": "english"
-                  },
-                  {
-                    "url": "https://waaw.to/f/QumtiS7RU8gg",
-                    "server": "netu",
-                    "quality": "HD",
-                    "language": "english"
-                  }
-                ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "226637",
-      "title": "High Potential: Detective Inesperada",
-      "year": "2024",
-      "overview": "Morgan es una madre soltera con una mente excepcional, cuyo talento poco convencional para resolver crímenes la lleva a entablar una relación inusual e imparable con un detective experimentado que sig",
-      "rating": 8,
-      "genres": [
-        "Drama",
         "Crimen",
+        "Drama",
         "Misterio"
       ],
-      "poster": "https://image.tmdb.org/t/p/original/49FrRidGiaL2Ui7bJmeDPdGshd4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/ijRiyqrXUzrF77INhtzvSS6V6qG.jpg",
+      "poster": "https://image.tmdb.org/t/p/original/5bPu59SvLNxW27UUKluGZ5FfpDL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/cYHJfdRnIhmeBoYN4jRMMnBDroO.jpg",
       "seasons": [
         {
           "number": 2,
           "episodes": [
             {
-              "title": "High Potential: Detective Inesperada 2x12",
-              "number_text": "2x12",
+              "title": "Detective Alex Cross 2x3",
+              "number_text": "2x3",
               "servers": {
-                "latino": [],
-                "english": [
+                "latino": [
                   {
-                    "url": "https://streamwish.to/e/tknp5umpqisc",
+                    "url": "https://streamwish.to/e/y2pd0mmr7ps5",
                     "server": "streamwish",
                     "quality": "HD",
-                    "language": "english"
+                    "language": "latino"
                   },
                   {
-                    "url": "https://bysejikuar.com/e/43h5vwiq6em4",
+                    "url": "https://bysejikuar.com/e/njl1sqcxh8qy",
                     "server": "filemoon",
                     "quality": "HD",
-                    "language": "english"
+                    "language": "latino"
                   },
                   {
-                    "url": "https://vidhidepro.com/v/kb5a97pi7x2i",
+                    "url": "https://vidhidepro.com/v/ekmzmpg5smyw",
                     "server": "vidhide",
                     "quality": "HD",
-                    "language": "english"
+                    "language": "latino"
                   },
                   {
-                    "url": "https://voe.sx/e/djoxl4jll0qz",
+                    "url": "https://voe.sx/e/ed90x36mbfhi",
                     "server": "voesx",
                     "quality": "HD",
-                    "language": "english"
+                    "language": "latino"
                   },
                   {
-                    "url": "https://doodstream.com/e/l5kra8cygnkr",
+                    "url": "https://doodstream.com/e/15rvkaimt1eo",
                     "server": "doodstream",
                     "quality": "HD",
-                    "language": "english"
+                    "language": "latino"
                   },
                   {
-                    "url": "https://waaw.to/f/kShwumSmXvne",
+                    "url": "https://waaw.to/f/jxKrttWyVISh",
                     "server": "netu",
                     "quality": "HD",
-                    "language": "english"
+                    "language": "latino"
                   }
                 ],
-                "spanish": [],
-                "subtitulado": []
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tmdb_id": "312017",
-      "title": "A Knight in the Making",
-      "year": "2026",
-      "overview": "Follow \"A Knight of the Seven Kingdoms\" from the page to the screen in this fascinating and comprehensive look at how HBO's newest series in the Game of Thrones universe was brought to life.",
-      "rating": 4,
-      "genres": [
-        "Documental"
-      ],
-      "poster": "https://image.tmdb.org/t/p/original/zHE48oJaLb9da91kghWSMWA6ywj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/jqwbromgVj8amB7o0MaPHNj5lwJ.jpg",
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "title": "A Knight in the Making 1x2",
-              "number_text": "1x2",
-              "servers": {
-                "latino": [],
                 "english": [
                   {
-                    "url": "https://streamwish.to/e/n6fwhmpjbwyu",
+                    "url": "https://streamwish.to/e/kt1jy66bu7mt",
                     "server": "streamwish",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://bysejikuar.com/e/e9nzxy398net",
+                    "url": "https://bysejikuar.com/e/tvma6zag75sc",
                     "server": "filemoon",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://vidhidepro.com/v/cvvltu1oqg9l",
+                    "url": "https://vidhidepro.com/v/n8zr3tufg7be",
                     "server": "vidhide",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://voe.sx/e/prh0ozolyl5e",
+                    "url": "https://voe.sx/e/1uxfpbix7q3y",
                     "server": "voesx",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://doodstream.com/e/oxhxy7tjlwoi",
+                    "url": "https://doodstream.com/e/4cm4vncg7m0q",
                     "server": "doodstream",
                     "quality": "HD",
                     "language": "english"
                   },
                   {
-                    "url": "https://waaw.to/f/Arc2xI8wb6Pg",
+                    "url": "https://waaw.to/f/Uo3nQFAxJxh0",
                     "server": "netu",
                     "quality": "HD",
                     "language": "english"
@@ -2552,6 +2209,6 @@
     }
   ],
   "total_episodios": 20,
-  "total_series_nuevas": 13,
-  "timestamp": "2026-02-08T11:11:17.118481"
+  "total_series_nuevas": 8,
+  "timestamp": "2026-02-13T08:29:56.211739"
 }
