@@ -103,23 +103,6 @@
     "date_offset": 0
   },
   {
-    "hora_utc": "2026-02-13T21:30:00Z",
-    "hora_argentina": "2026-02-13 18:30",
-    "logo": "https://flagcdn.com/w320/py.png",
-    "liga": "Primera Division Paraguay",
-    "equipos": "Guaraní vs Sportivo San Lorenzo",
-    "deporte": "Deportes",
-    "pais": "Paraguay",
-    "canales": [
-      {
-        "nombre": "TIGO SPORTS PARAGUAY",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even4",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-13T22:00:00Z",
     "hora_argentina": "2026-02-13 19:00",
     "logo": "https://bestleague.world/jr/56.png",
