@@ -240,6 +240,11 @@
         "calidad": ""
       },
       {
+        "nombre": "canal 70",
+        "url": "https://miatvhd.xyz/reproductor/canal70.html",
+        "calidad": ""
+      },
+      {
         "nombre": "ESPN Premium",
         "url": "https://tvtvhd.com/canales.php?stream=espnpremium",
         "calidad": ""
@@ -288,23 +293,6 @@
       }
     ],
     "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-13T23:00:00Z",
-    "hora_argentina": "2026-02-13 20:00",
-    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/arg.png",
-    "liga": "Independiente vs LanĂşs",
-    "equipos": "Independiente vs LanĂşs",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "canal 70",
-        "url": "https://miatvhd.xyz/reproductor/canal70.html",
-        "calidad": ""
-      }
-    ],
-    "date_offset": 0
   },
   {
     "hora_utc": "2026-02-13T23:00:00Z",
