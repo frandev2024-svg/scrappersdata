@@ -9,9 +9,9 @@
     "pais": "Portugal",
     "canales": [
       {
-        "nombre": "canal 40",
+        "nombre": "CANAL 40",
         "url": "https://miatvhd.xyz/reproductor/canal40.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -26,19 +26,19 @@
     "pais": "Chile",
     "canales": [
       {
-        "nombre": "TNT Sports Premium",
+        "nombre": "TNT SPORTS PREMIUM",
         "url": "https://elcanaldeportivo.com/cdf.php",
-        "calidad": "720p"
+        "calidad": "720P"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=max2",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal 30",
+        "nombre": "CANAL 30",
         "url": "https://miatvhd.xyz/reproductor/canal30.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -53,9 +53,9 @@
     "pais": "Chile",
     "canales": [
       {
-        "nombre": "MAX Calidad 720p",
+        "nombre": "MAX CALIDAD 720P",
         "url": "https://streamtp10.com/global1.php?stream=max2",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -70,34 +70,34 @@
     "pais": "Argentina",
     "canales": [
       {
-        "nombre": "TyC Sports Calidad 720p",
+        "nombre": "TYC SPORTS CALIDAD 720P",
         "url": "https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TyC Sports Calidad 720p",
+        "nombre": "TYC SPORTS CALIDAD 720P",
         "url": "https://streamtp10.com/global1.php?stream=tycsports",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TyC Sports Calidad 720p",
+        "nombre": "TYC SPORTS CALIDAD 720P",
         "url": "https://welivesports.shop/embed/tycsportarg.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TyC Sports Calidad 720p",
+        "nombre": "TYC SPORTS CALIDAD 720P",
         "url": "https://rereyano.ru/player/3/77",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TyC Sports Calidad 720p",
+        "nombre": "TYC SPORTS CALIDAD 720P",
         "url": "https://nebunexa.life/tok.html?get=VHlDU3BvcnQ",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TyC Sports Calidad 720p",
+        "nombre": "TYC SPORTS CALIDAD 720P",
         "url": "https://tvlibree.com/pc/ext/?r=https://ch11-04-11-tyc.vodgc.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8%3Fheaders%3DeyJvcmlnaW4iOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbSIsInJlZmVyZXIiOiJodHRwczovL3BsYXkudHljc3BvcnRzLmNvbS8ifQ%3D%3D",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -112,9 +112,9 @@
     "pais": "Paraguay",
     "canales": [
       {
-        "nombre": "Tigo Sports Paraguay",
+        "nombre": "TIGO SPORTS PARAGUAY",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even4",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -129,34 +129,34 @@
     "pais": "Uruguay",
     "canales": [
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney10",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "VTV plus (WIGI)",
+        "nombre": "VTV PLUS (WIGI)",
         "url": "https://bolaloca.my/player/1/109",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "VTV plus (HOCA)",
+        "nombre": "VTV PLUS (HOCA)",
         "url": "https://bolaloca.my/player/2/109",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "VTV plus (CAST)",
+        "nombre": "VTV PLUS (CAST)",
         "url": "https://bolaloca.my/player/3/109",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal 50",
+        "nombre": "CANAL 50",
         "url": "https://miatvhd.xyz/reproductor/canal50.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney13",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -171,9 +171,9 @@
     "pais": "Uruguay",
     "canales": [
       {
-        "nombre": "Disney+ Calidad 720p",
+        "nombre": "DISNEY+ CALIDAD 720P",
         "url": "https://streamtp10.com/global1.php?stream=disney10",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -188,19 +188,19 @@
     "pais": "Colombia",
     "canales": [
       {
-        "nombre": "Win Sports",
+        "nombre": "WIN SPORTS",
         "url": "https://tvtvhd.com/canales.php?stream=winsports",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Win Sports | OP2",
+        "nombre": "WIN SPORTS | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Win Sports ┃OP3",
+        "nombre": "WIN SPORTS ┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -215,54 +215,54 @@
     "pais": "Argentina",
     "canales": [
       {
-        "nombre": "ESPN Premium",
+        "nombre": "ESPN PREMIUM",
         "url": "https://elcanaldeportivo.com/espnpremium.php",
-        "calidad": "720p"
+        "calidad": "720P"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium (WIGI)",
+        "nombre": "ESPN PREMIUM (WIGI)",
         "url": "https://bolaloca.my/player/1/76",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium (HOCA)",
+        "nombre": "ESPN PREMIUM (HOCA)",
         "url": "https://bolaloca.my/player/2/76",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium (CAST)",
+        "nombre": "ESPN PREMIUM (CAST)",
         "url": "https://bolaloca.my/player/3/76",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal 70",
+        "nombre": "CANAL 70",
         "url": "https://miatvhd.xyz/reproductor/canal70.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium",
+        "nombre": "ESPN PREMIUM",
         "url": "https://tvtvhd.com/canales.php?stream=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium┃OP2",
+        "nombre": "ESPN PREMIUM┃OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium┃OP3",
+        "nombre": "ESPN PREMIUM┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney16",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -279,17 +279,17 @@
       {
         "nombre": "ESPN3MX (WIGI)",
         "url": "https://bolaloca.my/player/1/99",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN3MX (HOCA)",
         "url": "https://bolaloca.my/player/2/99",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN3MX (CAST)",
         "url": "https://bolaloca.my/player/3/99",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -304,19 +304,19 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "Futbol Canal",
+        "nombre": "FUTBOL CANAL",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Futbol Canal | OP2",
+        "nombre": "FUTBOL CANAL | OP2",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Futbol Canal | OP3",
+        "nombre": "FUTBOL CANAL | OP3",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -333,12 +333,12 @@
       {
         "nombre": "ESPN 3 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney15",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -353,29 +353,29 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "TNT Sports Premium",
+        "nombre": "TNT SPORTS PREMIUM",
         "url": "https://elcanaldeportivo.com/cdf.php",
-        "calidad": "720p"
+        "calidad": "720P"
       },
       {
-        "nombre": "TNTCHILE Premium (WIGI)",
+        "nombre": "TNTCHILE PREMIUM (WIGI)",
         "url": "https://bolaloca.my/player/1/83",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TNTCHILE Premium (HOCA)",
+        "nombre": "TNTCHILE PREMIUM (HOCA)",
         "url": "https://bolaloca.my/player/2/83",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TNTCHILE Premium (CAST)",
+        "nombre": "TNTCHILE PREMIUM (CAST)",
         "url": "https://bolaloca.my/player/3/83",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Miatvhd",
+        "nombre": "MIATVHD",
         "url": "https://miatvhd.xyz/reproductor/cdf.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -390,19 +390,19 @@
     "pais": "Chile",
     "canales": [
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=max3",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TNT Sports Premium Chile",
+        "nombre": "TNT SPORTS PREMIUM CHILE",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even8",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Tvtvhd",
+        "nombre": "TVTVHD",
         "url": "https://tvtvhd.com/canales.php?stream=max3",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -417,9 +417,9 @@
     "pais": "Paraguay",
     "canales": [
       {
-        "nombre": "Tigo Sports Paraguay",
+        "nombre": "TIGO SPORTS PARAGUAY",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even4",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -434,14 +434,14 @@
     "pais": "Estados Unidos",
     "canales": [
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnmx",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -456,9 +456,9 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "SporTV",
+        "nombre": "SPORTV",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -473,9 +473,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even10",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -490,14 +490,14 @@
     "pais": "Uruguay",
     "canales": [
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=disney1",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney14",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -512,24 +512,24 @@
     "pais": "Uruguay",
     "canales": [
       {
-        "nombre": "VTV plus (WIGI)",
+        "nombre": "VTV PLUS (WIGI)",
         "url": "https://bolaloca.my/player/1/109",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "VTV plus (HOCA)",
+        "nombre": "VTV PLUS (HOCA)",
         "url": "https://bolaloca.my/player/2/109",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "VTV plus (CAST)",
+        "nombre": "VTV PLUS (CAST)",
         "url": "https://bolaloca.my/player/3/109",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal 50",
+        "nombre": "CANAL 50",
         "url": "https://miatvhd.xyz/reproductor/canal50.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -544,9 +544,9 @@
     "pais": "Colombia",
     "canales": [
       {
-        "nombre": "Win Sports+",
+        "nombre": "WIN SPORTS+",
         "url": "https://elcanaldeportivo.com/winmas.php",
-        "calidad": "720p"
+        "calidad": "720P"
       }
     ],
     "date_offset": -1
@@ -563,57 +563,57 @@
       {
         "nombre": "TUDN USA",
         "url": "https://elcanaldeportivo.com/udn.php",
-        "calidad": "720p"
+        "calidad": "720P"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=tudnus",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone1",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Miatvhd",
+        "nombre": "MIATVHD",
         "url": "https://miatvhd.xyz/reproductor/udn.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7",
+        "nombre": "AZTECA 7",
         "url": "https://tvtvhd.com/canales.php?stream=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 | OP2",
+        "nombre": "AZTECA 7 | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 | OP3",
+        "nombre": "AZTECA 7 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA",
         "url": "https://tvtvhd.com/canales.php?stream=tudn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -628,44 +628,44 @@
     "pais": "Colombia",
     "canales": [
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=winplus2",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "WINsport+ (WIGI)",
+        "nombre": "WINSPORT+ (WIGI)",
         "url": "https://bolaloca.my/player/1/81",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "WINsport+ (HOCA)",
+        "nombre": "WINSPORT+ (HOCA)",
         "url": "https://bolaloca.my/player/2/81",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "WINsport+ (CAST)",
+        "nombre": "WINSPORT+ (CAST)",
         "url": "https://bolaloca.my/player/3/81",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Win Sports +",
+        "nombre": "WIN SPORTS +",
         "url": "https://tvtvhd.com/canales.php?stream=winsportsplus",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Win Sports + | OP2",
+        "nombre": "WIN SPORTS + | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Win Sports + | OP3",
+        "nombre": "WIN SPORTS + | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -682,17 +682,17 @@
       {
         "nombre": "ESPN3MX (WIGI)",
         "url": "https://bolaloca.my/player/1/99",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN3MX (HOCA)",
         "url": "https://bolaloca.my/player/2/99",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN3MX (CAST)",
         "url": "https://bolaloca.my/player/3/99",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -709,17 +709,17 @@
       {
         "nombre": "ESPN2MX (WIGI)",
         "url": "https://bolaloca.my/player/1/98",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN2MX (HOCA)",
         "url": "https://bolaloca.my/player/2/98",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN2MX (CAST)",
         "url": "https://bolaloca.my/player/3/98",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -736,32 +736,32 @@
       {
         "nombre": "TUDN USA (WIGI)",
         "url": "https://bolaloca.my/player/1/68",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA (HOCA)",
         "url": "https://bolaloca.my/player/2/68",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA (CAST)",
         "url": "https://bolaloca.my/player/3/68",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 (WIGI)",
+        "nombre": "AZTECA 7 (WIGI)",
         "url": "https://bolaloca.my/player/1/108",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 (HOCA)",
+        "nombre": "AZTECA 7 (HOCA)",
         "url": "https://bolaloca.my/player/2/108",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 (CAST)",
+        "nombre": "AZTECA 7 (CAST)",
         "url": "https://bolaloca.my/player/3/108",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -776,19 +776,19 @@
     "pais": "México",
     "canales": [
       {
-        "nombre": "FOX Deportes (WIGI)",
+        "nombre": "FOX DEPORTES (WIGI)",
         "url": "https://bolaloca.my/player/1/70",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "FOX Deportes (HOCA)",
+        "nombre": "FOX DEPORTES (HOCA)",
         "url": "https://bolaloca.my/player/2/70",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "FOX Deportes (CAST)",
+        "nombre": "FOX DEPORTES (CAST)",
         "url": "https://bolaloca.my/player/3/70",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -803,9 +803,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -820,9 +820,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "canal 11",
+        "nombre": "CANAL 11",
         "url": "https://miatvhd.xyz/reproductor/canal11.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -837,19 +837,19 @@
     "pais": "México",
     "canales": [
       {
-        "nombre": "FOX Deportes",
+        "nombre": "FOX DEPORTES",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "FOX Deportes | OP2",
+        "nombre": "FOX DEPORTES | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "FOX Deportes | OP3",
+        "nombre": "FOX DEPORTES | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -866,27 +866,27 @@
       {
         "nombre": "ESPN",
         "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN AR┃OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN AR┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney17",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN 2 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -903,12 +903,12 @@
       {
         "nombre": "ESPN 2 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney18",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -925,12 +925,12 @@
       {
         "nombre": "ESPN 3 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney20",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -945,44 +945,44 @@
     "pais": "Argentina",
     "canales": [
       {
-        "nombre": "ESPN Premium",
+        "nombre": "ESPN PREMIUM",
         "url": "https://elcanaldeportivo.com/espnpremium.php",
-        "calidad": "720p"
+        "calidad": "720P"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium (WIGI)",
+        "nombre": "ESPN PREMIUM (WIGI)",
         "url": "https://bolaloca.my/player/1/76",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium (HOCA)",
+        "nombre": "ESPN PREMIUM (HOCA)",
         "url": "https://bolaloca.my/player/2/76",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium (CAST)",
+        "nombre": "ESPN PREMIUM (CAST)",
         "url": "https://bolaloca.my/player/3/76",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium",
+        "nombre": "ESPN PREMIUM",
         "url": "https://tvtvhd.com/canales.php?stream=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium┃OP2",
+        "nombre": "ESPN PREMIUM┃OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN Premium┃OP3",
+        "nombre": "ESPN PREMIUM┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -997,9 +997,9 @@
     "pais": "Argentina",
     "canales": [
       {
-        "nombre": "TNT Sports",
+        "nombre": "TNT SPORTS",
         "url": "https://elcanaldeportivo.com/tntsports.php",
-        "calidad": "720p"
+        "calidad": "720P"
       }
     ],
     "date_offset": -1
@@ -1014,14 +1014,14 @@
     "pais": "Argentina",
     "canales": [
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=tntar",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TNT Sports",
+        "nombre": "TNT SPORTS",
         "url": "https://tvtvhd.com/canales.php?stream=tntsports",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1036,19 +1036,19 @@
     "pais": "Argentina",
     "canales": [
       {
-        "nombre": "TNT sport arg (WIGI)",
+        "nombre": "TNT SPORT ARG (WIGI)",
         "url": "https://bolaloca.my/player/1/75",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TNT sport arg (HOCA)",
+        "nombre": "TNT SPORT ARG (HOCA)",
         "url": "https://bolaloca.my/player/2/75",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TNT sport arg (CAST)",
+        "nombre": "TNT SPORT ARG (CAST)",
         "url": "https://bolaloca.my/player/3/75",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -1063,9 +1063,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "canal 72",
+        "nombre": "CANAL 72",
         "url": "https://miatvhd.xyz/reproductor/canal72.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1080,9 +1080,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "canal 73",
+        "nombre": "CANAL 73",
         "url": "https://miatvhd.xyz/reproductor/canal73.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1097,34 +1097,34 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "L1Max",
+        "nombre": "L1MAX",
         "url": "https://elcanaldeportivo.com/liga1maxpe.php",
-        "calidad": "720p"
+        "calidad": "720P"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=liga1max",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal 7",
+        "nombre": "CANAL 7",
         "url": "https://miatvhd.xyz/reproductor/canal7.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Liga1MAX",
+        "nombre": "LIGA1MAX",
         "url": "https://tvtvhd.com/canales.php?stream=liga1max",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Liga1Max | OP2",
+        "nombre": "LIGA1MAX | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Liga1Max | OP3",
+        "nombre": "LIGA1MAX | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -1139,19 +1139,19 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "Liga1MAX (WIGI)",
+        "nombre": "LIGA1MAX (WIGI)",
         "url": "https://bolaloca.my/player/1/84",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Liga1MAX (HOCA)",
+        "nombre": "LIGA1MAX (HOCA)",
         "url": "https://bolaloca.my/player/2/84",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Liga1MAX (CAST)",
+        "nombre": "LIGA1MAX (CAST)",
         "url": "https://bolaloca.my/player/3/84",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -1166,9 +1166,9 @@
     "pais": "Estados Unidos",
     "canales": [
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=max1",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1185,7 +1185,7 @@
       {
         "nombre": "FUTV",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even4",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1202,17 +1202,17 @@
       {
         "nombre": "ESPN2MX (WIGI)",
         "url": "https://bolaloca.my/player/1/98",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN2MX (HOCA)",
         "url": "https://bolaloca.my/player/2/98",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "ESPN2MX (CAST)",
         "url": "https://bolaloca.my/player/3/98",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1229,12 +1229,12 @@
       {
         "nombre": "ESPN 3 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Disney+",
+        "nombre": "DISNEY+",
         "url": "https://tvtvhd.com/canales.php?stream=disney19",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 1
@@ -1251,57 +1251,57 @@
       {
         "nombre": "TUDN USA",
         "url": "https://elcanaldeportivo.com/udn.php",
-        "calidad": "720p"
+        "calidad": "720P"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=tudnus",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=foxone2",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "StreamX10",
+        "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Miatvhd",
+        "nombre": "MIATVHD",
         "url": "https://miatvhd.xyz/reproductor/tdn.html",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7",
+        "nombre": "AZTECA 7",
         "url": "https://tvtvhd.com/canales.php?stream=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 | OP2",
+        "nombre": "AZTECA 7 | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 | OP3",
+        "nombre": "AZTECA 7 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=azteca7",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA",
         "url": "https://tvtvhd.com/canales.php?stream=tudn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1318,32 +1318,32 @@
       {
         "nombre": "TUDN USA (WIGI)",
         "url": "https://bolaloca.my/player/1/68",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA (HOCA)",
         "url": "https://bolaloca.my/player/2/68",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "TUDN USA (CAST)",
         "url": "https://bolaloca.my/player/3/68",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 (WIGI)",
+        "nombre": "AZTECA 7 (WIGI)",
         "url": "https://bolaloca.my/player/1/108",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 (HOCA)",
+        "nombre": "AZTECA 7 (HOCA)",
         "url": "https://bolaloca.my/player/2/108",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Azteca 7 (CAST)",
+        "nombre": "AZTECA 7 (CAST)",
         "url": "https://bolaloca.my/player/3/108",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1358,9 +1358,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1375,74 +1375,74 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "eurosport1uk",
+        "nombre": "EUROSPORT1UK",
         "url": "https://antenasport.top/eurosport1uk.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky2nz",
+        "nombre": "SKY2NZ",
         "url": "https://antenasport.top/sky2nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky3nz",
+        "nombre": "SKY3NZ",
         "url": "https://antenasport.top/sky3nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky4nz",
+        "nombre": "SKY4NZ",
         "url": "https://antenasport.top/sky4nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky5nz",
+        "nombre": "SKY5NZ",
         "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky6nz",
+        "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky7nz",
+        "nombre": "SKY7NZ",
         "url": "https://antenasport.top/sky7nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "suspilnetv",
+        "nombre": "SUSPILNETV",
         "url": "https://antenasport.top/suspilnetv.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport",
+        "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ctsport",
+        "nombre": "CTSPORT",
         "url": "https://antenasport.top/ctsport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt2",
+        "nombre": "MAXTNT2",
         "url": "https://antenasport.top/maxtnt2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt4",
+        "nombre": "MAXTNT4",
         "url": "https://antenasport.top/maxtnt4.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1457,9 +1457,9 @@
     "pais": "Grecia",
     "canales": [
       {
-        "nombre": "diemasport",
+        "nombre": "DIEMASPORT",
         "url": "https://antenasport.top/diemasport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1474,19 +1474,19 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky1nz",
+        "nombre": "SKY1NZ",
         "url": "https://antenasport.top/sky1nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 17",
+        "nombre": "ANTENASPORT SERVIDOR 17",
         "url": "https://antenasport.top/17.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 33",
+        "nombre": "ANTENASPORT SERVIDOR 33",
         "url": "https://antenasport.top/33.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1501,14 +1501,14 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky9nz",
+        "nombre": "SKY9NZ",
         "url": "https://antenasport.top/sky9nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 8",
+        "nombre": "ANTENASPORT SERVIDOR 8",
         "url": "https://antenasport.top/8.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1523,14 +1523,14 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "pro7",
+        "nombre": "PRO7",
         "url": "https://antenasport.top/pro7.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 16",
+        "nombre": "ANTENASPORT SERVIDOR 16",
         "url": "https://antenasport.top/16.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1545,49 +1545,49 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 18",
+        "nombre": "ANTENASPORT SERVIDOR 18",
         "url": "https://antenasport.top/18.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 38",
+        "nombre": "ANTENASPORT SERVIDOR 38",
         "url": "https://antenasport.top/38.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt1",
+        "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraine",
+        "nombre": "SETANTAUKRAINE",
         "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espnbrazil",
+        "nombre": "ESPNBRAZIL",
         "url": "https://antenasport.top/espnbrazil.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn2de",
+        "nombre": "DAZN2DE",
         "url": "https://antenasport.top/dazn2de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena4premiumserbia",
+        "nombre": "ARENA4PREMIUMSERBIA",
         "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena1premiumbosnia",
+        "nombre": "ARENA1PREMIUMBOSNIA",
         "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1602,9 +1602,9 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "sport2il",
+        "nombre": "SPORT2IL",
         "url": "https://antenasport.top/sport2il.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1619,9 +1619,9 @@
     "pais": "Grecia",
     "canales": [
       {
-        "nombre": "diemasport",
+        "nombre": "DIEMASPORT",
         "url": "https://antenasport.top/diemasport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1636,44 +1636,44 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarliga1",
+        "nombre": "MOVISTARLIGA1",
         "url": "https://antenasport.top/movistarliga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1688,14 +1688,14 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "liga1",
+        "nombre": "LIGA1",
         "url": "https://antenasport.top/liga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 26",
+        "nombre": "ANTENASPORT SERVIDOR 26",
         "url": "https://antenasport.top/26.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1710,9 +1710,9 @@
     "pais": "Serbia",
     "canales": [
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1727,9 +1727,9 @@
     "pais": "Croacia",
     "canales": [
       {
-        "nombre": "maxsport1croatia",
+        "nombre": "MAXSPORT1CROATIA",
         "url": "https://antenasport.top/maxsport1croatia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1744,34 +1744,34 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 9",
+        "nombre": "ANTENASPORT SERVIDOR 9",
         "url": "https://antenasport.top/9.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match1",
+        "nombre": "MATCH1",
         "url": "https://antenasport.top/match1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "starzplaysports1",
+        "nombre": "STARZPLAYSPORTS1",
         "url": "https://antenasport.top/starzplaysports1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport5hr",
+        "nombre": "ARENASPORT5HR",
         "url": "https://antenasport.top/arenasport5hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena5premiumserbia",
+        "nombre": "ARENA5PREMIUMSERBIA",
         "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "foxdeportes",
+        "nombre": "FOXDEPORTES",
         "url": "https://antenasport.top/foxdeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1786,24 +1786,24 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 40",
+        "nombre": "ANTENASPORT SERVIDOR 40",
         "url": "https://antenasport.top/40.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "itv1",
+        "nombre": "ITV1",
         "url": "https://antenasport.top/itv1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport",
+        "nombre": "ANTENASPORT",
         "url": "https://antenasport.top/tf1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "vamos",
+        "nombre": "VAMOS",
         "url": "https://antenasport.top/vamos.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1818,19 +1818,19 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 12",
+        "nombre": "ANTENASPORT SERVIDOR 12",
         "url": "https://antenasport.top/12.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky2de",
+        "nombre": "SKY2DE",
         "url": "https://antenasport.top/sky2de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4sr",
+        "nombre": "ARENASPORT4SR",
         "url": "https://antenasport.top/arenasport4sr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1845,29 +1845,29 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 15",
+        "nombre": "ANTENASPORT SERVIDOR 15",
         "url": "https://antenasport.top/15.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 17",
+        "nombre": "ANTENASPORT SERVIDOR 17",
         "url": "https://antenasport.top/17.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "skytopeventde",
+        "nombre": "SKYTOPEVENTDE",
         "url": "https://antenasport.top/skytopeventde.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky5de",
+        "nombre": "SKY5DE",
         "url": "https://antenasport.top/sky5de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport2sr",
+        "nombre": "ARENASPORT2SR",
         "url": "https://antenasport.top/arenasport2sr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1882,19 +1882,19 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 13",
+        "nombre": "ANTENASPORT SERVIDOR 13",
         "url": "https://antenasport.top/13.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky3de",
+        "nombre": "SKY3DE",
         "url": "https://antenasport.top/sky3de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3sr",
+        "nombre": "ARENASPORT3SR",
         "url": "https://antenasport.top/arenasport3sr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1909,44 +1909,44 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 11",
+        "nombre": "ANTENASPORT SERVIDOR 11",
         "url": "https://antenasport.top/11.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky1de",
+        "nombre": "SKY1DE",
         "url": "https://antenasport.top/sky1de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraineplus",
+        "nombre": "SETANTAUKRAINEPLUS",
         "url": "https://antenasport.top/setantaukraineplus.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn2argentina",
+        "nombre": "ESPN2ARGENTINA",
         "url": "https://antenasport.top/espn2argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "elevensport1pl",
+        "nombre": "ELEVENSPORT1PL",
         "url": "https://antenasport.top/elevensport1pl.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "diemasport3",
+        "nombre": "DIEMASPORT3",
         "url": "https://antenasport.top/diemasport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena4premiumserbia",
+        "nombre": "ARENA4PREMIUMSERBIA",
         "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "digisport2",
+        "nombre": "DIGISPORT2",
         "url": "https://antenasport.top/digisport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1961,14 +1961,14 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 14",
+        "nombre": "ANTENASPORT SERVIDOR 14",
         "url": "https://antenasport.top/14.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky4de",
+        "nombre": "SKY4DE",
         "url": "https://antenasport.top/sky4de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -1983,9 +1983,9 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 7",
+        "nombre": "ANTENASPORT SERVIDOR 7",
         "url": "https://antenasport.top/7.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2000,19 +2000,19 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 8",
+        "nombre": "ANTENASPORT SERVIDOR 8",
         "url": "https://antenasport.top/8.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "cbssports",
+        "nombre": "CBSSPORTS",
         "url": "https://antenasport.top/cbssports.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2il",
+        "nombre": "SPORT2IL",
         "url": "https://antenasport.top/sport2il.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2027,24 +2027,24 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 34",
+        "nombre": "ANTENASPORT SERVIDOR 34",
         "url": "https://antenasport.top/34.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport1il",
+        "nombre": "SPORT1IL",
         "url": "https://antenasport.top/sport1il.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viasatpremium",
+        "nombre": "VIASATPREMIUM",
         "url": "https://antenasport.top/viasatpremium.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4hr",
+        "nombre": "ARENASPORT4HR",
         "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2059,19 +2059,19 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 33",
+        "nombre": "ANTENASPORT SERVIDOR 33",
         "url": "https://antenasport.top/33.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espnplus1",
+        "nombre": "ESPNPLUS1",
         "url": "https://antenasport.top/espnplus1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "novasportbg",
+        "nombre": "NOVASPORTBG",
         "url": "https://antenasport.top/novasportbg.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2086,24 +2086,24 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 32",
+        "nombre": "ANTENASPORT SERVIDOR 32",
         "url": "https://antenasport.top/32.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espnplus2",
+        "nombre": "ESPNPLUS2",
         "url": "https://antenasport.top/espnplus2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport8hr",
+        "nombre": "ARENASPORT8HR",
         "url": "https://antenasport.top/arenasport8hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "cosmote8",
+        "nombre": "COSMOTE8",
         "url": "https://antenasport.top/cosmote8.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2118,9 +2118,9 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 35",
+        "nombre": "ANTENASPORT SERVIDOR 35",
         "url": "https://antenasport.top/35.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2135,9 +2135,9 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 36",
+        "nombre": "ANTENASPORT SERVIDOR 36",
         "url": "https://antenasport.top/36.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2152,9 +2152,9 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 37",
+        "nombre": "ANTENASPORT SERVIDOR 37",
         "url": "https://antenasport.top/37.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2169,14 +2169,14 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 31",
+        "nombre": "ANTENASPORT SERVIDOR 31",
         "url": "https://antenasport.top/31.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espnplus3",
+        "nombre": "ESPNPLUS3",
         "url": "https://antenasport.top/espnplus3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2191,49 +2191,49 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "maxtnt1",
+        "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 18",
+        "nombre": "ANTENASPORT SERVIDOR 18",
         "url": "https://antenasport.top/18.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 38",
+        "nombre": "ANTENASPORT SERVIDOR 38",
         "url": "https://antenasport.top/38.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraine",
+        "nombre": "SETANTAUKRAINE",
         "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn1argentina",
+        "nombre": "ESPN1ARGENTINA",
         "url": "https://antenasport.top/espn1argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espnbrazil",
+        "nombre": "ESPNBRAZIL",
         "url": "https://antenasport.top/espnbrazil.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn2de",
+        "nombre": "DAZN2DE",
         "url": "https://antenasport.top/dazn2de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2pt",
+        "nombre": "SPORT2PT",
         "url": "https://antenasport.top/sport2pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2248,14 +2248,14 @@
     "pais": "Grecia",
     "canales": [
       {
-        "nombre": "cosmote2",
+        "nombre": "COSMOTE2",
         "url": "https://antenasport.top/cosmote2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 23",
+        "nombre": "ANTENASPORT SERVIDOR 23",
         "url": "https://antenasport.top/23.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2270,9 +2270,9 @@
     "pais": "Bosnia y Herzegovina",
     "canales": [
       {
-        "nombre": "arena1premiumbosnia",
+        "nombre": "ARENA1PREMIUMBOSNIA",
         "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2287,34 +2287,34 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2329,9 +2329,9 @@
     "pais": "Grecia",
     "canales": [
       {
-        "nombre": "diemasport",
+        "nombre": "DIEMASPORT",
         "url": "https://antenasport.top/diemasport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2346,14 +2346,14 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "liga1",
+        "nombre": "LIGA1",
         "url": "https://antenasport.top/liga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 26",
+        "nombre": "ANTENASPORT SERVIDOR 26",
         "url": "https://antenasport.top/26.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2368,14 +2368,14 @@
     "pais": "Portugal",
     "canales": [
       {
-        "nombre": "sport1pt",
+        "nombre": "SPORT1PT",
         "url": "https://antenasport.top/sport1pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 21",
+        "nombre": "ANTENASPORT SERVIDOR 21",
         "url": "https://antenasport.top/21.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2390,9 +2390,9 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "espn2nl",
+        "nombre": "ESPN2NL",
         "url": "https://antenasport.top/espn2nl.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2407,14 +2407,14 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky9nz",
+        "nombre": "SKY9NZ",
         "url": "https://antenasport.top/sky9nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 10",
+        "nombre": "ANTENASPORT SERVIDOR 10",
         "url": "https://antenasport.top/10.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2429,9 +2429,9 @@
     "pais": "Serbia",
     "canales": [
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2446,9 +2446,9 @@
     "pais": "Dinamarca",
     "canales": [
       {
-        "nombre": "tv2sportdk",
+        "nombre": "TV2SPORTDK",
         "url": "https://antenasport.top/tv2sportdk.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2463,29 +2463,29 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 39",
+        "nombre": "ANTENASPORT SERVIDOR 39",
         "url": "https://antenasport.top/39.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "beinsportusa",
+        "nombre": "BEINSPORTUSA",
         "url": "https://antenasport.top/beinsportusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "megogosport",
+        "nombre": "MEGOGOSPORT",
         "url": "https://antenasport.top/megogosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport6hr",
+        "nombre": "ARENASPORT6HR",
         "url": "https://antenasport.top/arenasport6hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena5premiumserbia",
+        "nombre": "ARENA5PREMIUMSERBIA",
         "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2500,9 +2500,9 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "maxsport1croatia",
+        "nombre": "MAXSPORT1CROATIA",
         "url": "https://antenasport.top/maxsport1croatia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2517,24 +2517,24 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 40",
+        "nombre": "ANTENASPORT SERVIDOR 40",
         "url": "https://antenasport.top/40.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "itv1",
+        "nombre": "ITV1",
         "url": "https://antenasport.top/itv1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport",
+        "nombre": "ANTENASPORT",
         "url": "https://antenasport.top/tf1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistar1",
+        "nombre": "MOVISTAR1",
         "url": "https://antenasport.top/movistar1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2549,34 +2549,34 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "match1",
+        "nombre": "MATCH1",
         "url": "https://antenasport.top/match1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "starzplaysports1",
+        "nombre": "STARZPLAYSPORTS1",
         "url": "https://antenasport.top/starzplaysports1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport1",
+        "nombre": "SETANTASPORT1",
         "url": "https://antenasport.top/setantasport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4hr",
+        "nombre": "ARENASPORT4HR",
         "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena3premiumserbia",
+        "nombre": "ARENA3PREMIUMSERBIA",
         "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "foxdeportes",
+        "nombre": "FOXDEPORTES",
         "url": "https://antenasport.top/foxdeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2591,54 +2591,54 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 11",
+        "nombre": "ANTENASPORT SERVIDOR 11",
         "url": "https://antenasport.top/11.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "skyfootball",
+        "nombre": "SKYFOOTBALL",
         "url": "https://antenasport.top/skyfootball.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "skytopeventde",
+        "nombre": "SKYTOPEVENTDE",
         "url": "https://antenasport.top/skytopeventde.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky1de",
+        "nombre": "SKY1DE",
         "url": "https://antenasport.top/sky1de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "bein2fr",
+        "nombre": "BEIN2FR",
         "url": "https://antenasport.top/bein2fr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraine",
+        "nombre": "SETANTAUKRAINE",
         "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn2argentina",
+        "nombre": "ESPN2ARGENTINA",
         "url": "https://antenasport.top/espn2argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "diemasport3",
+        "nombre": "DIEMASPORT3",
         "url": "https://antenasport.top/diemasport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena4premiumserbia",
+        "nombre": "ARENA4PREMIUMSERBIA",
         "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2653,34 +2653,34 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarliga1",
+        "nombre": "MOVISTARLIGA1",
         "url": "https://antenasport.top/movistarliga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2695,14 +2695,14 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "liga1",
+        "nombre": "LIGA1",
         "url": "https://antenasport.top/liga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 26",
+        "nombre": "ANTENASPORT SERVIDOR 26",
         "url": "https://antenasport.top/26.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2717,14 +2717,14 @@
     "pais": "Grecia",
     "canales": [
       {
-        "nombre": "novasportprime",
+        "nombre": "NOVASPORTPRIME",
         "url": "https://antenasport.top/novasportprime.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 26",
+        "nombre": "ANTENASPORT SERVIDOR 26",
         "url": "https://antenasport.top/26.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2739,64 +2739,64 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 18",
+        "nombre": "ANTENASPORT SERVIDOR 18",
         "url": "https://antenasport.top/18.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 38",
+        "nombre": "ANTENASPORT SERVIDOR 38",
         "url": "https://antenasport.top/38.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 3",
+        "nombre": "ANTENASPORT SERVIDOR 3",
         "url": "https://antenasport.top/3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "bbc1",
+        "nombre": "BBC1",
         "url": "https://antenasport.top/bbc1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraineplus",
+        "nombre": "SETANTAUKRAINEPLUS",
         "url": "https://antenasport.top/setantaukraineplus.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espnbrazil",
+        "nombre": "ESPNBRAZIL",
         "url": "https://antenasport.top/espnbrazil.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn1argentina",
+        "nombre": "ESPN1ARGENTINA",
         "url": "https://antenasport.top/espn1argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn2de",
+        "nombre": "DAZN2DE",
         "url": "https://antenasport.top/dazn2de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2pt",
+        "nombre": "SPORT2PT",
         "url": "https://antenasport.top/sport2pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena1premiumbosnia",
+        "nombre": "ARENA1PREMIUMBOSNIA",
         "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2811,9 +2811,9 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "espn3nl",
+        "nombre": "ESPN3NL",
         "url": "https://antenasport.top/espn3nl.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2828,24 +2828,24 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 39",
+        "nombre": "ANTENASPORT SERVIDOR 39",
         "url": "https://antenasport.top/39.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "beinsportusa",
+        "nombre": "BEINSPORTUSA",
         "url": "https://antenasport.top/beinsportusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport6hr",
+        "nombre": "ARENASPORT6HR",
         "url": "https://antenasport.top/arenasport6hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena5premiumserbia",
+        "nombre": "ARENA5PREMIUMSERBIA",
         "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2860,14 +2860,14 @@
     "pais": "Portugal",
     "canales": [
       {
-        "nombre": "megogosport",
+        "nombre": "MEGOGOSPORT",
         "url": "https://antenasport.top/megogosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 21",
+        "nombre": "ANTENASPORT SERVIDOR 21",
         "url": "https://antenasport.top/21.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2882,14 +2882,14 @@
     "pais": "Grecia",
     "canales": [
       {
-        "nombre": "cosmote1",
+        "nombre": "COSMOTE1",
         "url": "https://antenasport.top/cosmote1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 23",
+        "nombre": "ANTENASPORT SERVIDOR 23",
         "url": "https://antenasport.top/23.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2904,24 +2904,24 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 30",
+        "nombre": "ANTENASPORT SERVIDOR 30",
         "url": "https://antenasport.top/30.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn1nl",
+        "nombre": "ESPN1NL",
         "url": "https://antenasport.top/espn1nl.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantapremium",
+        "nombre": "SETANTAPREMIUM",
         "url": "https://antenasport.top/setantapremium.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sportdigitalde",
+        "nombre": "SPORTDIGITALDE",
         "url": "https://antenasport.top/sportdigitalde.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2936,49 +2936,49 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 9",
+        "nombre": "ANTENASPORT SERVIDOR 9",
         "url": "https://antenasport.top/9.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 3",
+        "nombre": "ANTENASPORT SERVIDOR 3",
         "url": "https://antenasport.top/3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match1",
+        "nombre": "MATCH1",
         "url": "https://antenasport.top/match1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "starzplaysports1",
+        "nombre": "STARZPLAYSPORTS1",
         "url": "https://antenasport.top/starzplaysports1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport1",
+        "nombre": "SETANTASPORT1",
         "url": "https://antenasport.top/setantasport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport4pt",
+        "nombre": "SPORT4PT",
         "url": "https://antenasport.top/sport4pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4hr",
+        "nombre": "ARENASPORT4HR",
         "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2993,64 +2993,64 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 40",
+        "nombre": "ANTENASPORT SERVIDOR 40",
         "url": "https://antenasport.top/40.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarliga1",
+        "nombre": "MOVISTARLIGA1",
         "url": "https://antenasport.top/movistarliga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn1argentina",
+        "nombre": "ESPN1ARGENTINA",
         "url": "https://antenasport.top/espn1argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena3premiumserbia",
+        "nombre": "ARENA3PREMIUMSERBIA",
         "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn1pt",
+        "nombre": "DAZN1PT",
         "url": "https://antenasport.top/dazn1pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "novasport1gr",
+        "nombre": "NOVASPORT1GR",
         "url": "https://antenasport.top/novasport1gr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3065,49 +3065,49 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 18",
+        "nombre": "ANTENASPORT SERVIDOR 18",
         "url": "https://antenasport.top/18.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 38",
+        "nombre": "ANTENASPORT SERVIDOR 38",
         "url": "https://antenasport.top/38.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt1",
+        "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraine",
+        "nombre": "SETANTAUKRAINE",
         "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn2de",
+        "nombre": "DAZN2DE",
         "url": "https://antenasport.top/dazn2de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espnbrazil",
+        "nombre": "ESPNBRAZIL",
         "url": "https://antenasport.top/espnbrazil.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2pt",
+        "nombre": "SPORT2PT",
         "url": "https://antenasport.top/sport2pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena1premiumbosnia",
+        "nombre": "ARENA1PREMIUMBOSNIA",
         "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3122,14 +3122,14 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "espn2nl",
+        "nombre": "ESPN2NL",
         "url": "https://antenasport.top/espn2nl.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 39",
+        "nombre": "ANTENASPORT SERVIDOR 39",
         "url": "https://antenasport.top/39.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3144,14 +3144,14 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "liga1",
+        "nombre": "LIGA1",
         "url": "https://antenasport.top/liga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 26",
+        "nombre": "ANTENASPORT SERVIDOR 26",
         "url": "https://antenasport.top/26.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3166,19 +3166,19 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "beinsportusa",
+        "nombre": "BEINSPORTUSA",
         "url": "https://antenasport.top/beinsportusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport2hr",
+        "nombre": "ARENASPORT2HR",
         "url": "https://antenasport.top/arenasport2hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena5premiumserbia",
+        "nombre": "ARENA5PREMIUMSERBIA",
         "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3193,14 +3193,14 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky6nz",
+        "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 10",
+        "nombre": "ANTENASPORT SERVIDOR 10",
         "url": "https://antenasport.top/10.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3215,19 +3215,19 @@
     "pais": "Portugal",
     "canales": [
       {
-        "nombre": "sport1pt",
+        "nombre": "SPORT1PT",
         "url": "https://antenasport.top/sport1pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "megogosport",
+        "nombre": "MEGOGOSPORT",
         "url": "https://antenasport.top/megogosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 21",
+        "nombre": "ANTENASPORT SERVIDOR 21",
         "url": "https://antenasport.top/21.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3242,9 +3242,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -3259,74 +3259,74 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "eurosport1uk",
+        "nombre": "EUROSPORT1UK",
         "url": "https://antenasport.top/eurosport1uk.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky2nz",
+        "nombre": "SKY2NZ",
         "url": "https://antenasport.top/sky2nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky3nz",
+        "nombre": "SKY3NZ",
         "url": "https://antenasport.top/sky3nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky4nz",
+        "nombre": "SKY4NZ",
         "url": "https://antenasport.top/sky4nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky5nz",
+        "nombre": "SKY5NZ",
         "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky6nz",
+        "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky7nz",
+        "nombre": "SKY7NZ",
         "url": "https://antenasport.top/sky7nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "suspilnetv",
+        "nombre": "SUSPILNETV",
         "url": "https://antenasport.top/suspilnetv.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport",
+        "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ctsport",
+        "nombre": "CTSPORT",
         "url": "https://antenasport.top/ctsport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt2",
+        "nombre": "MAXTNT2",
         "url": "https://antenasport.top/maxtnt2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt4",
+        "nombre": "MAXTNT4",
         "url": "https://antenasport.top/maxtnt4.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3341,14 +3341,14 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky5nz",
+        "nombre": "SKY5NZ",
         "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 10",
+        "nombre": "ANTENASPORT SERVIDOR 10",
         "url": "https://antenasport.top/10.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3363,14 +3363,14 @@
     "pais": "Polonia",
     "canales": [
       {
-        "nombre": "canal3poland",
+        "nombre": "CANAL3POLAND",
         "url": "https://antenasport.top/canal3poland.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3385,44 +3385,44 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 9",
+        "nombre": "ANTENASPORT SERVIDOR 9",
         "url": "https://antenasport.top/9.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 18",
+        "nombre": "ANTENASPORT SERVIDOR 18",
         "url": "https://antenasport.top/18.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match1",
+        "nombre": "MATCH1",
         "url": "https://antenasport.top/match1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "starzplaysports1",
+        "nombre": "STARZPLAYSPORTS1",
         "url": "https://antenasport.top/starzplaysports1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport1",
+        "nombre": "SETANTASPORT1",
         "url": "https://antenasport.top/setantasport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena3premiumserbia",
+        "nombre": "ARENA3PREMIUMSERBIA",
         "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "foxdeportes",
+        "nombre": "FOXDEPORTES",
         "url": "https://antenasport.top/foxdeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3437,9 +3437,9 @@
     "pais": "Bosnia y Herzegovina",
     "canales": [
       {
-        "nombre": "arena1premiumbosnia",
+        "nombre": "ARENA1PREMIUMBOSNIA",
         "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3454,49 +3454,49 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 2",
+        "nombre": "ANTENASPORT SERVIDOR 2",
         "url": "https://antenasport.top/2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 3",
+        "nombre": "ANTENASPORT SERVIDOR 3",
         "url": "https://antenasport.top/3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 31",
+        "nombre": "ANTENASPORT SERVIDOR 31",
         "url": "https://antenasport.top/31.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraine",
+        "nombre": "SETANTAUKRAINE",
         "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "diemasport3",
+        "nombre": "DIEMASPORT3",
         "url": "https://antenasport.top/diemasport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport6hr",
+        "nombre": "ARENASPORT6HR",
         "url": "https://antenasport.top/arenasport6hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport3pt",
+        "nombre": "SPORT3PT",
         "url": "https://antenasport.top/sport3pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3511,9 +3511,9 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3528,44 +3528,44 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarliga1",
+        "nombre": "MOVISTARLIGA1",
         "url": "https://antenasport.top/movistarliga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena5premiumserbia",
+        "nombre": "ARENA5PREMIUMSERBIA",
         "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3580,24 +3580,24 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "maxtnt1",
+        "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena3premiumserbia",
+        "nombre": "ARENA3PREMIUMSERBIA",
         "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "diemasport2",
+        "nombre": "DIEMASPORT2",
         "url": "https://antenasport.top/diemasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport9hr",
+        "nombre": "ARENASPORT9HR",
         "url": "https://antenasport.top/arenasport9hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3612,19 +3612,19 @@
     "pais": "Polonia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 34",
+        "nombre": "ANTENASPORT SERVIDOR 34",
         "url": "https://antenasport.top/34.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal3poland",
+        "nombre": "CANAL3POLAND",
         "url": "https://antenasport.top/canal3poland.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport8hr",
+        "nombre": "ARENASPORT8HR",
         "url": "https://antenasport.top/arenasport8hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3639,19 +3639,19 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 39",
+        "nombre": "ANTENASPORT SERVIDOR 39",
         "url": "https://antenasport.top/39.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 40",
+        "nombre": "ANTENASPORT SERVIDOR 40",
         "url": "https://antenasport.top/40.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport5hr",
+        "nombre": "ARENASPORT5HR",
         "url": "https://antenasport.top/arenasport5hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3666,34 +3666,34 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 9",
+        "nombre": "ANTENASPORT SERVIDOR 9",
         "url": "https://antenasport.top/9.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport1il",
+        "nombre": "SPORT1IL",
         "url": "https://antenasport.top/sport1il.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "foxdeportes",
+        "nombre": "FOXDEPORTES",
         "url": "https://antenasport.top/foxdeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport4pt",
+        "nombre": "SPORT4PT",
         "url": "https://antenasport.top/sport4pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport6hr",
+        "nombre": "ARENASPORT6HR",
         "url": "https://antenasport.top/arenasport6hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3708,24 +3708,24 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 3",
+        "nombre": "ANTENASPORT SERVIDOR 3",
         "url": "https://antenasport.top/3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "starzplaysports1",
+        "nombre": "STARZPLAYSPORTS1",
         "url": "https://antenasport.top/starzplaysports1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "megogosport",
+        "nombre": "MEGOGOSPORT",
         "url": "https://antenasport.top/megogosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3740,44 +3740,44 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 31",
+        "nombre": "ANTENASPORT SERVIDOR 31",
         "url": "https://antenasport.top/31.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 4",
+        "nombre": "ANTENASPORT SERVIDOR 4",
         "url": "https://antenasport.top/4.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt6",
+        "nombre": "MAXTNT6",
         "url": "https://antenasport.top/maxtnt6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2pt",
+        "nombre": "SPORT2PT",
         "url": "https://antenasport.top/sport2pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraineplus",
+        "nombre": "SETANTAUKRAINEPLUS",
         "url": "https://antenasport.top/setantaukraineplus.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "diemasport3",
+        "nombre": "DIEMASPORT3",
         "url": "https://antenasport.top/diemasport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3792,29 +3792,29 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 5",
+        "nombre": "ANTENASPORT SERVIDOR 5",
         "url": "https://antenasport.top/5.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena4premiumserbia",
+        "nombre": "ARENA4PREMIUMSERBIA",
         "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt5",
+        "nombre": "MAXTNT5",
         "url": "https://antenasport.top/maxtnt5.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "novasportbg",
+        "nombre": "NOVASPORTBG",
         "url": "https://antenasport.top/novasportbg.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantapremium",
+        "nombre": "SETANTAPREMIUM",
         "url": "https://antenasport.top/setantapremium.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3829,9 +3829,9 @@
     "pais": "Bosnia y Herzegovina",
     "canales": [
       {
-        "nombre": "arena1premiumbosnia",
+        "nombre": "ARENA1PREMIUMBOSNIA",
         "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3846,29 +3846,29 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 18",
+        "nombre": "ANTENASPORT SERVIDOR 18",
         "url": "https://antenasport.top/18.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 7",
+        "nombre": "ANTENASPORT SERVIDOR 7",
         "url": "https://antenasport.top/7.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn2de",
+        "nombre": "DAZN2DE",
         "url": "https://antenasport.top/dazn2de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraine",
+        "nombre": "SETANTAUKRAINE",
         "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport2sr",
+        "nombre": "ARENASPORT2SR",
         "url": "https://antenasport.top/arenasport2sr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3883,9 +3883,9 @@
     "pais": "Europa",
     "canales": [
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3900,29 +3900,29 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 33",
+        "nombre": "ANTENASPORT SERVIDOR 33",
         "url": "https://antenasport.top/33.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "bbc1",
+        "nombre": "BBC1",
         "url": "https://antenasport.top/bbc1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky1nz",
+        "nombre": "SKY1NZ",
         "url": "https://antenasport.top/sky1nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport",
+        "nombre": "ANTENASPORT",
         "url": "https://antenasport.top/tf1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "vamos",
+        "nombre": "VAMOS",
         "url": "https://antenasport.top/vamos.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3937,34 +3937,34 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3979,14 +3979,14 @@
     "pais": "Portugal",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 21",
+        "nombre": "ANTENASPORT SERVIDOR 21",
         "url": "https://antenasport.top/21.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport1pt",
+        "nombre": "SPORT1PT",
         "url": "https://antenasport.top/sport1pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4001,9 +4001,9 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky5nz",
+        "nombre": "SKY5NZ",
         "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4018,9 +4018,9 @@
     "pais": "Serbia",
     "canales": [
       {
-        "nombre": "arena4premiumserbia",
+        "nombre": "ARENA4PREMIUMSERBIA",
         "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4035,14 +4035,14 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 40",
+        "nombre": "ANTENASPORT SERVIDOR 40",
         "url": "https://antenasport.top/40.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport5hr",
+        "nombre": "ARENASPORT5HR",
         "url": "https://antenasport.top/arenasport5hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4057,14 +4057,14 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 38",
+        "nombre": "ANTENASPORT SERVIDOR 38",
         "url": "https://antenasport.top/38.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport9hr",
+        "nombre": "ARENASPORT9HR",
         "url": "https://antenasport.top/arenasport9hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4079,49 +4079,49 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 31",
+        "nombre": "ANTENASPORT SERVIDOR 31",
         "url": "https://antenasport.top/31.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt1",
+        "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn1argentina",
+        "nombre": "ESPN1ARGENTINA",
         "url": "https://antenasport.top/espn1argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "bein1fr",
+        "nombre": "BEIN1FR",
         "url": "https://antenasport.top/bein1fr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantaukraine",
+        "nombre": "SETANTAUKRAINE",
         "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena1premiumbosnia",
+        "nombre": "ARENA1PREMIUMBOSNIA",
         "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2pt",
+        "nombre": "SPORT2PT",
         "url": "https://antenasport.top/sport2pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4136,39 +4136,39 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 17",
+        "nombre": "ANTENASPORT SERVIDOR 17",
         "url": "https://antenasport.top/17.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 7",
+        "nombre": "ANTENASPORT SERVIDOR 7",
         "url": "https://antenasport.top/7.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn1de",
+        "nombre": "DAZN1DE",
         "url": "https://antenasport.top/dazn1de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport1",
+        "nombre": "SETANTASPORT1",
         "url": "https://antenasport.top/setantasport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantapremium",
+        "nombre": "SETANTAPREMIUM",
         "url": "https://antenasport.top/setantapremium.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena3premiumserbia",
+        "nombre": "ARENA3PREMIUMSERBIA",
         "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "diemasport3",
+        "nombre": "DIEMASPORT3",
         "url": "https://antenasport.top/diemasport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4183,19 +4183,19 @@
     "pais": "Polonia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 35",
+        "nombre": "ANTENASPORT SERVIDOR 35",
         "url": "https://antenasport.top/35.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal3poland",
+        "nombre": "CANAL3POLAND",
         "url": "https://antenasport.top/canal3poland.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport8hr",
+        "nombre": "ARENASPORT8HR",
         "url": "https://antenasport.top/arenasport8hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4210,9 +4210,9 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 19",
+        "nombre": "ANTENASPORT SERVIDOR 19",
         "url": "https://antenasport.top/19.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4227,9 +4227,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tvrsport",
+        "nombre": "TVRSPORT",
         "url": "https://antenasport.top/tvrsport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4244,24 +4244,24 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 9",
+        "nombre": "ANTENASPORT SERVIDOR 9",
         "url": "https://antenasport.top/9.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "starzplaysports1",
+        "nombre": "STARZPLAYSPORTS1",
         "url": "https://antenasport.top/starzplaysports1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport2hr",
+        "nombre": "ARENASPORT2HR",
         "url": "https://antenasport.top/arenasport2hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match1",
+        "nombre": "MATCH1",
         "url": "https://antenasport.top/match1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4276,44 +4276,44 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarliga1",
+        "nombre": "MOVISTARLIGA1",
         "url": "https://antenasport.top/movistarliga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena5premiumserbia",
+        "nombre": "ARENA5PREMIUMSERBIA",
         "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4328,9 +4328,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "arenasport6hr",
+        "nombre": "ARENASPORT6HR",
         "url": "https://antenasport.top/arenasport6hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4345,14 +4345,14 @@
     "pais": "Grecia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 25",
+        "nombre": "ANTENASPORT SERVIDOR 25",
         "url": "https://antenasport.top/25.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "cosmote1",
+        "nombre": "COSMOTE1",
         "url": "https://antenasport.top/cosmote1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4367,14 +4367,14 @@
     "pais": "Portugal",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 21",
+        "nombre": "ANTENASPORT SERVIDOR 21",
         "url": "https://antenasport.top/21.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2pt",
+        "nombre": "SPORT2PT",
         "url": "https://antenasport.top/sport2pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4389,9 +4389,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "arena4premiumserbia",
+        "nombre": "ARENA4PREMIUMSERBIA",
         "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4406,14 +4406,14 @@
     "pais": "Balcanes",
     "canales": [
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4hr",
+        "nombre": "ARENASPORT4HR",
         "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4428,9 +4428,9 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky2nz",
+        "nombre": "SKY2NZ",
         "url": "https://antenasport.top/sky2nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4445,14 +4445,14 @@
     "pais": "Balcanes",
     "canales": [
       {
-        "nombre": "arena3premiumserbia",
+        "nombre": "ARENA3PREMIUMSERBIA",
         "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport8hr",
+        "nombre": "ARENASPORT8HR",
         "url": "https://antenasport.top/arenasport8hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4467,9 +4467,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "arenasport5hr",
+        "nombre": "ARENASPORT5HR",
         "url": "https://antenasport.top/arenasport5hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4484,29 +4484,29 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 39",
+        "nombre": "ANTENASPORT SERVIDOR 39",
         "url": "https://antenasport.top/39.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 40",
+        "nombre": "ANTENASPORT SERVIDOR 40",
         "url": "https://antenasport.top/40.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "beinsportusa",
+        "nombre": "BEINSPORTUSA",
         "url": "https://antenasport.top/beinsportusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena5premiumserbia",
+        "nombre": "ARENA5PREMIUMSERBIA",
         "url": "https://antenasport.top/arena5premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport2hr",
+        "nombre": "ARENASPORT2HR",
         "url": "https://antenasport.top/arenasport2hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4521,39 +4521,39 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 9",
+        "nombre": "ANTENASPORT SERVIDOR 9",
         "url": "https://antenasport.top/9.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 18",
+        "nombre": "ANTENASPORT SERVIDOR 18",
         "url": "https://antenasport.top/18.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match1",
+        "nombre": "MATCH1",
         "url": "https://antenasport.top/match1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "starzplaysports1",
+        "nombre": "STARZPLAYSPORTS1",
         "url": "https://antenasport.top/starzplaysports1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport1hr",
+        "nombre": "ARENASPORT1HR",
         "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport1",
+        "nombre": "SETANTASPORT1",
         "url": "https://antenasport.top/setantasport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4568,14 +4568,14 @@
     "pais": "Balcanes",
     "canales": [
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4hr",
+        "nombre": "ARENASPORT4HR",
         "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4590,44 +4590,44 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 6",
+        "nombre": "ANTENASPORT SERVIDOR 6",
         "url": "https://antenasport.top/6.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "megogosport",
+        "nombre": "MEGOGOSPORT",
         "url": "https://antenasport.top/megogosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "match2",
+        "nombre": "MATCH2",
         "url": "https://antenasport.top/match2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena4premiumserbia",
+        "nombre": "ARENA4PREMIUMSERBIA",
         "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4642,9 +4642,9 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "sky6nz",
+        "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4659,29 +4659,29 @@
     "pais": "Portugal",
     "canales": [
       {
-        "nombre": "Antenasport Servidor 19",
+        "nombre": "ANTENASPORT SERVIDOR 19",
         "url": "https://antenasport.top/19.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "Antenasport Servidor 21",
+        "nombre": "ANTENASPORT SERVIDOR 21",
         "url": "https://antenasport.top/21.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport1pt",
+        "nombre": "SPORT1PT",
         "url": "https://antenasport.top/sport1pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sportdigitalde",
+        "nombre": "SPORTDIGITALDE",
         "url": "https://antenasport.top/sportdigitalde.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport2il",
+        "nombre": "SPORT2IL",
         "url": "https://antenasport.top/sport2il.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4696,9 +4696,9 @@
     "pais": "Países Bajos",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -4713,74 +4713,74 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "eurosport1uk",
+        "nombre": "EUROSPORT1UK",
         "url": "https://antenasport.top/eurosport1uk.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky2nz",
+        "nombre": "SKY2NZ",
         "url": "https://antenasport.top/sky2nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky3nz",
+        "nombre": "SKY3NZ",
         "url": "https://antenasport.top/sky3nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky4nz",
+        "nombre": "SKY4NZ",
         "url": "https://antenasport.top/sky4nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky5nz",
+        "nombre": "SKY5NZ",
         "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky6nz",
+        "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky7nz",
+        "nombre": "SKY7NZ",
         "url": "https://antenasport.top/sky7nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "suspilnetv",
+        "nombre": "SUSPILNETV",
         "url": "https://antenasport.top/suspilnetv.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport",
+        "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ctsport",
+        "nombre": "CTSPORT",
         "url": "https://antenasport.top/ctsport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt2",
+        "nombre": "MAXTNT2",
         "url": "https://antenasport.top/maxtnt2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt4",
+        "nombre": "MAXTNT4",
         "url": "https://antenasport.top/maxtnt4.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4795,29 +4795,29 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "viaplaylaliga",
+        "nombre": "VIAPLAYLALIGA",
         "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espndeportes",
+        "nombre": "ESPNDEPORTES",
         "url": "https://antenasport.top/espndeportes.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "setantasport2",
+        "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarliga1",
+        "nombre": "MOVISTARLIGA1",
         "url": "https://antenasport.top/movistarliga1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn1de",
+        "nombre": "DAZN1DE",
         "url": "https://antenasport.top/dazn1de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4832,14 +4832,14 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "skymain",
+        "nombre": "SKYMAIN",
         "url": "https://antenasport.top/skymain.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "cbssports",
+        "nombre": "CBSSPORTS",
         "url": "https://antenasport.top/cbssports.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4854,74 +4854,74 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "eurosport1uk",
+        "nombre": "EUROSPORT1UK",
         "url": "https://antenasport.top/eurosport1uk.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky2nz",
+        "nombre": "SKY2NZ",
         "url": "https://antenasport.top/sky2nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky3nz",
+        "nombre": "SKY3NZ",
         "url": "https://antenasport.top/sky3nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky4nz",
+        "nombre": "SKY4NZ",
         "url": "https://antenasport.top/sky4nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky5nz",
+        "nombre": "SKY5NZ",
         "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky6nz",
+        "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky7nz",
+        "nombre": "SKY7NZ",
         "url": "https://antenasport.top/sky7nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "suspilnetv",
+        "nombre": "SUSPILNETV",
         "url": "https://antenasport.top/suspilnetv.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport",
+        "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ctsport",
+        "nombre": "CTSPORT",
         "url": "https://antenasport.top/ctsport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt2",
+        "nombre": "MAXTNT2",
         "url": "https://antenasport.top/maxtnt2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt4",
+        "nombre": "MAXTNT4",
         "url": "https://antenasport.top/maxtnt4.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4936,84 +4936,84 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "okkofutbol",
+        "nombre": "OKKOFUTBOL",
         "url": "https://antenasport.top/okkofutbol.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt1",
+        "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn1de",
+        "nombre": "DAZN1DE",
         "url": "https://antenasport.top/dazn1de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "trt1",
+        "nombre": "TRT1",
         "url": "https://antenasport.top/trt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canalfootfr",
+        "nombre": "CANALFOOTFR",
         "url": "https://antenasport.top/canalfootfr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn1argentina",
+        "nombre": "ESPN1ARGENTINA",
         "url": "https://antenasport.top/espn1argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "digisport3",
+        "nombre": "DIGISPORT3",
         "url": "https://antenasport.top/digisport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "cosmote2",
+        "nombre": "COSMOTE2",
         "url": "https://antenasport.top/cosmote2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport5il",
+        "nombre": "SPORT5IL",
         "url": "https://antenasport.top/sport5il.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarcampeones2",
+        "nombre": "MOVISTARCAMPEONES2",
         "url": "https://antenasport.top/movistarcampeones2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ziggosport1",
+        "nombre": "ZIGGOSPORT1",
         "url": "https://antenasport.top/ziggosport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn1pt",
+        "nombre": "DAZN1PT",
         "url": "https://antenasport.top/dazn1pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5028,14 +5028,14 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "cosmote1",
+        "nombre": "COSMOTE1",
         "url": "https://antenasport.top/cosmote1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "skyaustria1",
+        "nombre": "SKYAUSTRIA1",
         "url": "https://antenasport.top/skyaustria1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5050,69 +5050,69 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "okkofutbol",
+        "nombre": "OKKOFUTBOL",
         "url": "https://antenasport.top/okkofutbol.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canal360fr",
+        "nombre": "CANAL360FR",
         "url": "https://antenasport.top/canal360fr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn1argentina",
+        "nombre": "ESPN1ARGENTINA",
         "url": "https://antenasport.top/espn1argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn1de",
+        "nombre": "DAZN1DE",
         "url": "https://antenasport.top/dazn1de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarcampeones",
+        "nombre": "MOVISTARCAMPEONES",
         "url": "https://antenasport.top/movistarcampeones.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena1premiumserbia",
+        "nombre": "ARENA1PREMIUMSERBIA",
         "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "digisport1",
+        "nombre": "DIGISPORT1",
         "url": "https://antenasport.top/digisport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4hr",
+        "nombre": "ARENASPORT4HR",
         "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "cosmote2",
+        "nombre": "COSMOTE2",
         "url": "https://antenasport.top/cosmote2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport5il",
+        "nombre": "SPORT5IL",
         "url": "https://antenasport.top/sport5il.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sport5pt",
+        "nombre": "SPORT5PT",
         "url": "https://antenasport.top/sport5pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ziggosport1",
+        "nombre": "ZIGGOSPORT1",
         "url": "https://antenasport.top/ziggosport1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5127,54 +5127,54 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "cbssports",
+        "nombre": "CBSSPORTS",
         "url": "https://antenasport.top/cbssports.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "bluesport1d",
+        "nombre": "BLUESPORT1D",
         "url": "https://antenasport.top/bluesport1d.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canalsportfr",
+        "nombre": "CANALSPORTFR",
         "url": "https://antenasport.top/canalsportfr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "espn2argentina",
+        "nombre": "ESPN2ARGENTINA",
         "url": "https://antenasport.top/espn2argentina.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport3hr",
+        "nombre": "ARENASPORT3HR",
         "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "digisport3",
+        "nombre": "DIGISPORT3",
         "url": "https://antenasport.top/digisport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ziggosport3",
+        "nombre": "ZIGGOSPORT3",
         "url": "https://antenasport.top/ziggosport3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn2pt",
+        "nombre": "DAZN2PT",
         "url": "https://antenasport.top/dazn2pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena2premiumserbia",
+        "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5189,59 +5189,59 @@
     "pais": "Francia",
     "canales": [
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt1",
+        "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn2de",
+        "nombre": "DAZN2DE",
         "url": "https://antenasport.top/dazn2de.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "canalfootfr",
+        "nombre": "CANALFOOTFR",
         "url": "https://antenasport.top/canalfootfr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "movistarcampeones2",
+        "nombre": "MOVISTARCAMPEONES2",
         "url": "https://antenasport.top/movistarcampeones2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arena3premiumserbia",
+        "nombre": "ARENA3PREMIUMSERBIA",
         "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "cosmote3",
+        "nombre": "COSMOTE3",
         "url": "https://antenasport.top/cosmote3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "arenasport4hr",
+        "nombre": "ARENASPORT4HR",
         "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ziggosport2",
+        "nombre": "ZIGGOSPORT2",
         "url": "https://antenasport.top/ziggosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "dazn1pt",
+        "nombre": "DAZN1PT",
         "url": "https://antenasport.top/dazn1pt.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "digisport2",
+        "nombre": "DIGISPORT2",
         "url": "https://antenasport.top/digisport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5256,9 +5256,9 @@
     "pais": "España",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -5273,9 +5273,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5290,14 +5290,14 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "okkofutbol",
+        "nombre": "OKKOFUTBOL",
         "url": "https://antenasport.top/okkofutbol.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5312,19 +5312,19 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "cosmote1",
+        "nombre": "COSMOTE1",
         "url": "https://antenasport.top/cosmote1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "skyaustria1",
+        "nombre": "SKYAUSTRIA1",
         "url": "https://antenasport.top/skyaustria1.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5339,14 +5339,14 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "okkofutbol",
+        "nombre": "OKKOFUTBOL",
         "url": "https://antenasport.top/okkofutbol.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5383,9 +5383,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -5400,9 +5400,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -5417,9 +5417,9 @@
     "pais": "",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5434,74 +5434,74 @@
     "pais": "Italia",
     "canales": [
       {
-        "nombre": "eurosport1uk",
+        "nombre": "EUROSPORT1UK",
         "url": "https://antenasport.top/eurosport1uk.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky2nz",
+        "nombre": "SKY2NZ",
         "url": "https://antenasport.top/sky2nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky3nz",
+        "nombre": "SKY3NZ",
         "url": "https://antenasport.top/sky3nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky4nz",
+        "nombre": "SKY4NZ",
         "url": "https://antenasport.top/sky4nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky5nz",
+        "nombre": "SKY5NZ",
         "url": "https://antenasport.top/sky5nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky6nz",
+        "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "sky7nz",
+        "nombre": "SKY7NZ",
         "url": "https://antenasport.top/sky7nz.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "suspilnetv",
+        "nombre": "SUSPILNETV",
         "url": "https://antenasport.top/suspilnetv.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport",
+        "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "okkosport2",
+        "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ctsport",
+        "nombre": "CTSPORT",
         "url": "https://antenasport.top/ctsport.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt2",
+        "nombre": "MAXTNT2",
         "url": "https://antenasport.top/maxtnt2.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt3",
+        "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "maxtnt4",
+        "nombre": "MAXTNT4",
         "url": "https://antenasport.top/maxtnt4.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5527,9 +5527,9 @@
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5643,9 +5643,9 @@
     "pais": "Alemania",
     "canales": [
       {
-        "nombre": "tudnusa",
+        "nombre": "TUDNUSA",
         "url": "https://antenasport.top/tudnusa.php",
-        "calidad": ""
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
