@@ -58827,6 +58827,18 @@
         "quality": "CAM",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/mAdEsGbbtUFh"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/emtp88ywydzd"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/bi1e8qsh1anf"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg",
@@ -64802,6 +64814,18 @@
         "quality": "CAM",
         "language": "LATINO",
         "embed_url": "https://voe.sx/e/l21oeeh9p50j"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/knzkn5xkarlm"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/77dvdso1xdx3"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/v12qqT8GrLjdGj4mnp4iMik7kvx.jpg",
@@ -65101,6 +65125,24 @@
         "quality": "CAM",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/48ILnyJIA9uM"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://player.poseidonhd2.co/player.php?h=Nt6DnBaJ_hOcjWbELk7u0LS5cMvfkDXwwKaEhgJMjQmlfF74YJ8agfV4Yneu6Tml"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://player.poseidonhd2.co/player.php?h=fXuMjvaiA4iZ_F_4aa6TH5Ek0txtb76sloazeUBQoyg-"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://player.poseidonhd2.co/player.php?h=eH0zYI4_M43LKCz95JRQwj6UeTOZ_mUvnqBsISWoAuU-"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg",
@@ -66804,6 +66846,12 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://voe.sx/e/edhw35t2nfad"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/qidfwihrytld"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/jctiZ1I2p4b6mceR85QxYhgs4Ft.jpg",
@@ -66961,5 +67009,471 @@
     ],
     "overview": "Jack ventures to remote New Zealand for the funeral of his estranged mother and meets her widow Jill. But his mother's spirit returns to inhabit each of their bodies, instigating a life-threatening three-way nocturnal dance.",
     "rating": 7.5
+  },
+  {
+    "tmdb_id": 1119203,
+    "title": "Después de nosotros: el diluvio",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/isls60fkdnre"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/emhoihx03zi3"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/xf0y7yusyrw4"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/y4o5jtrahy8f"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/nD8H2D2ZNYD6"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/ev11485fefac"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/59n5zyx0wjo7"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/tdxqgx5zclq6"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/izpxwwuxkibi"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/S0xjeCKEKcDd"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/h3MiMpSKeAR6NIwfi3fO0FXOGAG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/zeov6eQWlgCoTzX2WuP0PYMOEoV.jpg",
+    "genres_spanish": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "overview": "En 2064, un físico es enviado al pasado con la misión de evitar una catástrofe climática causada por su reactor nuclear. Pero el viaje en el tiempo no sale según lo previsto, poniendo en peligro el futuro del planeta.",
+    "rating": 4
+  },
+  {
+    "tmdb_id": 1148745,
+    "title": "Casi una novia",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/4k6n75i0zdyg"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/fuzp6a0um02u"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/srimrdlh37zg"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/vqubkwxgjn6k"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/gNLoHIT7YWt4"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/fBuisQPfbtTHpwcI4CGYQCB7SnG.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/mKHBo5UCdVmHjlPYENsbHoarNUH.jpg",
+    "genres_spanish": [
+      "Romance",
+      "Comedia",
+      "Historia"
+    ],
+    "overview": "Marika es una joven y hermosa chica, su familia dirige una tienda de telas llamada Pavo Real Blanco. Su vida se pone patas arriba cuando el tren y la promesa del mundo moderno llegan a su pequeño pueblo. Sin embargo, no solo llega el tren a la vida de la chica, sino también dos hombres: el racional y astuto Jenő Toll y el inteligente y soñador Barón Pankotay. En Marika, los dos hombres, los sentimientos nuevos y extraños y la presión familiar rompen el equilibrio habitual. Marika debe tomar una decisión cuando el mundo moderno amenaza tanto la seguridad como el sustento de su familia. Su decisión sorprende a todos.",
+    "rating": 0
+  },
+  {
+    "tmdb_id": 1001736,
+    "title": "Conoce a los Bárbaros",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/x1glwz7nsqtf"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/2ljf33o2o2m6"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/23txfxh8om3i"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/bcjaarx677y2"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/l4Wp5id34y1Z"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/xGacUz5IkYrRtp6MEiiy3hKOte.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/pfslsIEGkNNkm88N4O0z8cNUH8a.jpg",
+    "genres_spanish": [
+      "Comedia",
+      "Drama"
+    ],
+    "overview": "Los habitantes de un pueblecito de la Bretaña francesa se preparan con alegría para recibir a una familia de refugiados ucranianos. Sin embargo, las personas que ven aparecer allí son de nacionalidad siria.",
+    "rating": 6.2
+  },
+  {
+    "tmdb_id": 1154154,
+    "title": "Amor en la gran ciudad",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/lxsarzg9tui7"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/14b4poxdiw6k"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/glyrve1k30bg"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ktlmg3ixxjzo"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/777QWQdgTHB7"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/30s2ck3h2n5w"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/hqzfxjrjdq43"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/fh3aekrdxjnd"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/5eh114ddsy5q"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/ZvLZYqYGutpf"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/yik0hh8UDnZeAQRBN0LjUnwRvVz.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/rFLxECXOOvC4BmxdCdf4WCq4AyZ.jpg",
+    "genres_spanish": [
+      "Romance",
+      "Drama"
+    ],
+    "overview": "Jae-hee y Heung-soo desafían los prejuicios y viven una historia de amor/autodescubrimiento.",
+    "rating": 8
+  },
+  {
+    "tmdb_id": 1426964,
+    "title": "Aviso general: Hermandad",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/8faxne5uw82q"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/4fb5kho49wp0"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/xdyCFS4jUzp7kghoptaiYqir48X.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Suspenso",
+      "Crimen",
+      "Drama"
+    ],
+    "overview": "Mientras una ola de violencia golpea São Paulo, una abogada con nexos peligrosos debe negociar con la policía para rescatar a su sobrina secuestrada.",
+    "rating": 3.79
+  },
+  {
+    "tmdb_id": 1153470,
+    "title": "W nich cała nadzieja",
+    "year": "2023",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/xjbztlbd3i5o"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/4ap0icfq14vc"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/vqkux5ue43xr"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ioh6lj6o4dvw"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/A14FFKkNn9fU"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/cx231e32boox"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/xn6trcxhu2jb"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/1i52396qduoc"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/snhxv9clffoe"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/pW3o09Idi8Yw"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/2WT6g80atTgChMS6OyBJKGpe8gE.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/tzbYCxJ8hgCXStHihwNGWe1Fdpr.jpg",
+    "genres_spanish": [
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "overview": "Tras una Gran Guerra Climática, solo ha sobrevivido una humana. Su compañero es un fiel robot llamado Arthur, pero a la hora de la verdad la lucha por la supervivencia es inevitable. ¿Quién prevalecerá?",
+    "rating": 5.7
+  },
+  {
+    "tmdb_id": 1560664,
+    "title": "The Roughneck",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/0et11aokwmrv"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/wve5n7oudsif"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/mvp32s03gwuj"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/nariko5chwal"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/uMCqNo0TkNye"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/4y01tnpt28q8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/ohv7m7knczok"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/htfh8cezmg39"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/dyxgc5vefkdg"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/gfDxGZb90WkO"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/bRPI3ZLSPJehbnb1OCpWBVBBx0c.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/y6FIMlDgOMSyyfztaF7EfaxlN8a.jpg",
+    "genres_spanish": [
+      "Suspenso",
+      "Acción",
+      "Drama"
+    ],
+    "overview": "An oil worker and his dog embark on a journey to his wedding, but after a violent attack at a rest stop, he teams with his ex-convict father to seek revenge, uncovering dark secrets in their rural community.",
+    "rating": 7
+  },
+  {
+    "tmdb_id": 1254754,
+    "title": "¿Quién quiere casarse con un astronauta?",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/jomp58aqwc1c"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/9ipbxind9x5h"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/4yybftjz63gx"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/pbey1ocyuuay"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/J1KcuoUtQs61"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8kyqyI6mQmIVdLPRvIaFskVIcQW.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/q2tUReeNgsYTs7tIJ98I4450QeM.jpg",
+    "genres_spanish": [
+      "Comedia",
+      "Romance"
+    ],
+    "overview": "David es un romántico empedernido que tiene una agencia de viajes especializada en viajes relacionados con comedias románticas. Su relación de 15 años con Quique está estancada. Entonces, David decide darle a Quique un viaje por la Ruta 66 con una parada especial en Las Vegas.",
+    "rating": 6.4
   }
 ]
