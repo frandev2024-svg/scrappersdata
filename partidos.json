@@ -1,789 +1,5 @@
 [
   {
-    "hora_utc": "2026-02-14T10:15:00Z",
-    "hora_argentina": "2026-02-14 07:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
-    "liga": "Super League Greece",
-    "equipos": "Septemvri Sofia vs Montana",
-    "deporte": "Fútbol",
-    "pais": "Grecia",
-    "canales": [
-      {
-        "nombre": "DIEMASPORT",
-        "url": "https://antenasport.top/diemasport.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T10:20:00Z",
-    "hora_argentina": "2026-02-14 07:20",
-    "logo": "",
-    "liga": "Freestyle. Moguls. Women. Quarterfinals",
-    "equipos": "Freestyle. Moguls. Women. Quarterfinals",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T10:35:00Z",
-    "hora_argentina": "2026-02-14 07:35",
-    "logo": "",
-    "liga": "Freestyle. Moguls. Women. Semifinals",
-    "equipos": "Freestyle. Moguls. Women. Semifinals",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T10:45:00Z",
-    "hora_argentina": "2026-02-14 07:45",
-    "logo": "",
-    "liga": "Bronze medal. Freestyle. Moguls. Women. Small final",
-    "equipos": "Bronze medal. Freestyle. Moguls. Women. Small final",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T10:47:00Z",
-    "hora_argentina": "2026-02-14 07:47",
-    "logo": "",
-    "liga": "Gold medal. Freestyle. Moguls. Women. Big final",
-    "equipos": "Gold medal. Freestyle. Moguls. Women. Big final",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "VIPSPORT1",
-        "url": "https://antenasport.top/vipsport1.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T11:00:00Z",
-    "hora_argentina": "2026-02-14 08:00",
-    "logo": "",
-    "liga": "Gold medal. Alpine skiing. Giant slalom. Men. Run 2",
-    "equipos": "Gold medal. Alpine skiing. Giant slalom. Men. Run 2",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "VIPSPORT1",
-        "url": "https://antenasport.top/vipsport1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "VIPSPORT4",
-        "url": "https://antenasport.top/vipsport4.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "VIPSPORT5",
-        "url": "https://antenasport.top/vipsport5.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T11:10:00Z",
-    "hora_argentina": "2026-02-14 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Hielo Juegos Olímpicos",
-    "equipos": "Sweden vs Slovakia",
-    "deporte": "Hockey",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "nombre": "VIPSPORT2",
-        "url": "https://antenasport.top/vipsport2.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT2",
-        "url": "https://antenasport.top/okkosport2.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY9NZ",
-        "url": "https://antenasport.top/sky9nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 8",
-        "url": "https://antenasport.top/8.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T11:10:00Z",
-    "hora_argentina": "2026-02-14 08:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Hielo Juegos Olímpicos",
-    "equipos": "Germany vs Latvia",
-    "deporte": "Hockey",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "nombre": "VIPSPORT3",
-        "url": "https://antenasport.top/vipsport3.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "TSN1",
-        "url": "https://antenasport.top/tsn1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "TSN4",
-        "url": "https://antenasport.top/tsn4.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY1NZ",
-        "url": "https://antenasport.top/sky1nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 17",
-        "url": "https://antenasport.top/17.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 33",
-        "url": "https://antenasport.top/33.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T11:30:00Z",
-    "hora_argentina": "2026-02-14 08:30",
-    "logo": "https://bestleague.world/jr/123.png",
-    "liga": "Super Lig",
-    "equipos": "Genclerbirligi - Rizespor",
-    "deporte": "Fútbol",
-    "pais": "Turquía",
-    "canales": [
-      {
-        "nombre": "TR BEIN SPORT 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/152",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "TR BEIN SPORT 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/152",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "TR BEIN SPORT 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/152",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 60",
-        "url": "https://miatvhd.xyz/reproductor/canal60.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "Bundesliga 2",
-    "equipos": "bundesliga 2 konferenz -",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "DE BUNDLIGA2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/112",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/112",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA2 (CAST)",
-        "url": "https://bolaloca.my/player/3/112",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "Bundesliga 2",
-    "equipos": "Braunschweig - Darmstadt",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "DE BUNDLIGA5 (WIGI)",
-        "url": "https://bolaloca.my/player/1/115",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA5 (HOCA)",
-        "url": "https://bolaloca.my/player/2/115",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA5 (CAST)",
-        "url": "https://bolaloca.my/player/3/115",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 15",
-        "url": "https://miatvhd.xyz/reproductor/canal15.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "Bundesliga 2",
-    "equipos": "Hertha Berlin - Hannover",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "BEIN MAX 8 (WIGI)",
-        "url": "https://bolaloca.my/player/1/8",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 8 (HOCA)",
-        "url": "https://bolaloca.my/player/2/8",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 8 (CAST)",
-        "url": "https://bolaloca.my/player/3/8",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOXSPORT1 ARG (WIGI)",
-        "url": "https://bolaloca.my/player/1/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOXSPORT1 ARG (HOCA)",
-        "url": "https://bolaloca.my/player/2/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOXSPORT1 ARG (CAST)",
-        "url": "https://bolaloca.my/player/3/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA3 (WIGI)",
-        "url": "https://bolaloca.my/player/1/113",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA3 (HOCA)",
-        "url": "https://bolaloca.my/player/2/113",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA3 (CAST)",
-        "url": "https://bolaloca.my/player/3/113",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Kaiserslautern - Greuther Furth",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "DE BUNDLIGA4 (WIGI)",
-        "url": "https://bolaloca.my/player/1/114",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA4 (HOCA)",
-        "url": "https://bolaloca.my/player/2/114",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE BUNDLIGA4 (CAST)",
-        "url": "https://bolaloca.my/player/3/114",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 14",
-        "url": "https://miatvhd.xyz/reproductor/canal14.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/rugby.png",
-    "liga": "Rugby",
-    "equipos": "Germany vs Portugal",
-    "deporte": "Rugby",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "PRO7",
-        "url": "https://antenasport.top/pro7.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 16",
-        "url": "https://antenasport.top/16.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/de.png",
-    "liga": "Hertha BSC vs Hannover",
-    "equipos": "Hertha BSC vs Hannover",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "CANAL 16",
-        "url": "https://miatvhd.xyz/reproductor/canal16.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "Bundesliga 2",
-    "equipos": "Hertha BSC vs. Hannover 96 13:00",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRz",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=fox1ar",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/foxsp1arg.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://rereyano.ru/player/3/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://nebunexa.life/tok.html?get=Rm94U3BvcnRz",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/3/3a/05_NHL_Shield.svg/1280px-05_NHL_Shield.svg.png",
-    "liga": "Premier Padel",
-    "equipos": "Riyadh - Centre Court (Finales) 13:00",
-    "deporte": "Fútbol",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN 4 CALIDAD 720P",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTkhE",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 4 CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=espn4",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 4 CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/espn4col.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 4 CALIDAD 720P",
-        "url": "https://elcanaldeportivo.com/espn4.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 4 CALIDAD 720P",
-        "url": "https://rereyano.ru/player/3/90",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 4 CALIDAD 720P",
-        "url": "https://nebunexa.life/tok.html?get=RVNQTkhE",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Eintracht Braunschweig vs Darmstadt 98",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:00:00Z",
-    "hora_argentina": "2026-02-14 09:00",
-    "logo": "https://bestleague.world/jr/96.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Hertha BSC vs Hannover 96",
-    "deporte": "Fútbol",
-    "pais": "Alemania",
-    "canales": [
-      {
-        "nombre": "FOX SPORTS",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:15:00Z",
-    "hora_argentina": "2026-02-14 09:15",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Premier League",
-    "equipos": "Burton Albion vs West Ham United",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=max1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOOT1",
-        "url": "https://antenasport.top/foot1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 18",
-        "url": "https://antenasport.top/18.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 38",
-        "url": "https://antenasport.top/38.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MAXTNT1",
-        "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SETANTAUKRAINE",
-        "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPNBRAZIL",
-        "url": "https://antenasport.top/espnbrazil.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DAZN2DE",
-        "url": "https://antenasport.top/dazn2de.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENASPORT1HR",
-        "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENA4PREMIUMSERBIA",
-        "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENA1PREMIUMBOSNIA",
-        "url": "https://antenasport.top/arena1premiumbosnia.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even9",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:15:00Z",
-    "hora_argentina": "2026-02-14 09:15",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Premier League",
-    "equipos": "Burton - West Ham",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "BEIN MAX 10 (WIGI)",
-        "url": "https://bolaloca.my/player/1/10",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 10 (HOCA)",
-        "url": "https://bolaloca.my/player/2/10",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 10 (CAST)",
-        "url": "https://bolaloca.my/player/3/10",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK TNT SPORT (WIGI)",
-        "url": "https://bolaloca.my/player/1/126",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK TNT SPORT (HOCA)",
-        "url": "https://bolaloca.my/player/2/126",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK TNT SPORT (CAST)",
-        "url": "https://bolaloca.my/player/3/126",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK EPL 3PM (WIGI)",
-        "url": "https://bolaloca.my/player/1/129",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK EPL 3PM (HOCA)",
-        "url": "https://bolaloca.my/player/2/129",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK EPL 3PM (CAST)",
-        "url": "https://bolaloca.my/player/3/129",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/124",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/124",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/124",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/145",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/145",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/145",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/148",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/148",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/148",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 128",
-        "url": "https://miatvhd.xyz/reproductor/canal128.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:15:00Z",
-    "hora_argentina": "2026-02-14 09:15",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Fa Cup",
-    "equipos": "Burton Albion vs. West Ham United 13:15",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "TNT 1 UK CALIDAD 720P",
-        "url": "https://dlhd.link/stream/stream-31.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:30:00Z",
-    "hora_argentina": "2026-02-14 09:30",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Football",
-    "equipos": "FA Cup Goals Show Simulcast",
-    "deporte": "Fútbol",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "FACUP",
-        "url": "https://antenasport.top/facup.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:30:00Z",
-    "hora_argentina": "2026-02-14 09:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png",
-    "liga": "Championship",
-    "equipos": "Oxford United vs Norwich City",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "SPORT2IL",
-        "url": "https://antenasport.top/sport2il.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:30:00Z",
-    "hora_argentina": "2026-02-14 09:30",
-    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/ro.png",
-    "liga": "Metaloglobus Bucharest vs Otelul",
-    "equipos": "Metaloglobus Bucharest vs Otelul",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "CANAL 97",
-        "url": "https://miatvhd.xyz/reproductor/canal97.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T12:45:00Z",
-    "hora_argentina": "2026-02-14 09:45",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
-    "liga": "Super League Greece",
-    "equipos": "CSKA 1948 vs CSKA Sofia",
-    "deporte": "Fútbol",
-    "pais": "Grecia",
-    "canales": [
-      {
-        "nombre": "DIEMASPORT",
-        "url": "https://antenasport.top/diemasport.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-14T13:00:00Z",
     "hora_argentina": "2026-02-14 10:00",
     "logo": "https://elcanaldeportivo.com/img/es.png",
@@ -881,41 +97,6 @@
         "nombre": "CANAL 64",
         "url": "https://miatvhd.xyz/reproductor/canal64.html",
         "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -924,7 +105,7 @@
     "hora_utc": "2026-02-14T13:00:00Z",
     "hora_argentina": "2026-02-14 10:00",
     "logo": "https://bestleague.world/jr/34.png",
-    "liga": "Laliga Smartbank",
+    "liga": "La Liga",
     "equipos": "Córdoba vs Leganés",
     "deporte": "Fútbol",
     "pais": "España",
@@ -932,21 +113,6 @@
       {
         "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=hyper1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES LALIGA HYPERMOTION (WIGI)",
-        "url": "https://bolaloca.my/player/1/53",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES LALIGA HYPERMOTION (HOCA)",
-        "url": "https://bolaloca.my/player/2/53",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES LALIGA HYPERMOTION (CAST)",
-        "url": "https://bolaloca.my/player/3/53",
         "calidad": "HD/FULLHD"
       },
       {
@@ -963,16 +129,6 @@
         "nombre": "CANAL 80",
         "url": "https://miatvhd.xyz/reproductor/canal80.html",
         "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "LALIGA TV HYPERMOTION",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6",
-        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -980,163 +136,10 @@
   {
     "hora_utc": "2026-02-14T13:00:00Z",
     "hora_argentina": "2026-02-14 10:00",
-    "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/3/3a/05_NHL_Shield.svg/1280px-05_NHL_Shield.svg.png",
-    "liga": "Caf Ligue Des Champions",
-    "equipos": "Mamelodi Sundowns",
-    "deporte": "Fútbol",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "EXTRA SPORT11 (WIGI)",
-        "url": "https://bolaloca.my/player/1/165",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "EXTRA SPORT11 (HOCA)",
-        "url": "https://bolaloca.my/player/2/165",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "EXTRA SPORT11 (CAST)",
-        "url": "https://bolaloca.my/player/3/165",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T13:00:00Z",
-    "hora_argentina": "2026-02-14 10:00",
-    "logo": "https://bestleague.world/jr/34.png",
-    "liga": "Laliga",
-    "equipos": "Espanyol - Celta Vigo",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "BEIN MAX 9 (WIGI)",
-        "url": "https://bolaloca.my/player/1/9",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 9 (HOCA)",
-        "url": "https://bolaloca.my/player/2/9",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 9 (CAST)",
-        "url": "https://bolaloca.my/player/3/9",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES M.LALIGA (WIGI)",
-        "url": "https://bolaloca.my/player/1/49",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES M.LALIGA (HOCA)",
-        "url": "https://bolaloca.my/player/2/49",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES M.LALIGA (CAST)",
-        "url": "https://bolaloca.my/player/3/49",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES (WIGI)",
-        "url": "https://bolaloca.my/player/1/71",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES (HOCA)",
-        "url": "https://bolaloca.my/player/2/71",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES (CAST)",
-        "url": "https://bolaloca.my/player/3/71",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/88",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/88",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2 (CAST)",
-        "url": "https://bolaloca.my/player/3/88",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T13:00:00Z",
-    "hora_argentina": "2026-02-14 10:00",
-    "logo": "https://elcanaldeportivo.com/img/fr.png",
-    "liga": "Ligue 2",
-    "equipos": "Grenoble - Reims",
-    "deporte": "Fútbol",
-    "pais": "Francia",
-    "canales": [
-      {
-        "nombre": "BEIN 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/2",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T13:00:00Z",
-    "hora_argentina": "2026-02-14 10:00",
-    "logo": "https://elcanaldeportivo.com/img/fr.png",
-    "liga": "Ligue 2",
-    "equipos": "Montpellier - Le Mans",
-    "deporte": "Fútbol",
-    "pais": "Francia",
-    "canales": [
-      {
-        "nombre": "BEIN 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/1",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T13:00:00Z",
-    "hora_argentina": "2026-02-14 10:00",
-    "logo": "",
-    "liga": "Biathlon. Sprint. 7,5 km. Women",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Biathlon. Sprint. 7,5 km. Women",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -1150,10 +153,10 @@
   {
     "hora_utc": "2026-02-14T13:00:00Z",
     "hora_argentina": "2026-02-14 10:00",
-    "logo": "",
-    "liga": "Gold medal. Biathlon. Sprint. 7.5 km. Women",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Gold medal. Biathlon. Sprint. 7.5 km. Women",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -1236,10 +239,10 @@
   {
     "hora_utc": "2026-02-14T13:05:00Z",
     "hora_argentina": "2026-02-14 10:05",
-    "logo": "",
-    "liga": "Curling. Men. Czech Republic vs Great Britain. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Men. Czech Republic vs Great Britain. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -1247,10 +250,10 @@
   {
     "hora_utc": "2026-02-14T13:05:00Z",
     "hora_argentina": "2026-02-14 10:05",
-    "logo": "",
-    "liga": "Curling. Men. Sweden vs China. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Men. Sweden vs China. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -1258,10 +261,10 @@
   {
     "hora_utc": "2026-02-14T13:05:00Z",
     "hora_argentina": "2026-02-14 10:05",
-    "logo": "",
-    "liga": "Curling. Men. Switzerland vs Canada. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Men. Switzerland vs Canada. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -1269,39 +272,12 @@
   {
     "hora_utc": "2026-02-14T13:05:00Z",
     "hora_argentina": "2026-02-14 10:05",
-    "logo": "",
-    "liga": "Curling. Men. Germany vs USA. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Men. Germany vs USA. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T13:30:00Z",
-    "hora_argentina": "2026-02-14 10:30",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/rugby.png",
-    "liga": "Top 14",
-    "equipos": "Bordeaux Begles - Castres Olympique",
-    "deporte": "Rugby",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "CANAL+ (WIGI)",
-        "url": "https://bolaloca.my/player/1/11",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL+ (HOCA)",
-        "url": "https://bolaloca.my/player/2/11",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL+ (CAST)",
-        "url": "https://bolaloca.my/player/3/11",
-        "calidad": "HD/FULLHD"
-      }
-    ],
     "date_offset": 0
   },
   {
@@ -2591,42 +1567,30 @@
         "nombre": "ESPN 2 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
         "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-14T15:00:00Z",
-    "hora_argentina": "2026-02-14 12:00",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Championship",
-    "equipos": "Port Vale vs Bristol City",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney10",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=foxone1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 31",
-        "url": "https://antenasport.top/31.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPNPLUS3",
-        "url": "https://antenasport.top/espnplus3.php",
-        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN DEPORTES",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN DEPORTES | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN DEPORTES | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TVTVHD",
+        "url": "https://tvtvhd.com/canales.php?stream=max2",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2673,7 +1637,12 @@
       },
       {
         "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney15",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TVTVHD",
+        "url": "https://tvtvhd.com/canales.php?stream=max3",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2715,7 +1684,12 @@
       },
       {
         "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney17",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TVTVHD",
+        "url": "https://tvtvhd.com/canales.php?stream=max4",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2762,7 +1736,7 @@
       },
       {
         "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney16",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2799,7 +1773,7 @@
       },
       {
         "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney18",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2820,8 +1794,13 @@
         "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TVTVHD",
-        "url": "https://tvtvhd.com/canales.php?stream=max1",
+        "nombre": "TNT SPORTS PREMIUN CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TNT SPORTS PREMIUM CHILE",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even8",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -3135,10 +2114,10 @@
   {
     "hora_utc": "2026-02-14T15:00:00Z",
     "hora_argentina": "2026-02-14 12:00",
-    "logo": "",
-    "liga": "Speed skating. Women. Team pursuit. Quarterfinals",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Speed skating. Women. Team pursuit. Quarterfinals",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -3222,6 +2201,33 @@
       {
         "nombre": "ANTENASPORT SERVIDOR 37",
         "url": "https://antenasport.top/37.php",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T15:00:00Z",
+    "hora_argentina": "2026-02-14 12:00",
+    "logo": "https://bestleague.world/jr/61.png",
+    "liga": "Championship",
+    "equipos": "Port Vale vs Bristol City",
+    "deporte": "Fútbol",
+    "pais": "Inglaterra",
+    "canales": [
+      {
+        "nombre": "ANTENASPORT SERVIDOR 31",
+        "url": "https://antenasport.top/31.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPNPLUS3",
+        "url": "https://antenasport.top/espnplus3.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney14",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -3553,18 +2559,13 @@
         "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN DEPORTES",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "nombre": "ESPN+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus3",
         "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ESPN DEPORTES | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "nombre": "ESPN+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus4",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -3873,6 +2874,23 @@
     "hora_utc": "2026-02-14T15:30:00Z",
     "hora_argentina": "2026-02-14 12:30",
     "logo": "",
+    "liga": "Tennis Semifinal",
+    "equipos": "Tennis Semifinal",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even10",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-14T15:30:00Z",
+    "hora_argentina": "2026-02-14 12:30",
+    "logo": "",
     "liga": "Eerste Divisie",
     "equipos": "Vitesse vs VVV",
     "deporte": "Deportes",
@@ -4096,6 +3114,11 @@
         "nombre": "BEIN SPORTS ESPAÑOL",
         "url": "https://tvtvhd.com/canales.php?stream=beinsportes",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney19",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4187,10 +3210,10 @@
   {
     "hora_utc": "2026-02-14T16:00:00Z",
     "hora_argentina": "2026-02-14 13:00",
-    "logo": "",
-    "liga": "Gold medal. Speed skating. Men. 500 m",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Gold medal. Speed skating. Men. 500 m",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -4393,10 +3416,10 @@
   {
     "hora_utc": "2026-02-14T16:30:00Z",
     "hora_argentina": "2026-02-14 13:30",
-    "logo": "",
-    "liga": "Ski jumping. Men. Large hill. Qualifying round",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Ski jumping. Men. Large hill. Qualifying round",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -4579,6 +3602,11 @@
         "calidad": "HD/FULLHD"
       },
       {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney20",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "FOX DEPORTES",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
         "calidad": "HD/FULLHD"
@@ -4674,6 +3702,11 @@
         "nombre": "FOX SPORTS 3",
         "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -4708,10 +3741,10 @@
   {
     "hora_utc": "2026-02-14T17:00:00Z",
     "hora_argentina": "2026-02-14 14:00",
-    "logo": "",
-    "liga": "Skeleton. Women. Run 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Skeleton. Women. Run 3",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -5049,6 +4082,16 @@
         "calidad": "HD/FULLHD"
       },
       {
+        "nombre": "ESPN+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "ESPN DEPORTES",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
         "calidad": "HD/FULLHD"
@@ -5191,6 +4234,11 @@
         "nombre": "ESPN 2 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5226,7 +4274,7 @@
       },
       {
         "nombre": "SPORTV BR",
-        "url": "https://tvtvhd.com/canales.php?stream=even5",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -5745,6 +4793,11 @@
         "nombre": "ESPN AR┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5771,6 +4824,11 @@
       {
         "nombre": "ESPN 4 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn4mx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
         "calidad": "HD/FULLHD"
       },
       {
@@ -5831,10 +4889,10 @@
   {
     "hora_utc": "2026-02-14T17:45:00Z",
     "hora_argentina": "2026-02-14 14:45",
-    "logo": "",
-    "liga": "Ski jumping. Men. Large hill. Round 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Ski jumping. Men. Large hill. Round 1",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -6049,6 +5107,11 @@
         "nombre": "BEIN SPORTS ESPAÑOL",
         "url": "https://tvtvhd.com/canales.php?stream=beinsportes",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -6260,10 +5323,10 @@
   {
     "hora_utc": "2026-02-14T18:05:00Z",
     "hora_argentina": "2026-02-14 15:05",
-    "logo": "",
-    "liga": "Curling. Women. Canada vs Switzerland. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Women. Canada vs Switzerland. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -6271,10 +5334,10 @@
   {
     "hora_utc": "2026-02-14T18:05:00Z",
     "hora_argentina": "2026-02-14 15:05",
-    "logo": "",
-    "liga": "Curling. Women. Japan vs USA. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Women. Japan vs USA. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -6282,10 +5345,10 @@
   {
     "hora_utc": "2026-02-14T18:05:00Z",
     "hora_argentina": "2026-02-14 15:05",
-    "logo": "",
-    "liga": "Curling. Women. South Korea vs Denmark. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Women. South Korea vs Denmark. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -6293,10 +5356,10 @@
   {
     "hora_utc": "2026-02-14T18:05:00Z",
     "hora_argentina": "2026-02-14 15:05",
-    "logo": "",
-    "liga": "Curling. Women. Italy vs Sweden. Group stage",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Curling. Women. Italy vs Sweden. Group stage",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -6304,10 +5367,10 @@
   {
     "hora_utc": "2026-02-14T18:30:00Z",
     "hora_argentina": "2026-02-14 15:30",
-    "logo": "",
-    "liga": "Freestyle. Big air. Women. Qualifying. Attempt 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Freestyle. Big air. Women. Qualifying. Attempt 1",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -6326,10 +5389,10 @@
   {
     "hora_utc": "2026-02-14T18:44:00Z",
     "hora_argentina": "2026-02-14 15:44",
-    "logo": "",
-    "liga": "Gold medal. Skeleton. Women. Run 4",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Gold medal. Skeleton. Women. Run 4",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -6377,6 +5440,11 @@
       {
         "nombre": "ESPN 2 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6",
         "calidad": "HD/FULLHD"
       },
       {
@@ -6688,10 +5756,10 @@
   {
     "hora_utc": "2026-02-14T19:05:00Z",
     "hora_argentina": "2026-02-14 16:05",
-    "logo": "",
-    "liga": "Gold medal. Speed skating. Men. Large hill. Round 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Gold medal. Speed skating. Men. Large hill. Round 2",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -6715,10 +5783,10 @@
   {
     "hora_utc": "2026-02-14T19:15:00Z",
     "hora_argentina": "2026-02-14 16:15",
-    "logo": "",
-    "liga": "Freestyle. Big air. Women. Qualifying. Attempt 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Freestyle. Big air. Women. Qualifying. Attempt 2",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -6737,10 +5805,10 @@
   {
     "hora_utc": "2026-02-14T19:15:00Z",
     "hora_argentina": "2026-02-14 16:15",
-    "logo": "",
-    "liga": "Short track. Men. 1500 m. Quarterfinals",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Short track. Men. 1500 m. Quarterfinals",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -7127,10 +6195,10 @@
   {
     "hora_utc": "2026-02-14T19:59:00Z",
     "hora_argentina": "2026-02-14 16:59",
-    "logo": "https://png.pngtree.com/png-vector/20250708/ourmid/pngtree-orange-basketball-png-image_16721120.webp",
-    "liga": "Short track. Women. 1000 m. Preliminary heats",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Short track. Women. 1000 m. Preliminary heats",
-    "deporte": "Basketball",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -7774,10 +6842,10 @@
   {
     "hora_utc": "2026-02-14T20:00:00Z",
     "hora_argentina": "2026-02-14 17:00",
-    "logo": "",
-    "liga": "Freestyle. Big air Women. Qualifying. Attempt 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Freestyle. Big air Women. Qualifying. Attempt 3",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -7882,6 +6950,16 @@
         "calidad": "HD/FULLHD"
       },
       {
+        "nombre": "ESPN+ CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=espnplus3",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN+ (ENGLISH) CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=espnplus4",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "ESPN DEPORTES CALIDAD 720P",
         "url": "https://streamtp10.com/global1.php?stream=espndeportes",
         "calidad": "HD/FULLHD"
@@ -7912,7 +6990,13 @@
     "equipos": "Liverpool vs. Brighton & Hove Albion 21:00",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
-    "canales": [],
+    "canales": [
+      {
+        "nombre": "DISNEY+ CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=disney5",
+        "calidad": "HD/FULLHD"
+      }
+    ],
     "date_offset": 0
   },
   {
@@ -7923,7 +7007,13 @@
     "equipos": "Deportivo Maldonado vs Progreso 21:00",
     "deporte": "Deportes",
     "pais": "",
-    "canales": [],
+    "canales": [
+      {
+        "nombre": "DISNEY+ CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=disney6",
+        "calidad": "HD/FULLHD"
+      }
+    ],
     "date_offset": 0
   },
   {
@@ -8107,7 +7197,13 @@
     "equipos": "Paris vs. Lens 21:05",
     "deporte": "Fútbol",
     "pais": "Francia",
-    "canales": [],
+    "canales": [
+      {
+        "nombre": "DISNEY+ CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=disney7",
+        "calidad": "HD/FULLHD"
+      }
+    ],
     "date_offset": 0
   },
   {
@@ -8436,10 +7532,10 @@
   {
     "hora_utc": "2026-02-14T20:44:00Z",
     "hora_argentina": "2026-02-14 17:44",
-    "logo": "",
-    "liga": "Short track. Men. 1500 m. Semifinals",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Short track. Men. 1500 m. Semifinals",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -8499,6 +7595,16 @@
         "nombre": "TVTVHD",
         "url": "https://tvtvhd.com/canales.php?stream=max1",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TNT SPORTS PREMIUN CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TNT SPORTS PREMIUM CHILE",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even8",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -8506,10 +7612,10 @@
   {
     "hora_utc": "2026-02-14T21:00:00Z",
     "hora_argentina": "2026-02-14 18:00",
-    "logo": "",
-    "liga": "Short track. Women. Relay. 3000 m. Semifinals",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Short track. Women. Relay. 3000 m. Semifinals",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -8522,7 +7628,13 @@
     "equipos": "Deportes Limache vs. O'Higgins 22:00",
     "deporte": "Deportes",
     "pais": "",
-    "canales": [],
+    "canales": [
+      {
+        "nombre": "MAX CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=max1",
+        "calidad": "HD/FULLHD"
+      }
+    ],
     "date_offset": 0
   },
   {
@@ -8570,10 +7682,10 @@
   {
     "hora_utc": "2026-02-14T21:27:00Z",
     "hora_argentina": "2026-02-14 18:27",
-    "logo": "",
-    "liga": "Short track. Men. 1500 m. Final B",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Short track. Men. 1500 m. Final B",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [],
     "date_offset": 0
@@ -8692,10 +7804,10 @@
   {
     "hora_utc": "2026-02-14T21:34:00Z",
     "hora_argentina": "2026-02-14 18:34",
-    "logo": "",
-    "liga": "Gold medal. Short track. Men. 1500 m. Final A",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
     "equipos": "Gold medal. Short track. Men. 1500 m. Final A",
-    "deporte": "Deportes",
+    "deporte": "Juegos Olímpicos",
     "pais": "",
     "canales": [
       {
@@ -8761,7 +7873,7 @@
     "hora_utc": "2026-02-14T22:00:00Z",
     "hora_argentina": "2026-02-14 19:00",
     "logo": "https://wallpapers.com/images/hd/nba-logo-9y2dq91klhsh65jq.jpg",
-    "liga": "Nba",
+    "liga": "Basketball Nba",
     "equipos": "All-Star Saturday",
     "deporte": "Basketball",
     "pais": "Estados Unidos",
@@ -8774,6 +7886,11 @@
       {
         "nombre": "STREAMX10",
         "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TSN5",
+        "url": "https://antenasport.top/tsn5.php",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -9399,6 +8516,16 @@
       {
         "nombre": "TVTVHD",
         "url": "https://tvtvhd.com/canales.php?stream=max1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TNT SPORTS PREMIUN CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TNT SPORTS PREMIUM CHILE",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even8",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -10226,6 +9353,17 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-15T10:00:00Z",
+    "hora_argentina": "2026-02-15 07:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
+    "equipos": "Alpine Skiing. Olympics. Women's. Giant Slalom. First Run. Live Stream",
+    "deporte": "Juegos Olímpicos",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-15T11:00:00Z",
     "hora_argentina": "2026-02-15 08:00",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/basketball/500/11.png",
@@ -10322,6 +9460,17 @@
         "calidad": "HD/FULLHD"
       }
     ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-15T11:15:00Z",
+    "hora_argentina": "2026-02-15 08:15",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
+    "equipos": "Biathlon. Olympics. Men's. 12.5 km Pursuit. Live Stream",
+    "deporte": "Juegos Olímpicos",
+    "pais": "",
+    "canales": [],
     "date_offset": 0
   },
   {
@@ -10634,6 +9783,17 @@
         "calidad": "HD/FULLHD"
       }
     ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-15T12:00:00Z",
+    "hora_argentina": "2026-02-15 09:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
+    "equipos": "Cross-Country Skiing. Olympics. Men's. 4x7.5 km Relay. Live Stream",
+    "deporte": "Juegos Olímpicos",
+    "pais": "",
+    "canales": [],
     "date_offset": 0
   },
   {
@@ -11823,6 +10983,17 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-15T14:45:00Z",
+    "hora_argentina": "2026-02-15 11:45",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
+    "equipos": "Biathlon. Olympics. Women. 10km Pursuit. Live Stream",
+    "deporte": "Juegos Olímpicos",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-15T15:00:00Z",
     "hora_argentina": "2026-02-15 12:00",
     "logo": "https://bestleague.world/jr/37.png",
@@ -12845,6 +12016,17 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-15T16:40:00Z",
+    "hora_argentina": "2026-02-15 13:40",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
+    "equipos": "Hockey. Olympics. Men. Live Stream: Canada vs. France",
+    "deporte": "Juegos Olímpicos",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-15T17:00:00Z",
     "hora_argentina": "2026-02-15 14:00",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/basketball/500/11.png",
@@ -13537,6 +12719,17 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-15T19:05:00Z",
+    "hora_argentina": "2026-02-15 16:05",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
+    "equipos": "Skeleton. Olympics. Mixed Teams. Live Stream",
+    "deporte": "Juegos Olímpicos",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-15T19:10:00Z",
     "hora_argentina": "2026-02-15 16:10",
     "logo": "https://bestleague.world/jr/118.png",
@@ -14027,6 +13220,23 @@
   {
     "hora_utc": "2026-02-15T20:00:00Z",
     "hora_argentina": "2026-02-15 17:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Olympic Winter Games",
+    "equipos": "Ski Jumping. Olympics. Women's Large Hill. Live Stream",
+    "deporte": "Juegos Olímpicos",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "OKKOSPORT",
+        "url": "https://antenasport.top/okkosport.php",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-15T20:00:00Z",
+    "hora_argentina": "2026-02-15 17:00",
     "logo": "https://basket675.es/wp-content/uploads/2022/10/AdmiralBet_ABA_League_logo.png",
     "liga": "Basketball Aba Liga",
     "equipos": "Partizan vs Buducnost",
@@ -14157,6 +13367,11 @@
       {
         "nombre": "ANTENASPORT",
         "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "OKKOSPORT",
+        "url": "https://antenasport.top/okkosport.php",
         "calidad": "HD/FULLHD"
       },
       {
