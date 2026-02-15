@@ -73886,7 +73886,8 @@
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/69yh8yi1lj7l"
+        "embed_url": "https://vidhidepro.com/v/69yh8yi1lj7l",
+        "m3u8_url": "https://vidhidepro.com/stream/78XjoXigtXQRcwMTv47p8g/hjkrhuihghfvu/1771229780/37027783/master.m3u8"
       },
       {
         "server": "voesx",
@@ -73922,13 +73923,16 @@
         "server": "vidhide",
         "quality": "HD",
         "language": "ESPANOL",
-        "embed_url": "https://vidhidepro.com/v/t4055m7t0xn7"
+        "embed_url": "https://vidhidepro.com/v/t4055m7t0xn7",
+        "m3u8_url": "https://vidhidepro.com/stream/I1eQy1CrX6Nl2F0N8xQgZQ/hjkrhuihghfvu/1771229787/37027848/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "ESPANOL",
-        "embed_url": "https://voe.sx/e/zoegtnhuv5vd"
+        "embed_url": "https://voe.sx/e/zoegtnhuv5vd",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
@@ -73941,7 +73945,8 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/04ybzp9l10zz"
+        "embed_url": "https://streamwish.to/e/04ybzp9l10zz",
+        "m3u8_url": "https://sfastwish.com/stream/AxfxkwBAz123bMMztt6iDg/kjhhiuahiuhgihdf/1771229785/68061930/master.m3u8"
       },
       {
         "server": "filemoon",
@@ -73955,19 +73960,23 @@
         "server": "vidhide",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/cnq181e1r3ti"
+        "embed_url": "https://vidhidepro.com/v/cnq181e1r3ti",
+        "m3u8_url": "https://RNzT2t4XVKU08.acek-cdn.com/hls2/01/07405/cnq181e1r3ti_n/master.m3u8?t=ntowd-rffzYRfDro2C20CWEdG6AuNb29hGsmpwsA034&s=1771186591&e=129600&f=37027873&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/gl8a7yfettuj"
+        "embed_url": "https://voe.sx/e/gl8a7yfettuj",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://waaw.to/f/7FzdpV7AcvLI"
+        "embed_url": "https://waaw.to/f/7FzdpV7AcvLI",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/sYDbxAPS7pD5S1HBvwvhvh80fxr.jpg",
@@ -73988,55 +73997,68 @@
         "server": "streamwish",
         "quality": "CAM",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/hw0fjms9fxwx"
+        "embed_url": "https://streamwish.to/e/hw0fjms9fxwx",
+        "m3u8_url": "https://sfastwish.com/stream/Xlvu1oOP_Byl6vqRdyiliw/kjhhiuahiuhgihdf/1771229791/66709886/master.m3u8"
       },
       {
         "server": "vidhide",
         "quality": "CAM",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/mt6fiexrah7e"
+        "embed_url": "https://vidhidepro.com/v/mt6fiexrah7e",
+        "m3u8_url": "https://vidhidepro.com/stream/REdPYCVAPZ_GlzIew1uEzw/hjkrhuihghfvu/1771229795/36005877/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "CAM",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/dynrodjuninm"
+        "embed_url": "https://voe.sx/e/dynrodjuninm",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "CAM",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/sHahPxKQqsak"
+        "embed_url": "https://waaw.to/f/sHahPxKQqsak",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamwish",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/q21z48i4cvhx"
+        "embed_url": "https://streamwish.to/e/q21z48i4cvhx",
+        "m3u8_url": "https://sfastwish.com/stream/wRUHjGfz-aRMrVl6rnno-w/kjhhiuahiuhgihdf/1771229793/67993010/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://bysejikuar.com/e/h5tr0l6gl3h8"
+        "embed_url": "https://bysejikuar.com/e/h5tr0l6gl3h8",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/54vfq0urucr7"
+        "embed_url": "https://vidhidepro.com/v/54vfq0urucr7",
+        "m3u8_url": "https://vidhidepro.com/stream/zE-vaKt6apdJDNJv_Q3TXg/hjkrhuihghfvu/1771229800/36964660/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/edhw35t2nfad"
+        "embed_url": "https://voe.sx/e/edhw35t2nfad",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/edhw35t2nfad"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/qidfwihrytld"
+        "embed_url": "https://voe.sx/e/qidfwihrytld",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/jctiZ1I2p4b6mceR85QxYhgs4Ft.jpg",
@@ -74056,61 +74078,75 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/7l0x1bay0sr0"
+        "embed_url": "https://streamwish.to/e/7l0x1bay0sr0",
+        "m3u8_url": "https://qCsH3mKRD1SG2.premilkyway.com/hls2/01/13576/7l0x1bay0sr0_,l,n,h,.urlset/master.m3u8?t=VwUZWCZpuhAY-VCBlKWo-ZvFMOnCGDB2U67boKFqGNA&s=1771186598&e=129600&f=67884443&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=7303"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://bysejikuar.com/e/l0510vlrgwwh"
+        "embed_url": "https://bysejikuar.com/e/l0510vlrgwwh",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/ax0qq4ovwxkw"
+        "embed_url": "https://vidhidepro.com/v/ax0qq4ovwxkw",
+        "m3u8_url": "https://VyY3AyGtEHNQnhdR.acek-cdn.com/hls2/01/07371/ax0qq4ovwxkw_n/master.m3u8?t=VZ9M-r520ZGYt15jGP48qWUshiDxhpYcArDUmL1iADo&s=1771186609&e=129600&f=36858046&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/vszlzgp6y5wp"
+        "embed_url": "https://voe.sx/e/vszlzgp6y5wp",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/wTS2gV7feGQD"
+        "embed_url": "https://waaw.to/f/wTS2gV7feGQD",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamwish",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/vmvump37sp9x"
+        "embed_url": "https://streamwish.to/e/vmvump37sp9x",
+        "m3u8_url": "https://sfastwish.com/stream/c0UHX80m1OeZm43KgSwL8Q/kjhhiuahiuhgihdf/1771229804/66786011/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://bysejikuar.com/e/oo82et99fcfy"
+        "embed_url": "https://bysejikuar.com/e/oo82et99fcfy",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/2qaf57idek3r"
+        "embed_url": "https://vidhidepro.com/v/2qaf57idek3r",
+        "m3u8_url": "https://vidhidepro.com/stream/YbNOY2P2vH-Kaxm1EGEEFA/hjkrhuihghfvu/1771229811/36080058/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/f95bsqnnhw2h"
+        "embed_url": "https://voe.sx/e/f95bsqnnhw2h",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://waaw.to/f/RKjC0QdDITjC"
+        "embed_url": "https://waaw.to/f/RKjC0QdDITjC",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/iLNyy9jXTdod8yPOn2tQrVEyuO2.jpg",
@@ -74132,55 +74168,67 @@
         "server": "streamwish",
         "quality": "SCR",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/b2hja3ppwi2i"
+        "embed_url": "https://streamwish.to/e/b2hja3ppwi2i",
+        "m3u8_url": "https://sfastwish.com/stream/x5uhVajwxrThDdv-2JIM8A/kjhhiuahiuhgihdf/1771229811/67673498/master.m3u8"
       },
       {
         "server": "vidhide",
         "quality": "SCR",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/b1h6u931e5ph"
+        "embed_url": "https://vidhidepro.com/v/b1h6u931e5ph",
+        "m3u8_url": "https://pfabiWMFmEza.dramiyos-cdn.com/hls2/01/07352/b1h6u931e5ph_n/master.m3u8?t=YXnaMtVyP5PggR2Pn_5DMB1zBcJpbfvFipZVr5Lb1JA&s=1771186615&e=129600&f=36763391&srv=FaZeER3Wd15G&i=0.4&sp=500&p1=FaZeER3Wd15G&p2=FaZeER3Wd15G&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "SCR",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/lsuexbb7mqta"
+        "embed_url": "https://voe.sx/e/lsuexbb7mqta",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "SCR",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/pn60bNUqT9dL"
+        "embed_url": "https://waaw.to/f/pn60bNUqT9dL",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamwish",
         "quality": "CAM",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/40tamgl12rhc"
+        "embed_url": "https://streamwish.to/e/40tamgl12rhc",
+        "m3u8_url": "https://jZdDKEFw9oEu0.premilkyway.com/hls2/01/11754/40tamgl12rhc_n/master.m3u8?t=UrBOpqnaervQfqvsbD6FNXgTI1Sm4wkCZ-CTJY7X0t0&s=1771186614&e=129600&f=58771060&srv=UuPRIY08TwydO&i=0.4&sp=500&p1=UuPRIY08TwydO&p2=UuPRIY08TwydO&asn=7303"
       },
       {
         "server": "vidhide",
         "quality": "CAM",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/z0w4ym98dbzm"
+        "embed_url": "https://vidhidepro.com/v/z0w4ym98dbzm",
+        "m3u8_url": "https://dD2STLiWT0bC.dramiyos-cdn.com/hls2/01/06245/z0w4ym98dbzm_n/master.m3u8?t=Y5CtJCfibC4FETRZBT5a2xI4mt39sY6IaYrkorzU-iU&s=1771186620&e=129600&f=31227596&srv=z3kWy3kwppM2&i=0.4&sp=500&p1=z3kWy3kwppM2&p2=z3kWy3kwppM2&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "CAM",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/dsqhbnro4k1c"
+        "embed_url": "https://voe.sx/e/dsqhbnro4k1c",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "streamtape",
         "quality": "CAM",
         "language": "SUB",
-        "embed_url": "https://streamtape.com/e/JDJpPW70vQUjz2d"
+        "embed_url": "https://streamtape.com/e/JDJpPW70vQUjz2d",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://streamtape.com/e/JDJpPW70vQUjz2d"
       },
       {
         "server": "netu",
         "quality": "CAM",
         "language": "SUB",
-        "embed_url": "https://waaw.to/f/4QqD5hj4stvm"
+        "embed_url": "https://waaw.to/f/4QqD5hj4stvm",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/aDNgBFBlO61lNVCcP2L37oC9M7E.jpg",
@@ -74204,61 +74252,75 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/isls60fkdnre"
+        "embed_url": "https://streamwish.to/e/isls60fkdnre",
+        "m3u8_url": "https://sfastwish.com/stream/GwkgTT460FKO9dduob5iSQ/kjhhiuahiuhgihdf/1771229819/68226563/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://bysejikuar.com/e/emhoihx03zi3"
+        "embed_url": "https://bysejikuar.com/e/emhoihx03zi3",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/xf0y7yusyrw4"
+        "embed_url": "https://vidhidepro.com/v/xf0y7yusyrw4",
+        "m3u8_url": "https://vidhidepro.com/stream/W2hXTDmogZWsAva4OPjh_w/hjkrhuihghfvu/1771229827/37192476/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/y4o5jtrahy8f"
+        "embed_url": "https://voe.sx/e/y4o5jtrahy8f",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/nD8H2D2ZNYD6"
+        "embed_url": "https://waaw.to/f/nD8H2D2ZNYD6",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamwish",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/ev11485fefac"
+        "embed_url": "https://streamwish.to/e/ev11485fefac",
+        "m3u8_url": "https://sfastwish.com/stream/9uG5m4XKLA-PndS9GQgX5A/kjhhiuahiuhgihdf/1771229825/68226584/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://bysejikuar.com/e/59n5zyx0wjo7"
+        "embed_url": "https://bysejikuar.com/e/59n5zyx0wjo7",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/tdxqgx5zclq6"
+        "embed_url": "https://vidhidepro.com/v/tdxqgx5zclq6",
+        "m3u8_url": "https://vidhidepro.com/stream/294wxRHgZI3IiEnbmm4LAA/hjkrhuihghfvu/1771229832/37192510/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/izpxwwuxkibi"
+        "embed_url": "https://voe.sx/e/izpxwwuxkibi",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://waaw.to/f/S0xjeCKEKcDd"
+        "embed_url": "https://waaw.to/f/S0xjeCKEKcDd",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/h3MiMpSKeAR6NIwfi3fO0FXOGAG.jpg",
@@ -74279,31 +74341,38 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/4k6n75i0zdyg"
+        "embed_url": "https://streamwish.to/e/4k6n75i0zdyg",
+        "m3u8_url": "https://sfastwish.com/stream/FA9nbbDf14ZlMOATBHXPhg/kjhhiuahiuhgihdf/1771229829/68226460/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://bysejikuar.com/e/fuzp6a0um02u"
+        "embed_url": "https://bysejikuar.com/e/fuzp6a0um02u",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/srimrdlh37zg"
+        "embed_url": "https://vidhidepro.com/v/srimrdlh37zg",
+        "m3u8_url": "https://vidhidepro.com/stream/VQE7AOxTz3HFEWRFLwFvQA/hjkrhuihghfvu/1771229834/37192431/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/vqubkwxgjn6k"
+        "embed_url": "https://voe.sx/e/vqubkwxgjn6k",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/gNLoHIT7YWt4"
+        "embed_url": "https://waaw.to/f/gNLoHIT7YWt4",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/fBuisQPfbtTHpwcI4CGYQCB7SnG.jpg",
@@ -74325,31 +74394,38 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/x1glwz7nsqtf"
+        "embed_url": "https://streamwish.to/e/x1glwz7nsqtf",
+        "m3u8_url": "https://sfastwish.com/stream/4bvx7LqE_3QAWItnvzGskg/kjhhiuahiuhgihdf/1771229833/68226406/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://bysejikuar.com/e/2ljf33o2o2m6"
+        "embed_url": "https://bysejikuar.com/e/2ljf33o2o2m6",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/23txfxh8om3i"
+        "embed_url": "https://vidhidepro.com/v/23txfxh8om3i",
+        "m3u8_url": "https://RNzT2t4XVKU08.acek-cdn.com/hls2/01/07438/23txfxh8om3i_n/master.m3u8?t=fFflYRRcJtHol21zG9y4MMdZpLt5UUPmVoiut8Qr5jc&s=1771186637&e=129600&f=37192392&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/bcjaarx677y2"
+        "embed_url": "https://voe.sx/e/bcjaarx677y2",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/l4Wp5id34y1Z"
+        "embed_url": "https://waaw.to/f/l4Wp5id34y1Z",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/xGacUz5IkYrRtp6MEiiy3hKOte.jpg",
@@ -74370,61 +74446,75 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/lxsarzg9tui7"
+        "embed_url": "https://streamwish.to/e/lxsarzg9tui7",
+        "m3u8_url": "https://sfastwish.com/stream/rRalaJ_CW_IYj6lZ3owyvw/kjhhiuahiuhgihdf/1771229836/68226210/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://bysejikuar.com/e/14b4poxdiw6k"
+        "embed_url": "https://bysejikuar.com/e/14b4poxdiw6k",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/glyrve1k30bg"
+        "embed_url": "https://vidhidepro.com/v/glyrve1k30bg",
+        "m3u8_url": "https://vidhidepro.com/stream/99NZ1j-oiUTviIa1ZaO_rg/hjkrhuihghfvu/1771229840/37192223/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/ktlmg3ixxjzo"
+        "embed_url": "https://voe.sx/e/ktlmg3ixxjzo",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/777QWQdgTHB7"
+        "embed_url": "https://waaw.to/f/777QWQdgTHB7",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamwish",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/30s2ck3h2n5w"
+        "embed_url": "https://streamwish.to/e/30s2ck3h2n5w",
+        "m3u8_url": "https://cyyroro04xrqr.premilkyway.com/hls2/01/13645/30s2ck3h2n5w_,l,n,h,.urlset/master.m3u8?t=0haQ0JgOOvzl5LOUjG7OnmVE2wA-AH5Z-HhYSXz6QzQ&s=1771186639&e=129600&f=68226295&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=7303"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://bysejikuar.com/e/hqzfxjrjdq43"
+        "embed_url": "https://bysejikuar.com/e/hqzfxjrjdq43",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/fh3aekrdxjnd"
+        "embed_url": "https://vidhidepro.com/v/fh3aekrdxjnd",
+        "m3u8_url": "https://1hyahuweWHyVWmq.acek-cdn.com/hls2/01/07438/fh3aekrdxjnd_n/master.m3u8?t=dPnX6fF_EP4UgUCPCD5vfrSzQZo9RrlZtTU0W_YfIu4&s=1771186643&e=129600&f=37192282&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/5eh114ddsy5q"
+        "embed_url": "https://voe.sx/e/5eh114ddsy5q",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://waaw.to/f/ZvLZYqYGutpf"
+        "embed_url": "https://waaw.to/f/ZvLZYqYGutpf",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/yik0hh8UDnZeAQRBN0LjUnwRvVz.jpg",
@@ -74445,13 +74535,16 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/8faxne5uw82q"
+        "embed_url": "https://streamwish.to/e/8faxne5uw82q",
+        "m3u8_url": "https://sfastwish.com/stream/1WoqwR8T6GqzdVKYdZPpPg/kjhhiuahiuhgihdf/1771229844/68225657/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/4fb5kho49wp0"
+        "embed_url": "https://voe.sx/e/4fb5kho49wp0",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/xdyCFS4jUzp7kghoptaiYqir48X.jpg",
@@ -74474,61 +74567,75 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/xjbztlbd3i5o"
+        "embed_url": "https://streamwish.to/e/xjbztlbd3i5o",
+        "m3u8_url": "https://sfastwish.com/stream/oGMJ1wCa04v08Nz3v35YnA/kjhhiuahiuhgihdf/1771229844/68225379/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://bysejikuar.com/e/4ap0icfq14vc"
+        "embed_url": "https://bysejikuar.com/e/4ap0icfq14vc",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/vqkux5ue43xr"
+        "embed_url": "https://vidhidepro.com/v/vqkux5ue43xr",
+        "m3u8_url": "https://vidhidepro.com/stream/6jdyBN6pe2wVMWVuSqtHUw/hjkrhuihghfvu/1771229850/37191400/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/ioh6lj6o4dvw"
+        "embed_url": "https://voe.sx/e/ioh6lj6o4dvw",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/A14FFKkNn9fU"
+        "embed_url": "https://waaw.to/f/A14FFKkNn9fU",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamwish",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/cx231e32boox"
+        "embed_url": "https://streamwish.to/e/cx231e32boox",
+        "m3u8_url": "https://sfastwish.com/stream/MC5hLu2-Qg7zwbsfXuskhg/kjhhiuahiuhgihdf/1771229848/68225447/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://bysejikuar.com/e/xn6trcxhu2jb"
+        "embed_url": "https://bysejikuar.com/e/xn6trcxhu2jb",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/1i52396qduoc"
+        "embed_url": "https://vidhidepro.com/v/1i52396qduoc",
+        "m3u8_url": "https://VyY3AyGtEHNQnhdR.acek-cdn.com/hls2/01/07438/1i52396qduoc_n/master.m3u8?t=78fUJ1ekD3ZKxGk-t8CCk5DiacM_wC96IZFPQlB6Tm8&s=1771186653&e=129600&f=37191520&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/snhxv9clffoe"
+        "embed_url": "https://voe.sx/e/snhxv9clffoe",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://waaw.to/f/pW3o09Idi8Yw"
+        "embed_url": "https://waaw.to/f/pW3o09Idi8Yw",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/2WT6g80atTgChMS6OyBJKGpe8gE.jpg",
@@ -74549,61 +74656,75 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://streamwish.to/e/0et11aokwmrv"
+        "embed_url": "https://streamwish.to/e/0et11aokwmrv",
+        "m3u8_url": "https://sfastwish.com/stream/2KKrnXQd82jNhpfYZnQs3g/kjhhiuahiuhgihdf/1771229853/68225261/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://bysejikuar.com/e/wve5n7oudsif"
+        "embed_url": "https://bysejikuar.com/e/wve5n7oudsif",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://vidhidepro.com/v/mvp32s03gwuj"
+        "embed_url": "https://vidhidepro.com/v/mvp32s03gwuj",
+        "m3u8_url": "https://vidhidepro.com/stream/kxI2dKkt7kbi5MQk8eoRaQ/hjkrhuihghfvu/1771229858/37191200/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://voe.sx/e/nariko5chwal"
+        "embed_url": "https://voe.sx/e/nariko5chwal",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/uMCqNo0TkNye"
+        "embed_url": "https://waaw.to/f/uMCqNo0TkNye",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamwish",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://streamwish.to/e/4y01tnpt28q8"
+        "embed_url": "https://streamwish.to/e/4y01tnpt28q8",
+        "m3u8_url": "https://sfastwish.com/stream/FbeNnGpsZ0nB8Qep7E2Hxw/kjhhiuahiuhgihdf/1771229858/68225314/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://bysejikuar.com/e/ohv7m7knczok"
+        "embed_url": "https://bysejikuar.com/e/ohv7m7knczok",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://vidhidepro.com/v/htfh8cezmg39"
+        "embed_url": "https://vidhidepro.com/v/htfh8cezmg39",
+        "m3u8_url": "https://vidhidepro.com/stream/KfqAOyCzhBXC0uQf7vOk0Q/hjkrhuihghfvu/1771229860/37191324/master.m3u8"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://voe.sx/e/dyxgc5vefkdg"
+        "embed_url": "https://voe.sx/e/dyxgc5vefkdg",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "SUB",
-        "embed_url": "https://waaw.to/f/gfDxGZb90WkO"
+        "embed_url": "https://waaw.to/f/gfDxGZb90WkO",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/bRPI3ZLSPJehbnb1OCpWBVBBx0c.jpg",
@@ -74625,31 +74746,38 @@
         "server": "streamwish",
         "quality": "HD",
         "language": "ESPANOL",
-        "embed_url": "https://streamwish.to/e/jomp58aqwc1c"
+        "embed_url": "https://streamwish.to/e/jomp58aqwc1c",
+        "m3u8_url": "https://sfastwish.com/stream/ObOv98RJ22zflsWO-V4MyA/kjhhiuahiuhgihdf/1771229861/68225093/master.m3u8"
       },
       {
         "server": "filemoon",
         "quality": "HD",
         "language": "ESPANOL",
-        "embed_url": "https://bysejikuar.com/e/9ipbxind9x5h"
+        "embed_url": "https://bysejikuar.com/e/9ipbxind9x5h",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
       },
       {
         "server": "vidhide",
         "quality": "HD",
         "language": "ESPANOL",
-        "embed_url": "https://vidhidepro.com/v/4yybftjz63gx"
+        "embed_url": "https://vidhidepro.com/v/4yybftjz63gx",
+        "m3u8_url": "https://1hyahuweWHyVWmq.acek-cdn.com/hls2/01/07438/4yybftjz63gx_n/master.m3u8?t=bfqYg7wLAA7x3bMtP0YqPM9WHU8ZTs6Iru9n0V3PTjc&s=1771186663&e=129600&f=37191008&srv=QuzDGIUOroqdH83C&i=0.4&sp=500&p1=QuzDGIUOroqdH83C&p2=QuzDGIUOroqdH83C&asn=7303"
       },
       {
         "server": "voesx",
         "quality": "HD",
         "language": "ESPANOL",
-        "embed_url": "https://voe.sx/e/pbey1ocyuuay"
+        "embed_url": "https://voe.sx/e/pbey1ocyuuay",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
       },
       {
         "server": "netu",
         "quality": "HD",
         "language": "ESPANOL",
-        "embed_url": "https://waaw.to/f/J1KcuoUtQs61"
+        "embed_url": "https://waaw.to/f/J1KcuoUtQs61",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/8kyqyI6mQmIVdLPRvIaFskVIcQW.jpg",
@@ -74660,5 +74788,301 @@
     ],
     "overview": "David es un romántico empedernido que tiene una agencia de viajes especializada en viajes relacionados con comedias románticas. Su relación de 15 años con Quique está estancada. Entonces, David decide darle a Quique un viaje por la Ruta 66 con una parada especial en Las Vegas.",
     "rating": 6.4
+  },
+  {
+    "tmdb_id": 458156,
+    "title": "John Wick 3: Parabellum",
+    "year": "2019",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/0u9qe3zt9o1h"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/ja4c6net9gxb"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://filelions.to/v/0uwoy6vbrhkq"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ge5qk4mjnyzv"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": " https://streamtape.com/e/Q32lMBZ21OU0zdX"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://hqq.tv/e/ck0veTd2NER6UThDaFVyQ25JTmRVQT09"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/1vws5ixk5jnj"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/n2838l3shi8n"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/orxt20qfrv33"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/dgigziyutzky"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://hqq.tv/e/LzNoSm1YNHgxWE53SHZWclBwSGJhUT09"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/bwnrkz07r0wy"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/tdk1jzwfgdvs"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/uhyj9ochyywx"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": " https://streamtape.com/e/Gvlp2DP1wKi1XMW"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://hqq.tv/e/TXppTXNlYlZseENMVjdHNEhPSXBBQT09"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Suspenso",
+      "Crimen"
+    ],
+    "overview": "Después de matar a un miembro del misterioso gremio internacional de asesinos, la Mesa Alta, John Wick está excomulgado, pero los hombres y mujeres más despiadados del mundo esperan cada  uno su turno.",
+    "rating": 7.4
+  },
+  {
+    "tmdb_id": 324552,
+    "title": "John Wick 2: Un Nuevo Día para Matar",
+    "year": "2017",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/50fcal32etq8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/dhlar1inzc0z"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/jdhss7y9z8ha"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamtape.com/e/drDvYMJ8YXUkxaZ"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://hqq.tv/e/M05PbGc2Y2J6L0lPWVVpYmlwaGZSQT09"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/gzswsfl8v0h8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/i0z77ee1vd0p"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/b8frg2lnbqqz"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://hqq.tv/e/d1diTHJkUE9BKytzUGs5WS94QkJCUT09"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/k3ijewmc8459"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/axcoigvcs6r7"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/ymvgfkccfmro"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://hqq.tv/e/bHk1bHY4OXFSZzNJaklqcm0yeStRQT09"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/3jApZTvbOs7giIM01ddPpFWQagR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Suspenso",
+      "Crimen"
+    ],
+    "overview": "En esta secuela del éxito de 2014, el legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo.",
+    "rating": 7.34
+  },
+  {
+    "tmdb_id": 603692,
+    "title": "John Wick 4",
+    "year": "2023",
+    "servers": [
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamtape.com/e/zlq2AyoZZlSYq9W"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Rzto8pPPTjJ9"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamtape.com/e/qa0aA0M9oOfzzvr"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamtape.com/e/o9Be0zqdLxCJ6A1"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Suspenso",
+      "Crimen"
+    ],
+    "overview": "John Wick descubre un camino para derrotar a La Mesa. Pero antes de poder ganar su libertad, Wick deberá enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo; y contra las fuerzas que convierten a viejos amigos en enemigos.",
+    "rating": 7.74
+  },
+  {
+    "tmdb_id": 291984,
+    "title": "The Death and Life of John F. Donovan",
+    "year": "2019",
+    "servers": [
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://filelions.to/v/91rc1fw285oa"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/xkv3kyeaolq6"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/fCykYsQSMJhM"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://filelions.to/v/r5iaeqwp8xlb"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/7achmoc6aesy"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/83VH9V9QAbjR"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/uOI8Mo0DiC9KwDGRF07nI5p8ho.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/3vVUbzJ0W8pd18uMLngzd3oHbu9.jpg",
+    "genres_spanish": [
+      "Drama"
+    ],
+    "overview": "Cuenta la historia de un actor ficticio llamado John F. Donovan que es famoso por interpretar a superhéroes como los de Marvel. Su vida y su carrera cambian cuando mantiene correspondencia con un niño de 11 años y ésta se hace pública, dejando al descubierto cientos de suposiciones de las que se aprovecha una indecente columnista de cotilleos.",
+    "rating": 6.9
   }
 ]
