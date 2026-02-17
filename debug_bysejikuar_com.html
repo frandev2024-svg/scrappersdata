@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="module" crossorigin src="/assets/polyfills-Of1WvQw-.js"></script>
+
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/assets/images/logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Byse Frontend</title>
+    <script>
+      (function () {
+        try {
+          var path = '';
+          if (typeof window !== 'undefined' && window.location && typeof window.location.pathname === 'string') {
+            path = window.location.pathname;
+          }
+          if (path.indexOf('/e/') !== 0) {
+            return;
+          }
+          var root = document.documentElement;
+          if (root && root.classList && !root.classList.contains('video-embed-mode')) {
+            root.classList.add('video-embed-mode');
+          }
+          var body = document.body;
+          if (body && body.classList && !body.classList.contains('video-embed-mode')) {
+            body.classList.add('video-embed-mode');
+            return;
+          }
+          document.addEventListener('DOMContentLoaded', function () {
+            var readyBody = document.body;
+            if (readyBody && readyBody.classList && !readyBody.classList.contains('video-embed-mode')) {
+              readyBody.classList.add('video-embed-mode');
+            }
+          });
+        } catch (error) {
+          /* ignore bootstrap errors */
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-XM1mlhAd.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-A2Y5k9HH.css">
+    <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+    <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+    <script nomodule crossorigin id="vite-legacy-polyfill" src="/assets/polyfills-legacy-DPKaIGjg.js"></script>
+    <script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/index-legacy-SkFFt1PO.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"bc9176968def4af38ad11eb7bb6409d0","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

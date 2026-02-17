@@ -1,0 +1,255 @@
+<html lang="es">
+<head>
+<title>fl</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+<meta name="robots" content="noindex, nofollow" />
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-43LXXFS1EB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-43LXXFS1EB');
+</script>
+<style type="text/css">
+body {
+   margin: 0;
+   padding: 0;
+   width: 100%;
+   height: 100%;
+   position: fixed;
+   overflow: hidden;
+}
+    #loading-message {
+      font-size: 36px;
+      color: #fff;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    #loading-info {
+      font-size: 24px;
+      color: #fff;
+      text-align: center;
+    }
+#loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#loading-info {
+    max-width: 600px;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 0 20px;
+    text-align: center;
+}
+
+@media (max-width: 1200px) {
+    #loading-info {
+        font-size: 1.1rem;
+        margin: 0 15px;
+    }
+}
+
+@media (max-width: 992px) {
+    #loading-info {
+        font-size: 1.05rem;
+        margin: 0 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    #loading-info {
+        font-size: 1rem;
+        margin: 0 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    #loading-info {
+        font-size: 0.9rem;
+        margin: 0 5px;
+    }
+}
+
+@media (max-width: 320px) {
+    #loading-info {
+        font-size: 0.8rem;
+        margin: 0 3px;
+    }
+}
+
+
+
+.heart-rate {
+  width: 300px;
+  height: 73px;
+  position: relative;
+  margin: 20px auto;
+}
+
+.fade-in {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  top: 0;
+  right: 0;
+  animation: heartRateIn 2.5s linear infinite;
+}
+
+.fade-out {
+  position: absolute;
+  width: 140%;
+  height: 100%;
+  top: 0;
+  left: -140%;
+  animation: heartRateOut 2.5s linear infinite;
+  background: rgba(0, 0, 0, 1);
+  background: -moz-linear-gradient(left, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 100%);
+  background: -webkit-linear-gradient(left, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 100%);
+  background: -o-linear-gradient(left, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 100%);
+  background: -ms-linear-gradient(left, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(to right, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%);
+}
+
+@keyframes heartRateIn {
+  0% {
+    width: 100%;
+  }
+  50% {
+    width: 0;
+  }
+  100% {
+    width: 0;
+  }
+}
+
+@keyframes heartRateOut {
+  0% {
+    left: -140%;
+  }
+  30% {
+    left: -140%;
+  }
+  100% {
+    left: 0;
+  }
+}
+
+.view-button {
+    background-color: #0097e6;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    user-select: none;
+}
+
+.view-button:hover {
+    background-color: #007bb5;
+}
+  </style>
+</head>
+<body>
+
+
+<div id="loading-overlay">
+  <div class="heart-rate">
+    <svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="73px" viewBox="0 0 300 73" enable-background="new 0 0 300 73" xml:space="preserve">
+      <polyline fill="none" stroke="#FFF" stroke-width="3" stroke-miterlimit="10" points="
+        0,45.486 
+        30,45.486 
+        40,35 
+        50,45.486 
+        70,45.486 
+        80,30 
+        90,45.486 
+        110,45.486 
+        120,55 
+        130,45.486 
+        150,45.486 
+        160,35 
+        170,45.486 
+        190,45.486 
+        200,25 
+        210,45.486 
+        230,45.486 
+        240,60 
+        250,45.486 
+        270,45.486 
+        280,35 
+        290,45.486
+      " />
+    </svg>
+    <div class="fade-in"></div>
+    <div class="fade-out"></div>
+  </div>
+</div>
+
+<div id="player"></div>
+<script>
+document.write('<iframe id="iframe" allow="encrypted-media" width="100%" height="100%" scrolling="no" frameBorder="0" allowfullscreen></iframe>');
+</script>
+
+<script type="text/javascript">
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+      results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+  }
+
+  var getVal = getParameterByName('get');
+  if (getVal == "#") {
+    alert('Vuelve a la pÃ¡gina anterior');
+  }
+
+
+	
+  var getLang = getParameterByName('lang');
+  var xhttp = new XMLHttpRequest();
+  xhttp.open("GET", "/html/cv.json?" + Math.floor(Math.random() * 9000 + 1000).toString(), true);
+  xhttp.send();
+  xhttp.onreadystatechange = function() {
+    if (xhttp.readyState == 4 && xhttp.status == 200) {
+      var data = JSON.parse(xhttp.responseText);
+      var urls = data["urls"];
+      var randomIndex = Math.floor(Math.random() * urls.length);
+      var randomUrl = urls[randomIndex];
+      document.getElementById('iframe').src = '//' + randomUrl + "/cvatt.html?get=" + getVal + "&lang=1";
+
+      var iframe = document.getElementById('iframe');
+      iframe.onload = function() {
+        document.getElementById('loading-overlay').style.display = 'none';
+      };
+    }
+  }
+
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"0f59d23e22794a0c999cb72d37a70808","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>

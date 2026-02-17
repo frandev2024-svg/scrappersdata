@@ -17,6 +17,7 @@ from bs4 import BeautifulSoup
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_JSON = BASE_DIR / "partidos.json"
 CHATGPT_CACHE_FILE = BASE_DIR / "chatgpt_cache.json"
+ENV_FILE = BASE_DIR / ".env"
 
 # Configuración de OpenAI
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "").strip()
@@ -40,6 +41,27 @@ TIMEOUT_SEC = 20
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
+
+
+def load_env_file(path: Path = ENV_FILE) -> None:
+    """Carga variables desde .env si existe (prioriza el .env sobre valores ausentes)."""
+    try:
+        if not path.exists():
+            return
+        for line in path.read_text(encoding="utf-8").splitlines():
+            stripped = line.strip()
+            if not stripped or stripped.startswith("#"):
+                continue
+            if "=" not in stripped:
+                continue
+            key, val = stripped.split("=", 1)
+            key = key.strip()
+            val = val.strip().strip('"').strip("'")
+            if key:
+                os.environ[key] = val
+        logger.info("Variables cargadas desde .env")
+    except Exception as exc:
+        logger.error("No se pudo cargar .env: %s", exc)
 
 # ==================== MAPAS DE LOGOS Y LIGAS ====================
 
@@ -105,6 +127,7 @@ LIGA_LOGOS: Dict[str, str] = {
     "efl cup": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/37.png",
     "dfb pokal": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/529.png",
     "coupe de france": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/526.png",
+    "ligue 2": "https://elcanaldeportivo.com/img/fr.png",
     "coppa italia": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/522.png",
     "taca de portugal": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/555.png",
     "copa argentina": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1297.png",
@@ -126,17 +149,31 @@ LIGA_LOGOS: Dict[str, str] = {
     "j league": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/106.png",
     "k league": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/105.png",
     "saudi pro league": "https://bestleague.world/jr/104.png",
+    "pro league": "https://bestleague.world/jr/104.png",
+    "championnat national": "https://elcanaldeportivo.com/img/fr.png",
+    "premijer liga": "https://flagcdn.com/w320/ba.png",
+    "torneo lpf": "https://bestleague.world/jr/55.png",
+    "torneo amistoso de verano": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png",
+    "liga femenina": "https://flagcdn.com/w320/co.png",
+    "dallas open": "https://static.futbolenlatv.com/img/32/20130618113307-tenis.png",
+    "primera division chile": "https://bestleague.world/jr/35.png",
+    "primera division uruguay": "https://bestleague.world/jr/56.png",
+    "primera division paraguay": "https://flagcdn.com/w320/py.png",
+    "primera division costa rica": "https://flagcdn.com/w320/cr.png",
+    "division profesional bolivia": "https://flagcdn.com/w320/bo.png",
+    "pro d2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1rZF9F70hjqHyIR7zMdyNOGM3_XiPzyHbA&s",
+    "pro d2 rugby": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1rZF9F70hjqHyIR7zMdyNOGM3_XiPzyHbA&s",
     
     # Baloncesto
-    "nba": "https://bestleague.world/img/nba.svg",
+    "nba": "https://wallpapers.com/images/hd/nba-logo-9y2dq91klhsh65jq.jpg",
     "euroleague": "https://yt3.googleusercontent.com/SDKEtv224BImqVHSPNVrg22iL4ZGT_eB2spweT6B_0oATgxRsAUNFVgq80wM3yO4hfhMC6uZUQ=s900-c-k-c0x00ffffff-no-rj",
     "euroliga": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/basketball/500/11.png",
     "acb": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/basketball/500/11.png",
     "liga endesa": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/basketball/500/11.png",
     "ncaa basketball": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/ncaa.png",
     # Básquet genérico (fallback para cualquier liga de basket no mapeada)
-    "basquet": "https://png.pngtree.com/png-vector/20250708/ourmid/pngtree-orange-basketball-png-image_16721120.webp",
-    "basketball": "https://png.pngtree.com/png-vector/20250708/ourmid/pngtree-orange-basketball-png-image_16721120.webp",
+    "basquet": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/2b076f6420cf6e503ce2b57d532900faf4ab712e/basquetball.png",
+    "basketball": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/2b076f6420cf6e503ce2b57d532900faf4ab712e/basquetball.png",
     
     # Tenis
     "atp": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/atp.png",
@@ -196,9 +233,9 @@ LIGA_LOGOS: Dict[str, str] = {
     "afc champions": "https://upload.wikimedia.org/wikipedia/fr/f/f5/Ligue_des_champions_AFC_-_Logo.png",
     
     # Baloncesto adicional
-    "basketball": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/basquet.png",
-    "aba liga": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
-    "basketball aba liga": "https://images.eurohoops.net/2020/05/ddb81d3e-aba-league-625x375.jpg",
+    "basketball": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/2b076f6420cf6e503ce2b57d532900faf4ab712e/basquetball.png",
+    "aba liga": "https://basket675.es/wp-content/uploads/2022/10/AdmiralBet_ABA_League_logo.png",
+    "basketball aba liga": "https://basket675.es/wp-content/uploads/2022/10/AdmiralBet_ABA_League_logo.png",
     
     # CONCACAF
     "concacaf champions cup": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
@@ -816,6 +853,13 @@ EQUIPOS_LIGA: Dict[str, str] = {
     "paok": "Super League Greece",
     "volos": "Super League Greece",
     "volos nfc": "Super League Greece",
+
+    # EuroLeague / Basket
+    "panathinaikos": "Euroleague",
+    "fenerbahce": "Euroleague",
+    "fenerbahce ulker": "Euroleague",
+    "maccabi": "Euroleague",
+    "anadolu efes": "Euroleague",
     
     # Swiss Super League
     "basel": "Swiss Super League",
@@ -957,9 +1001,11 @@ EQUIPOS_LIGA: Dict[str, str] = {
     "al ahli doha": "AFC Champions League",
     "sepahan": "AFC Champions League",
     "arkadag": "AFC Champions League",
+    "kups": "Veikkausliiga",
     
     # Otras ligas menores
     "kobenhavn": "Danish Superliga",
+    "kbenhavn": "Danish Superliga",
     "nordsjalland": "Danish Superliga",
     "copenhagen": "Danish Superliga",
     "tondela": "Liga Portugal 2",
@@ -968,12 +1014,71 @@ EQUIPOS_LIGA: Dict[str, str] = {
     "drita": "Kosovar Superliga",
     "skendija 79": "Macedonian First League",
     "samsunspor": "Super Lig",
+    "aubagne": "Championnat National",
+    "bourg en bresse": "Championnat National",
+    "fleury": "Championnat National",
+    "villefranche": "Championnat National",
+    "valenciennes": "Championnat National",
+    "stade briochin": "Championnat National",
+    "kv mechelen": "Pro League",
+    "genk": "Pro League",
+    "america de cali": "Liga Femenina",
+    "junior": "Liga Femenina",
+    "palestino": "Primera Division Chile",
+    "universidad chile": "Primera Division Chile",
+    "everton": "Primera Division Chile",
+    "huachipato": "Primera Division Chile",
+    "guarani": "Primera Division Paraguay",
+    "sportivo san lorenzo": "Primera Division Paraguay",
+    "deportivo recoleta": "Primera Division Paraguay",
+    "sportivo luqueno": "Primera Division Paraguay",
+    "cerro largo": "Primera Division Uruguay",
+    "wanderers": "Primera Division Uruguay",
+    "liverpool": "Primera Division Uruguay",
+    "defensor sporting": "Primera Division Uruguay",
+    "perez zeledon": "Primera Division Costa Rica",
+    "puntarenas": "Primera Division Costa Rica",
+    "bolivar": "Division Profesional Bolivia",
+    "real potosi": "Division Profesional Bolivia",
+    "deportivo aurora": "Division Profesional Bolivia",
+    "san antonio": "Division Profesional Bolivia",
+    "borac banja luka": "Premijer Liga",
+    "zrinjski": "Premijer Liga",
+    "siroki brijeg": "Premijer Liga",
+    "velez": "Premijer Liga",
+    "radnik bijeljina": "Premijer Liga",
+    "posusje": "Premijer Liga",
+
+    # Saudi Pro League
+    "al ittihad": "Saudi Pro League",
+    "al ittihad club": "Saudi Pro League",
+    "al ittihad jeddah": "Saudi Pro League",
+    "al hilal": "Saudi Pro League",
+    "al nassr": "Saudi Pro League",
+    "al ahli": "Saudi Pro League",
+    "al fateh": "Saudi Pro League",
+    "al fateh fc": "Saudi Pro League",
+    "al fayha": "Saudi Pro League",
+    "al feiha": "Saudi Pro League",
+    "al taawoun": "Saudi Pro League",
+    "al raed": "Saudi Pro League",
+    "al khaleej": "Saudi Pro League",
+    "al ettifaq": "Saudi Pro League",
+    "al shabab": "Saudi Pro League",
+    "damac": "Saudi Pro League",
+    "abha": "Saudi Pro League",
+    "al wehda": "Saudi Pro League",
+    "al okhdood": "Saudi Pro League",
+    "al taee": "Saudi Pro League",
+    "al tai": "Saudi Pro League",
+    "al riyadh": "Saudi Pro League",
+    "akhodar": "Saudi Pro League",
 }
 
 # Banderas por país (fallback cuando no hay logo de liga)
 # Usa flagcdn.com para imágenes PNG de banderas
 BANDERAS_PAIS: Dict[str, str] = {
-    "argentina": "https://flagcdn.com/w320/ar.png",
+    "argentina": "https://elcanaldeportivo.com/img/ar.png",
     "brasil": "https://flagcdn.com/w320/br.png",
     "méxico": "https://flagcdn.com/w320/mx.png",
     "colombia": "https://flagcdn.com/w320/co.png",
@@ -988,10 +1093,12 @@ BANDERAS_PAIS: Dict[str, str] = {
     "canadá": "https://flagcdn.com/w320/ca.png",
     "estados unidos/canadá": "https://flagcdn.com/w320/us.png",
     "inglaterra": "https://flagcdn.com/w320/gb-eng.png",
-    "españa": "https://flagcdn.com/w320/es.png",
+    "españa": "https://elcanaldeportivo.com/img/es.png",
+    "spain": "https://elcanaldeportivo.com/img/es.png",
     "italia": "https://flagcdn.com/w320/it.png",
     "alemania": "https://flagcdn.com/w320/de.png",
-    "francia": "https://flagcdn.com/w320/fr.png",
+    "francia": "https://elcanaldeportivo.com/img/fr.png",
+    "france": "https://elcanaldeportivo.com/img/fr.png",
     "portugal": "https://flagcdn.com/w320/pt.png",
     "países bajos": "https://flagcdn.com/w320/nl.png",
     "bélgica": "https://flagcdn.com/w320/be.png",
@@ -1040,6 +1147,7 @@ BANDERAS_PAIS: Dict[str, str] = {
     "jamaica": "https://flagcdn.com/w320/jm.png",
     "israel": "https://flagcdn.com/w320/il.png",
     "pakistán": "https://flagcdn.com/w320/pk.png",
+    "bosnia y herzegovina": "https://flagcdn.com/w320/ba.png",
     # Regiones multi-país
     "europa": "https://flagcdn.com/w320/eu.png",
     "sudamérica": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_CONMEBOL.svg/320px-Flag_of_CONMEBOL.svg.png",
@@ -1083,6 +1191,7 @@ PAIS_POR_LIGA: Dict[str, str] = {
     "j league": "Japón",
     "k league": "Corea del Sur",
     "saudi pro league": "Arabia Saudita",
+    "pro league": "Bélgica",
     "champions league": "Europa",
     "europa league": "Europa",
     "conference league": "Europa",
@@ -1114,10 +1223,17 @@ PAIS_POR_LIGA: Dict[str, str] = {
     "la liga 2": "España",
     "serie b": "Italia",
     "ligue 2": "Francia",
+    "pro d2": "Francia",
+    "pro d2 rugby": "Francia",
+    "qatar stars league": "Qatar",
+    "uae pro league": "Emiratos Árabes",
     "2. bundesliga": "Alemania",
     "swiss super league": "Suiza",
     "super lig": "Turquía",
     "super league greece": "Grecia",
+    "saudi pro league": "Arabia Saudita",
+    "qatar stars league": "Qatar",
+    "uae pro league": "Emiratos Árabes",
     "ekstraklasa": "Polonia",
     "hnl": "Croacia",
     "serbia superliga": "Serbia",
@@ -1126,7 +1242,21 @@ PAIS_POR_LIGA: Dict[str, str] = {
     "league two": "Inglaterra",
     "liga 1 peru": "Perú",
     "liga paraguaya": "Paraguay",
+    "veikkausliiga": "Finlandia",
+    "danish superliga": "Dinamarca",
+    "championnat national": "Francia",
+    "liga femenina": "Colombia",
+    "torneo lpf": "Argentina",
+    "premijer liga": "Bosnia y Herzegovina",
+    "division profesional bolivia": "Bolivia",
+    "primera division chile": "Chile",
+    "primera division uruguay": "Uruguay",
+    "primera division paraguay": "Paraguay",
+    "primera division costa rica": "Costa Rica",
+    "super liga dinamarca": "Dinamarca",
     "uefa europa league": "Europa",
+    "qatar stars league": "Qatar",
+    "uae pro league": "Emiratos Árabes",
 }
 
 CH_NAME_MAP: Dict[int, str] = {
@@ -1498,7 +1628,7 @@ def infer_deporte(liga: str, equipos: str) -> str:
     }
     
     # PASO 1: Detección directa por prefijo/nombre de la liga (máxima prioridad)
-    if liga_lower.startswith("basketball") or liga_lower in ["nba"]:
+    if liga_lower.startswith("basketball") or liga_lower in ["nba"] or "euroliga" in liga_lower or "euroleague" in liga_lower:
         return "Basketball"
     if "olympic" in liga_lower or "olympics" in liga_lower or "juegos olimpicos" in liga_lower:
         return "Juegos Olímpicos"
@@ -1644,6 +1774,9 @@ def normalize_liga_name(liga: str) -> str:
         "serie a bresil": "Brasileirao",
         "campeonato brasileno de serie a": "Brasileirao",
         "hockey men ice hockey winter olympics": "Hockey Hielo Juegos Olímpicos",
+        "liga de primera": "Primera Division",
+        "liga auf": "Primera Division Uruguay",
+        "auf uruguaya": "Primera Division Uruguay",
     }
     
     text = liga.lower().strip()
@@ -1672,6 +1805,29 @@ def build_event(
     
     # Normalizar nombre de liga
     liga_normalizada = normalize_liga_name(liga)
+
+    # Si la liga es genérica, intentar refinar con equipos
+    generic_ligas = {
+        "primera division",
+        "liga femenina",
+        "torneo amistoso de verano",
+        "torneo lpf",
+        "pro league",
+        "national",
+        "liga de primera",
+        "liga auf uruguaya",
+    }
+    norm_generic = normalize_text(liga_normalizada)
+    if norm_generic in generic_ligas and equipos:
+        liga_inferida = infer_liga_from_equipos(equipos)
+        if liga_inferida:
+            liga_normalizada = liga_inferida
+
+    # Si la liga parece ser el texto de equipos, intentar inferir desde equipos
+    if equipos and (" vs " in norm_generic or " - " in norm_generic):
+        liga_inferida = infer_liga_from_equipos(equipos)
+        if liga_inferida:
+            liga_normalizada = liga_inferida
     
     # Variables para inferencia
     deporte = ""
@@ -1707,10 +1863,29 @@ def build_event(
     # Inferir país si no lo tenemos de ChatGPT
     if not pais:
         pais = infer_pais(liga_normalizada)
+
+    # Si la liga es exactamente el texto de equipos, descartarla y volver a inferir
+    if normalize_text(liga_normalizada) == normalize_text(equipos):
+        liga_inferida = infer_liga_from_equipos(equipos)
+        if liga_inferida:
+            liga_normalizada = liga_inferida
+            # Actualizar deporte/pais tras corregir liga
+            deporte = deporte or infer_deporte(liga_normalizada, equipos)
+            pais = pais or infer_pais(liga_normalizada)
     
     # Si seguimos sin liga, usar el texto de equipos como liga para no dejarla vacía
     if not liga_normalizada:
         liga_normalizada = equipos or ""
+
+    canales_limpios: List[Dict[str, Any]] = []
+    for ch in canales or []:
+        nombre_norm = normalize_channel_name(ch.get("nombre", ""), ch.get("url", "")).upper()
+        calidad_norm = (ch.get("calidad", "") or "HD/FULLHD").upper()
+        canales_limpios.append({
+            "nombre": nombre_norm,
+            "url": ch.get("url", ""),
+            "calidad": calidad_norm,
+        })
 
     return {
         "hora_utc": format_utc(dt_utc),
@@ -1720,7 +1895,7 @@ def build_event(
         "equipos": equipos or "",
         "deporte": deporte,
         "pais": pais,
-        "canales": canales or [],
+        "canales": canales_limpios,
         "date_offset": date_offset,
     }
 
@@ -1786,6 +1961,48 @@ def channel_name_from_url(url: str) -> str:
     return normalize_ws(name)
 
 
+def _friendly_host_from_url(url: str) -> str:
+    if not url:
+        return ""
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower()
+    if host.startswith("www."):
+        host = host[4:]
+    parts = host.split(".")
+    if len(parts) >= 2:
+        host = parts[-2]
+    host = host.replace("-", " ").replace("_", " ")
+    return normalize_ws(host)
+
+
+def normalize_channel_name(nombre: str, url: str) -> str:
+    """Devuelve un nombre de canal más legible; evita etiquetas numéricas o de 2 letras."""
+    nombre = normalize_ws(nombre)
+    host_name = _friendly_host_from_url(url)
+
+    # Si viene vacío, intenta usar el host
+    if not nombre:
+        return host_name or "Servidor"
+
+    lower = nombre.lower()
+
+    # CH98, ch-12, etc.
+    if re.fullmatch(r"ch\s*\d+", lower):
+        num = re.findall(r"\d+", lower)[0]
+        return f"Canal {num}"
+
+    # Solo números ("98") o etiquetas muy cortas ("ar", "it")
+    if re.fullmatch(r"\d+", nombre) or len(nombre) <= 3:
+        if host_name:
+            # Ej: futbollibre Servidor 98
+            if re.fullmatch(r"\d+", nombre):
+                return f"{host_name.title()} Servidor {nombre}"
+            return host_name.title()
+        return f"Servidor {nombre}" if nombre else "Servidor"
+
+    return nombre
+
+
 def filter_bad_tvlibree_url(url: str) -> bool:
     if not url:
         return False
@@ -1847,6 +2064,15 @@ def fix_encoding(text: str) -> str:
         for bad, good in correcciones.items():
             if bad in text:
                 text = text.replace(bad, good)
+    # Correcciones conocidas sin U+FFFD (ej: latin1/utf-8 cruzados)
+    extras = {
+        "LanÃºs": "Lanús",
+        "LanĂºs": "Lanús",
+        "LanĂşs": "Lanús",
+    }
+    for bad, good in extras.items():
+        if bad in text:
+            text = text.replace(bad, good)
     return text
 
 
@@ -1943,6 +2169,10 @@ def parse_streamx10(session: requests.Session) -> List[Dict[str, Any]]:
         liga, equipos = parse_league_and_teams(title)
         if not liga:
             liga = item.get("category") or ""
+        # Si la liga luce incorrecta o genérica, intentar inferir por equipos
+        liga_inferida = infer_liga_from_equipos(equipos)
+        if liga_inferida:
+            liga = liga_inferida
         link = item.get("link") or ""
         canales = [{"nombre": "StreamX10", "url": link, "calidad": ""}] if link else []
         events.append(build_event(dt_arg, "", liga, equipos, canales, date_offset))
@@ -2142,6 +2372,16 @@ def parse_tvlibree(session: requests.Session) -> List[Dict[str, Any]]:
     base_date = (page_date.date() if page_date else today_arg_date().date())
 
     soup = BeautifulSoup(html_text, "html.parser")
+    class_meta = {
+        "NBA": {"liga": "NBA", "logo": LIGA_LOGOS.get("nba", ""), "deporte": "Basquet"},
+        "TE": {"deporte": "Tenis"},
+        "AR": {"pais": "Argentina", "logo": BANDERAS_PAIS.get("argentina", "")},
+        "CH": {"pais": "Chile", "logo": BANDERAS_PAIS.get("chile", "")},
+        "URU": {"pais": "Uruguay", "logo": BANDERAS_PAIS.get("uruguay", "")},
+        "COL": {"pais": "Colombia", "logo": BANDERAS_PAIS.get("colombia", "")},
+        "MEX": {"pais": "México", "logo": BANDERAS_PAIS.get("méxico", "")},
+        "PE": {"pais": "Perú", "logo": BANDERAS_PAIS.get("perú", "")},
+    }
     for item in soup.find_all("li"):
         time_span = item.find("span", class_="t")
         if not time_span:
@@ -2164,6 +2404,24 @@ def parse_tvlibree(session: requests.Session) -> List[Dict[str, Any]]:
                 logo = "https:" + flag_src
             else:
                 logo = make_abs_url("https://tvtvhd.com/", flag_src)
+
+        class_codes = [c.upper() for c in (item.get("class") or []) if isinstance(c, str)]
+        for code in class_codes:
+            meta = class_meta.get(code)
+            if not meta:
+                continue
+            if meta.get("liga"):
+                liga = meta["liga"]
+            if meta.get("logo"):
+                logo = meta["logo"]
+            if meta.get("pais"):
+                # embed hint into equipos to aid pais inference
+                equipos = equipos
+            if meta.get("deporte"):
+                # prepend tag to help deporte inference
+                liga = meta.get("liga", liga) or liga
+            # Aplicar solo primer match relevante
+            break
 
         try:
             dt_source = datetime.strptime(f"{base_date} {time_str}", "%Y-%m-%d %H:%M")
@@ -2340,7 +2598,7 @@ def canonical_equipos_key(equipos: str) -> str:
     """Genera una clave canónica de equipos para detectar duplicados aunque varíe el separador."""
     if not equipos:
         return ""
-    txt = equipos
+    txt = fix_encoding(equipos)
     # Unificar separadores habituales
     txt = re.sub(r"\s+[-–—:]\s+", " vs ", txt)
     txt = re.sub(r"\s+v\s+", " vs ", txt, flags=re.IGNORECASE)
@@ -2356,6 +2614,11 @@ def canonical_equipos_key(equipos: str) -> str:
             "alittifaq": "alittifaq",
             "alettifaq": "alittifaq",
             "aletifaq": "alittifaq",
+            "lanaus": "lanus",
+            "lanas": "lanus",
+            "lanass": "lanus",
+            "lanuss": "lanus",
+            "lanus": "lanus",
         }
         for src, dst in aliases.items():
             if src in t:
@@ -2397,6 +2660,30 @@ def merge_events(events: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """
     merged: Dict[Tuple[str, str], Dict[str, Any]] = {}
 
+    def is_elcanal_logo(url: str) -> bool:
+        return bool(url) and "elcanaldeportivo.com" in url
+
+    def logo_priority(url: str) -> int:
+        if not url:
+            return 0
+        host = (urlparse(url).hostname or "").lower()
+        if "elcanaldeportivo.com" in host:
+            return 3
+        if any(token in host for token in ("tvlibree", "tvtvhd", "bestleague")):
+            return 2
+        return 1
+
+    def choose_logo(existing_logo: str, new_logo: str, canonical_logo: str) -> str:
+        candidates = [existing_logo, new_logo, canonical_logo]
+        best = existing_logo
+        best_score = logo_priority(best)
+        for candidate in candidates[1:]:
+            score = logo_priority(candidate)
+            if score > best_score or (score == best_score and candidate and not best):
+                best = candidate
+                best_score = score
+        return best
+
     def choose_liga(existing_liga: str, new_liga: str, equipos: str) -> str:
         """Elige la liga preferida entre dos opciones.
         Prioridad: que tenga logo canónico disponible; luego la más descriptiva (más larga)."""
@@ -2435,14 +2722,11 @@ def merge_events(events: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             chosen_liga = choose_liga(existing.get("liga", ""), event.get("liga", ""), existing.get("equipos", ""))
             existing["liga"] = chosen_liga
 
-            # Logo: preferir el canónico de la liga elegida; si no, mantener existente o nuevo si estaba vacío
+            # Logo: prioridad elcanaldeportivo > tvlibree/tvtvhd > otros; luego canónico
             logo_existing = existing.get("logo", "")
             logo_new = event.get("logo", "")
             canonical_logo = infer_logo(chosen_liga, existing.get("equipos", "")) if chosen_liga else ""
-            if canonical_logo:
-                existing["logo"] = canonical_logo
-            elif not logo_existing and logo_new:
-                existing["logo"] = logo_new
+            existing["logo"] = choose_logo(logo_existing, logo_new, canonical_logo)
 
             # Deporte
             if not existing.get("deporte") and event.get("deporte"):
@@ -2562,6 +2846,10 @@ def sync_to_github(json_path: Path) -> None:
     branch = "main"
     github_file = "partidos.json"
 
+    if not token:
+        logger.error("GitHub: falta GITHUB_TOKEN en entorno")
+        return
+
     try:
         with open(json_path, "r", encoding="utf-8") as f:
             content = f.read()
@@ -2569,7 +2857,7 @@ def sync_to_github(json_path: Path) -> None:
         content_b64 = base64.b64encode(content.encode("utf-8")).decode("utf-8")
 
         headers = {
-            "Authorization": f"token {token}",
+            "Authorization": f"Bearer {token}",
             "Accept": "application/vnd.github.v3+json"
         }
         url = f"https://api.github.com/repos/{owner}/{repo}/contents/{github_file}"
@@ -2617,6 +2905,9 @@ def filtrar_eventos_pasados(events: list) -> list:
 
 
 def main() -> None:
+    # Cargar variables de entorno desde .env (si existe)
+    load_env_file()
+    
     # Cargar caché de ChatGPT
     load_chatgpt_cache()
     

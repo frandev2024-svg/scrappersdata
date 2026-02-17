@@ -8,12 +8,22 @@ import json
 import logging
 import os
 import re
+import sys
 import time
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+
+# Agregar el directorio padre al path para importar el extractor
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+try:
+    from scraper_embed_extractor import extract_from_embed
+    M3U8_EXTRACTOR_AVAILABLE = True
+except ImportError:
+    M3U8_EXTRACTOR_AVAILABLE = False
+    print("AVISO: scraper_embed_extractor no disponible, no se extraerán URLs m3u8")
 
 POSEIDON_BASE_URL = "https://www.poseidonhd2.co"
 MOVIES_URL = f"{POSEIDON_BASE_URL}/peliculas"
@@ -23,12 +33,13 @@ logger = logging.getLogger(__name__)
 
 
 class PoseidonMoviesScraper:
-    def __init__(self):
+    def __init__(self, extract_m3u8: bool = True):
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         })
         self.processed_movie_ids = set()
+        self.extract_m3u8 = extract_m3u8 and M3U8_EXTRACTOR_AVAILABLE
 
     def _workspace_root(self) -> str:
         """Devuelve la ruta base del workspace (dos niveles arriba)."""
@@ -236,6 +247,22 @@ class PoseidonMoviesScraper:
     def _is_doodstream(self, value: str) -> bool:
         return "doodstream" in value.lower()
 
+    def _extract_m3u8_for_server(self, embed_url: str) -> Optional[str]:
+        """Extrae la URL m3u8 de un embed usando el extractor."""
+        if not self.extract_m3u8 or not embed_url:
+            return None
+        try:
+            result = extract_from_embed(embed_url)
+            if result and result.get('best_url'):
+                logger.debug(f"M3U8 extraído: {result['best_url'][:60]}...")
+                return result['best_url']
+            else:
+                error = result.get('error', 'Sin URL') if result else 'Sin resultado'
+                logger.debug(f"No se pudo extraer m3u8 de {embed_url}: {error}")
+        except Exception as exc:
+            logger.debug(f"Error extrayendo m3u8 de {embed_url}: {exc}")
+        return None
+
     def _extract_movie_servers(self, movie_url: str) -> List[Dict]:
         """Extrae servidores y links finales de una pelicula."""
         servers: List[Dict] = []
@@ -278,12 +305,18 @@ class PoseidonMoviesScraper:
                     if self._is_doodstream(server_name):
                         continue
 
-                    servers.append({
+                    server_entry = {
                         "server": server_name,
                         "quality": quality or "HD",
                         "language": language,
                         "embed_url": final_url,
-                    })
+                    }
+                    # Extraer m3u8 si está habilitado
+                    if self.extract_m3u8:
+                        m3u8_result = self._extract_m3u8_for_server(final_url)
+                        if m3u8_result:
+                            server_entry["m3u8_url"] = m3u8_result
+                    servers.append(server_entry)
 
             if not servers:
                 for li in soup.find_all("li", attrs={"data-tr": True}):
@@ -297,12 +330,18 @@ class PoseidonMoviesScraper:
                     server_name = parsed.netloc.replace("www.", "") if parsed.netloc else ""
                     if self._is_doodstream(server_name):
                         continue
-                    servers.append({
+                    server_entry = {
                         "server": server_name,
                         "quality": "HD",
                         "language": "LATINO",
                         "embed_url": final_url,
-                    })
+                    }
+                    # Extraer m3u8 si está habilitado
+                    if self.extract_m3u8:
+                        m3u8_result = self._extract_m3u8_for_server(final_url)
+                        if m3u8_result:
+                            server_entry["m3u8_url"] = m3u8_result
+                    servers.append(server_entry)
 
         except Exception as exc:
             logger.error(f"Error extrayendo servidores de {movie_url}: {exc}")
@@ -338,10 +377,22 @@ class PoseidonMoviesScraper:
                 merged[key] = value
 
         merged["servers"] = self._normalize_servers(merged.get("servers"))
-        existing_servers = {(s.get("server"), s.get("language"), s.get("embed_url")) for s in merged["servers"]}
+        
+        # Crear índice de servidores existentes por clave (server, language, embed_url)
+        existing_servers_map = {}
+        for i, s in enumerate(merged["servers"]):
+            key = (s.get("server"), s.get("language"), s.get("embed_url"))
+            existing_servers_map[key] = i
+        
         for server in new_servers:
             key = (server.get("server"), server.get("language"), server.get("embed_url"))
-            if key not in existing_servers:
+            if key in existing_servers_map:
+                # Servidor ya existe - actualizar con m3u8_url si el nuevo lo tiene
+                idx = existing_servers_map[key]
+                if server.get("m3u8_url") and not merged["servers"][idx].get("m3u8_url"):
+                    merged["servers"][idx]["m3u8_url"] = server["m3u8_url"]
+            else:
+                # Servidor nuevo - agregar
                 merged["servers"].append(server)
 
         return self._normalize_movie_record(merged)
@@ -417,6 +468,10 @@ class PoseidonMoviesScraper:
 
     def run(self, max_pages: Optional[int] = None, max_movies: Optional[int] = None, custom_url: Optional[str] = None):
         logger.info("Iniciando scraper de peliculas Poseidon...")
+        if self.extract_m3u8:
+            logger.info("Extracción de URLs m3u8 HABILITADA")
+        else:
+            logger.info("Extracción de URLs m3u8 DESHABILITADA")
         movies_map = self._load_existing_movies()
 
         # Determinar URL inicial
@@ -498,10 +553,11 @@ def main():
         - Lista/tendencias: https://www.poseidonhd2.co/peliculas/tendencias/semana
         - Por genero: https://www.poseidonhd2.co/genero/accion
         - Pelicula directa: https://www.poseidonhd2.co/pelicula/338969/the-toxic-avenger""")
+    parser.add_argument("--no-m3u8", action="store_true", help="No extraer URLs m3u8 de los embeds")
 
     args = parser.parse_args()
 
-    scraper = PoseidonMoviesScraper()
+    scraper = PoseidonMoviesScraper(extract_m3u8=not args.no_m3u8)
     scraper.run(max_pages=args.max_pages, max_movies=args.max_movies, custom_url=args.url)
 
 

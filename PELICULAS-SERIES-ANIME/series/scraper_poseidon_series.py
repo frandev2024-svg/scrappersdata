@@ -887,6 +887,59 @@ class PoseidonSeriesScraper:
         self._save_series(series_map)
         logger.info("Scraping completado.")
 
+    def run_single(self, series_url: str, max_episodes: Optional[int] = None):
+        """Procesa una unica serie dada su URL absoluta o relativa."""
+        if not series_url:
+            logger.error("No se proporciono URL de serie")
+            return
+
+        if series_url.startswith("/"):
+            series_url = urljoin(POSEIDON_BASE_URL, series_url)
+
+        tmdb_id = self._extract_tmdb_id_from_url(series_url)
+        if not tmdb_id:
+            logger.error("No se pudo extraer TMDB ID de la URL: %s", series_url)
+            return
+
+        series_map = self._load_existing_series()
+
+        logger.info("Procesando serie unica: %s", series_url)
+        info, seasons = self._parse_series_info(series_url)
+        if not info:
+            logger.error("No se pudo obtener informacion de la serie")
+            return
+
+        existing = series_map.get(tmdb_id)
+        existing_eps = {(e.get("season"), e.get("episode")) for e in existing.get("episodios", [])} if existing else set()
+
+        new_episodes: List[Dict] = []
+        for season_number in seasons:
+            if season_number == 0:
+                continue
+            episode_cards = self._extract_episode_cards(series_url, season_number)
+            for ep in episode_cards:
+                ep_num = ep.get("episode")
+                if max_episodes and len(new_episodes) >= max_episodes:
+                    break
+                if (season_number, ep_num) in existing_eps:
+                    continue
+
+                servers = self._extract_episode_servers(ep.get("url"))
+                new_episodes.append({
+                    "season": season_number,
+                    "episode": ep_num,
+                    "title": ep.get("title") or f"Episodio {ep_num}",
+                    "servidores": servers,
+                })
+                time.sleep(0.5)
+
+            if max_episodes and len(new_episodes) >= max_episodes:
+                break
+
+        series_map[tmdb_id] = self._merge_series(existing, info, new_episodes)
+        self._save_series(series_map)
+        logger.info("✅ Serie unica procesada: %s (nuevos episodios: %d)", info.get("name"), len(new_episodes))
+
 
 def main():
     import argparse
@@ -895,6 +948,7 @@ def main():
     parser.add_argument("--max-pages", type=int, default=None, help="Numero maximo de paginas")
     parser.add_argument("--max-series", type=int, default=None, help="Numero maximo de series")
     parser.add_argument("--max-episodes", type=int, default=None, help="Numero maximo de episodios por corrida")
+    parser.add_argument("--series-url", type=str, default=None, help="URL de una serie especifica a procesar (ej: https://www.poseidonhd2.co/serie/44006/chicago-fire)")
     parser.add_argument("--debug-season-url", type=str, default=None, help="URL de temporada para debug")
     parser.add_argument("--debug-episode-url", type=str, default=None, help="URL de episodio para debug")
 
@@ -903,7 +957,10 @@ def main():
     scraper = PoseidonSeriesScraper()
     scraper.debug_season_url = args.debug_season_url
     scraper.debug_episode_url = args.debug_episode_url
-    scraper.run(max_pages=args.max_pages, max_series=args.max_series, max_episodes=args.max_episodes)
+    if args.series_url:
+        scraper.run_single(args.series_url, max_episodes=args.max_episodes)
+    else:
+        scraper.run(max_pages=args.max_pages, max_series=args.max_series, max_episodes=args.max_episodes)
 
 
 if __name__ == "__main__":

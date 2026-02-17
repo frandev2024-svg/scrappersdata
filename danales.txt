@@ -1,0 +1,92 @@
+ const channels = [
+      
+      { name: "DIRECTV ARGENTINA", url: "https://welivesports.shop/embed/directvarg.php" },
+            { name: "DIRECTV ARGENTINA 2", url: "https://welivesports.shop/embed/directv2arg.php" },
+
+
+
+            { name: "ESPN 1 Argentina", url: "https://welivesports.shop/embed/espn1arg.php" },
+            { name: "ESPN 2 Argentina", url: "https://welivesports.shop/embed/espn2arg.php" },
+{ name: "ESPN Premium Argentina", url: "https://welivesports.shop/embed/espnpremarg.php" },
+
+
+{ name: "FOX Sports 1 Argentina", url: "https://welivesports.shop/embed/foxsp1arg.php" },
+            { name: "FOX Sports 2 Argentina", url: "https://welivesports.shop/embed/foxsp2arg.php" },
+            
+            { name: "TNT Sports Premium Argentina", url: "https://welivesports.shop/embed/tntsportarg.php" },
+            { name: "TYC Sports Argentina", url: "https://welivesports.shop/embed/tycsportarg.php" },
+            { name: "TNT Sports Premium Chile", url: "https://welivesports.shop/embed/tntsportchile.php" },
+
+{ name: "FOX Sports 1 Mexico", url: "https://welivesports.shop/embed/foxsp1mx.php" },
+            { name: "FOX Sports 2 Mexico", url: "https://welivesports.shop/embed/foxsp2mx.php" },
+            { name: "FOX Sports 3 Mexico", url: "https://welivesports.shop/embed/foxsp3mx.php" },
+            { name: "FOX Sports 4 Mexico", url: "https://welivesports.shop/embed/foxsp4mx.php" },
+{ name: "FOX Sports Premium Mexico", url: "https://welivesports.shop/embed/foxsppremiummx.php" },
+{ name: "NU9VE Mexico", url: "https://welivesports.shop/embed/nu9ve.php" },
+
+  { name: "ESPN 1 Mexico", url: "https://welivesports.shop/embed/espn1mx.php" },
+            { name: "ESPN 2 Mexico", url: "https://welivesports.shop/embed/espn2mx.php" },
+            { name: "ESPN 3 Mexico", url: "https://welivesports.shop/embed/espn3mx.php" },
+            { name: "ESPN 4 Mexico", url: "https://welivesports.shop/embed/espn4mx.php" },
+         { name: "Azteca 7 Mexico", url: "https://welivesports.shop/embed/azteca7mx.php" },
+
+
+{ name: "WIN SPORT PLUS", url: "https://welivesports.shop/embed/winpluscol.php" },
+            { name: "ESPN 1 Colombia", url: "https://welivesports.shop/embed/espn1col.php" },
+            { name: "ESPN 2 Colombia", url: "https://welivesports.shop/embed/espn2col.php" },
+            { name: "ESPN 3 Colombia", url: "https://welivesports.shop/embed/espn3col.php" },
+            { name: "ESPN 4 Colombia", url: "https://welivesports.shop/embed/espn4col.php" },
+            { name: "ESPN 5 Colombia", url: "https://welivesports.shop/embed/espn5col.php" },
+            { name: "ESPN 6 Colombia", url: "https://welivesports.shop/embed/espn6col.php" },
+            { name: "ESPN 7 Colombia", url: "https://welivesports.shop/embed/espn7col.php" },
+
+
+
+{ name: "Movistar + LaLiga", url: "https://welivesports.shop/embed/mlaliga.php" },
+{ name: "Movistar + LaLiga 2", url: "https://welivesports.shop/embed/mlaliga2.php" },
+{ name: "Movistar + LaLiga 3", url: "https://welivesports.shop/embed/mlaliga3.php" },
+{ name: "Movistar + LaLiga 4", url: "https://welivesports.shop/embed/mlaliga4.php" },
+{ name: "Movistar + LaLiga 5", url: "https://welivesports.shop/embed/mlaliga5.php" },
+{ name: "DAZN LaLiga Spain", url: "https://welivesports.shop/embed/daznlaliga.php" },
+ { name: "DAZN F1 Spain", url: "https://welivesports.shop/embed/daznf1es.php" },
+ { name: "DAZN 1 Spain", url: "https://welivesports.shop/embed/dazn1es.php" },
+            { name: "DAZN 2 Spain", url: "https://welivesports.shop/embed/dazn2es.php" },
+            { name: "DAZN 3 Spain", url: "https://welivesports.shop/embed/dazn3es.php" },
+            { name: "DAZN 4 Spain", url: "https://welivesports.shop/embed/dazn4es.php" },
+
+  { name: "Movistar deportes", url: "https://welivesports.shop/embed/mdeportes.php" },
+    { name: "Movistar deportes 2", url: "https://welivesports.shop/embed/mdeportes2.php" },
+  { name: "Movistar Campeones", url: "https://welivesports.shop/embed/mcampeones.php" },
+            { name: "Movistar Campeones 2", url: "https://welivesports.shop/embed/mcampeones2.php" },
+            { name: "Movistar Campeones 3", url: "https://welivesports.shop/embed/mcampeones2.php" },
+
+            { name: "LA LIGA TV Hypermotion Spain", url: "https://welivesports.shop/embed/mlaligahyper.php" },
+            
+            
+            
+            { name: "DAZN 1 PT", url: "https://welivesports.shop/embed/dazn1pt.php" },
+            { name: "DAZN 2 PT", url: "https://welivesports.shop/embed/dazn2pt.php" },
+            { name: "DAZN 3 PT", url: "https://welivesports.shop/embed/dazn3pt.php" },
+            { name: "DAZN 4 PT", url: "https://welivesports.shop/embed/dazn4pt.php" },
+            
+
+           
+ { name: "Sport Tv 1 PT", url: "https://welivesports.shop/embed/sporttv1pt.php" },
+            { name: "Sport Tv 2 PT", url: "https://welivesports.shop/embed/sporttv2pt.php" },
+            { name: "Sport Tv 3 PT", url: "https://welivesports.shop/embed/sporttv3pt.php" },
+            { name: "Sport Tv 4 PT", url: "https://welivesports.shop/embed/sporttv4pt.php" },
+            { name: "Sport Tv 5 PT", url: "https://welivesports.shop/embed/sporttv5pt.php" },
+            { name: "Fox Deportes ", url: "https://welivesports.shop/embed/foxdeportes.php" },
+            { name: "Universo ", url: "https://welivesports.shop/embed/universo.php" },
+            { name: "Telemundo ", url: "https://welivesports.shop/embed/telemundo.php" },
+            { name: "ESPN Deportes", url: "https://welivesports.shop/embed/espndeportes.php" },
+            { name: "TNT Usa", url: "https://welivesports.shop/embed/tntusa.php" },
+            { name: "Usa Network", url: "https://welivesports.shop/embed/usanetwork.php" },
+            { name: "TBS Usa", url: "https://welivesports.shop/embed/tbs.php" },
+            { name: "Gol Peru", url: "https://welivesports.shop/embed/golperu.php" },
+            { name: "liga1max", url: "https://welivesports.shop/embed/liga1max.php" },
+            
+            
+            
+
+   ];

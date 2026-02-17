@@ -1,0 +1,329 @@
+[
+  {
+    "tmdb_id": 458156,
+    "title": "John Wick 3: Parabellum",
+    "year": "2019",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/0u9qe3zt9o1h",
+        "m3u8_url": "https://qCsH3mKRD1SG2.premilkyway.com/hls2/01/02563/mqhpjjuc3emb_n/master.m3u8?t=1YK7iloujiv1-3ImrO0HOYSfA2IWJpoZr83MML6GCcM&s=1771187853&e=129600&f=15143405&srv=js4BwLKgfmTMJmVh&i=0.4&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=7303"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/ja4c6net9gxb",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://filelions.to/v/0uwoy6vbrhkq",
+        "m3u8_url": "https://eTOjdo3Yv1iw.dramiyos-cdn.com/hls2/01/01240/0uwoy6vbrhkq_n/master.m3u8?t=mFA2MChEpHrRc95OO-9cPqSIBvTdk5eUy3xN8eZEXaA&s=1771187856&e=129600&f=6201163&srv=z3kWy3kwppM2&i=0.4&sp=500&p1=z3kWy3kwppM2&p2=z3kWy3kwppM2&asn=7303"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ge5qk4mjnyzv",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamtape.com/e/Q32lMBZ21OU0zdX",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://streamtape.com/e/Q32lMBZ21OU0zdX"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://hqq.tv/e/ck0veTd2NER6UThDaFVyQ25JTmRVQT09",
+        "m3u8_url": null,
+        "m3u8_error": null
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/1vws5ixk5jnj",
+        "m3u8_url": "https://54pkdcyxbsxbermn.premilkyway.com/hls2/01/04006/1vws5ixk5jnj_,n,h,.urlset/master.m3u8?t=_lOzXgcY_NCoXZYSTseGeExop6lBBRPd2NMxFsQaZfk&s=1771187863&e=129600&f=20031879&srv=amb5e6tvb&i=0.4&sp=500&p1=amb5e6tvb&p2=amb5e6tvb&asn=7303"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/n2838l3shi8n",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/orxt20qfrv33",
+        "m3u8_url": "https://dD2STLiWT0bC.dramiyos-cdn.com/hls2/01/01786/orxt20qfrv33_,l,n,.urlset/master.m3u8?t=omRqDZavvbxunQHqqSEufZHa3pbM8XFQRqlTloXXoMM&s=1771187866&e=129600&f=8932153&srv=qQ6JyG3sGYV8&i=0.4&sp=500&p1=qQ6JyG3sGYV8&p2=qQ6JyG3sGYV8&asn=7303"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/dgigziyutzky",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://hqq.tv/e/LzNoSm1YNHgxWE53SHZWclBwSGJhUT09",
+        "m3u8_url": null,
+        "m3u8_error": null
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/bwnrkz07r0wy",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/tdk1jzwfgdvs",
+        "m3u8_url": "https://dD2STLiWT0bC.dramiyos-cdn.com/hls2/01/01786/tdk1jzwfgdvs_l/master.m3u8?t=IjDLlXbR_Ofizf-ArJhcptYU1O8WtoekNspQ_wrwmKA&s=1771187872&e=129600&f=8932124&srv=lWe8CcvljpC03&i=0.4&sp=500&p1=lWe8CcvljpC03&p2=lWe8CcvljpC03&asn=7303"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/uhyj9ochyywx",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamtape.com/e/Gvlp2DP1wKi1XMW",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://streamtape.com/e/Gvlp2DP1wKi1XMW"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://hqq.tv/e/TXppTXNlYlZseENMVjdHNEhPSXBBQT09",
+        "m3u8_url": null,
+        "m3u8_error": null
+      }
+    ]
+  },
+  {
+    "tmdb_id": 324552,
+    "title": "John Wick 2: Un Nuevo Día para Matar",
+    "year": "2017",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/50fcal32etq8",
+        "m3u8_url": "https://sfastwish.com/stream/mzllr_QtRYF_H7DxhsffyA/kjhhiuahiuhgihdf/1771231079/12814016/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/dhlar1inzc0z",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/jdhss7y9z8ha",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/jdhss7y9z8ha"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamtape.com/e/drDvYMJ8YXUkxaZ",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://streamtape.com/e/drDvYMJ8YXUkxaZ"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://hqq.tv/e/M05PbGc2Y2J6L0lPWVVpYmlwaGZSQT09",
+        "m3u8_url": null,
+        "m3u8_error": null
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/gzswsfl8v0h8",
+        "m3u8_url": "https://27u55xdzmm9q.cdn-centaurus.com/hls2/01/03677/40b6x5xomz4t_,n,h,.urlset/master.m3u8?t=vryMeKlAK2Pyr3Bp5XMyHQOMmGUSM4YqYJTzk8SVv64&s=1771187886&e=129600&f=22421939&srv=lsgkpxzmgecn8yyd&i=0.4&sp=500&p1=lsgkpxzmgecn8yyd&p2=lsgkpxzmgecn8yyd&asn=7303"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/i0z77ee1vd0p",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/b8frg2lnbqqz",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://hqq.tv/e/d1diTHJkUE9BKytzUGs5WS94QkJCUT09",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/k3ijewmc8459",
+        "m3u8_url": "https://ngr2dnwrdasv7gvg.cdn-centaurus.com/hls2/01/03677/xa0et8hzijfj_,n,h,.urlset/master.m3u8?t=G9FbwbZUF8L_leZeSg-6hm9OdMy9soZ_WFNlh_OOfaM&s=1771187893&e=129600&f=22421968&srv=1ghkpx2e8jnal&i=0.4&sp=500&p1=1ghkpx2e8jnal&p2=1ghkpx2e8jnal&asn=7303"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/axcoigvcs6r7",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/ymvgfkccfmro",
+        "m3u8_url": null,
+        "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://hqq.tv/e/bHk1bHY4OXFSZzNJaklqcm0yeStRQT09",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 603692,
+    "title": "John Wick 4",
+    "year": "2023",
+    "servers": [
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamtape.com/e/zlq2AyoZZlSYq9W",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://streamtape.com/e/zlq2AyoZZlSYq9W"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Rzto8pPPTjJ9",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamtape.com/e/qa0aA0M9oOfzzvr",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://streamtape.com/e/qa0aA0M9oOfzzvr"
+      },
+      {
+        "server": "streamtape",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamtape.com/e/o9Be0zqdLxCJ6A1",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://streamtape.com/e/o9Be0zqdLxCJ6A1"
+      }
+    ]
+  },
+  {
+    "tmdb_id": 291984,
+    "title": "The Death and Life of John F. Donovan",
+    "year": "2019",
+    "servers": [
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://filelions.to/v/91rc1fw285oa",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/xkv3kyeaolq6",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/xkv3kyeaolq6"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/fCykYsQSMJhM",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://filelions.to/v/r5iaeqwp8xlb",
+        "m3u8_url": null,
+        "m3u8_error": "No se encontró código JavaScript ofuscado"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/7achmoc6aesy",
+        "m3u8_url": null,
+        "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/7achmoc6aesy"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/83VH9V9QAbjR",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ]
+  }
+]

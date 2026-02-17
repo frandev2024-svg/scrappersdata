@@ -1,0 +1,36 @@
+name: Ejecutar todos los scrapers y subir a GitHub
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Todos los días a las 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Necesario para que el GITHUB_TOKEN pueda subir archivos
+
+jobs:
+  run-scrapers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install requests beautifulsoup4
+
+      - name: Ejecutar todos los scrapers
+        run: |
+          python run_all_scrapers.py
+        env:
+          # Usa PAT_TOKEN si existe; si no, usa el GITHUB_TOKEN automático
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
