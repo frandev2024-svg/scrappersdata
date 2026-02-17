@@ -2,7 +2,7 @@ name: Ejecutar todos los scrapers y subir a GitHub
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Todos los días a las 03:00 UTC
+    - cron: '0 11 * * *'  # Todos los días a las 11:00 UTC (08:00 AR, UTC-3)
   workflow_dispatch:
 
 permissions:
