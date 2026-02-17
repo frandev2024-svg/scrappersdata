@@ -1,1967 +1,5 @@
 [
   {
-    "hora_utc": "2026-02-16T18:00:00Z",
-    "hora_argentina": "2026-02-16 15:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Ski Jumping Men's Team Event",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "OKKOSPORT2",
-        "url": "https://antenasport.top/okkosport2.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY6NZ",
-        "url": "https://antenasport.top/sky6nz.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T18:00:00Z",
-    "hora_argentina": "2026-02-16 15:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Bobsleigh W Monobob Heat 3 & 4 F",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY7NZ",
-        "url": "https://antenasport.top/sky7nz.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T18:00:00Z",
-    "hora_argentina": "2026-02-16 15:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Curling Women's Japan vs Canada",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY9NZ",
-        "url": "https://antenasport.top/sky9nz.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T18:00:00Z",
-    "hora_argentina": "2026-02-16 15:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Curling Women's Switzerland vs Great Britain",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY2NZ",
-        "url": "https://antenasport.top/sky2nz.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T18:15:00Z",
-    "hora_argentina": "2026-02-16 15:15",
-    "logo": "https://bestleague.world/jr/104.png",
-    "liga": "Afc Champions League Elite",
-    "equipos": "Al Hilal vs Al Wahda",
-    "deporte": "Fútbol",
-    "pais": "Arabia Saudita",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 3 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T18:15:00Z",
-    "hora_argentina": "2026-02-16 15:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/350.png",
-    "liga": "Afc Champions League Elite",
-    "equipos": "Al Hilal vs. Al Wahda 19:15",
-    "deporte": "Fútbol",
-    "pais": "Europa",
-    "canales": [
-      {
-        "nombre": "DISNEY+ CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=disney1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 3 MX CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=espn3mx",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T18:30:00Z",
-    "hora_argentina": "2026-02-16 15:30",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Freestyle Skiing W Freeski BA F",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY4NZ",
-        "url": "https://antenasport.top/sky4nz.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:00:00Z",
-    "hora_argentina": "2026-02-16 16:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Figure Skating Day 10 F",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY9NZ",
-        "url": "https://antenasport.top/sky9nz.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:00:00Z",
-    "hora_argentina": "2026-02-16 16:00",
-    "logo": "",
-    "liga": "Eerste Divisie",
-    "equipos": "Utrecht II vs Willem II",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN 2 NL",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2_nl",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:00:00Z",
-    "hora_argentina": "2026-02-16 16:00",
-    "logo": "",
-    "liga": "Eerste Divisie",
-    "equipos": "Ajax II vs Cambuur",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ESPN NL",
-        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN NL | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN NL | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:30:00Z",
-    "hora_argentina": "2026-02-16 16:30",
-    "logo": "https://bestleague.world/jr/34.png",
-    "liga": "Laliga Smartbank",
-    "equipos": "Real Sociedad II vs Málaga",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=hyper1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "LALIGA TV HYPERMOTION",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:30:00Z",
-    "hora_argentina": "2026-02-16 16:30",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Premier League",
-    "equipos": "Macclesfield vs Brentford",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=foxone1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 5 (WIGI)",
-        "url": "https://bolaloca.my/player/1/5",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 5 (HOCA)",
-        "url": "https://bolaloca.my/player/2/5",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 5 (CAST)",
-        "url": "https://bolaloca.my/player/3/5",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK TNT SPORT (WIGI)",
-        "url": "https://bolaloca.my/player/1/126",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK TNT SPORT (HOCA)",
-        "url": "https://bolaloca.my/player/2/126",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK TNT SPORT (CAST)",
-        "url": "https://bolaloca.my/player/3/126",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/124",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/124",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/124",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/148",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/148",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/148",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MAXTNT1",
-        "url": "https://antenasport.top/maxtnt1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 8",
-        "url": "https://antenasport.top/8.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 31",
-        "url": "https://antenasport.top/31.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SPORT1IL",
-        "url": "https://antenasport.top/sport1il.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SETANTAUKRAINE",
-        "url": "https://antenasport.top/setantaukraine.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENA4PREMIUMSERBIA",
-        "url": "https://antenasport.top/arena4premiumserbia.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENASPORT3HR",
-        "url": "https://antenasport.top/arenasport3hr.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 128",
-        "url": "https://miatvhd.xyz/reproductor/canal128.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even9",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:30:00Z",
-    "hora_argentina": "2026-02-16 16:30",
-    "logo": "https://bestleague.world/jr/34.png",
-    "liga": "Laliga 2",
-    "equipos": "Real Sociedad B - Malaga",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "BEIN MAX 6 (WIGI)",
-        "url": "https://bolaloca.my/player/1/6",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 6 (HOCA)",
-        "url": "https://bolaloca.my/player/2/6",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 6 (CAST)",
-        "url": "https://bolaloca.my/player/3/6",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES LALIGA HYPERMOTION (WIGI)",
-        "url": "https://bolaloca.my/player/1/53",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES LALIGA HYPERMOTION (HOCA)",
-        "url": "https://bolaloca.my/player/2/53",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES LALIGA HYPERMOTION (CAST)",
-        "url": "https://bolaloca.my/player/3/53",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 80",
-        "url": "https://miatvhd.xyz/reproductor/canal80.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:30:00Z",
-    "hora_argentina": "2026-02-16 16:30",
-    "logo": "https://bestleague.world/jr/34.png",
-    "liga": "La Liga",
-    "equipos": "Real Sociedad II vs Málaga Segunda Division",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "LIGA1",
-        "url": "https://antenasport.top/liga1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEINSPORT2EN",
-        "url": "https://antenasport.top/beinsport2en.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MEGOGOSPORT",
-        "url": "https://antenasport.top/megogosport.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 26",
-        "url": "https://antenasport.top/26.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENASPORT6HR",
-        "url": "https://antenasport.top/arenasport6hr.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENASPORT2SR",
-        "url": "https://antenasport.top/arenasport2sr.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:30:00Z",
-    "hora_argentina": "2026-02-16 16:30",
-    "logo": "https://bestleague.world/jr/61.png",
-    "liga": "Fa Cup",
-    "equipos": "Macclesfield vs. Brentford 20:30",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "DISNEY+ CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=disney2",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:30:00Z",
-    "hora_argentina": "2026-02-16 16:30",
-    "logo": "https://bestleague.world/jr/34.png",
-    "liga": "Laliga 2",
-    "equipos": "Real Sociedad II vs. Málaga 20:30",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "LALIGATV HYPERMOTION CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=laligahypermotion",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:45:00Z",
-    "hora_argentina": "2026-02-16 16:45",
-    "logo": "https://elcanaldeportivo.com/img/it.png",
-    "liga": "Serie A",
-    "equipos": "Cagliari vs. US Lecce",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://elcanaldeportivo.com/espn2hd.php",
-        "calidad": "720P"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:45:00Z",
-    "hora_argentina": "2026-02-16 16:45",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Cagliari vs Lecce",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney3",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "IT SKYCALCIO (WIGI)",
-        "url": "https://bolaloca.my/player/1/138",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "IT SKYCALCIO (HOCA)",
-        "url": "https://bolaloca.my/player/2/138",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "IT SKYCALCIO (CAST)",
-        "url": "https://bolaloca.my/player/3/138",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/145",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/145",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/145",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/149",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/149",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/149",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/88",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/88",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2 (CAST)",
-        "url": "https://bolaloca.my/player/3/88",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 9",
-        "url": "https://antenasport.top/9.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 29",
-        "url": "https://antenasport.top/29.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SPORT4IL",
-        "url": "https://antenasport.top/sport4il.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MATCH1",
-        "url": "https://antenasport.top/match1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENASPORT4HR",
-        "url": "https://antenasport.top/arenasport4hr.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 32",
-        "url": "https://miatvhd.xyz/reproductor/canal32.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 31",
-        "url": "https://miatvhd.xyz/reproductor/canal31.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:45:00Z",
-    "hora_argentina": "2026-02-16 16:45",
-    "logo": "https://elcanaldeportivo.com/img/fr.png",
-    "liga": "Ligue 2",
-    "equipos": "Bastia - Troyes",
-    "deporte": "Fútbol",
-    "pais": "Francia",
-    "canales": [
-      {
-        "nombre": "BEIN 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/1",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T19:45:00Z",
-    "hora_argentina": "2026-02-16 16:45",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Cagliari vs. Lecce 20:45",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "ESPN 2 CALIDAD 720P",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjJfQXJn",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=espn2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/espn2arg.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/espn2col.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 CALIDAD 720P",
-        "url": "https://elcanaldeportivo.com/espn2hd.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 CALIDAD 720P",
-        "url": "https://rereyano.ru/player/3/88",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 2 CALIDAD 720P",
-        "url": "https://nebunexa.life/tok.html?get=RVNQTjJfQXJn",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+ CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=disney3",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:00:00Z",
-    "hora_argentina": "2026-02-16 17:00",
-    "logo": "https://elcanaldeportivo.com/img/es.png",
-    "liga": "Laliga",
-    "equipos": "Girona vs. FC Barcelona",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "DSPORTS",
-        "url": "https://elcanaldeportivo.com/directvsports.php",
-        "calidad": "720P"
-      },
-      {
-        "nombre": "DSPORTS (SHARECAST)",
-        "url": "https://elcanaldeportivo.com/dsports-sharecast.php",
-        "calidad": "720P"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:00:00Z",
-    "hora_argentina": "2026-02-16 17:00",
-    "logo": "https://bestleague.world/jr/34.png",
-    "liga": "La Liga",
-    "equipos": "Girona vs Barcelona",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=dsports",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=skylaliga",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 2 (WIGI)",
-        "url": "https://bolaloca.my/player/1/2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 2 (HOCA)",
-        "url": "https://bolaloca.my/player/2/2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN 2 (CAST)",
-        "url": "https://bolaloca.my/player/3/2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES DAZN LIGA (WIGI)",
-        "url": "https://bolaloca.my/player/1/51",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES DAZN LIGA (HOCA)",
-        "url": "https://bolaloca.my/player/2/51",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ES DAZN LIGA (CAST)",
-        "url": "https://bolaloca.my/player/3/51",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/123",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/123",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE DAZN 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/123",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 3 (WIGI)",
-        "url": "https://bolaloca.my/player/1/150",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 3 (HOCA)",
-        "url": "https://bolaloca.my/player/2/150",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "GR SPORT 3 (CAST)",
-        "url": "https://bolaloca.my/player/3/150",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES (WIGI)",
-        "url": "https://bolaloca.my/player/1/71",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES (HOCA)",
-        "url": "https://bolaloca.my/player/2/71",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES (CAST)",
-        "url": "https://bolaloca.my/player/3/71",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DIRECTV (WIGI)",
-        "url": "https://bolaloca.my/player/1/94",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DIRECTV (HOCA)",
-        "url": "https://bolaloca.my/player/2/94",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DIRECTV (CAST)",
-        "url": "https://bolaloca.my/player/3/94",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 6",
-        "url": "https://antenasport.top/6.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 30",
-        "url": "https://antenasport.top/30.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 17",
-        "url": "https://antenasport.top/17.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEINSPORT1EN",
-        "url": "https://antenasport.top/beinsport1en.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MAXSPORT4BG",
-        "url": "https://antenasport.top/maxsport4bg.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENASPORT1HR",
-        "url": "https://antenasport.top/arenasport1hr.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "VIAPLAYLALIGA",
-        "url": "https://antenasport.top/viaplaylaliga.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPNDEPORTES",
-        "url": "https://antenasport.top/espndeportes.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SETANTASPORT2",
-        "url": "https://antenasport.top/setantasport2.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MOVISTARLIGA1",
-        "url": "https://antenasport.top/movistarliga1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENA1PREMIUMSERBIA",
-        "url": "https://antenasport.top/arena1premiumserbia.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DAZN1DE",
-        "url": "https://antenasport.top/dazn1de.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 68",
-        "url": "https://miatvhd.xyz/reproductor/canal68.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 66",
-        "url": "https://miatvhd.xyz/reproductor/canal66.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 65",
-        "url": "https://miatvhd.xyz/reproductor/canal65.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 64",
-        "url": "https://miatvhd.xyz/reproductor/canal64.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 63",
-        "url": "https://miatvhd.xyz/reproductor/canal63.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 62",
-        "url": "https://miatvhd.xyz/reproductor/canal62.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 61",
-        "url": "https://miatvhd.xyz/reproductor/canal61.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DSPORTS",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DSPORTS | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DSPORTS | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:00:00Z",
-    "hora_argentina": "2026-02-16 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png",
-    "liga": "Championship",
-    "equipos": "Coventry City vs Middlesbrough",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney4",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 8",
-        "url": "https://antenasport.top/8.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ANTENASPORT SERVIDOR 4",
-        "url": "https://antenasport.top/4.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKYMAIN",
-        "url": "https://antenasport.top/skymain.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SPORT2IL",
-        "url": "https://antenasport.top/sport2il.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SETANTASPORT1",
-        "url": "https://antenasport.top/setantasport1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CBSSPORTS",
-        "url": "https://antenasport.top/cbssports.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENA3PREMIUMSERBIA",
-        "url": "https://antenasport.top/arena3premiumserbia.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ARENASPORT2HR",
-        "url": "https://antenasport.top/arenasport2hr.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:00:00Z",
-    "hora_argentina": "2026-02-16 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png",
-    "liga": "Championship",
-    "equipos": "Coventry - Middlesbrough",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "BEIN MAX 7 (WIGI)",
-        "url": "https://bolaloca.my/player/1/7",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 7 (HOCA)",
-        "url": "https://bolaloca.my/player/2/7",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "BEIN MAX 7 (CAST)",
-        "url": "https://bolaloca.my/player/3/7",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK SKY MAIN (WIGI)",
-        "url": "https://bolaloca.my/player/1/127",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK SKY MAIN (HOCA)",
-        "url": "https://bolaloca.my/player/2/127",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "UK SKY MAIN (CAST)",
-        "url": "https://bolaloca.my/player/3/127",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE SKYDE PL (WIGI)",
-        "url": "https://bolaloca.my/player/1/120",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE SKYDE PL (HOCA)",
-        "url": "https://bolaloca.my/player/2/120",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DE SKYDE PL (CAST)",
-        "url": "https://bolaloca.my/player/3/120",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOXSPORT1 ARG (WIGI)",
-        "url": "https://bolaloca.my/player/1/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOXSPORT1 ARG (HOCA)",
-        "url": "https://bolaloca.my/player/2/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOXSPORT1 ARG (CAST)",
-        "url": "https://bolaloca.my/player/3/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2MX (WIGI)",
-        "url": "https://bolaloca.my/player/1/98",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2MX (HOCA)",
-        "url": "https://bolaloca.my/player/2/98",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2MX (CAST)",
-        "url": "https://bolaloca.my/player/3/98",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:00:00Z",
-    "hora_argentina": "2026-02-16 17:00",
-    "logo": "https://bestleague.world/jr/34.png",
-    "liga": "Laliga",
-    "equipos": "Girona vs. Barcelona 21:00",
-    "deporte": "Fútbol",
-    "pais": "España",
-    "canales": [
-      {
-        "nombre": "ESPN+ CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=espnplus1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN+ (ENGLISH) CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=espnplus2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DSPORTS CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=dsports",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DSPORTS CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/directvarg.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DSPORTS CALIDAD 720P",
-        "url": "https://bolaloca.my/player/3/94",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DSPORTS CALIDAD 720P",
-        "url": "https://elcanaldeportivo.com/directvsports.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=espndeportes",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/espndeportes.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES CALIDAD 720P",
-        "url": "https://rereyano.ru/player/2/71",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN DEPORTES CALIDAD 720P",
-        "url": "https://dlhd.dad/stream/stream-375.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:00:00Z",
-    "hora_argentina": "2026-02-16 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png",
-    "liga": "Championship",
-    "equipos": "Coventry City vs. Middlesbrough 21:00",
-    "deporte": "Fútbol",
-    "pais": "Inglaterra",
-    "canales": [
-      {
-        "nombre": "ESPN 5 CALIDAD 720P",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjQ=",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 5 CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=espn5",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 5 CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/espn5col.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 5 CALIDAD 720P",
-        "url": "https://elcanaldeportivo.com/espn5.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 5 CALIDAD 720P",
-        "url": "https://rereyano.ru/player/3/91",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 5 CALIDAD 720P",
-        "url": "https://nebunexa.life/tok.html?get=RVNQTjQ=",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://tvlibree.com/html/fl/?get=Rm94U3BvcnRz",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=fox1ar",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://welivesports.shop/embed/foxsp1arg.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://rereyano.ru/player/3/78",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "FOX SPORTS 1 CALIDAD 720P",
-        "url": "https://nebunexa.life/tok.html?get=Rm94U3BvcnRz",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+ CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=disney4",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:00:00Z",
-    "hora_argentina": "2026-02-16 17:00",
-    "logo": "",
-    "liga": "Garin vs Tirante - Rio Open",
-    "equipos": "Garin vs Tirante - Rio Open",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even10",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:10:00Z",
-    "hora_argentina": "2026-02-16 17:10",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Olympics",
-    "equipos": "Hockey Olympics Women's Semifinals: Canada vs Switzerland",
-    "deporte": "Juegos Olímpicos",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "nombre": "SKY4NZ",
-        "url": "https://antenasport.top/sky4nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT",
-        "url": "https://antenasport.top/okkosport.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT2",
-        "url": "https://antenasport.top/okkosport2.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T20:15:00Z",
-    "hora_argentina": "2026-02-16 17:15",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
-    "liga": "Liga Portugal",
-    "equipos": "Rio Ave - Moreirense",
-    "deporte": "Fútbol",
-    "pais": "Portugal",
-    "canales": [
-      {
-        "nombre": "PT SPORT 1 (WIGI)",
-        "url": "https://bolaloca.my/player/1/144",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 1 (HOCA)",
-        "url": "https://bolaloca.my/player/2/144",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PT SPORT 1 (CAST)",
-        "url": "https://bolaloca.my/player/3/144",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 40",
-        "url": "https://miatvhd.xyz/reproductor/canal40.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T21:00:00Z",
-    "hora_argentina": "2026-02-16 18:00",
-    "logo": "https://bestleague.world/jr/79.png",
-    "liga": "Campeonato Carioca",
-    "equipos": "Fluminense vs Bangu",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=premiere1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MIATVHD",
-        "url": "https://miatvhd.xyz/reproductor/gol.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 51",
-        "url": "https://miatvhd.xyz/reproductor/canal51.html",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PREMIERE BR",
-        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T21:00:00Z",
-    "hora_argentina": "2026-02-16 18:00",
-    "logo": "https://bestleague.world/jr/79.png",
-    "liga": "Campeonato Carioca",
-    "equipos": "Fluminense vs. Bangu 22:00",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "PREMIERE 1 BR CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=premiere1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "PREMIERE 1 BR CALIDAD 1080P",
-        "url": "https://bestleague.world/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtaHB1aTd3bG5tZnFnaC5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9uZWxmeXVjdzlhL291dC92MS82ZmZiMmMzNjVhZDE0Zjg4YjE1NDU5MWJlYjQzZDFmNi9jZW5jLm1wZA==&key=NTZiNzljMTc4MmIzMGU2YjZmYzk3M2IwZThmZDQxMDQ=&key2=ZmEzOGFhYTg2NWE1N2VkYTdjNzc0NDQ2OTdiYThlZDM=",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T22:00:00Z",
-    "hora_argentina": "2026-02-16 19:00",
-    "logo": "https://bestleague.world/jr/55.png",
-    "liga": "Futbol Argentino",
-    "equipos": "Deportivo Riestra vs Newell's Old Boys",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=espnpremium",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T22:00:00Z",
-    "hora_argentina": "2026-02-16 19:00",
-    "logo": "https://flagcdn.com/w320/uy.png",
-    "liga": "Primera División",
-    "equipos": "Albion vs Cerro",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney1",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney8",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T22:00:00Z",
-    "hora_argentina": "2026-02-16 19:00",
-    "logo": "https://bestleague.world/jr/56.png",
-    "liga": "Primera Division Uruguay",
-    "equipos": "Albion - CA Cerro",
-    "deporte": "Deportes",
-    "pais": "Uruguay",
-    "canales": [
-      {
-        "nombre": "VTV PLUS (WIGI)",
-        "url": "https://bolaloca.my/player/1/109",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "VTV PLUS (HOCA)",
-        "url": "https://bolaloca.my/player/2/109",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "VTV PLUS (CAST)",
-        "url": "https://bolaloca.my/player/3/109",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T22:00:00Z",
-    "hora_argentina": "2026-02-16 19:00",
-    "logo": "https://bestleague.world/jr/55.png",
-    "liga": "Torneo Lpf",
-    "equipos": "Dep. Riestra - Newells Old Boys",
-    "deporte": "Deportes",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "ESPN PREMIUM (WIGI)",
-        "url": "https://bolaloca.my/player/1/76",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM (HOCA)",
-        "url": "https://bolaloca.my/player/2/76",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM (CAST)",
-        "url": "https://bolaloca.my/player/3/76",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T22:00:00Z",
-    "hora_argentina": "2026-02-16 19:00",
-    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/arg.png",
-    "liga": "Deportivo Riestra vs Newells",
-    "equipos": "Deportivo Riestra vs Newells",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "CANAL 70",
-        "url": "https://miatvhd.xyz/reproductor/canal70.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T22:00:00Z",
-    "hora_argentina": "2026-02-16 19:00",
-    "logo": "https://flagcdn.com/w320/uy.png",
-    "liga": "Primera División",
-    "equipos": "Albion vs. Cerro 23:00",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "DISNEY+ CALIDAD 720P",
-        "url": "https://streamtp10.com/global1.php?stream=disney1",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-16T22:00:00Z",
-    "hora_argentina": "2026-02-16 19:00",
-    "logo": "https://elcanaldeportivo.com/img/ar.png",
-    "liga": "Futbol Argentino",
-    "equipos": "Deportivo Riestra vs. Newell's Old Boys 23:00",
-    "deporte": "Fútbol",
-    "pais": "Argentina",
-    "canales": [
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "https://streamtp10.com/global1.php?stream=espnpremium",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "https://welivesports.shop/embed/espnpremarg.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "https://elcanaldeportivo.com/espnpremium.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "https://rereyano.ru/player/3/76",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "https://nebunexa.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "/pc/dex/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN PREMIUM CALIDAD 1080P",
-        "url": "https://tvlibree.com/pc/ext/?r=https%3A%2F%2Fsupercanal-cdn2.tbxdrm.com%2Fespnpremium%2Fmanifest.mpd%3Fck%3DeyI5NGM5ZTRkMjJiN2Y1OTAwODEwMDU0MDM5NWFiNjA3MSI6ImM4NTY3OTY2N2UyNDdkNGNmOWFlMDdjZGQ1YjY0NjU1IiwKIjgwZGJiNzcxNGViNDViMzU4OGQzYzM1MDRmYzU0NDA3IjoiOGFhZjc3ZWQzNzRlMDEyODNjNWY5ZWVkNWZjMGIwZTUiLAoiZDY5YWI4ZmM3ODRmNTEzNjg2YTEyMWI2OWYwODViNWMiOiI5NDVjZmU2MWU0YzJjN2JjNDkwZDZjNzUzZWRjYTU1NyJ9%26%26headers%3DeyJvcmlnaW4iOiJodHRwczovL3d3dy5taW8udHYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubWlvLnR2LyJ9",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN 1 AR CALIDAD 720P",
-        "url": "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T00:30:00Z",
-    "hora_argentina": "2026-02-16 21:30",
-    "logo": "https://elcanaldeportivo.com/img/col.png",
-    "liga": "Torneo Betplay",
-    "equipos": "Quindío vs. Barranquilla",
-    "deporte": "Fútbol",
-    "pais": "Colombia",
-    "canales": [
-      {
-        "nombre": "WIN SPORTS+",
-        "url": "https://elcanaldeportivo.com/winmas.php",
-        "calidad": "720P"
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-17T00:30:00Z",
-    "hora_argentina": "2026-02-16 21:30",
-    "logo": "https://flagcdn.com/w320/uy.png",
-    "liga": "Primera División",
-    "equipos": "Torque vs Juventud",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "STREAMX10",
-        "url": "https://streamx10.cloud/global1.php?channel=disney2",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney9",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T00:30:00Z",
-    "hora_argentina": "2026-02-16 21:30",
-    "logo": "https://bestleague.world/jr/56.png",
-    "liga": "Primera Division Uruguay",
-    "equipos": "Montevideo City - Juventud",
-    "deporte": "Deportes",
-    "pais": "Uruguay",
-    "canales": [
-      {
-        "nombre": "VTV PLUS (WIGI)",
-        "url": "https://bolaloca.my/player/1/109",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "VTV PLUS (HOCA)",
-        "url": "https://bolaloca.my/player/2/109",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "VTV PLUS (CAST)",
-        "url": "https://bolaloca.my/player/3/109",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CANAL 50",
-        "url": "https://miatvhd.xyz/reproductor/canal50.html",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-17T01:00:00Z",
-    "hora_argentina": "2026-02-16 22:00",
-    "logo": "https://bestleague.world/jr/69.png",
-    "liga": "Liga Mx Women",
-    "equipos": "Atl. San Luis W - Queretaro W",
-    "deporte": "Fútbol",
-    "pais": "México",
-    "canales": [
-      {
-        "nombre": "ESPN2MX (WIGI)",
-        "url": "https://bolaloca.my/player/1/98",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2MX (HOCA)",
-        "url": "https://bolaloca.my/player/2/98",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "ESPN2MX (CAST)",
-        "url": "https://bolaloca.my/player/3/98",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-17T01:00:00Z",
-    "hora_argentina": "2026-02-16 22:00",
-    "logo": "https://bestleague.world/jr/69.png",
-    "liga": "Liga Mx Women",
-    "equipos": "Guadalajara Chivas W - Atlas W",
-    "deporte": "Fútbol",
-    "pais": "México",
-    "canales": [
-      {
-        "nombre": "TELEMUNDO (WIGI)",
-        "url": "https://bolaloca.my/player/1/73",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "TELEMUNDO (HOCA)",
-        "url": "https://bolaloca.my/player/2/73",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "TELEMUNDO (CAST)",
-        "url": "https://bolaloca.my/player/3/73",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": -1
-  },
-  {
-    "hora_utc": "2026-02-17T01:00:00Z",
-    "hora_argentina": "2026-02-16 22:00",
-    "logo": "https://bestleague.world/jr/69.png",
-    "liga": "Liga Mx Femenil",
-    "equipos": "Atlético San Luis vs Querétaro",
-    "deporte": "Fútbol",
-    "pais": "México",
-    "canales": [
-      {
-        "nombre": "ESPN 2 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "DISNEY+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney10",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T08:00:00Z",
-    "hora_argentina": "2026-02-17 05:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Curling Olympics Men USA vs. China",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY9NZ",
-        "url": "https://antenasport.top/sky9nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT2",
-        "url": "https://antenasport.top/okkosport2.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T08:00:00Z",
-    "hora_argentina": "2026-02-17 05:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Curling Olympics Men Czech Republic vs. Germany",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY7NZ",
-        "url": "https://antenasport.top/sky7nz.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T08:00:00Z",
-    "hora_argentina": "2026-02-17 05:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Curling Olympics Men Switzerland vs. Sweden",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY6NZ",
-        "url": "https://antenasport.top/sky6nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT",
-        "url": "https://antenasport.top/okkosport.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T08:00:00Z",
-    "hora_argentina": "2026-02-17 05:00",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Olympic Winter Games 2026 Milano-Cortina Italy",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "EUROSPORT1UK",
-        "url": "https://antenasport.top/eurosport1uk.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY2NZ",
-        "url": "https://antenasport.top/sky2nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY3NZ",
-        "url": "https://antenasport.top/sky3nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY4NZ",
-        "url": "https://antenasport.top/sky4nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY5NZ",
-        "url": "https://antenasport.top/sky5nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY6NZ",
-        "url": "https://antenasport.top/sky6nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SKY7NZ",
-        "url": "https://antenasport.top/sky7nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SUSPILNETV",
-        "url": "https://antenasport.top/suspilnetv.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT",
-        "url": "https://antenasport.top/okkosport.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT2",
-        "url": "https://antenasport.top/okkosport2.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "CTSPORT",
-        "url": "https://antenasport.top/ctsport.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MAXTNT2",
-        "url": "https://antenasport.top/maxtnt2.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MAXTNT3",
-        "url": "https://antenasport.top/maxtnt3.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "MAXTNT4",
-        "url": "https://antenasport.top/maxtnt4.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T09:45:00Z",
-    "hora_argentina": "2026-02-17 06:45",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Freestyle Olympics Acrobatics Women Qualification",
-    "equipos": "Freestyle Olympics Acrobatics Women Qualification",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "SKY5NZ",
-        "url": "https://antenasport.top/sky5nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT",
-        "url": "https://antenasport.top/okkosport.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T10:00:00Z",
-    "hora_argentina": "2026-02-17 07:00",
-    "logo": "",
-    "liga": "Machida Zelvia vs Chengdu Rongcheng",
-    "equipos": "Machida Zelvia vs Chengdu Rongcheng",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "SPORT3IL",
-        "url": "https://antenasport.top/sport3il.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "NOVASPORTBG",
-        "url": "https://antenasport.top/novasportbg.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T10:00:00Z",
-    "hora_argentina": "2026-02-17 07:00",
-    "logo": "",
-    "liga": "Seoul vs Sanfrecce Hiroshima",
-    "equipos": "Seoul vs Sanfrecce Hiroshima",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "ANTENASPORT SERVIDOR 20",
-        "url": "https://antenasport.top/20.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "SPORTKLUB1",
-        "url": "https://antenasport.top/sportklub1.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-17T11:10:00Z",
     "hora_argentina": "2026-02-17 08:10",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
@@ -1978,6 +16,11 @@
       {
         "nombre": "TV2DK",
         "url": "https://antenasport.top/tv2dk.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "SUSPILNESPORT",
+        "url": "https://antenasport.top/suspilnesport.php",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2000,6 +43,16 @@
       {
         "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CTSPORT",
+        "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/dr1.php",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2052,15 +105,74 @@
   {
     "hora_utc": "2026-02-17T12:15:00Z",
     "hora_argentina": "2026-02-17 09:15",
-    "logo": "",
-    "liga": "Buriram United vs Shanghai Shenhua",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f5/Ligue_des_champions_AFC_-_Logo.png",
+    "liga": "Afc Ligue Des Champions",
+    "equipos": "Buriram",
+    "deporte": "Fútbol",
+    "pais": "Asia",
+    "canales": [
+      {
+        "nombre": "EXTRA SPORT21 (WIGI)",
+        "url": "https://bolaloca.my/player/1/175",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT21 (HOCA)",
+        "url": "https://bolaloca.my/player/2/175",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT21 (CAST)",
+        "url": "https://bolaloca.my/player/3/175",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T12:15:00Z",
+    "hora_argentina": "2026-02-17 09:15",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f5/Ligue_des_champions_AFC_-_Logo.png",
+    "liga": "Afc Ligue Des Champions",
+    "equipos": "Johor DT",
+    "deporte": "Fútbol",
+    "pais": "Asia",
+    "canales": [
+      {
+        "nombre": "EXTRA SPORT20 (WIGI)",
+        "url": "https://bolaloca.my/player/1/174",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT20 (HOCA)",
+        "url": "https://bolaloca.my/player/2/174",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT20 (CAST)",
+        "url": "https://bolaloca.my/player/3/174",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T12:15:00Z",
+    "hora_argentina": "2026-02-17 09:15",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/350.png",
+    "liga": "Afc Champions League Elite",
     "equipos": "Buriram United vs Shanghai Shenhua",
     "deporte": "Deportes",
-    "pais": "",
+    "pais": "Europa",
     "canales": [
       {
         "nombre": "SPORTKLUB3",
         "url": "https://antenasport.top/sportklub3.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2198,23 +310,28 @@
     "pais": "Internacional",
     "canales": [
       {
-        "nombre": "VIPSPORT1",
-        "url": "https://antenasport.top/vipsport1.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
         "nombre": "SKY7NZ",
         "url": "https://antenasport.top/sky7nz.php",
         "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "TV2DK",
-        "url": "https://antenasport.top/tv2dk.php",
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/dr1.php",
         "calidad": "HD/FULLHD"
       },
       {
         "nombre": "CTSPORT",
         "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "SUSPILNESPORT",
+        "url": "https://antenasport.top/suspilnesport.php",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2224,11 +341,21 @@
     "hora_utc": "2026-02-17T16:00:00Z",
     "hora_argentina": "2026-02-17 13:00",
     "logo": "https://bestleague.world/jr/104.png",
-    "liga": "Saudi Pro League",
+    "liga": "Afc Champions League Elite",
     "equipos": "Al Sadd vs Al Ittihad",
     "deporte": "Fútbol",
     "pais": "Arabia Saudita",
     "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espnmx",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "NOVASPORTBG",
         "url": "https://antenasport.top/novasportbg.php",
@@ -2237,6 +364,95 @@
       {
         "nombre": "SPORTKLUB1",
         "url": "https://antenasport.top/sportklub1.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espnmx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN MX | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN MX | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T16:00:00Z",
+    "hora_argentina": "2026-02-17 13:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f5/Ligue_des_champions_AFC_-_Logo.png",
+    "liga": "Afc Ligue Des Champions",
+    "equipos": "Al-Gharafa",
+    "deporte": "Fútbol",
+    "pais": "Asia",
+    "canales": [
+      {
+        "nombre": "EXTRA SPORT20 (WIGI)",
+        "url": "https://bolaloca.my/player/1/174",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT20 (HOCA)",
+        "url": "https://bolaloca.my/player/2/174",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT20 (CAST)",
+        "url": "https://bolaloca.my/player/3/174",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T16:00:00Z",
+    "hora_argentina": "2026-02-17 13:00",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f5/Ligue_des_champions_AFC_-_Logo.png",
+    "liga": "Afc Ligue Des Champions",
+    "equipos": "Al-Sadd",
+    "deporte": "Fútbol",
+    "pais": "Asia",
+    "canales": [
+      {
+        "nombre": "EXTRA SPORT18 (WIGI)",
+        "url": "https://bolaloca.my/player/1/172",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT18 (HOCA)",
+        "url": "https://bolaloca.my/player/2/172",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT18 (CAST)",
+        "url": "https://bolaloca.my/player/3/172",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1MX (WIGI)",
+        "url": "https://bolaloca.my/player/1/97",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1MX (HOCA)",
+        "url": "https://bolaloca.my/player/2/97",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1MX (CAST)",
+        "url": "https://bolaloca.my/player/3/97",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2280,33 +496,166 @@
     "hora_utc": "2026-02-17T17:45:00Z",
     "hora_argentina": "2026-02-17 14:45",
     "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
-    "equipos": "Figure Skating Olympics Women's Short Program",
-    "deporte": "Fútbol",
-    "pais": "Italia",
-    "canales": [
-      {
-        "nombre": "SKY5NZ",
-        "url": "https://antenasport.top/sky5nz.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "OKKOSPORT",
-        "url": "https://antenasport.top/okkosport.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T17:45:00Z",
-    "hora_argentina": "2026-02-17 14:45",
-    "logo": "https://bestleague.world/jr/37.png",
-    "liga": "Serie A",
+    "liga": "Uefa Champions League",
     "equipos": "Galatasaray vs Juventus",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=max1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tudnus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (WIGI)",
+        "url": "https://bolaloca.my/player/1/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (HOCA)",
+        "url": "https://bolaloca.my/player/2/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (CAST)",
+        "url": "https://bolaloca.my/player/3/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT8 (WIGI)",
+        "url": "https://bolaloca.my/player/1/162",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT8 (HOCA)",
+        "url": "https://bolaloca.my/player/2/162",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT8 (CAST)",
+        "url": "https://bolaloca.my/player/3/162",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK TNT SPORT (WIGI)",
+        "url": "https://bolaloca.my/player/1/126",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK TNT SPORT (HOCA)",
+        "url": "https://bolaloca.my/player/2/126",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK TNT SPORT (CAST)",
+        "url": "https://bolaloca.my/player/3/126",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE DAZN 1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/123",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE DAZN 1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/123",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE DAZN 1 (CAST)",
+        "url": "https://bolaloca.my/player/3/123",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (WIGI)",
+        "url": "https://bolaloca.my/player/1/139",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (HOCA)",
+        "url": "https://bolaloca.my/player/2/139",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (CAST)",
+        "url": "https://bolaloca.my/player/3/139",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/141",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/141",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 1 (CAST)",
+        "url": "https://bolaloca.my/player/3/141",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 2 (WIGI)",
+        "url": "https://bolaloca.my/player/1/149",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 2 (HOCA)",
+        "url": "https://bolaloca.my/player/2/149",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 2 (CAST)",
+        "url": "https://bolaloca.my/player/3/149",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (CAST)",
+        "url": "https://bolaloca.my/player/3/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (WIGI)",
+        "url": "https://bolaloca.my/player/1/68",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (HOCA)",
+        "url": "https://bolaloca.my/player/2/68",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (CAST)",
+        "url": "https://bolaloca.my/player/3/68",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "OKKOFUTBOL",
         "url": "https://antenasport.top/okkofutbol.php",
@@ -2406,6 +755,83 @@
         "nombre": "DAZN1PT",
         "url": "https://antenasport.top/dazn1pt.php",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 21",
+        "url": "https://miatvhd.xyz/reproductor/canal21.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UNIMAS",
+        "url": "https://tvtvhd.com/canales.php?stream=unimas",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T17:45:00Z",
+    "hora_argentina": "2026-02-17 14:45",
+    "logo": "https://bestleague.world/jr/37.png",
+    "liga": "Serie A",
+    "equipos": "Figure Skating Olympics Women's Short Program",
+    "deporte": "Fútbol",
+    "pais": "Italia",
+    "canales": [
+      {
+        "nombre": "SKY5NZ",
+        "url": "https://antenasport.top/sky5nz.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "OKKOSPORT",
+        "url": "https://antenasport.top/okkosport.php",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2432,7 +858,7 @@
     "hora_argentina": "2026-02-17 15:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s Canada vs Great Britain",
+    "equipos": "Curling Men�s Canada vs Great Britain",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -2471,7 +897,7 @@
     "hora_argentina": "2026-02-17 15:15",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s Germany vs Switzerland",
+    "equipos": "Curling Men�s Germany vs Switzerland",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -2488,7 +914,7 @@
     "hora_argentina": "2026-02-17 15:15",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s USA vs Italy",
+    "equipos": "Curling Men�s USA vs Italy",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -2540,6 +966,60 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-17T19:00:00Z",
+    "hora_argentina": "2026-02-17 16:00",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "Sparta Rotterdam - Nijmegen",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [
+      {
+        "nombre": "NL ESPN 3 (WIGI)",
+        "url": "https://bolaloca.my/player/1/143",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 3 (HOCA)",
+        "url": "https://bolaloca.my/player/2/143",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 3 (CAST)",
+        "url": "https://bolaloca.my/player/3/143",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T19:00:00Z",
+    "hora_argentina": "2026-02-17 16:00",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "Sparta Rotterdam vs NEC",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [
+      {
+        "nombre": "ESPN NL",
+        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN NL | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN NL | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-17T19:45:00Z",
     "hora_argentina": "2026-02-17 16:45",
     "logo": "https://elcanaldeportivo.com/img/cha.png",
@@ -2566,13 +1046,53 @@
     "hora_argentina": "2026-02-17 16:45",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png",
     "liga": "Championship",
-    "equipos": "Charlton Athletic vs Portsmouth",
+    "equipos": "Bristol City vs Wrexham",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "ANTENASPORT SERVIDOR 31",
-        "url": "https://antenasport.top/31.php",
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney3",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT37 (WIGI)",
+        "url": "https://bolaloca.my/player/1/190",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT37 (HOCA)",
+        "url": "https://bolaloca.my/player/2/190",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT37 (CAST)",
+        "url": "https://bolaloca.my/player/3/190",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (WIGI)",
+        "url": "https://bolaloca.my/player/1/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (HOCA)",
+        "url": "https://bolaloca.my/player/2/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (CAST)",
+        "url": "https://bolaloca.my/player/3/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 32",
+        "url": "https://antenasport.top/32.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2583,13 +1103,40 @@
     "hora_argentina": "2026-02-17 16:45",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png",
     "liga": "Championship",
-    "equipos": "Bristol City vs Wrexham",
+    "equipos": "Charlton - Portsmouth",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
     "canales": [
       {
-        "nombre": "ANTENASPORT SERVIDOR 32",
-        "url": "https://antenasport.top/32.php",
+        "nombre": "EXTRA SPORT38 (WIGI)",
+        "url": "https://bolaloca.my/player/1/191",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT38 (HOCA)",
+        "url": "https://bolaloca.my/player/2/191",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT38 (CAST)",
+        "url": "https://bolaloca.my/player/3/191",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T19:45:00Z",
+    "hora_argentina": "2026-02-17 16:45",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/24.png",
+    "liga": "Championship",
+    "equipos": "Charlton Athletic vs Portsmouth",
+    "deporte": "Fútbol",
+    "pais": "Inglaterra",
+    "canales": [
+      {
+        "nombre": "ANTENASPORT SERVIDOR 31",
+        "url": "https://antenasport.top/31.php",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2613,6 +1160,176 @@
         "nombre": "ESPN (SHARECAST)",
         "url": "https://elcanaldeportivo.com/espn-sharecast.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=max2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tudnus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT360 (WIGI)",
+        "url": "https://bolaloca.my/player/1/14",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT360 (HOCA)",
+        "url": "https://bolaloca.my/player/2/14",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT360 (CAST)",
+        "url": "https://bolaloca.my/player/3/14",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT7 (WIGI)",
+        "url": "https://bolaloca.my/player/1/161",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT7 (HOCA)",
+        "url": "https://bolaloca.my/player/2/161",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT7 (CAST)",
+        "url": "https://bolaloca.my/player/3/161",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK EPL 3PM (WIGI)",
+        "url": "https://bolaloca.my/player/1/130",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK EPL 3PM (HOCA)",
+        "url": "https://bolaloca.my/player/2/130",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK EPL 3PM (CAST)",
+        "url": "https://bolaloca.my/player/3/130",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE DAZN 1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/123",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE DAZN 1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/123",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE DAZN 1 (CAST)",
+        "url": "https://bolaloca.my/player/3/123",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT SKYCALCIO (WIGI)",
+        "url": "https://bolaloca.my/player/1/138",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT SKYCALCIO (HOCA)",
+        "url": "https://bolaloca.my/player/2/138",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT SKYCALCIO (CAST)",
+        "url": "https://bolaloca.my/player/3/138",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/141",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/141",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 1 (CAST)",
+        "url": "https://bolaloca.my/player/3/141",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "PT SPORT 1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/144",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "PT SPORT 1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/144",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "PT SPORT 1 (CAST)",
+        "url": "https://bolaloca.my/player/3/144",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 2 (WIGI)",
+        "url": "https://bolaloca.my/player/1/149",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 2 (HOCA)",
+        "url": "https://bolaloca.my/player/2/149",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 2 (CAST)",
+        "url": "https://bolaloca.my/player/3/149",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (CAST)",
+        "url": "https://bolaloca.my/player/3/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (WIGI)",
+        "url": "https://bolaloca.my/player/1/68",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (HOCA)",
+        "url": "https://bolaloca.my/player/2/68",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (CAST)",
+        "url": "https://bolaloca.my/player/3/68",
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "OKKOFUTBOL",
@@ -2698,6 +1415,76 @@
         "nombre": "ZIGGOSPORT1",
         "url": "https://antenasport.top/ziggosport1.php",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 32",
+        "url": "https://miatvhd.xyz/reproductor/canal32.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 27",
+        "url": "https://miatvhd.xyz/reproductor/canal27.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 28",
+        "url": "https://miatvhd.xyz/reproductor/canal28.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 31",
+        "url": "https://miatvhd.xyz/reproductor/canal31.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UNIMAS",
+        "url": "https://tvtvhd.com/canales.php?stream=unimas",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2729,9 +1516,24 @@
     "pais": "Europa",
     "canales": [
       {
-        "nombre": "ESPN 3",
-        "url": "https://elcanaldeportivo.com/espn3hd.php",
+        "nombre": "ESPN 5",
+        "url": "https://elcanaldeportivo.com/espn5.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney3",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=foxone1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn5",
+        "calidad": "HD/FULLHD"
       },
       {
         "nombre": "CBSSPORTS",
@@ -2812,6 +1614,41 @@
         "nombre": "ARENA2PREMIUMSERBIA",
         "url": "https://antenasport.top/arena2premiumserbia.php",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 26",
+        "url": "https://miatvhd.xyz/reproductor/canal26.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 23",
+        "url": "https://miatvhd.xyz/reproductor/canal23.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 24",
+        "url": "https://miatvhd.xyz/reproductor/canal24.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2829,54 +1666,40 @@
         "nombre": "TYC SPORTS",
         "url": "https://elcanaldeportivo.com/tycsports-sd.php",
         "calidad": "720P"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T20:00:00Z",
-    "hora_argentina": "2026-02-17 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png",
-    "liga": "League Two",
-    "equipos": "Blackpool vs Mansfield Town",
-    "deporte": "Deportes",
-    "pais": "Inglaterra",
-    "canales": [
+      },
       {
-        "nombre": "ANTENASPORT SERVIDOR 33",
-        "url": "https://antenasport.top/33.php",
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tyc",
         "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "SPORT2IL",
-        "url": "https://antenasport.top/sport2il.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
-    "hora_utc": "2026-02-17T20:00:00Z",
-    "hora_argentina": "2026-02-17 17:00",
-    "logo": "",
-    "liga": "Simulcast Uefa",
-    "equipos": "Simulcast Uefa",
-    "deporte": "Deportes",
-    "pais": "",
-    "canales": [
-      {
-        "nombre": "COSMOTE1",
-        "url": "https://antenasport.top/cosmote1.php",
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tycint",
         "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "SKYAUSTRIA1",
-        "url": "https://antenasport.top/skyaustria1.php",
+        "nombre": "TYC SPORTS (WIGI)",
+        "url": "https://bolaloca.my/player/1/77",
         "calidad": "HD/FULLHD"
       },
       {
-        "nombre": "ARENASPORT5HR",
-        "url": "https://antenasport.top/arenasport5hr.php",
+        "nombre": "TYC SPORTS (HOCA)",
+        "url": "https://bolaloca.my/player/2/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS (CAST)",
+        "url": "https://bolaloca.my/player/3/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 70",
+        "url": "https://miatvhd.xyz/reproductor/canal70.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -2886,11 +1709,166 @@
     "hora_utc": "2026-02-17T20:00:00Z",
     "hora_argentina": "2026-02-17 17:00",
     "logo": "https://bestleague.world/jr/45.png",
-    "liga": "Ligue 1",
+    "liga": "Uefa Champions League",
     "equipos": "Monaco vs PSG",
     "deporte": "Fútbol",
     "pais": "Francia",
     "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=max3",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=fox1ar",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (WIGI)",
+        "url": "https://bolaloca.my/player/1/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (HOCA)",
+        "url": "https://bolaloca.my/player/2/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (CAST)",
+        "url": "https://bolaloca.my/player/3/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT8 (WIGI)",
+        "url": "https://bolaloca.my/player/1/162",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT8 (HOCA)",
+        "url": "https://bolaloca.my/player/2/162",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT8 (CAST)",
+        "url": "https://bolaloca.my/player/3/162",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK TNT SPORT (WIGI)",
+        "url": "https://bolaloca.my/player/1/126",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK TNT SPORT (HOCA)",
+        "url": "https://bolaloca.my/player/2/126",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK TNT SPORT (CAST)",
+        "url": "https://bolaloca.my/player/3/126",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (WIGI)",
+        "url": "https://bolaloca.my/player/1/140",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (HOCA)",
+        "url": "https://bolaloca.my/player/2/140",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (CAST)",
+        "url": "https://bolaloca.my/player/3/140",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE BUNDLIGA4 (WIGI)",
+        "url": "https://bolaloca.my/player/1/114",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE BUNDLIGA4 (HOCA)",
+        "url": "https://bolaloca.my/player/2/114",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE BUNDLIGA4 (CAST)",
+        "url": "https://bolaloca.my/player/3/114",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 2 (WIGI)",
+        "url": "https://bolaloca.my/player/1/142",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 2 (HOCA)",
+        "url": "https://bolaloca.my/player/2/142",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "NL ESPN 2 (CAST)",
+        "url": "https://bolaloca.my/player/3/142",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 3 (WIGI)",
+        "url": "https://bolaloca.my/player/1/150",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 3 (HOCA)",
+        "url": "https://bolaloca.my/player/2/150",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "GR SPORT 3 (CAST)",
+        "url": "https://bolaloca.my/player/3/150",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2 (WIGI)",
+        "url": "https://bolaloca.my/player/1/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2 (HOCA)",
+        "url": "https://bolaloca.my/player/2/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2 (CAST)",
+        "url": "https://bolaloca.my/player/3/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (WIGI)",
+        "url": "https://bolaloca.my/player/1/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (HOCA)",
+        "url": "https://bolaloca.my/player/2/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (CAST)",
+        "url": "https://bolaloca.my/player/3/78",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
@@ -2965,6 +1943,207 @@
         "nombre": "DIGISPORT2",
         "url": "https://antenasport.top/digisport2.php",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 2",
+        "url": "https://miatvhd.xyz/reproductor/canal2.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 22",
+        "url": "https://miatvhd.xyz/reproductor/canal22.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2",
+        "url": "https://miatvhd.xyz/reproductor/espn2.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOX SPORTS",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T20:00:00Z",
+    "hora_argentina": "2026-02-17 17:00",
+    "logo": "",
+    "liga": "Ligue Des Champions",
+    "equipos": "Dortmund - Atalanta",
+    "deporte": "Fútbol",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "CANAL+ SPORT (WIGI)",
+        "url": "https://bolaloca.my/player/1/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (HOCA)",
+        "url": "https://bolaloca.my/player/2/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (CAST)",
+        "url": "https://bolaloca.my/player/3/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT9 (WIGI)",
+        "url": "https://bolaloca.my/player/1/163",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT9 (HOCA)",
+        "url": "https://bolaloca.my/player/2/163",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT9 (CAST)",
+        "url": "https://bolaloca.my/player/3/163",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK EPL 3PM (WIGI)",
+        "url": "https://bolaloca.my/player/1/131",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK EPL 3PM (HOCA)",
+        "url": "https://bolaloca.my/player/2/131",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "UK EPL 3PM (CAST)",
+        "url": "https://bolaloca.my/player/3/131",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (WIGI)",
+        "url": "https://bolaloca.my/player/1/139",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (HOCA)",
+        "url": "https://bolaloca.my/player/2/139",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "IT FEED (CAST)",
+        "url": "https://bolaloca.my/player/3/139",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE BUNDLIGA2 (WIGI)",
+        "url": "https://bolaloca.my/player/1/112",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE BUNDLIGA2 (HOCA)",
+        "url": "https://bolaloca.my/player/2/112",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE BUNDLIGA2 (CAST)",
+        "url": "https://bolaloca.my/player/3/112",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN5 (WIGI)",
+        "url": "https://bolaloca.my/player/1/91",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN5 (HOCA)",
+        "url": "https://bolaloca.my/player/2/91",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN5 (CAST)",
+        "url": "https://bolaloca.my/player/3/91",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T20:00:00Z",
+    "hora_argentina": "2026-02-17 17:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/26.png",
+    "liga": "League Two",
+    "equipos": "Blackpool vs Mansfield Town",
+    "deporte": "Deportes",
+    "pais": "Inglaterra",
+    "canales": [
+      {
+        "nombre": "ANTENASPORT SERVIDOR 33",
+        "url": "https://antenasport.top/33.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "SPORT2IL",
+        "url": "https://antenasport.top/sport2il.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T20:00:00Z",
+    "hora_argentina": "2026-02-17 17:00",
+    "logo": "",
+    "liga": "Simulcast Uefa",
+    "equipos": "Simulcast Uefa",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "PARAMOUNT",
+        "url": "https://antenasport.top/paramount.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "COSMOTE1",
+        "url": "https://antenasport.top/cosmote1.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "SKYAUSTRIA1",
+        "url": "https://antenasport.top/skyaustria1.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ARENASPORT5HR",
+        "url": "https://antenasport.top/arenasport5hr.php",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2982,6 +2161,26 @@
         "nombre": "SKY4NZ",
         "url": "https://antenasport.top/sky4nz.php",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CTSPORT",
+        "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TV2SPORTXDK",
+        "url": "https://antenasport.top/tv2sportxdk.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "SUSPILNESPORT",
+        "url": "https://antenasport.top/suspilnesport.php",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -2990,7 +2189,7 @@
     "hora_utc": "2026-02-17T21:00:00Z",
     "hora_argentina": "2026-02-17 18:00",
     "logo": "https://elcanaldeportivo.com/img/col.png",
-    "liga": "Liga Betplay",
+    "liga": "Liga Betplay Dimayor",
     "equipos": "Alianza vs. Cúcuta",
     "deporte": "Fútbol",
     "pais": "Colombia",
@@ -2999,6 +2198,112 @@
         "nombre": "WIN SPORTS+",
         "url": "https://elcanaldeportivo.com/winmas.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "WINSPORT+ (WIGI)",
+        "url": "https://bolaloca.my/player/1/81",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WINSPORT+ (HOCA)",
+        "url": "https://bolaloca.my/player/2/81",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WINSPORT+ (CAST)",
+        "url": "https://bolaloca.my/player/3/81",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 11",
+        "url": "https://miatvhd.xyz/reproductor/canal11.html",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T21:00:00Z",
+    "hora_argentina": "2026-02-17 18:00",
+    "logo": "https://bestleague.world/jr/118.png",
+    "liga": "Liga Betplay",
+    "equipos": "Alianza vs Cúcuta Deportivo",
+    "deporte": "Fútbol",
+    "pais": "Colombia",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=winplus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=winplus2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WIN SPORTS +",
+        "url": "https://tvtvhd.com/canales.php?stream=winsportsplus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WIN SPORTS + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WIN SPORTS + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T21:00:00Z",
+    "hora_argentina": "2026-02-17 18:00",
+    "logo": "https://bestleague.world/jr/79.png",
+    "liga": "Campeonato Carioca",
+    "equipos": "Fluminense vs. Bangu 22:00",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "PREMIERE 1 BR CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=premiere1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "PREMIERE 1 BR CALIDAD 1080P",
+        "url": "https://bestleague.world/mpdk/?get=aHR0cHM6Ly9hYmMzb3J3YWFhYWFhYWFtaHB1aTd3bG5tZnFnaC5vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9uZWxmeXVjdzlhL291dC92MS82ZmZiMmMzNjVhZDE0Zjg4YjE1NDU5MWJlYjQzZDFmNi9jZW5jLm1wZA==&key=NTZiNzljMTc4MmIzMGU2YjZmYzk3M2IwZThmZDQxMDQ=&key2=ZmEzOGFhYTg2NWE1N2VkYTdjNzc0NDQ2OTdiYThlZDM=",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T21:55:00Z",
+    "hora_argentina": "2026-02-17 18:55",
+    "logo": "",
+    "liga": "Ligue Des Champions",
+    "equipos": "Canal Champions Club le debrief -",
+    "deporte": "Fútbol",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "CANAL+ FOOT (WIGI)",
+        "url": "https://bolaloca.my/player/1/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (HOCA)",
+        "url": "https://bolaloca.my/player/2/12",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ FOOT (CAST)",
+        "url": "https://bolaloca.my/player/3/12",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3007,7 +2312,7 @@
     "hora_utc": "2026-02-17T22:00:00Z",
     "hora_argentina": "2026-02-17 19:00",
     "logo": "https://elcanaldeportivo.com/img/lib.png",
-    "liga": "Copa Libertadores",
+    "liga": "Primera Division Chile",
     "equipos": "Carabobo (Ven) vs. Huachipato (Chi)",
     "deporte": "Fútbol",
     "pais": "Sudamérica",
@@ -3016,6 +2321,246 @@
         "nombre": "ESPN 2",
         "url": "https://elcanaldeportivo.com/espn2hd.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "CANAL 2",
+        "url": "https://miatvhd.xyz/reproductor/canal2.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2",
+        "url": "https://miatvhd.xyz/reproductor/espn2.html",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T22:00:00Z",
+    "hora_argentina": "2026-02-17 19:00",
+    "logo": "https://bestleague.world/jr/35.png",
+    "liga": "Primera Division Chile",
+    "equipos": "Carabobo vs Huachipato",
+    "deporte": "Deportes",
+    "pais": "Chile",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney4",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=fox1ar",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOX SPORTS",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN SPORTS ESPAÑOL",
+        "url": "https://tvtvhd.com/canales.php?stream=beinsportes",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T22:00:00Z",
+    "hora_argentina": "2026-02-17 19:00",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
+    "liga": "Copa Libertadores",
+    "equipos": "Carabobo",
+    "deporte": "Fútbol",
+    "pais": "Sudamérica",
+    "canales": [
+      {
+        "nombre": "ESPN2 (WIGI)",
+        "url": "https://bolaloca.my/player/1/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2 (HOCA)",
+        "url": "https://bolaloca.my/player/2/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2 (CAST)",
+        "url": "https://bolaloca.my/player/3/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (WIGI)",
+        "url": "https://bolaloca.my/player/1/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (HOCA)",
+        "url": "https://bolaloca.my/player/2/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (CAST)",
+        "url": "https://bolaloca.my/player/3/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (WIGI)",
+        "url": "https://bolaloca.my/player/1/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (HOCA)",
+        "url": "https://bolaloca.my/player/2/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (CAST)",
+        "url": "https://bolaloca.my/player/3/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN EN ESPANOL (WIGI)",
+        "url": "https://bolaloca.my/player/1/69",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN EN ESPANOL (HOCA)",
+        "url": "https://bolaloca.my/player/2/69",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN EN ESPANOL (CAST)",
+        "url": "https://bolaloca.my/player/3/69",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T22:00:00Z",
+    "hora_argentina": "2026-02-17 19:00",
+    "logo": "https://flagcdn.com/w320/uy.png",
+    "liga": "Primera División",
+    "equipos": "Albion vs. Cerro 23:00",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "DISNEY+ CALIDAD 720P",
+        "url": "https://streamtp10.com/global1.php?stream=disney1",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T22:00:00Z",
+    "hora_argentina": "2026-02-17 19:00",
+    "logo": "https://elcanaldeportivo.com/img/ar.png",
+    "liga": "Futbol Argentino",
+    "equipos": "Deportivo Riestra vs. Newell's Old Boys 23:00",
+    "deporte": "Fútbol",
+    "pais": "Argentina",
+    "canales": [
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "https://streamtp10.com/global1.php?stream=espnpremium",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "https://welivesports.shop/embed/espnpremarg.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "https://elcanaldeportivo.com/espnpremium.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "https://rereyano.ru/player/3/76",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "https://nebunexa.life/tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "/pc/dex/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN PREMIUM CALIDAD 1080P",
+        "url": "https://tvlibree.com/pc/ext/?r=https%3A%2F%2Fsupercanal-cdn2.tbxdrm.com%2Fespnpremium%2Fmanifest.mpd%3Fck%3DeyI5NGM5ZTRkMjJiN2Y1OTAwODEwMDU0MDM5NWFiNjA3MSI6ImM4NTY3OTY2N2UyNDdkNGNmOWFlMDdjZGQ1YjY0NjU1IiwKIjgwZGJiNzcxNGViNDViMzU4OGQzYzM1MDRmYzU0NDA3IjoiOGFhZjc3ZWQzNzRlMDEyODNjNWY5ZWVkNWZjMGIwZTUiLAoiZDY5YWI4ZmM3ODRmNTEzNjg2YTEyMWI2OWYwODViNWMiOiI5NDVjZmU2MWU0YzJjN2JjNDkwZDZjNzUzZWRjYTU1NyJ9%26%26headers%3DeyJvcmlnaW4iOiJodHRwczovL3d3dy5taW8udHYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubWlvLnR2LyJ9",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 1 AR CALIDAD 720P",
+        "url": "https://tvlibree.com/html/fl/?get=RVNQTjJIRA",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T22:10:00Z",
+    "hora_argentina": "2026-02-17 19:10",
+    "logo": "",
+    "liga": "Torneo De Reserva",
+    "equipos": "Independiente Riva. vs Boca Juniors",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3033,6 +2578,41 @@
         "nombre": "TYC SPORTS",
         "url": "https://elcanaldeportivo.com/tycsports-sd.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tyc",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tycint",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS (WIGI)",
+        "url": "https://bolaloca.my/player/1/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS (HOCA)",
+        "url": "https://bolaloca.my/player/2/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS (CAST)",
+        "url": "https://bolaloca.my/player/3/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 72",
+        "url": "https://miatvhd.xyz/reproductor/canal72.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3050,6 +2630,80 @@
         "nombre": "WIN SPORTS+",
         "url": "https://elcanaldeportivo.com/winmas.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "CANAL 8",
+        "url": "https://miatvhd.xyz/reproductor/canal8.html",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T23:00:00Z",
+    "hora_argentina": "2026-02-17 20:00",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "Liga Betplay Dimayor",
+    "equipos": "Jaguares de Córdoba vs Santa Fe",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=winplus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=winplus2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WINSPORT+ (WIGI)",
+        "url": "https://bolaloca.my/player/1/81",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WINSPORT+ (HOCA)",
+        "url": "https://bolaloca.my/player/2/81",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WINSPORT+ (CAST)",
+        "url": "https://bolaloca.my/player/3/81",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WIN SPORTS +",
+        "url": "https://tvtvhd.com/canales.php?stream=winsportsplus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WIN SPORTS + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "WIN SPORTS + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-17T23:00:00Z",
+    "hora_argentina": "2026-02-17 20:00",
+    "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F85.png",
+    "liga": "Brasileirão",
+    "equipos": "Sampaio Corrêa RJ vs Desportiva ES",
+    "deporte": "Fútbol",
+    "pais": "Brasil",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=premiere1",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3080,7 +2734,7 @@
     "hora_utc": "2026-02-18T00:30:00Z",
     "hora_argentina": "2026-02-17 21:30",
     "logo": "https://elcanaldeportivo.com/img/lib.png",
-    "liga": "Copa Libertadores",
+    "liga": "Primera Division Uruguay",
     "equipos": "Liverpool M. (Uru) vs. Ind. Medellín (Col)",
     "deporte": "Fútbol",
     "pais": "Sudamérica",
@@ -3089,15 +2743,265 @@
         "nombre": "ESPN 2",
         "url": "https://elcanaldeportivo.com/espn2hd.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "ESPN2",
+        "url": "https://miatvhd.xyz/reproductor/espn2.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 2",
+        "url": "https://miatvhd.xyz/reproductor/canal2.html",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
   },
   {
+    "hora_utc": "2026-02-18T00:30:00Z",
+    "hora_argentina": "2026-02-17 21:30",
+    "logo": "https://bestleague.world/jr/56.png",
+    "liga": "Primera Division Uruguay",
+    "equipos": "Liverpool vs Medellín",
+    "deporte": "Deportes",
+    "pais": "Uruguay",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn2mx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=fox1ar",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOX SPORTS",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN SPORTS ESPAÑOL",
+        "url": "https://tvtvhd.com/canales.php?stream=beinsportes",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-18T00:30:00Z",
+    "hora_argentina": "2026-02-17 21:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
+    "liga": "Uefa Champions League",
+    "equipos": "2 de Mayo vs Sporting Cristal",
+    "deporte": "Fútbol",
+    "pais": "Europa",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=fox2ar",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney11",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN SPORTS ESPAÑOL",
+        "url": "https://tvtvhd.com/canales.php?stream=beinsportes",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-18T00:30:00Z",
+    "hora_argentina": "2026-02-17 21:30",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
+    "liga": "Copa Libertadores",
+    "equipos": "2 de Mayo",
+    "deporte": "Fútbol",
+    "pais": "Sudamérica",
+    "canales": [
+      {
+        "nombre": "ESPN2 (WIGI)",
+        "url": "https://bolaloca.my/player/1/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2 (HOCA)",
+        "url": "https://bolaloca.my/player/2/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2 (CAST)",
+        "url": "https://bolaloca.my/player/3/88",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT2 ARG (WIGI)",
+        "url": "https://bolaloca.my/player/1/79",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT2 ARG (HOCA)",
+        "url": "https://bolaloca.my/player/2/79",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT2 ARG (CAST)",
+        "url": "https://bolaloca.my/player/3/79",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN EN ESPANOL (WIGI)",
+        "url": "https://bolaloca.my/player/1/69",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN EN ESPANOL (HOCA)",
+        "url": "https://bolaloca.my/player/2/69",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "BEIN EN ESPANOL (CAST)",
+        "url": "https://bolaloca.my/player/3/69",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": -1
+  },
+  {
+    "hora_utc": "2026-02-18T00:30:00Z",
+    "hora_argentina": "2026-02-17 21:30",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png",
+    "liga": "Copa Libertadores",
+    "equipos": "Liverpool M.",
+    "deporte": "Fútbol",
+    "pais": "Sudamérica",
+    "canales": [
+      {
+        "nombre": "ESPN1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN1 (CAST)",
+        "url": "https://bolaloca.my/player/3/87",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (WIGI)",
+        "url": "https://bolaloca.my/player/1/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (HOCA)",
+        "url": "https://bolaloca.my/player/2/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "FOXSPORT1 ARG (CAST)",
+        "url": "https://bolaloca.my/player/3/78",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (WIGI)",
+        "url": "https://bolaloca.my/player/1/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (HOCA)",
+        "url": "https://bolaloca.my/player/2/98",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN2MX (CAST)",
+        "url": "https://bolaloca.my/player/3/98",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": -1
+  },
+  {
+    "hora_utc": "2026-02-18T00:30:00Z",
+    "hora_argentina": "2026-02-17 21:30",
+    "logo": "https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/main/pirlotv_icons/lib.png",
+    "liga": "UEFA Champions League",
+    "equipos": "2 de Mayo (Par) vs Sporting Cristal (Per)",
+    "deporte": "Fútbol",
+    "pais": "Europa",
+    "canales": [
+      {
+        "nombre": "CANAL 1",
+        "url": "https://miatvhd.xyz/reproductor/canal1.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://miatvhd.xyz/reproductor/espn.html",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-18T01:00:00Z",
     "hora_argentina": "2026-02-17 22:00",
     "logo": "https://elcanaldeportivo.com/img/ar.png",
-    "liga": "Futbol Argentino",
+    "liga": "Division Profesional Bolivia",
     "equipos": "River Plate vs. Ciudad Bolivar",
     "deporte": "Fútbol",
     "pais": "Argentina",
@@ -3106,6 +3010,122 @@
         "nombre": "TYC SPORTS",
         "url": "https://elcanaldeportivo.com/tycsports-sd.php",
         "calidad": "720P"
+      },
+      {
+        "nombre": "TYC SPORTS (WIGI)",
+        "url": "https://bolaloca.my/player/1/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS (HOCA)",
+        "url": "https://bolaloca.my/player/2/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS (CAST)",
+        "url": "https://bolaloca.my/player/3/77",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 74",
+        "url": "https://miatvhd.xyz/reproductor/canal74.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 73",
+        "url": "https://miatvhd.xyz/reproductor/canal73.html",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": -1
+  },
+  {
+    "hora_utc": "2026-02-18T01:00:00Z",
+    "hora_argentina": "2026-02-17 22:00",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "Concacaf Champions Cup",
+    "equipos": "Atlético Ottawa vs Nashville SC",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney3",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=foxone1",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tudnus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney12",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-18T01:00:00Z",
+    "hora_argentina": "2026-02-17 22:00",
+    "logo": "https://bestleague.world/jr/55.png",
+    "liga": "Division Profesional Bolivia",
+    "equipos": "River Plate vs Ciudad de Bolívar",
+    "deporte": "Deportes",
+    "pais": "Bolivia",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tyc",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tycint",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TYC SPORTS",
+        "url": "https://tvtvhd.com/canales.php?stream=tycsports",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-18T01:00:00Z",
+    "hora_argentina": "2026-02-17 22:00",
+    "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
+    "liga": "Concacaf Champions Cup",
+    "equipos": "Atl. Ottawa - Nashville SC",
+    "deporte": "Fútbol",
+    "pais": "CONCACAF",
+    "canales": [
+      {
+        "nombre": "EXTRA SPORT5 (WIGI)",
+        "url": "https://bolaloca.my/player/1/159",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT5 (HOCA)",
+        "url": "https://bolaloca.my/player/2/159",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT5 (CAST)",
+        "url": "https://bolaloca.my/player/3/159",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 90",
+        "url": "https://miatvhd.xyz/reproductor/canal90.html",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": -1
@@ -3148,8 +3168,90 @@
     "hora_utc": "2026-02-18T03:00:00Z",
     "hora_argentina": "2026-02-18 00:00",
     "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
-    "liga": "Real Espańa vs Los Angeles FC CONCACAF Champions Cup",
-    "equipos": "Real Espańa vs Los Angeles FC CONCACAF Champions Cup",
+    "liga": "Concacaf Champions Cup",
+    "equipos": "Real España vs Los Angeles FC",
+    "deporte": "Fútbol",
+    "pais": "CONCACAF",
+    "canales": [
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=disney4",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=foxone2",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "STREAMX10",
+        "url": "https://streamx10.cloud/global1.php?channel=tudnus",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (WIGI)",
+        "url": "https://bolaloca.my/player/1/68",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (HOCA)",
+        "url": "https://bolaloca.my/player/2/68",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA (CAST)",
+        "url": "https://bolaloca.my/player/3/68",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT5 (WIGI)",
+        "url": "https://bolaloca.my/player/1/159",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT5 (HOCA)",
+        "url": "https://bolaloca.my/player/2/159",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "EXTRA SPORT5 (CAST)",
+        "url": "https://bolaloca.my/player/3/159",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL 91",
+        "url": "https://miatvhd.xyz/reproductor/canal91.html",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DISNEY+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 1
+  },
+  {
+    "hora_utc": "2026-02-18T03:00:00Z",
+    "hora_argentina": "2026-02-18 00:00",
+    "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
+    "liga": "Real Espa�a vs Los Angeles FC CONCACAF Champions Cup",
+    "equipos": "Real Espa�a vs Los Angeles FC CONCACAF Champions Cup",
     "deporte": "Deportes",
     "pais": "",
     "canales": [
@@ -3161,6 +3263,63 @@
       {
         "nombre": "SPORT3IL",
         "url": "https://antenasport.top/sport3il.php",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-18T06:50:00Z",
+    "hora_argentina": "2026-02-18 03:50",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+    "liga": "Formula 1",
+    "equipos": "Tests de pré-saison Essais du matin -",
+    "deporte": "Fórmula 1",
+    "pais": "Internacional",
+    "canales": [
+      {
+        "nombre": "CANAL+ SPORT (WIGI)",
+        "url": "https://bolaloca.my/player/1/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (HOCA)",
+        "url": "https://bolaloca.my/player/2/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (CAST)",
+        "url": "https://bolaloca.my/player/3/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/60",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -3376,6 +3535,63 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-18T09:10:00Z",
+    "hora_argentina": "2026-02-18 06:10",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+    "liga": "Formula 1",
+    "equipos": "Tests de pré-saison Essais du matin 2e partie -",
+    "deporte": "Fórmula 1",
+    "pais": "Internacional",
+    "canales": [
+      {
+        "nombre": "CANAL+ SPORT (WIGI)",
+        "url": "https://bolaloca.my/player/1/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (HOCA)",
+        "url": "https://bolaloca.my/player/2/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (CAST)",
+        "url": "https://bolaloca.my/player/3/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/60",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-18T10:00:00Z",
     "hora_argentina": "2026-02-18 07:00",
     "logo": "",
@@ -3449,6 +3665,43 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-18T11:15:00Z",
+    "hora_argentina": "2026-02-18 08:15",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
+    "liga": "Hockey Olympics Men's Quarterfinals",
+    "equipos": "Germany vs Slovakia",
+    "deporte": "Juegos Olímpicos",
+    "pais": "Internacional",
+    "canales": [
+      {
+        "nombre": "SKY9NZ",
+        "url": "https://antenasport.top/sky9nz.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV1",
+        "url": "https://antenasport.top/yletv1.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CTSPORT",
+        "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "OKKOSPORT",
+        "url": "https://antenasport.top/okkosport.php",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-18T11:30:00Z",
     "hora_argentina": "2026-02-18 08:30",
     "logo": "https://bestleague.world/jr/37.png",
@@ -3460,6 +3713,63 @@
       {
         "nombre": "SKY4NZ",
         "url": "https://antenasport.top/sky4nz.php",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-18T11:50:00Z",
+    "hora_argentina": "2026-02-18 08:50",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+    "liga": "Formula 1",
+    "equipos": "Tests de pré-saison Essais de l'après-midi -",
+    "deporte": "Fórmula 1",
+    "pais": "Internacional",
+    "canales": [
+      {
+        "nombre": "CANAL+ SPORT (WIGI)",
+        "url": "https://bolaloca.my/player/1/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (HOCA)",
+        "url": "https://bolaloca.my/player/2/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (CAST)",
+        "url": "https://bolaloca.my/player/3/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/60",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -3537,23 +3847,6 @@
     "date_offset": 0
   },
   {
-    "hora_utc": "2026-02-18T12:15:00Z",
-    "hora_argentina": "2026-02-18 09:15",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
-    "liga": "Hockey Olympics Men's Quarterfinals",
-    "equipos": "TBD vs TBD",
-    "deporte": "Juegos Olímpicos",
-    "pais": "Internacional",
-    "canales": [
-      {
-        "nombre": "OKKOSPORT",
-        "url": "https://antenasport.top/okkosport.php",
-        "calidad": "HD/FULLHD"
-      }
-    ],
-    "date_offset": 0
-  },
-  {
     "hora_utc": "2026-02-18T12:25:00Z",
     "hora_argentina": "2026-02-18 09:25",
     "logo": "https://bestleague.world/jr/37.png",
@@ -3580,7 +3873,7 @@
     "hora_argentina": "2026-02-18 10:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s USA vs Great Britain",
+    "equipos": "Curling Men�s USA vs Great Britain",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -3597,7 +3890,7 @@
     "hora_argentina": "2026-02-18 10:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s Ialy vs Canada",
+    "equipos": "Curling Men�s Ialy vs Canada",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -3614,7 +3907,7 @@
     "hora_argentina": "2026-02-18 10:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s Norway vs Switzerland",
+    "equipos": "Curling Men�s Norway vs Switzerland",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -3644,6 +3937,11 @@
         "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CTSPORT",
+        "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -3653,13 +3951,70 @@
     "hora_argentina": "2026-02-18 10:45",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s China v Czech Republic",
+    "equipos": "Curling Men�s China v Czech Republic",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
       {
         "nombre": "SKY9NZ",
         "url": "https://antenasport.top/sky9nz.php",
+        "calidad": "HD/FULLHD"
+      }
+    ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-18T14:10:00Z",
+    "hora_argentina": "2026-02-18 11:10",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/f1.png",
+    "liga": "Formula 1",
+    "equipos": "Tests de pré-saison Essais de l'après-midi 2e partie -",
+    "deporte": "Fórmula 1",
+    "pais": "Internacional",
+    "canales": [
+      {
+        "nombre": "CANAL+ SPORT (WIGI)",
+        "url": "https://bolaloca.my/player/1/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (HOCA)",
+        "url": "https://bolaloca.my/player/2/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CANAL+ SPORT (CAST)",
+        "url": "https://bolaloca.my/player/3/13",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "DE SKYDE F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/121",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (WIGI)",
+        "url": "https://bolaloca.my/player/1/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (HOCA)",
+        "url": "https://bolaloca.my/player/2/60",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ES DAZN F1 (CAST)",
+        "url": "https://bolaloca.my/player/3/60",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -3687,10 +4042,35 @@
     "hora_argentina": "2026-02-18 12:40",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Olympics Men's Quarterfinals",
-    "equipos": "TBD vs TBD",
+    "equipos": "Canada vs TBD",
     "deporte": "Juegos Olímpicos",
     "pais": "Internacional",
     "canales": [
+      {
+        "nombre": "TSN1",
+        "url": "https://antenasport.top/tsn1.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "SKY4NZ",
+        "url": "https://antenasport.top/sky4nz.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CTSPORT",
+        "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
@@ -3743,10 +4123,25 @@
     "hora_argentina": "2026-02-18 14:45",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
     "liga": "Premier League",
-    "equipos": "QarabaÄź vs Newcastle United",
+    "equipos": "Qarabağ vs Newcastle United",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
     "canales": [
+      {
+        "nombre": "ANTENASPORT SERVIDOR 29",
+        "url": "https://antenasport.top/29.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 30",
+        "url": "https://antenasport.top/30.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 17",
+        "url": "https://antenasport.top/17.php",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
@@ -3908,6 +4303,11 @@
     "pais": "Italia",
     "canales": [
       {
+        "nombre": "ANTENASPORT SERVIDOR 16",
+        "url": "https://antenasport.top/16.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "BLUESPORT1D",
         "url": "https://antenasport.top/bluesport1d.php",
         "calidad": "HD/FULLHD"
@@ -3920,13 +4320,33 @@
     "hora_argentina": "2026-02-18 15:10",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Olympics Men's Quarterfinals",
-    "equipos": "TBD vs TBD",
+    "equipos": "Finland vs Switzerland",
     "deporte": "Juegos Olímpicos",
     "pais": "Internacional",
     "canales": [
       {
+        "nombre": "SKY5NZ",
+        "url": "https://antenasport.top/sky5nz.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CTSPORT",
+        "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
         "calidad": "HD/FULLHD"
       }
     ],
@@ -3998,6 +4418,16 @@
     "pais": "España",
     "canales": [
       {
+        "nombre": "ANTENASPORT SERVIDOR 26",
+        "url": "https://antenasport.top/26.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 6",
+        "url": "https://antenasport.top/6.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "VIAPLAY1",
         "url": "https://antenasport.top/viaplay1.php",
         "calidad": "HD/FULLHD"
@@ -4026,8 +4456,8 @@
     "date_offset": 0
   },
   {
-    "hora_utc": "2026-02-18T19:19:00Z",
-    "hora_argentina": "2026-02-18 16:19",
+    "hora_utc": "2026-02-18T19:20:00Z",
+    "hora_argentina": "2026-02-18 16:20",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
     "equipos": "Short Track Skating Day 12 (F)",
@@ -4074,6 +4504,11 @@
     "pais": "Italia",
     "canales": [
       {
+        "nombre": "ANTENASPORT SERVIDOR 10",
+        "url": "https://antenasport.top/10.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "MATCH1",
         "url": "https://antenasport.top/match1.php",
         "calidad": "HD/FULLHD"
@@ -4081,11 +4516,6 @@
       {
         "nombre": "SETANTASPORT2",
         "url": "https://antenasport.top/setantasport2.php",
-        "calidad": "HD/FULLHD"
-      },
-      {
-        "nombre": "STARZPLAYSPORTS1",
-        "url": "https://antenasport.top/starzplaysports1.php",
         "calidad": "HD/FULLHD"
       },
       {
@@ -4140,6 +4570,21 @@
     "deporte": "Fútbol",
     "pais": "Inglaterra",
     "canales": [
+      {
+        "nombre": "ANTENASPORT SERVIDOR 40",
+        "url": "https://antenasport.top/40.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 11",
+        "url": "https://antenasport.top/11.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 2",
+        "url": "https://antenasport.top/2.php",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "SKYMAIN",
         "url": "https://antenasport.top/skymain.php",
@@ -4240,10 +4685,25 @@
     "hora_argentina": "2026-02-18 17:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "BodĂ¸ / Glimt vs Internazionale",
+    "equipos": "Bodø / Glimt vs Internazionale",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
+      {
+        "nombre": "ANTENASPORT SERVIDOR 9",
+        "url": "https://antenasport.top/9.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 30",
+        "url": "https://antenasport.top/30.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 28",
+        "url": "https://antenasport.top/28.php",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "MAXTNT1",
         "url": "https://antenasport.top/maxtnt1.php",
@@ -4310,12 +4770,32 @@
   {
     "hora_utc": "2026-02-18T20:00:00Z",
     "hora_argentina": "2026-02-18 17:00",
-    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
-    "liga": "UEFA Champions League",
-    "equipos": "Club Brugge vs AtlĂ©tico Madrid",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga",
+    "equipos": "Club Brugge vs Atlético Madrid",
     "deporte": "Fútbol",
-    "pais": "Europa",
+    "pais": "España",
     "canales": [
+      {
+        "nombre": "ANTENASPORT SERVIDOR 8",
+        "url": "https://antenasport.top/8.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 27",
+        "url": "https://antenasport.top/27.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 18",
+        "url": "https://antenasport.top/18.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 3",
+        "url": "https://antenasport.top/3.php",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "MAXTNT3",
         "url": "https://antenasport.top/maxtnt3.php",
@@ -4404,6 +4884,26 @@
     "pais": "Alemania",
     "canales": [
       {
+        "nombre": "ANTENASPORT SERVIDOR 29",
+        "url": "https://antenasport.top/29.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 17",
+        "url": "https://antenasport.top/17.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 4",
+        "url": "https://antenasport.top/4.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT SERVIDOR 24",
+        "url": "https://antenasport.top/24.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "BEINSPORT2EN",
         "url": "https://antenasport.top/beinsport2en.php",
         "calidad": "HD/FULLHD"
@@ -4481,10 +4981,30 @@
     "hora_argentina": "2026-02-18 17:10",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Ice_hockey_2016_YOG.svg/1280px-Ice_hockey_2016_YOG.svg.png",
     "liga": "Hockey Olympics Men's Quarterfinals",
-    "equipos": "TBD vs TBD",
+    "equipos": "USA vs TBD",
     "deporte": "Juegos Olímpicos",
     "pais": "Internacional",
     "canales": [
+      {
+        "nombre": "SKY5NZ",
+        "url": "https://antenasport.top/sky5nz.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "CTSPORT",
+        "url": "https://antenasport.top/ctsport.php",
+        "calidad": "HD/FULLHD"
+      },
       {
         "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
@@ -4559,7 +5079,7 @@
     "hora_argentina": "2026-02-18 21:30",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
     "liga": "Liga Portugal",
-    "equipos": "Nacional Potosí vs Botafogo",
+    "equipos": "Nacional Potos� vs Botafogo",
     "deporte": "Fútbol",
     "pais": "Portugal",
     "canales": [
@@ -4597,8 +5117,8 @@
     "hora_utc": "2026-02-19T03:00:00Z",
     "hora_argentina": "2026-02-19 00:00",
     "logo": "https://www.concacaf.com/media/aqqka5ga/ccc_primary_white.png",
-    "liga": "Cartaginés vs Vancouver Whitecaps CONCACAF Champions Cup",
-    "equipos": "Cartaginés vs Vancouver Whitecaps CONCACAF Champions Cup",
+    "liga": "Cartagin�s vs Vancouver Whitecaps CONCACAF Champions Cup",
+    "equipos": "Cartagin�s vs Vancouver Whitecaps CONCACAF Champions Cup",
     "deporte": "Deportes",
     "pais": "",
     "canales": [
@@ -4664,7 +5184,7 @@
     "hora_argentina": "2026-02-19 05:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s Norway vs Canada",
+    "equipos": "Curling Men�s Norway vs Canada",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -4681,7 +5201,7 @@
     "hora_argentina": "2026-02-19 05:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Curling Men’s Sweden vs Czech Republic",
+    "equipos": "Curling Men�s Sweden vs Czech Republic",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -5027,6 +5547,16 @@
         "calidad": "HD/FULLHD"
       },
       {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
         "calidad": "HD/FULLHD"
@@ -5196,7 +5726,7 @@
     "hora_argentina": "2026-02-19 14:45",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
     "liga": "Premier League",
-    "equipos": "FenerbahĂ§e vs Nottingham Forest",
+    "equipos": "Fenerbahçe vs Nottingham Forest",
     "deporte": "Fútbol",
     "pais": "Inglaterra",
     "canales": [
@@ -5495,6 +6025,16 @@
         "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
         "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
       }
     ],
     "date_offset": 0
@@ -5629,7 +6169,7 @@
     "hora_argentina": "2026-02-19 17:00",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
     "liga": "First League Bulgaria",
-    "equipos": "Ludogorets vs FerencvĂˇros",
+    "equipos": "Ludogorets vs Ferencváros",
     "deporte": "Fútbol",
     "pais": "Bulgaria",
     "canales": [
@@ -5822,7 +6362,7 @@
     "hora_argentina": "2026-02-19 17:00",
     "logo": "https://bestleague.world/jr/37.png",
     "liga": "Serie A",
-    "equipos": "Jagiellonia BiaĹ‚ystok vs Fiorentina",
+    "equipos": "Jagiellonia Białystok vs Fiorentina",
     "deporte": "Fútbol",
     "pais": "Italia",
     "canales": [
@@ -6097,6 +6637,16 @@
         "calidad": "HD/FULLHD"
       },
       {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
         "calidad": "HD/FULLHD"
@@ -6248,6 +6798,11 @@
       {
         "nombre": "SKY6NZ",
         "url": "https://antenasport.top/sky6nz.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
         "calidad": "HD/FULLHD"
       },
       {
@@ -6546,6 +7101,16 @@
         "calidad": "HD/FULLHD"
       },
       {
+        "nombre": "ANTENASPORT",
+        "url": "https://antenasport.top/usa.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "OKKOSPORT",
         "url": "https://antenasport.top/okkosport.php",
         "calidad": "HD/FULLHD"
@@ -6658,11 +7223,148 @@
         "calidad": "HD/FULLHD"
       },
       {
+        "nombre": "YLETV2",
+        "url": "https://antenasport.top/yletv2.php",
+        "calidad": "HD/FULLHD"
+      },
+      {
         "nombre": "OKKOSPORT2",
         "url": "https://antenasport.top/okkosport2.php",
         "calidad": "HD/FULLHD"
       }
     ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T10:00:00Z",
+    "hora_argentina": "2026-02-22 07:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "liga": "Super League Greece",
+    "equipos": "Lokomotiv Sofia 1929 vs Septemvri Sofia",
+    "deporte": "Fútbol",
+    "pais": "Grecia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T11:00:00Z",
+    "hora_argentina": "2026-02-22 08:00",
+    "logo": "",
+    "liga": "Kolos Kovalivka vs Polessya",
+    "equipos": "Kolos Kovalivka vs Polessya",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T11:15:00Z",
+    "hora_argentina": "2026-02-22 08:15",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "Twente vs Groningen",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T11:15:00Z",
+    "hora_argentina": "2026-02-22 08:15",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
+    "liga": "Ekstraklasa",
+    "equipos": "Arka Gdynia vs Katowice",
+    "deporte": "Fútbol",
+    "pais": "Polonia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T11:30:00Z",
+    "hora_argentina": "2026-02-22 08:30",
+    "logo": "https://bestleague.world/jr/37.png",
+    "liga": "Serie A",
+    "equipos": "Genoa vs Torino",
+    "deporte": "Fútbol",
+    "pais": "Italia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T12:00:00Z",
+    "hora_argentina": "2026-02-22 09:00",
+    "logo": "",
+    "liga": "Bohemians 1905 vs Dukla Praha",
+    "equipos": "Bohemians 1905 vs Dukla Praha",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T12:00:00Z",
+    "hora_argentina": "2026-02-22 09:00",
+    "logo": "",
+    "liga": "Radnički Niš vs IMT Novi Beograd",
+    "equipos": "Radnički Niš vs IMT Novi Beograd",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T12:15:00Z",
+    "hora_argentina": "2026-02-22 09:15",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
+    "liga": "First League Bulgaria",
+    "equipos": "Beroe vs Arda",
+    "deporte": "Fútbol",
+    "pais": "Bulgaria",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T12:30:00Z",
+    "hora_argentina": "2026-02-22 09:30",
+    "logo": "https://bestleague.world/jr/104.png",
+    "liga": "Pro League",
+    "equipos": "Genk vs Standard Liège",
+    "deporte": "Deportes",
+    "pais": "Bélgica",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T13:00:00Z",
+    "hora_argentina": "2026-02-22 10:00",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga",
+    "equipos": "Getafe vs Sevilla",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T13:00:00Z",
+    "hora_argentina": "2026-02-22 10:00",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga",
+    "equipos": "Sporting Gijón vs Real Valladolid",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T13:00:00Z",
+    "hora_argentina": "2026-02-22 10:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
+    "liga": "Swiss Super League",
+    "equipos": "Sion vs Young Boys",
+    "deporte": "Fútbol",
+    "pais": "Suiza",
+    "canales": [],
     "date_offset": 0
   },
   {
@@ -6713,6 +7415,204 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-22T13:30:00Z",
+    "hora_argentina": "2026-02-22 10:30",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "Go Ahead Eagles vs Heracles",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T13:30:00Z",
+    "hora_argentina": "2026-02-22 10:30",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "Utrecht vs PEC Zwolle",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T13:30:00Z",
+    "hora_argentina": "2026-02-22 10:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
+    "liga": "UEFA Champions League",
+    "equipos": "Shakhtar Donetsk vs Karpaty",
+    "deporte": "Fútbol",
+    "pais": "Europa",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T13:45:00Z",
+    "hora_argentina": "2026-02-22 10:45",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
+    "liga": "Ekstraklasa",
+    "equipos": "Jagiellonia Białystok vs Radomiak Radom",
+    "deporte": "Fútbol",
+    "pais": "Polonia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
+    "equipos": "Sunderland vs Fulham",
+    "deporte": "Fútbol",
+    "pais": "Inglaterra",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
+    "equipos": "Crystal Palace vs Wolverhampton Wanderers",
+    "deporte": "Fútbol",
+    "pais": "Inglaterra",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://bestleague.world/jr/56.png",
+    "liga": "Primera Division Uruguay",
+    "equipos": "Nottingham Forest vs Liverpool",
+    "deporte": "Deportes",
+    "pais": "Uruguay",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://bestleague.world/jr/37.png",
+    "liga": "Serie A",
+    "equipos": "Atalanta vs Napoli",
+    "deporte": "Fútbol",
+    "pais": "Italia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://bestleague.world/jr/45.png",
+    "liga": "Ligue 1",
+    "equipos": "Auxerre vs Rennes",
+    "deporte": "Fútbol",
+    "pais": "Francia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "Varaždin vs Dinamo Zagreb",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "liga": "Super League Greece",
+    "equipos": "Panserraikos vs Volos NFC",
+    "deporte": "Fútbol",
+    "pais": "Grecia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:00:00Z",
+    "hora_argentina": "2026-02-22 11:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "liga": "Super League Greece",
+    "equipos": "OFI vs Panathinaikos",
+    "deporte": "Fútbol",
+    "pais": "Grecia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:30:00Z",
+    "hora_argentina": "2026-02-22 11:30",
+    "logo": "https://bestleague.world/jr/96.png",
+    "liga": "Bundesliga",
+    "equipos": "Freiburg vs Borussia M'gladbach",
+    "deporte": "Fútbol",
+    "pais": "Alemania",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:30:00Z",
+    "hora_argentina": "2026-02-22 11:30",
+    "logo": "",
+    "liga": "Teplice vs Sigma Olomouc",
+    "equipos": "Teplice vs Sigma Olomouc",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:30:00Z",
+    "hora_argentina": "2026-02-22 11:30",
+    "logo": "",
+    "liga": "Baník Ostrava vs Mladá Boleslav",
+    "equipos": "Baník Ostrava vs Mladá Boleslav",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T14:45:00Z",
+    "hora_argentina": "2026-02-22 11:45",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "liga": "Super League Greece",
+    "equipos": "CSKA 1948 vs Levski Sofia",
+    "deporte": "Fútbol",
+    "pais": "Grecia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T15:00:00Z",
+    "hora_argentina": "2026-02-22 12:00",
+    "logo": "",
+    "liga": "RAAL La Louvière vs Mechelen",
+    "equipos": "RAAL La Louvière vs Mechelen",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T15:00:00Z",
+    "hora_argentina": "2026-02-22 12:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
+    "liga": "Serbia SuperLiga",
+    "equipos": "Spartak Subotica vs Radnički Kragujevac",
+    "deporte": "Fútbol",
+    "pais": "Serbia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-22T15:10:00Z",
     "hora_argentina": "2026-02-22 12:10",
     "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/rugby.png",
@@ -6740,6 +7640,160 @@
     "date_offset": 0
   },
   {
+    "hora_utc": "2026-02-22T15:15:00Z",
+    "hora_argentina": "2026-02-22 12:15",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga",
+    "equipos": "Barcelona vs Levante",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T15:15:00Z",
+    "hora_argentina": "2026-02-22 12:15",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga 2",
+    "equipos": "FC Andorra vs Real Zaragoza",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T15:30:00Z",
+    "hora_argentina": "2026-02-22 12:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
+    "liga": "Swiss Super League",
+    "equipos": "Lugano vs Lausanne Sport",
+    "deporte": "Fútbol",
+    "pais": "Suiza",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T15:30:00Z",
+    "hora_argentina": "2026-02-22 12:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/48.png",
+    "liga": "Swiss Super League",
+    "equipos": "Luzern vs Basel",
+    "deporte": "Fútbol",
+    "pais": "Suiza",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T15:45:00Z",
+    "hora_argentina": "2026-02-22 12:45",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "AZ vs Sparta Rotterdam",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:00:00Z",
+    "hora_argentina": "2026-02-22 13:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "liga": "Super League Greece",
+    "equipos": "Larissa vs PAOK",
+    "deporte": "Fútbol",
+    "pais": "Grecia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:00:00Z",
+    "hora_argentina": "2026-02-22 13:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
+    "liga": "UEFA Champions League",
+    "equipos": "Crvena Zvezda vs Partizan",
+    "deporte": "Fútbol",
+    "pais": "Europa",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:15:00Z",
+    "hora_argentina": "2026-02-22 13:15",
+    "logo": "https://bestleague.world/jr/45.png",
+    "liga": "Ligue 1",
+    "equipos": "Angers SCO vs Lille",
+    "deporte": "Fútbol",
+    "pais": "Francia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:15:00Z",
+    "hora_argentina": "2026-02-22 13:15",
+    "logo": "https://bestleague.world/jr/45.png",
+    "liga": "Ligue 1",
+    "equipos": "Nantes vs Le Havre",
+    "deporte": "Fútbol",
+    "pais": "Francia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:15:00Z",
+    "hora_argentina": "2026-02-22 13:15",
+    "logo": "https://bestleague.world/jr/45.png",
+    "liga": "Ligue 1",
+    "equipos": "Nice vs Lorient",
+    "deporte": "Fútbol",
+    "pais": "Francia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:30:00Z",
+    "hora_argentina": "2026-02-22 13:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png",
+    "liga": "Premier League",
+    "equipos": "Tottenham Hotspur vs Arsenal",
+    "deporte": "Fútbol",
+    "pais": "Inglaterra",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:30:00Z",
+    "hora_argentina": "2026-02-22 13:30",
+    "logo": "https://bestleague.world/jr/96.png",
+    "liga": "Bundesliga",
+    "equipos": "St. Pauli vs Werder Bremen",
+    "deporte": "Fútbol",
+    "pais": "Alemania",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:30:00Z",
+    "hora_argentina": "2026-02-22 13:30",
+    "logo": "https://bestleague.world/jr/96.png",
+    "liga": "Bundesliga",
+    "equipos": "Korona Kielce vs Lech Poznań",
+    "deporte": "Fútbol",
+    "pais": "Alemania",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T16:45:00Z",
+    "hora_argentina": "2026-02-22 13:45",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/56.png",
+    "liga": "HNL",
+    "equipos": "Hajduk Split vs Rijeka",
+    "deporte": "Fútbol",
+    "pais": "Croacia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
     "hora_utc": "2026-02-22T17:00:00Z",
     "hora_argentina": "2026-02-22 14:00",
     "logo": "https://bestleague.world/jr/123.png",
@@ -6754,6 +7808,138 @@
         "calidad": "HD/FULLHD"
       }
     ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T17:00:00Z",
+    "hora_argentina": "2026-02-22 14:00",
+    "logo": "https://bestleague.world/jr/37.png",
+    "liga": "Serie A",
+    "equipos": "Milan vs Parma",
+    "deporte": "Fútbol",
+    "pais": "Italia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T17:00:00Z",
+    "hora_argentina": "2026-02-22 14:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "liga": "Super League Greece",
+    "equipos": "Aris vs Kifisia",
+    "deporte": "Fútbol",
+    "pais": "Grecia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T17:30:00Z",
+    "hora_argentina": "2026-02-22 14:30",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga",
+    "equipos": "Celta de Vigo vs Mallorca",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T17:30:00Z",
+    "hora_argentina": "2026-02-22 14:30",
+    "logo": "",
+    "liga": "Zulte-Waregem vs Anderlecht",
+    "equipos": "Zulte-Waregem vs Anderlecht",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T17:30:00Z",
+    "hora_argentina": "2026-02-22 14:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png",
+    "liga": "UEFA Europa League",
+    "equipos": "Viktoria Plzeň vs Sparta Praha",
+    "deporte": "Fútbol",
+    "pais": "Europa",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T17:30:00Z",
+    "hora_argentina": "2026-02-22 14:30",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga 2",
+    "equipos": "Racing Santander vs Burgos",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T18:00:00Z",
+    "hora_argentina": "2026-02-22 15:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
+    "liga": "Liga Portugal",
+    "equipos": "Estoril vs Gil Vicente",
+    "deporte": "Fútbol",
+    "pais": "Portugal",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T18:00:00Z",
+    "hora_argentina": "2026-02-22 15:00",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/47.png",
+    "liga": "Super League Greece",
+    "equipos": "AEK Athens vs Levadiakos",
+    "deporte": "Fútbol",
+    "pais": "Grecia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T18:15:00Z",
+    "hora_argentina": "2026-02-22 15:15",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",
+    "liga": "UEFA Champions League",
+    "equipos": "Westerlo vs Sporting Charleroi",
+    "deporte": "Fútbol",
+    "pais": "Europa",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T18:15:00Z",
+    "hora_argentina": "2026-02-22 15:15",
+    "logo": "",
+    "liga": "Hapoel Be'er Sheva vs Hapoel Haifa",
+    "equipos": "Hapoel Be'er Sheva vs Hapoel Haifa",
+    "deporte": "Deportes",
+    "pais": "",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T18:30:00Z",
+    "hora_argentina": "2026-02-22 15:30",
+    "logo": "https://bestleague.world/jr/96.png",
+    "liga": "Bundesliga",
+    "equipos": "Heidenheim vs Stuttgart",
+    "deporte": "Fútbol",
+    "pais": "Alemania",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T19:00:00Z",
+    "hora_argentina": "2026-02-22 16:00",
+    "logo": "https://bestleague.world/jr/38.png",
+    "liga": "Eredivisie",
+    "equipos": "Feyenoord vs Telstar",
+    "deporte": "Fútbol",
+    "pais": "Países Bajos",
+    "canales": [],
     "date_offset": 0
   },
   {
@@ -6796,6 +7982,61 @@
         "calidad": "HD/FULLHD"
       }
     ],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T19:45:00Z",
+    "hora_argentina": "2026-02-22 16:45",
+    "logo": "https://bestleague.world/jr/37.png",
+    "liga": "Serie A",
+    "equipos": "Roma vs Cremonese",
+    "deporte": "Fútbol",
+    "pais": "Italia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T19:45:00Z",
+    "hora_argentina": "2026-02-22 16:45",
+    "logo": "https://bestleague.world/jr/45.png",
+    "liga": "Ligue 1",
+    "equipos": "Strasbourg vs Olympique Lyonnais",
+    "deporte": "Fútbol",
+    "pais": "Francia",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T20:00:00Z",
+    "hora_argentina": "2026-02-22 17:00",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga",
+    "equipos": "Villarreal vs Valencia",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T20:00:00Z",
+    "hora_argentina": "2026-02-22 17:00",
+    "logo": "https://bestleague.world/jr/34.png",
+    "liga": "La Liga 2",
+    "equipos": "Málaga vs Albacete",
+    "deporte": "Fútbol",
+    "pais": "España",
+    "canales": [],
+    "date_offset": 0
+  },
+  {
+    "hora_utc": "2026-02-22T20:30:00Z",
+    "hora_argentina": "2026-02-22 17:30",
+    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",
+    "liga": "Liga Portugal",
+    "equipos": "Porto vs Rio Ave",
+    "deporte": "Fútbol",
+    "pais": "Portugal",
+    "canales": [],
     "date_offset": 0
   },
   {
