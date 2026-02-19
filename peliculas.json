@@ -4377,39 +4377,7 @@
     "overview": "",
     "rating": 0
   },
-  {
-    "tmdb_id": 8510,
-    "title": "Cuatro paredes",
-    "year": "2025",
-    "servers": [],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
-  },
-  {
-    "tmdb_id": 1817044,
-    "title": "June y John",
-    "year": "2025",
-    "servers": [],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
-  },
-  {
-    "tmdb_id": 6029781,
-    "title": "Exorcismo: El Ritual",
-    "year": "2025",
-    "servers": [],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
-  },
+
   {
     "tmdb_id": 1206589,
     "title": "The Activated Man",
@@ -4430,17 +4398,7 @@
     "overview": "",
     "rating": 0
   },
-  {
-    "tmdb_id": 1963537,
-    "title": "Un paseo con Madeleine",
-    "year": "2025",
-    "servers": [],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
-  },
+  
   {
     "tmdb_id": 927342,
     "title": "அமரன்",
@@ -4461,39 +4419,7 @@
     "overview": "",
     "rating": 0
   },
-  {
-    "tmdb_id": 1262972,
-    "title": "Looking Through Water",
-    "year": "2025",
-    "servers": [],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
-  },
-  {
-    "tmdb_id": 2105990,
-    "title": "Please Don't Feed the Children",
-    "year": "2025",
-    "servers": [],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
-  },
-  {
-    "tmdb_id": 9471602,
-    "title": "Black Noise",
-    "year": "2025",
-    "servers": [],
-    "poster_url": "",
-    "backdrop_url": "",
-    "genres_spanish": [],
-    "overview": "",
-    "rating": 0
-  },
+
   {
     "tmdb_id": 1356839,
     "title": "The Captives",
@@ -75363,7 +75289,8 @@
         "server": "netu",
         "quality": "HD",
         "language": "LATINO",
-        "embed_url": "https://waaw.to/f/Rzto8pPPTjJ9"
+        "embed_url": "https://waaw.to/f/Rzto8pPPTjJ9",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       },
       {
         "server": "streamtape",
