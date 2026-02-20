@@ -13,6 +13,8 @@ SCRAPERS = [
     os.path.join("PELICULAS-SERIES-ANIME", "series", "scraper_recent_episodes.py"),
     # Anime (Henaojara)
     os.path.join("PELICULAS-SERIES-ANIME", "anime", "scraper_henaojara_anime.py"),
+    # Partidos (incluye extracción de m3u8)
+    "scraper_partidos.py",
     # Puedes agregar más scrapers aquí si lo deseas
 ]
 

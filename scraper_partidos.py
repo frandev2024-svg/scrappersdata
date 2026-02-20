@@ -5,14 +5,19 @@ import os
 import re
 import shutil
 import subprocess
+import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 from urllib.parse import parse_qs, urljoin, urlparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
+import urllib3
 from bs4 import BeautifulSoup
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_JSON = BASE_DIR / "partidos.json"
@@ -2027,17 +2032,28 @@ def fix_encoding(text: str) -> str:
     """Intenta reparar texto con encoding roto (mojibake / replacement chars)."""
     if not text:
         return text
+
     # Paso 1: Intentar arreglar mojibake típico latin1→utf8
     # (ej: "ï¿½" son los bytes EF BF BD de U+FFFD leídos como latin-1)
     try:
         fixed = text.encode('latin-1').decode('utf-8')
-        if fixed != text:
-            text = fixed  # NO retornar aún, continuar con correcciones
+        if fixed != text and '\ufffd' not in fixed:
+            text = fixed
     except (UnicodeDecodeError, UnicodeEncodeError):
         pass
+
+    # Paso 1b: Intentar arreglar mojibake windows-1252→utf8
+    try:
+        fixed = text.encode('cp1252').decode('utf-8')
+        if fixed != text and '\ufffd' not in fixed:
+            text = fixed
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        pass
+
     # Paso 2: Si tiene U+FFFD (replacement character), aplicar correcciones conocidas
     if '\ufffd' in text:
         correcciones = {
+            # Equipos / ciudades con acentos comunes
             "K\ufffdbenhavn": "København",
             "Nordsj\ufffdlland": "Nordsjælland",
             "Vara\ufffddin": "Varaždin",
@@ -2060,15 +2076,72 @@ def fix_encoding(text: str) -> str:
             "Siroki": "Široki",
             "Velez": "Velež",
             "Zeljeznicar": "Željezničar",
+            # CONCACAF / Centroamérica
+            "Cartagin\ufffds": "Cartaginés",
+            # Acentos comunes en español / portugués / francés
+            "Bol\ufffdvar": "Bolívar",
+            "D\ufffdnamo": "Dínamo",
+            "G\ufffdrnik": "Górnik",
+            "L\ufffddz": "Łódź",
+            "Krak\ufffdw": "Kraków",
+            "Ey\ufffdpspor": "Eyüpspor",
+            "Gen\ufffdlerbirli\ufffdi": "Gençlerbirliği",
+            "Nig\ufffde": "Niğde",
+            "Kayserisp\ufffd": "Kayserispor",
+            "Fener\ufffd": "Fenerbahçe",
+            "Be\ufffdikta\ufffd": "Beşiktaş",
+            "Trabz\ufffdnspor": "Trabzonspor",
+            "K\ufffdln": "Köln",
+            "N\ufffdrnberg": "Nürnberg",
+            "D\ufffdsseldorf": "Düsseldorf",
+            "Z\ufffdrich": "Zürich",
+            "Betis Sevill\ufffd": "Betis Sevilla",
         }
         for bad, good in correcciones.items():
             if bad in text:
                 text = text.replace(bad, good)
-    # Correcciones conocidas sin U+FFFD (ej: latin1/utf-8 cruzados)
+
+    # Paso 3: Si aún tiene U+FFFD, intentar recovery genérico
+    # Para cada U+FFFD, probar las vocales acentuadas más comunes en español/portugués
+    if '\ufffd' in text:
+        # Intentar reemplazar cada U+FFFD individualmente con caracteres comunes
+        common_accented = 'éáíóúñüçèàùòêâôãõëäïößøæåÉÁÍÓÚÑÜÇ'
+        parts = text.split('\ufffd')
+        if len(parts) >= 2:
+            # Para cada posición con U+FFFD, probar el carácter más probable
+            result = parts[0]
+            for i, part in enumerate(parts[1:], 1):
+                best_char = ''
+                # Contexto: letra anterior y posterior al U+FFFD
+                prev_char = result[-1] if result else ''
+                next_char = part[0] if part else ''
+                # Heurística: si está entre letras, es probablemente una vocal acentuada
+                if prev_char.isalpha() and next_char.isalpha():
+                    # Inferir por contexto: letra minúscula → acento minúsculo
+                    candidates = common_accented.lower() if prev_char.islower() else common_accented.upper()
+                    for char in candidates:
+                        best_char = char
+                        break  # Usar el primer candidato (é es lo más frecuente en español)
+                if best_char:
+                    result += best_char + part
+                else:
+                    result += '\ufffd' + part  # No podemos recuperar, mantener
+            text = result
+
+    # Correcciones conocidas sin U+FFFD (ej: latin1/utf-8 cruzados - mojibake)
     extras = {
         "LanÃºs": "Lanús",
         "LanĂºs": "Lanús",
         "LanĂşs": "Lanús",
+        "Ã©": "é",
+        "Ã¡": "á",
+        "Ã­": "í",
+        "Ã³": "ó",
+        "Ãº": "ú",
+        "Ã±": "ñ",
+        "Ã¼": "ü",
+        "Ã§": "ç",
+        "Ã": "Á",  # Ã seguido de espacio suele ser Á mal codificado
     }
     for bad, good in extras.items():
         if bad in text:
@@ -2076,39 +2149,97 @@ def fix_encoding(text: str) -> str:
     return text
 
 
+def decode_mixed_encoding(raw: bytes) -> str:
+    """
+    Decodifica bytes que pueden tener encoding mixto (UTF-8 y latin-1/ISO-8859-1).
+    Algunas fuentes (como antenasport) mezclan caracteres UTF-8 multi-byte
+    (ej: Ł = C5 81) con caracteres latin-1 de un solo byte (ej: ç = E7).
+    Esta función intenta decodificar cada secuencia como UTF-8 y si falla,
+    la interpreta como latin-1.
+    """
+    result = []
+    i = 0
+    n = len(raw)
+    while i < n:
+        b = raw[i]
+        # ASCII: un solo byte
+        if b <= 0x7F:
+            result.append(chr(b))
+            i += 1
+        # UTF-8 secuencia de 2 bytes: 110xxxxx 10xxxxxx
+        elif 0xC2 <= b <= 0xDF and i + 1 < n and 0x80 <= raw[i + 1] <= 0xBF:
+            result.append(raw[i:i + 2].decode('utf-8'))
+            i += 2
+        # UTF-8 secuencia de 3 bytes: 1110xxxx 10xxxxxx 10xxxxxx
+        elif (0xE0 <= b <= 0xEF and i + 2 < n
+              and 0x80 <= raw[i + 1] <= 0xBF
+              and 0x80 <= raw[i + 2] <= 0xBF):
+            result.append(raw[i:i + 3].decode('utf-8'))
+            i += 3
+        # UTF-8 secuencia de 4 bytes: 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
+        elif (0xF0 <= b <= 0xF7 and i + 3 < n
+              and all(0x80 <= raw[i + j] <= 0xBF for j in range(1, 4))):
+            result.append(raw[i:i + 4].decode('utf-8'))
+            i += 4
+        else:
+            # No es UTF-8 válido: interpretar como latin-1 (ISO-8859-1)
+            result.append(chr(b))
+            i += 1
+    return ''.join(result)
+
+
 def fetch_html(session: requests.Session, url: str) -> str:
     response = session.get(url, timeout=TIMEOUT_SEC)
-    # Detectar encoding real en lugar de forzar utf-8
-    if response.apparent_encoding:
-        response.encoding = response.apparent_encoding
-    else:
-        response.encoding = "utf-8"
-    text = response.text
-    # Si aún hay caracteres rotos, intentar con latin-1
-    if '\ufffd' in text or '�' in text:
-        try:
-            text = response.content.decode('utf-8')
-        except UnicodeDecodeError:
-            try:
-                text = response.content.decode('latin-1')
-            except Exception:
-                pass
-    return text
+    raw = response.content
+
+    # Paso 1: Intentar UTF-8 puro (es el encoding más común en web moderna)
+    try:
+        text = raw.decode('utf-8')
+        if '\ufffd' not in text:
+            return text
+    except UnicodeDecodeError:
+        pass
+
+    # Paso 2: Decodificación mixta UTF-8 / latin-1 (para fuentes con encoding mezclado)
+    # Algunas fuentes mezclan UTF-8 multi-byte con latin-1 single-byte
+    text = decode_mixed_encoding(raw)
+    if '\ufffd' not in text:
+        return text
+
+    # Paso 3: Intentar windows-1252 puro
+    try:
+        text = raw.decode('windows-1252')
+        if '\ufffd' not in text:
+            return text
+    except (UnicodeDecodeError, LookupError):
+        pass
+
+    # Paso 4: latin-1 nunca falla (mapea todos los 256 bytes)
+    return raw.decode('latin-1')
 
 
 def parse_elcanaldeportivo(session: requests.Session) -> List[Dict[str, Any]]:
     events: List[Dict[str, Any]] = []
     try:
         response = session.get(ELCANALDEPORTIVO_URL, timeout=TIMEOUT_SEC)
-        # Decodificar con el encoding correcto (la fuente puede ser latin-1)
-        try:
-            data = json.loads(response.content.decode("utf-8"))
-        except (UnicodeDecodeError, json.JSONDecodeError):
+        raw = response.content
+        data = None
+        # Intentar múltiples encodings y elegir el que no tenga caracteres rotos
+        for enc in ("utf-8", "utf-8-sig", "windows-1252", "latin-1"):
             try:
-                data = json.loads(response.content.decode("latin-1"))
-            except Exception:
-                response.encoding = response.apparent_encoding or "utf-8"
-                data = response.json()
+                decoded = raw.decode(enc)
+                candidate = json.loads(decoded)
+                # Verificar si tiene caracteres de reemplazo
+                serialized = json.dumps(candidate, ensure_ascii=False)
+                if '\ufffd' not in serialized:
+                    data = candidate
+                    break
+            except (UnicodeDecodeError, json.JSONDecodeError):
+                continue
+        if data is None:
+            # Último recurso: usar el encoding detectado por requests
+            response.encoding = response.apparent_encoding or "utf-8"
+            data = response.json()
     except Exception as exc:
         logger.error("elcanaldeportivo error: %s", exc)
         return events
@@ -2904,6 +3035,495 @@ def filtrar_eventos_pasados(events: list) -> list:
     return filtrados
 
 
+# ==================== EXTRACCION M3U8 ====================
+
+_M3U8_HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+}
+_M3U8_TIMEOUT = 15
+_M3U8_MAX_WORKERS = 8
+
+
+def _m3u8_fetch(url: str, referer: str = None, timeout: int = _M3U8_TIMEOUT):
+    """Fetch URL con headers para extracción m3u8."""
+    try:
+        r = requests.get(url, headers={**_M3U8_HEADERS, 'Referer': referer or url},
+                         timeout=timeout, verify=False, allow_redirects=True)
+        r.raise_for_status()
+        return r.text, r.url
+    except Exception as e:
+        return None, str(e)
+
+
+def _find_m3u8_in_html(html: str, base_url: str = "") -> list:
+    """Buscar URLs m3u8 directamente en HTML."""
+    if not html:
+        return []
+    m3u8s = re.findall(r'(https?://[^\s"\'<>\\]+\.m3u8[^\s"\'<>\\]*)', html)
+    source_m3u8 = re.findall(
+        r'(?:source|file|src|url|hls|hlsUrl|videoUrl)\s*[:=]\s*["\']([^"\']*\.m3u8[^"\']*)["\']',
+        html, re.IGNORECASE)
+    all_urls = list(set(m3u8s + source_m3u8))
+    result = []
+    for u in all_urls:
+        if 'chromewebstore' in u:
+            continue
+        if u.startswith('http'):
+            result.append(u)
+        elif u.startswith('//'):
+            result.append('https:' + u)
+        elif u.startswith('/') and base_url:
+            parsed = urlparse(base_url)
+            result.append(f"{parsed.scheme}://{parsed.netloc}{u}")
+    return result
+
+
+def _find_iframes(html: str, base_url: str = "") -> list:
+    """Buscar URLs de iframes en HTML."""
+    if not html:
+        return []
+    iframes = re.findall(r'<iframe[^>]+src=["\']([^"\']+)["\']', html, re.IGNORECASE)
+    js_iframes = re.findall(r'\.src\s*=\s*["\']([^"\']+)["\']', html)
+    iframes += js_iframes
+    result = []
+    for u in iframes:
+        if '${' in u or u.startswith('about:') or u.startswith('javascript:'):
+            continue
+        if 'histats.com' in u or 'amung.us' in u or 'blast.js' in u:
+            continue
+        if u.startswith('http'):
+            result.append(u)
+        elif u.startswith('//'):
+            result.append('https:' + u)
+        elif u.startswith('/') and base_url:
+            parsed = urlparse(base_url)
+            result.append(f"{parsed.scheme}://{parsed.netloc}{u}")
+    return result
+
+
+def _unpack_js(packed_code: str):
+    """Desempaqueta código JavaScript ofuscado (p,a,c,k,e,d)."""
+    patterns = [
+        r"eval\(function\(p,a,c,k,e,d\)\{.*?\}return p\}\('(.+)',(\d+),(\d+),'([^']+)'\.split\('\|'\)",
+        r"eval\(function\(p,a,c,k,e,d\)\{.*?\}\('(.+)',(\d+),(\d+),'([^']+)'\.split\('\|'\)",
+    ]
+    match = None
+    for pat in patterns:
+        match = re.search(pat, packed_code, re.DOTALL)
+        if match:
+            break
+    if not match:
+        return None
+    p, a, c, k = match.groups()
+    a, c = int(a), int(c)
+    k = k.split('|')
+    digits = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+    def _base_encode(num, base):
+        if num == 0:
+            return '0'
+        r = ''
+        while num > 0:
+            r = digits[num % base] + r
+            num //= base
+        return r or '0'
+
+    d = {}
+    for i in range(c):
+        key = _base_encode(i, a)
+        d[key] = k[i] if i < len(k) and k[i] else key
+    return re.sub(r'\b(\w+)\b', lambda m: d.get(m.group(0), m.group(0)), p)
+
+
+def _find_and_unpack_evals(html: str) -> list:
+    """Encuentra y desempaqueta todos los bloques eval en HTML."""
+    if not html:
+        return []
+    results = []
+    for m in re.finditer(r'eval\(function\(p,a,c,k,e,d\)', html):
+        rest = html[m.start():]
+        end_m = re.search(r"\.split\('\|'\)[^)]*\)\)", rest[:100000])
+        if end_m:
+            unpacked = _unpack_js(rest[:end_m.end()])
+            if unpacked:
+                results.append(unpacked)
+    return results
+
+
+# --- Extractores por dominio ---
+
+def _extract_direct_m3u8(url: str):
+    html, final_url = _m3u8_fetch(url)
+    if not html:
+        return None, f"Error fetching {url}"
+    m3u8s = _find_m3u8_in_html(html, final_url)
+    return (m3u8s[0], None) if m3u8s else (None, "No m3u8 found in HTML")
+
+
+def _extract_from_asfdasfas(url: str):
+    html, _ = _m3u8_fetch(url)
+    if not html:
+        return None, f"Error fetching {url}"
+    channel_match = re.search(r"channelKey:\s*['\"]([^'\"]+)['\"]", html)
+    if not channel_match:
+        channel_match = re.search(r"var_5dcb0692ab\s*=\s*['\"]([^'\"]+)['\"]", html)
+    if not channel_match:
+        parsed = urlparse(url)
+        params = dict(p.split('=') for p in parsed.query.split('&') if '=' in p)
+        channel_key = params.get('id', '')
+        if not channel_key:
+            return None, "No channel key found"
+    else:
+        channel_key = channel_match.group(1)
+    try:
+        lookup_url = f"https://chevy.sdfgsdfg.sbs/server_lookup?channel_id={channel_key}"
+        resp = requests.get(lookup_url, headers={**_M3U8_HEADERS, 'Referer': url},
+                            timeout=10, verify=False)
+        if resp.status_code != 200:
+            return None, f"server_lookup returned {resp.status_code}"
+        sk = resp.json().get('server_key', '')
+        if not sk:
+            return None, "No server_key in response"
+        if sk == 'top1/cdn':
+            m3u8 = f"https://top1.sdfgsdfg.sbs/top1/cdn/{channel_key}/mono.m3u8"
+        else:
+            m3u8 = f"https://{sk}new.sdfgsdfg.sbs/{sk}/{channel_key}/mono.m3u8"
+        return m3u8, None
+    except Exception as e:
+        return None, f"server_lookup error: {e}"
+
+
+def _extract_from_antenasport(url: str):
+    html, _ = _m3u8_fetch(url)
+    if not html:
+        return None, f"Error fetching {url}"
+    iframes = _find_iframes(html, url)
+    for iframe in iframes:
+        if 'asfdasfas' in iframe:
+            return _extract_from_asfdasfas(iframe)
+    m3u8s = _find_m3u8_in_html(html, url)
+    return (m3u8s[0], None) if m3u8s else (None, "No asfdasfas iframe found")
+
+
+def _extract_from_player_embed(url: str, referer: str = None):
+    html, final_url = _m3u8_fetch(url, referer)
+    if not html:
+        return None, f"Error fetching {url}"
+    # m3u8 directo
+    m3u8s = _find_m3u8_in_html(html, final_url)
+    if m3u8s:
+        return m3u8s[0], None
+    # packed eval
+    for unpacked in _find_and_unpack_evals(html):
+        m3u8s = _find_m3u8_in_html(unpacked, final_url)
+        if m3u8s:
+            return m3u8s[0], None
+    # source patterns
+    for pat in [r'source\s*:\s*["\']([^"\']+\.m3u8[^"\']*)["\']',
+                r'["\']([^"\']*\.m3u8[^"\']*)["\']']:
+        for m in re.findall(pat, html):
+            if m.startswith('http') and '.m3u8' in m and 'chromewebstore' not in m:
+                return m, None
+    # iframes anidados
+    for nested in _find_iframes(html, final_url):
+        if any(skip in nested for skip in ['histats', 'amung.us', 'cloudflare']):
+            continue
+        nh, nf = _m3u8_fetch(nested, final_url)
+        if nh:
+            m3u8s = _find_m3u8_in_html(nh, nf)
+            if m3u8s:
+                return m3u8s[0], None
+            for unpacked in _find_and_unpack_evals(nh):
+                m3u8s = _find_m3u8_in_html(unpacked, nf)
+                if m3u8s:
+                    return m3u8s[0], None
+    return None, "No m3u8 found in player embed"
+
+
+def _extract_from_hoca6(url: str, referer: str = None):
+    html, _ = _m3u8_fetch(url, referer)
+    if not html:
+        return None, f"Error fetching hoca6: {url}"
+    load_match = re.search(r'player\.load\(\{source:\s*(\w+)\(\)', html)
+    if not load_match:
+        return None, "No player.load found in hoca6"
+    func_name = load_match.group(1)
+    func_start = html.find(f'function {func_name}')
+    if func_start < 0:
+        return None, f"Function {func_name} not found"
+    brace_count, in_func, func_end = 0, False, func_start
+    for i in range(func_start, min(func_start + 5000, len(html))):
+        if html[i] == '{':
+            brace_count += 1; in_func = True
+        elif html[i] == '}':
+            brace_count -= 1
+            if in_func and brace_count == 0:
+                func_end = i + 1; break
+    body = html[func_start:func_end]
+    arr_match = re.search(r'\[((?:"[^"]*",?\s*)+)\]\.join\(""\)', body)
+    if not arr_match:
+        return None, "No char array found in hoca6"
+    base_url = ''.join(re.findall(r'"([^"]*)"', arr_match.group(1))).replace('\\/', '/')
+    aux_val = ''
+    for var in re.findall(r'\+\s*(\w+)\.join\(""\)', body):
+        for sm in re.finditer(r'<script[^>]*>(.*?)</script>', html, re.DOTALL):
+            am = re.search(rf'(?:var\s+)?{var}\s*=\s*\[(.*?)\]', sm.group(1), re.DOTALL)
+            if am:
+                aux_val += ''.join(re.findall(r'"([^"]*)"', am.group(1)))
+                break
+    elem_val = ''
+    em = re.search(r'getElementById\(["\'](\w+)["\']\)', body)
+    if em:
+        eh = re.search(rf'id\s*=\s*["\']?{re.escape(em.group(1))}["\']?\s*[^>]*>([^<]*)<', html)
+        if eh:
+            elem_val = eh.group(1)
+    full_url = base_url + aux_val + elem_val
+    return (full_url, None) if '.m3u8' in full_url else (None, f"hoca6 URL sin .m3u8: {full_url[:80]}")
+
+
+def _extract_from_bolaloca(url: str):
+    html, _ = _m3u8_fetch(url)
+    if not html:
+        return None, f"Error fetching {url}"
+    for iframe_url in _find_iframes(html, url):
+        if 'hoca' in iframe_url:
+            result = _extract_from_hoca6(iframe_url, url)
+            if result[0]:
+                return result
+        result = _extract_from_player_embed(iframe_url, url)
+        if result[0]:
+            return result
+    return None, "No m3u8 found in bolaloca iframes"
+
+
+def _extract_from_miatvhd(url: str):
+    html, _ = _m3u8_fetch(url)
+    if not html:
+        return None, f"Error fetching {url}"
+    visited, current_html, current_url = {url}, html, url
+    for _ in range(5):
+        iframes = _find_iframes(current_html, current_url)
+        if not iframes:
+            break
+        for iframe_url in iframes:
+            if iframe_url in visited:
+                continue
+            visited.add(iframe_url)
+            if 'asfdasfas' in iframe_url:
+                return _extract_from_asfdasfas(iframe_url)
+            nh, nu = _m3u8_fetch(iframe_url, current_url)
+            if not nh:
+                continue
+            m3u8s = _find_m3u8_in_html(nh, nu)
+            if m3u8s:
+                return m3u8s[0], None
+            for unpacked in _find_and_unpack_evals(nh):
+                m3u8s = _find_m3u8_in_html(unpacked, nu)
+                if m3u8s:
+                    return m3u8s[0], None
+            current_html, current_url = nh, nu
+            break
+    return None, "No m3u8 found after following iframe chain"
+
+
+def _extract_from_welivesports(url: str):
+    html, _ = _m3u8_fetch(url)
+    if not html:
+        return None, f"Error fetching {url}"
+    for iframe_url in _find_iframes(html, url):
+        result = _extract_from_obstream(iframe_url, url)
+        if result[0]:
+            return result
+    return None, "No m3u8 found in welivesports"
+
+
+def _extract_from_obstream(url: str, referer: str = None):
+    html, final_url = _m3u8_fetch(url, referer)
+    if not html:
+        return None, f"Error fetching {url}"
+    m3u8s = _find_m3u8_in_html(html, final_url)
+    if m3u8s:
+        return m3u8s[0], None
+    for unpacked in _find_and_unpack_evals(html):
+        m3u8s = _find_m3u8_in_html(unpacked, final_url)
+        if m3u8s:
+            return m3u8s[0], None
+    for nested in _find_iframes(html, final_url):
+        nh, nf = _m3u8_fetch(nested, final_url)
+        if not nh:
+            continue
+        m3u8s = _find_m3u8_in_html(nh, nf)
+        if m3u8s:
+            return m3u8s[0], None
+        for unpacked in _find_and_unpack_evals(nh):
+            m3u8s = _find_m3u8_in_html(unpacked, nf)
+            if m3u8s:
+                return m3u8s[0], None
+    return None, "No m3u8 found in obstream"
+
+
+def _extract_from_rereyano(url: str):
+    html, _ = _m3u8_fetch(url)
+    if not html:
+        return None, f"Error fetching {url}"
+    for iframe_url in _find_iframes(html, url):
+        result = _extract_from_player_embed(iframe_url, url)
+        if result[0]:
+            return result
+        if 'asfdasfas' in iframe_url:
+            return _extract_from_asfdasfas(iframe_url)
+    return None, "No m3u8 found in rereyano chain"
+
+
+def _detect_m3u8_domain(url: str) -> str:
+    domain = urlparse(url).netloc.lower()
+    if 'antenasport.top' in domain:
+        return 'antenasport'
+    elif 'bolaloca.my' in domain:
+        return 'bolaloca'
+    elif any(d in domain for d in ['tvtvhd.com', 'streamtp', 'streamx']):
+        return 'direct'
+    elif 'elcanaldeportivo.com' in domain:
+        return 'elcanaldeportivo'
+    elif 'miatvhd.xyz' in domain:
+        return 'miatvhd'
+    elif 'tvlibree.com' in domain:
+        return 'tvlibree'
+    elif 'welivesports.shop' in domain:
+        return 'welivesports'
+    elif 'rereyano.ru' in domain:
+        return 'rereyano'
+    elif 'nebunexa.life' in domain:
+        return 'nebunexa'
+    elif 'asfdasfas' in domain:
+        return 'asfdasfas'
+    elif 'doubttooth' in domain:
+        return 'player_embed'
+    elif 'obstream' in domain:
+        return 'obstream'
+    return 'generic'
+
+
+_M3U8_EXTRACTORS = {
+    'antenasport': _extract_from_antenasport,
+    'bolaloca': _extract_from_bolaloca,
+    'direct': _extract_direct_m3u8,
+    'miatvhd': _extract_from_miatvhd,
+    'welivesports': _extract_from_welivesports,
+    'rereyano': _extract_from_rereyano,
+    'asfdasfas': _extract_from_asfdasfas,
+    'player_embed': lambda url: _extract_from_player_embed(url),
+    'obstream': lambda url: _extract_from_obstream(url),
+}
+
+
+def _extract_m3u8(url: str):
+    """Extrae m3u8 de cualquier URL de partidos."""
+    dtype = _detect_m3u8_domain(url)
+    # Dominios que requieren JS runtime — no se pueden extraer
+    if dtype in ('elcanaldeportivo', 'tvlibree', 'nebunexa'):
+        return None, f"{dtype} requiere JS runtime"
+    extractor = _M3U8_EXTRACTORS.get(dtype)
+    if extractor:
+        try:
+            return extractor(url)
+        except Exception as e:
+            return None, f"Error in {dtype}: {e}"
+    try:
+        return _extract_from_player_embed(url)
+    except Exception as e:
+        return None, f"Generic extraction failed: {e}"
+
+
+def extraer_m3u8_de_eventos(events: list) -> list:
+    """
+    Toma la lista de eventos/partidos, extrae m3u8 de cada canal en paralelo,
+    elimina canales sin m3u8 y partidos sin canales. Retorna lista limpia.
+    """
+    total_canales = sum(len(p.get('canales', [])) for p in events)
+    if total_canales == 0:
+        logger.info("M3U8: No hay canales para procesar")
+        return events
+
+    # Recopilar URLs únicas
+    url_set = set()
+    for p in events:
+        for c in p.get('canales', []):
+            url = c.get('url', '')
+            if url:
+                url_set.add(url)
+
+    unique_urls = list(url_set)
+    logger.info("M3U8: %d canales, %d URLs únicas a procesar con %d workers",
+                total_canales, len(unique_urls), _M3U8_MAX_WORKERS)
+
+    # Contar por dominio
+    domain_counts: Dict[str, int] = {}
+    for u in unique_urls:
+        dt = _detect_m3u8_domain(u)
+        domain_counts[dt] = domain_counts.get(dt, 0) + 1
+    for dt, cnt in sorted(domain_counts.items(), key=lambda x: -x[1]):
+        logger.info("  M3U8 [%s]: %d URLs", dt, cnt)
+
+    # Extraer en paralelo
+    url_results: Dict[str, tuple] = {}
+    start_time = time.time()
+    ok_count = 0
+
+    with ThreadPoolExecutor(max_workers=_M3U8_MAX_WORKERS) as executor:
+        future_to_url = {executor.submit(_extract_m3u8, u): u for u in unique_urls}
+        for future in as_completed(future_to_url):
+            url = future_to_url[future]
+            try:
+                m3u8, error = future.result(timeout=60)
+                url_results[url] = (m3u8, error)
+            except Exception as e:
+                url_results[url] = (None, str(e))
+            if url_results[url][0]:
+                ok_count += 1
+
+    elapsed = time.time() - start_time
+    logger.info("M3U8: %d/%d URLs exitosas en %.1fs", ok_count, len(unique_urls), elapsed)
+
+    # Resumen por dominio
+    domain_results: Dict[str, Dict[str, int]] = {}
+    for url, (m3u8, _) in url_results.items():
+        dt = _detect_m3u8_domain(url)
+        if dt not in domain_results:
+            domain_results[dt] = {'ok': 0, 'fail': 0}
+        if m3u8:
+            domain_results[dt]['ok'] += 1
+        else:
+            domain_results[dt]['fail'] += 1
+    for dt in sorted(domain_results, key=lambda x: -(domain_results[x]['ok'] + domain_results[x]['fail'])):
+        r = domain_results[dt]
+        total = r['ok'] + r['fail']
+        pct = r['ok'] / total * 100 if total > 0 else 0
+        logger.info("  M3U8 [%s]: %d/%d (%.0f%%)", dt, r['ok'], total, pct)
+
+    # Aplicar resultados: asignar m3u8_url a cada canal
+    for partido in events:
+        for canal in partido.get('canales', []):
+            url = canal.get('url', '')
+            if url and url in url_results:
+                m3u8, _ = url_results[url]
+                if m3u8:
+                    canal['m3u8_url'] = m3u8
+
+    # Limpiar: solo mantener canales con m3u8_url exitoso
+    for partido in events:
+        partido['canales'] = [c for c in partido.get('canales', []) if c.get('m3u8_url')]
+
+    # Eliminar partidos sin canales
+    antes = len(events)
+    events = [p for p in events if len(p.get('canales', [])) > 0]
+    logger.info("M3U8: Partidos %d -> %d (eliminados %d sin servidores)", antes, len(events), antes - len(events))
+
+    return events
+
+
 def main() -> None:
     # Cargar variables de entorno desde .env (si existe)
     load_env_file()
@@ -2917,6 +3537,10 @@ def main() -> None:
     antes = len(events)
     events = filtrar_eventos_pasados(events)
     logger.info("Eventos filtrados: %d -> %d (eliminados %d pasados)", antes, len(events), antes - len(events))
+    
+    # Extraer URLs m3u8 de cada canal y limpiar eventos sin servidores
+    logger.info("Iniciando extracción de m3u8...")
+    events = extraer_m3u8_de_eventos(events)
     
     # Guardar JSON
     with OUTPUT_JSON.open("w", encoding="utf-8") as f:

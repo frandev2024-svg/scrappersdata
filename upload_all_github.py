@@ -26,6 +26,7 @@ ARCHIVOS = [
     {"local": "anime2.json",             "github": "anime2.json"},
     {"local": "episodios_recientes.json", "github": "episodios_recientes.json"},
     {"local": "canales.json",            "github": "canales.json"},
+    {"local": "partidos.json",           "github": "partidos.json"},
 ]
 # ===========================================
 
