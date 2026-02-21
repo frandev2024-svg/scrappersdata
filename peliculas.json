@@ -1792,6 +1792,18 @@
         "language": "SUB",
         "embed_url": "https://waaw.to/f/dBOYn6M7zYtG",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/jakiwwqtq8r9"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/dcu2zuhxm8nx"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/w500/fQBKFzmuGEaVH5FYwodesWfu9Z4.jpg",
@@ -2377,6 +2389,24 @@
         "embed_url": "https://voe.sx/e/b8vx7itr8o72",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/b8vx7itr8o72"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/e0zildl308tu"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/ohd3jtq1ujbf"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/t7zy8vfrdw2h"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/w500/kuAObOLDIBnWgGE3vk9wBsrM54.jpg",
@@ -2839,6 +2869,12 @@
         "embed_url": "https://voe.sx/e/jki6jhivrwsb",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/jki6jhivrwsb"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/x5j9q3ccdpv2"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/w500/ecpETxTPyVFai17hMMoFGy1ruLO.jpg",
@@ -3350,6 +3386,39 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/krTOHX1KcT3N",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/52o4tfmhqg4n",
+        "m3u8_url": "https://sfastwish.com/stream/5YLAv_geO0ZVT01YRZe_vw/kjhhiuahiuhgihdf/1771717458/68373005/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/mjw9py14nhpl"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/5i96h92c1b6u",
+        "m3u8_url": "https://1hyahuweWHyVWmq.acek-cdn.com/hls2/01/07470/5i96h92c1b6u_n/master.m3u8?t=OUgsUkB3wVBLxO0ICj3scT9n1mgszFBVa810pqBTdqw&s=1771674260&e=129600&f=37351544&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/bjl8wbmjmzlo"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/eo2t2cY67TSG",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
@@ -3902,6 +3971,12 @@
         "embed_url": "https://voe.sx/e/ar0exx8aoenz",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/ar0exx8aoenz"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/vnz8dlpfslwg"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/dfJ9PqicF0cswNDsostHrGVueiq.jpg",
@@ -62340,6 +62415,24 @@
         "embed_url": "https://voe.sx/e/erh04mczkebu",
         "m3u8_url": null,
         "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/yzop1vhmee7r"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/o8xafthe1hrr"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/prdjuw2tiryt"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/on7B7pjf2XsI1oa8fQxszMoa4Rg.jpg",
@@ -62567,7 +62660,7 @@
       "Misterio"
     ],
     "overview": "Juhan Liiv, un poeta luchador y un improbable detective que padece las primeras fases de la esquizofrenia, resuelve truculentos casos de asesinato en la Estonia de la década de 1890, bajo la sombra del tiránico Imperio ruso.",
-    "rating": 0
+    "rating": 8
   },
   {
     "tmdb_id": 1590097,
@@ -64370,6 +64463,99 @@
         "language": "LATINO",
         "embed_url": "https://waaw.to/f/wrU5qaZIqCs1",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/ati2tkfyaufr",
+        "m3u8_url": "https://sfastwish.com/stream/n0dX6PTBrICRDQdB-iP-iA/kjhhiuahiuhgihdf/1771717380/68372961/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/3lueoh99n30z"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/mbiwviyxpqqu",
+        "m3u8_url": "https://vidhidepro.com/stream/qbK-PULJ3eYgmAeD5aFPJQ/hjkrhuihghfvu/1771717382/37351497/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/cruqrcsd0y9c"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/DpIbEUFKYs9V",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/6nout4e6e1o0",
+        "m3u8_url": "https://sfastwish.com/stream/MKBkTvL2VIDjPGE450ySlg/kjhhiuahiuhgihdf/1771717387/68425861/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/daeetaxx9voe",
+        "m3u8_url": "https://vidhidepro.com/stream/1-4HbSKgUeKdQMmnQoPSiA/hjkrhuihghfvu/1771717389/37379598/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/vcgbwzgm36yq"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/xjPg5BQ4ru3J",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/cdiijlie6u0v",
+        "m3u8_url": "https://sfastwish.com/stream/_eGEyi82KA4PkMGittLtvw/kjhhiuahiuhgihdf/1771717393/68372965/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/2qrjb5qwjgae"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/ujlb2vs6h6mv",
+        "m3u8_url": "https://vidhidepro.com/stream/Zm7SEu5YZYKuCyxyXp-VEQ/hjkrhuihghfvu/1771717396/37351514/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/bwxy0otv2ann"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/iW2TmJmqor9T",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/tgmtRhwt3NuWXF9piH1pA7CEQA5.jpg",
@@ -64686,6 +64872,18 @@
         "embed_url": "https://voe.sx/e/bi1e8qsh1anf",
         "m3u8_url": null,
         "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/kzmj0zl9gojg"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/jdzmenswg4ny"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/29PEVnEskJssQt8Wmj2hVgNfl2z.jpg",
@@ -65675,6 +65873,39 @@
         "language": "LATINO",
         "embed_url": "https://waaw.to/f/PBnJmi7QV4l7",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/dt6648coeiye",
+        "m3u8_url": "https://sfastwish.com/stream/ffBnE-9BWJp7W_OIIb88Xw/kjhhiuahiuhgihdf/1771717759/68328834/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/qys54gk2yqnt"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/xipodde0b4n0",
+        "m3u8_url": "https://QdihMNFwepXNi.dramiyos-cdn.com/hls2/01/07452/d764wbvlab94_,l,n,.urlset/master.m3u8?t=GUvopP-iFdLtxdL6ttGm3hFxoLBSTDAhXI3Hfhd-xAY&s=1771674562&e=129600&f=37303512&srv=sosNVcMrPrym&i=0.4&sp=500&p1=sosNVcMrPrym&p2=sosNVcMrPrym&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/b60fpwjw1zgp"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/osiOzXEIOykq",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
@@ -65838,6 +66069,19 @@
         "embed_url": "https://voe.sx/e/emuqfvwe1nyf",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/emuqfvwe1nyf"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/5rf7rcvco0fp"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/GK2NJUWYsmIc",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/1hRdOzLWpXdNawaNhktTnRoM0w1.jpg",
@@ -66189,6 +66433,33 @@
         "language": "SUB",
         "embed_url": "https://waaw.to/f/jnaDml423Un5",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/rdyc3zxhv7da",
+        "m3u8_url": "https://sfastwish.com/stream/yEVylYrJqsfldYe8_a_6_g/kjhhiuahiuhgihdf/1771717408/68425832/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/ngxq3flanqfh",
+        "m3u8_url": "https://HGc0USwxhNN8.acek-cdn.com/hls2/01/07475/ngxq3flanqfh_n/master.m3u8?t=VR5TaQApOGwFKuGbA_TlmiZMCcEnIIC5arZxUZyBy_A&s=1771674210&e=129600&f=37379566&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/0nealpyp2aey"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/LrehYm4RG4RO",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/uI8ho9i1Dl6LUyyJ8ZqkE7SxVq4.jpg",
@@ -66315,7 +66586,7 @@
         "quality": "HD",
         "language": "ESPANOL",
         "embed_url": "https://vidhidepro.com/v/rz3k35jkwkcu",
-        "m3u8_url": null,
+        "m3u8_url": "https://vidhidepro.com/stream/wohoeLzfT7uer1boohTwng/hjkrhuihghfvu/1771719301/36512790/master.m3u8",
         "m3u8_error": "Error de conexión: HTTPSConnectionPool(host='callistanise.com', port=443): Max retries exceeded with url: /v/rz3k35jkwkcu (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))"
       },
       {
@@ -66338,7 +66609,7 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://streamwish.to/e/3o3p15egq76i",
-        "m3u8_url": null,
+        "m3u8_url": "https://sfastwish.com/stream/Neepl06oggGb96ubKKe00g/kjhhiuahiuhgihdf/1771719305/67414078/master.m3u8",
         "m3u8_error": "Error de conexión: HTTPSConnectionPool(host='flaswish.com', port=443): Max retries exceeded with url: /e/3o3p15egq76i (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))"
       },
       {
@@ -66354,7 +66625,7 @@
         "quality": "HD",
         "language": "SUB",
         "embed_url": "https://vidhidepro.com/v/tlh8swofiml8",
-        "m3u8_url": null,
+        "m3u8_url": "https://vidhidepro.com/stream/Dkwo8G691RDi_5pbupfMBg/hjkrhuihghfvu/1771719307/36512791/master.m3u8",
         "m3u8_error": "Error de conexión: HTTPSConnectionPool(host='vidhidefast.com', port=443): Max retries exceeded with url: /v/tlh8swofiml8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))"
       },
       {
@@ -66419,6 +66690,24 @@
         "embed_url": "https://voe.sx/e/q02eox8ld3ni",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: HTTPSConnectionPool(host='voe.sx', port=443): Max retries exceeded with url: /e/q02eox8ld3ni (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/050be8dcvj93"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/lqbr1arvusg2"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/uqyyepcsfwys"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/hENLu86h3zljg0x8bdy8cOUxZF5.jpg",
@@ -66441,7 +66730,7 @@
         "quality": "HD",
         "language": "LATINO",
         "embed_url": "https://streamwish.to/e/luuqc1hgopgg",
-        "m3u8_url": null,
+        "m3u8_url": "https://sfastwish.com/stream/IzY2_nBFgKtjJKxtrixDOA/kjhhiuahiuhgihdf/1771719313/67423471/master.m3u8",
         "m3u8_error": "Error de conexión: HTTPSConnectionPool(host='sfastwish.com', port=443): Max retries exceeded with url: /e/luuqc1hgopgg (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))"
       },
       {
@@ -66542,6 +66831,18 @@
         "embed_url": "https://voe.sx/e/cwkopg5digig",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/cwkopg5digig"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/bo1anwrq6qgd"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/wyaw8pjybx77"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
@@ -67615,6 +67916,24 @@
         "embed_url": "https://voe.sx/e/rwldowapcgjv",
         "m3u8_url": null,
         "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/rymmdhs064z1"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/qdq1i3ip2aqs"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/u44r9nfv1pvi"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg",
@@ -68056,6 +68375,12 @@
         "embed_url": "https://voe.sx/e/imnj5vetmflk",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/imnj5vetmflk"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/w8yycfwub3c2"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
@@ -68445,6 +68770,18 @@
         "embed_url": "https://voe.sx/e/txjg1y4ypyeu",
         "m3u8_url": null,
         "m3u8_error": "Error de conexión: 404 Client Error: Not Found for url: https://voe.sx/e/txjg1y4ypyeu"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/chbv61kvslnk"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/tev4mqkqamq0"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/sjGlKaK5jqd23ZOsBqbV2YDiIbP.jpg",
@@ -70643,6 +70980,72 @@
         "language": "SUB",
         "embed_url": "https://waaw.to/f/yw1mlNNaNDya",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/y6z9h3rx4tyu",
+        "m3u8_url": "https://sfastwish.com/stream/TWrxH9GFt9rLe5CbBn2BSA/kjhhiuahiuhgihdf/1771717422/68373036/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/n5o15azemrkg"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/wpdlw7m4chkp",
+        "m3u8_url": "https://vidhidepro.com/stream/ENWBQzUqF8dIGRcjF5qReA/hjkrhuihghfvu/1771717425/37351564/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/pk1yas6uhffx"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/YNltL22CeDpK",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/vcyvzi13ouzs",
+        "m3u8_url": "https://sfastwish.com/stream/TMAnFTwXt96b3fIvAmOJdw/kjhhiuahiuhgihdf/1771717429/68373039/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/4vbr5leqdcmi"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/wg1d12y8rxgg",
+        "m3u8_url": "https://vidhidepro.com/stream/lPFp3w4EsVfKahM6wDTi7w/hjkrhuihghfvu/1771717431/37351574/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/hgmp4jlvp4l5"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/K70uizcUXRry",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg",
@@ -71106,6 +71509,12 @@
         "embed_url": "https://voe.sx/e/xe12od8apvbf",
         "m3u8_url": null,
         "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/qs5p4lyfkwgb"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/a2EdW8sk22fNCvrpOiaHbR2hOuZ.jpg",
@@ -71812,6 +72221,19 @@
         "embed_url": "https://voe.sx/e/77dvdso1xdx3",
         "m3u8_url": null,
         "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/dmjjqonmvgwk"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/inHGRI88gUXF",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/v12qqT8GrLjdGj4mnp4iMik7kvx.jpg",
@@ -72973,6 +73395,39 @@
         "language": "LATINO",
         "embed_url": "https://waaw.to/f/G5fA71CFRHnl",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/uu35q9sz9l5f",
+        "m3u8_url": "https://sfastwish.com/stream/fRHg1-lg7Vlv2Yg2OcFDYg/kjhhiuahiuhgihdf/1771718294/68225641/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/t0y5ldqoebtj"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/v782ewzn55py",
+        "m3u8_url": "https://vidhidepro.com/stream/H6Jl5hORkANDnv-mAElNCg/hjkrhuihghfvu/1771718296/37191793/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/hcbesd20tnub"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/jxBkSgy0ZWHp",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/zA4kTLsGnJN0tfMjKrinKgYIuki.jpg",
@@ -73055,6 +73510,12 @@
         "language": "LATINO",
         "embed_url": "https://waaw.to/f/Mqmk19SMuV45",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/fgw5fqno90hs"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/cApRXj6meulAQMYQrhjfVvZEItl.jpg",
@@ -73119,6 +73580,18 @@
         "language": "LATINO",
         "embed_url": "https://waaw.to/f/rnO2cZtUKviR",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/qrrr6pa6rfgc"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/qp5db4as0ntx"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/fFjCz7pX9gZofqgbEnYxk3C1Ixo.jpg",
@@ -74300,6 +74773,45 @@
         "embed_url": "https://voe.sx/e/qidfwihrytld",
         "m3u8_url": null,
         "m3u8_error": "VOE requiere JavaScript para decodificar - no se encontraron URLs directas"
+      },
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/irkz0qe73irl",
+        "m3u8_url": "https://sfastwish.com/stream/n9kePU6H3wumUvlp24iiOQ/kjhhiuahiuhgihdf/1771718212/67992969/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/50kov1vqyrhf"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/rstbfxmvim67",
+        "m3u8_url": "https://vidhidepro.com/stream/RaVvpDkztWT-P0YX7Ku1TA/hjkrhuihghfvu/1771718215/36964602/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/hgwmmfq50mj0"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/TEfJg8KR9tao",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/rkig4vuttyap"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/jctiZ1I2p4b6mceR85QxYhgs4Ft.jpg",
@@ -75692,6 +76204,33 @@
         "language": "SUB",
         "embed_url": "https://waaw.to/f/ivZkgOkkBTzs",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/0g8jvcybm5sb",
+        "m3u8_url": "https://sfastwish.com/stream/BJ-0oVmITQGExQoRGLB7KA/kjhhiuahiuhgihdf/1771717604/68236712/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/rwp81h9cl279",
+        "m3u8_url": "https://1hyahuweWHyVWmq.acek-cdn.com/hls2/01/07468/rwp81h9cl279_n/master.m3u8?t=eXV2mWykjeB1Vfw3YI59SNw0sZ_jrnpFOWTpBmIAtjI&s=1771674406&e=129600&f=37342716&srv=yBYPq7qTAXaZkdT2&i=0.4&sp=500&p1=yBYPq7qTAXaZkdT2&p2=yBYPq7qTAXaZkdT2&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/47psgdzvqwpm"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/29jM8fpimnF9",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/ucEm04IJHtJK2YCQPUaB3OGuxLb.jpg",
@@ -75735,6 +76274,33 @@
         "language": "SUB",
         "embed_url": "https://waaw.to/f/0tI9QESsbrrw",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/3jnde12wl5ts",
+        "m3u8_url": "https://sfastwish.com/stream/FpjFRaAVP7Qa_lrftjMxTQ/kjhhiuahiuhgihdf/1771717566/68236859/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/3c1vkjdo45ye",
+        "m3u8_url": "https://yjrnY6VWd3Y1oXUh.acek-cdn.com/hls2/01/07468/3c1vkjdo45ye_n/master.m3u8?t=xu2lr1JE6eXhTObKQmfSPS8ELEuLTqR_5cS93WqDGDA&s=1771674367&e=129600&f=37342805&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/l2yu9gcyomta"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/DGzVWoyvOd8t",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
     "poster_url": "https://image.tmdb.org/t/p/original/cpUW98HrLlyaKSWQr4wFCdAO4sH.jpg",
@@ -75775,6 +76341,33 @@
         "quality": "SCR",
         "language": "SUB",
         "embed_url": "https://waaw.to/f/u9jiEq5GZzk7",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/tmg91ydmhkc4",
+        "m3u8_url": "https://sfastwish.com/stream/Ut-APcuMfQshPRHLxRQg-g/kjhhiuahiuhgihdf/1771717578/68173782/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/4uizesti28h4",
+        "m3u8_url": "https://pfabiWMFmEza.dramiyos-cdn.com/hls2/01/07468/4uizesti28h4_n/master.m3u8?t=QIylhKaTtPg4uqOyK6oVyrhqvi1ZaxIEBMvW9FI1ttU&s=1771674380&e=129600&f=37342778&srv=sosNVcMrPrym&i=0.4&sp=500&p1=sosNVcMrPrym&p2=sosNVcMrPrym&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/o4bj6zkls2pj"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/QVXwKESX2Wnj",
         "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
       }
     ],
@@ -77235,5 +77828,1808 @@
     ],
     "overview": "Las vidas de dos policías de Nueva York colisionan en un tejido de historias sobre raza, estatus, pérdida y traición.",
     "rating": 7.4
+  },
+  {
+    "tmdb_id": 1440144,
+    "title": "La deuda",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/hyq7916knmfy",
+        "m3u8_url": "https://sfastwish.com/stream/DnWZSWC4O9h7m5Zzl74jUQ/kjhhiuahiuhgihdf/1771717372/68426215/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/stcxr07s2dil",
+        "m3u8_url": "https://vidhidepro.com/stream/nb8Dh57C6SL-rsUf6EestQ/hjkrhuihghfvu/1771717374/37379919/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/4mawubmfu3ns"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/kF4lOo9asWbc",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8LFKzVhsPJmIA9v5BVDGGLk3Ltl.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/yWRYg5M2iEkcZpepQNMfKCs50gt.jpg",
+    "genres_spanish": [
+      "Drama"
+    ],
+    "overview": "Lucas, un hombre de 47 años y Antonia, una anciana, conviven en un piso céntrico de la ciudad. A pesar de sus dificultades económicas, Lucas y Antonia, viven con afecto, ilusión y sentido del humor. Su vida transcurre de forma cotidiana hasta que un fondo de inversión adquiere el edificio para convertirlo en pisos turísticos. Lucas intenta conseguir el dinero necesario para evitar la pérdida de la casa, pero una decisión errónea cambiará el resto de sus vidas.",
+    "rating": 7.2
+  },
+  {
+    "tmdb_id": 967022,
+    "title": "Abigail",
+    "year": "2023",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/veghfj3aqt9k",
+        "m3u8_url": "https://sfastwish.com/stream/XfkXP-XDOn6vBud74EKOmg/kjhhiuahiuhgihdf/1771717436/68373003/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/f40y3sw0xjla"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/2xkv7ccqugek",
+        "m3u8_url": "https://vidhidepro.com/stream/FN9jay9TMhSlalxoVtA0wA/hjkrhuihghfvu/1771717439/37351541/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/puuqi71chmac"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/5ZJGldpYVZyU",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/fsvxei4209b7",
+        "m3u8_url": "https://sfastwish.com/stream/60P95wLnqtSBoYPzElNb8A/kjhhiuahiuhgihdf/1771717443/68373015/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/85yaxi9mqre1"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/8rce167ss1kl",
+        "m3u8_url": "https://vidhidepro.com/stream/vxXUjZMGZe7XEGDiNfqDyw/hjkrhuihghfvu/1771717445/37351557/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/mxpl8kxo2rna"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/xsb4Tv9QCD6O",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/hvGj291oWmMyDhvtU7642KsM2np.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/wczgAuhmw26OwfhsmD0cMw9Oufo.jpg",
+    "genres_spanish": [
+      "Terror",
+      "Suspenso"
+    ],
+    "overview": "In 1976, a troubled teen befriends her bullied neighbor, seeking revenge on his tormentors, but her obsession turns deadly.",
+    "rating": 6.27
+  },
+  {
+    "tmdb_id": 1544991,
+    "title": "Me has robado el corazón",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/e3q7eqmedg9g",
+        "m3u8_url": "https://sfastwish.com/stream/FRLHUPU1JtvIVfdXvYKNSg/kjhhiuahiuhgihdf/1771717472/68372979/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/sqoa1uetnqwz"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/63zx50sz5oeq",
+        "m3u8_url": "https://vidhidepro.com/stream/KuYtKu2EgDWV4ieaT0p9_g/hjkrhuihghfvu/1771717474/37351518/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/jdsytdofr7a9"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/OBeSpGKxa0E0",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/80NizAhIK8yQIoZkzkqFeZdKax0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/oBaCA8TDnBTyXkXcY5v13wovi5Z.jpg",
+    "genres_spanish": [
+      "Acción",
+      "Comedia",
+      "Romance"
+    ],
+    "overview": "Eric, un joven ingeniero, tras conocer a Vera en una app de citas, la engaña para que sea su conductora. Huyen hacia Galicia, después de robar un banco en Madrid, mientras la policía les persigue.",
+    "rating": 4.5
+  },
+  {
+    "tmdb_id": 1470130,
+    "title": "The Mortuary Assistant",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/ph7ltqeeqzcc",
+        "m3u8_url": "https://sfastwish.com/stream/NsFegwm53zH9OSzWzzj4TQ/kjhhiuahiuhgihdf/1771717479/68344555/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/teubtzs5lfbi",
+        "m3u8_url": "https://vidhidepro.com/stream/itILOz9Q2A3VZ4TTqJsvPQ/hjkrhuihghfvu/1771717481/37346472/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/jeyu7th8umjf"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/3cawzh6BZMgu",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+    "genres_spanish": [
+      "Terror",
+      "Misterio"
+    ],
+    "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+    "rating": 5
+  },
+  {
+    "tmdb_id": 1566001,
+    "title": "VHS Summer Camp",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/0bhm1pi612bj",
+        "m3u8_url": "https://sfastwish.com/stream/Ybvjc_3luNZ8MtyXBj3eHQ/kjhhiuahiuhgihdf/1771717486/68344641/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/e77xrhtgxpgu",
+        "m3u8_url": "https://vidhidepro.com/stream/W42jGeaKimArVIzL89FttQ/hjkrhuihghfvu/1771717488/37346355/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/77hqoiq6xstq"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/uvfBvqBsFe3S",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/fzycu43vyjqn",
+        "m3u8_url": "https://sfastwish.com/stream/j5bSuJz7aRTkz7KP6wI73g/kjhhiuahiuhgihdf/1771717492/68344734/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/9v31nlgjo863",
+        "m3u8_url": "https://vidhidepro.com/stream/t2PEoeLrQjlLYHTraSjdtg/hjkrhuihghfvu/1771717493/37346405/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/uzlaq1j5ghx2"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/szrZ5b2MpLuF",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/vsE3W0laXEEGf5509rnqAAVsO2C.jpg",
+    "backdrop_url": "",
+    "genres_spanish": [
+      "Terror",
+      "Suspenso"
+    ],
+    "overview": "When a group of teens are hired to clean up an old summer camp with a dark past they encounter an evil VHS tape and a week of partying turns into a fight for their lives.",
+    "rating": 8
+  },
+  {
+    "tmdb_id": 1594286,
+    "title": "You're All Doomed",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/evdxfdh2vv03",
+        "m3u8_url": "https://sfastwish.com/stream/qAcSbD7MBssoJgH_XTRK_w/kjhhiuahiuhgihdf/1771717499/68344644/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/9zgz09uhb8uy",
+        "m3u8_url": "https://vidhidepro.com/stream/BFtqGrSm18qVJMlFISBtdQ/hjkrhuihghfvu/1771717500/37344434/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/nworqj0rsjnu"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/y5ezfaVKBm6d",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/o0jWl4exocm5xL3L66JXf6glnUS.jpg",
+    "backdrop_url": "",
+    "genres_spanish": [
+      "Terror"
+    ],
+    "overview": "Burned alive in an accident and locked away, the urban legend of Crispy refuses to die. Escaping the asylum, the scarred killer returns to Camp Hollow, where a group of unsuspecting campers find their weekend of fun twisted into a nightmare of fire, blood, and vengeance as his rage consumes the woods once more.",
+    "rating": 0
+  },
+  {
+    "tmdb_id": 1197239,
+    "title": "The Art of Telling Lies",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/cuozejtbgb5j",
+        "m3u8_url": "https://sfastwish.com/stream/cUuARRz2nCyezkquBFDT4g/kjhhiuahiuhgihdf/1771717512/68283135/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/w8lm7lc1psa4",
+        "m3u8_url": "https://vidhidepro.com/stream/jGTLJzuucuRDA5Sy7UkaYw/hjkrhuihghfvu/1771717514/37344341/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/efts4djjawa9"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/b36c1JYHFmOb",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/bR23eSZSnjYpYpAjbbwecnEROTq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/tJsvd9PTGxkqieacksoKrTwYZ8I.jpg",
+    "genres_spanish": [
+      "Crimen",
+      "Drama",
+      "Suspenso"
+    ],
+    "overview": "Four strangers are being invited to a remote castle, only to discover they are being blackmailed for their past scandals.",
+    "rating": 6
+  },
+  {
+    "tmdb_id": 1621612,
+    "title": "Tears to a Glass Eye",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/h618g4agnx5l",
+        "m3u8_url": "https://sfastwish.com/stream/rseRtM6n5GTUnlNDDsVeVw/kjhhiuahiuhgihdf/1771717519/68344729/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/1fp3yuaq4lm6",
+        "m3u8_url": "https://1hyahuweWHyVWmq.acek-cdn.com/hls2/01/07468/1fp3yuaq4lm6_n/master.m3u8?t=V6TsrlTlmC--EnUYGQB6QnRRx-8G0uwSbrCYhi4JfBk&s=1771674321&e=129600&f=37344343&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/gvgomj60d8o8"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/AAULQfMpZ6wN",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/sPxfBXeNNQbiHNvkPzo3wF8Vybx.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/pyCQzQbJH7C1qQcW1F3mNksBBsw.jpg",
+    "genres_spanish": [
+      "Misterio",
+      "Suspenso",
+      "Drama"
+    ],
+    "overview": "In 1992, semi-retired detective and author Martin Dye is hired to track down a missing duffel bag of cash tied to a fatal 1970s crash that left one friend dead and another in a wheelchair. As Martin follows the trail through old classmates, small-town gossip, and buried lies, he uncovers a dark legacy of drugs, betrayal, and shattered lives - and learns some secrets refuse to stay buried.",
+    "rating": 0
+  },
+  {
+    "tmdb_id": 1119449,
+    "title": "Buena suerte, diviértete, no mueras",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/a0gshz3utwy6",
+        "m3u8_url": "https://sfastwish.com/stream/feEHu9BcJrY2vXIPgxnezw/kjhhiuahiuhgihdf/1771717526/68284503/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/opv98gcsy51c",
+        "m3u8_url": "https://vidhidepro.com/stream/LdaLKZ9GfNBWNjwaTKnNJQ/hjkrhuihghfvu/1771717528/37344308/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/dvsh32n5fcc2"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/CioRrv2Kl35e",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/dtEVoZBMuwlgz4mh4PA75eVbBM1.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/yjOSpDQe8tzr8easpjTFVoQXsOX.jpg",
+    "genres_spanish": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura",
+      "Comedia"
+    ],
+    "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+    "rating": 7.5
+  },
+  {
+    "tmdb_id": 1171145,
+    "title": "Caminos del crimen",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/ogn1syrtng6k",
+        "m3u8_url": "https://sfastwish.com/stream/1IOFMf8zqYimRgtlBTivtg/kjhhiuahiuhgihdf/1771717533/68344639/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/q7nmr89a9d9m",
+        "m3u8_url": "https://vidhidepro.com/stream/h6Zx6x5ZcY0tIUeRDJUAMA/hjkrhuihghfvu/1771717535/37344320/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/20xcrkdqju2x"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/7dxHrfZrXsuf",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/ddmoyn2ff2kz",
+        "m3u8_url": "https://sfastwish.com/stream/M61migxZ1P16wKYtU5Tvdw/kjhhiuahiuhgihdf/1771717539/68344552/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/s4cmvs3svajf",
+        "m3u8_url": "https://vidhidepro.com/stream/x7qQUKE-iYikNG2YovXSLQ/hjkrhuihghfvu/1771717540/37344227/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/jvcjrztuy0e0"
+      },
+      {
+        "server": "netu",
+        "quality": "CAM",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/o8dYaUm1HAuY",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/miotpWL3RXeTvLJnkhaoWcbXvJf.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
+    "genres_spanish": [
+      "Crimen",
+      "Suspenso"
+    ],
+    "overview": "Un escurridizo ladrón ve la oportunidad de hacer el golpe de su vida con la esperanza de que sea su último trabajo. En su camino se cruza con una desilusionada corredora de seguros y también un implacable detective se acerca a la operación, lo que aumenta aún más lo que está en juego . A medida que se acerca el robo multimillonario, la línea entre cazador y presa comienza a difuminarse, y los tres se ven obligados a afrontar el coste de sus decisiones y darse cuenta de que no hay vuelta atrás.",
+    "rating": 7
+  },
+  {
+    "tmdb_id": 1288246,
+    "title": "The Huntsman",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/apoe2mahyahd",
+        "m3u8_url": "https://sfastwish.com/stream/_vQ033frLQMGFd3A3B8nDA/kjhhiuahiuhgihdf/1771717546/68173211/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/q9wwc6r6y73d",
+        "m3u8_url": "https://vidhidepro.com/stream/wPBENVA0TmLtRNzgubtTeg/hjkrhuihghfvu/1771717547/37342888/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ydfgzitr5uqi"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/M3X9Ur3APnDl",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/qvah9mqgdrtw",
+        "m3u8_url": "https://sfastwish.com/stream/U67s3RlNDk-MytMwZlDqqA/kjhhiuahiuhgihdf/1771717552/68328399/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/yjjdwdgzvkfk"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/c5of9lulaej8",
+        "m3u8_url": "https://vidhidepro.com/stream/5EYxg5yeAtFTKohKcixT2Q/hjkrhuihghfvu/1771717554/37302785/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/ptjexmz9k4zk"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/LRAgUp0HJiwR",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/A1DintRyDHFuKja6fuyVpkzS0eC.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/1CnaKlAej47Qh1I7SMKAOvTUp6S.jpg",
+    "genres_spanish": [
+      "Suspenso",
+      "Misterio"
+    ],
+    "overview": "Cuando un enfermero de la UCI se ofrece voluntario para ayudar a un paciente en coma acusado de asesinar a seis mujeres, se ve arrastrado a una escalofriante red de mentiras, obsesión y secretos mortales mientras un detective se apresura a detener al asesino.",
+    "rating": 6.9
+  },
+  {
+    "tmdb_id": 1430519,
+    "title": "Tango Malhar",
+    "year": "1970",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/w8gdy4ou8fsl",
+        "m3u8_url": "https://sfastwish.com/stream/uKLsrMIFnbV3_H7bn907zg/kjhhiuahiuhgihdf/1771717559/68173332/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/5m0rf9tn85ln",
+        "m3u8_url": "https://vidhidepro.com/stream/lGUXO8XSMwdCFfkN_UiAAw/hjkrhuihghfvu/1771717561/37342812/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/my802o1kgwsk"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Vr7ihxH9SBml",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/fwiPOtlDMhLnEjWupXloxIS6q5j.jpg",
+    "backdrop_url": "",
+    "genres_spanish": [
+      "Drama"
+    ],
+    "overview": "When Malhar, an auto driver, accidentally discovers Argentine Tango, he finds himself torn between his conservative roots and an elite dance community. Along the way he uncovers connection, awakening something beyond his mundane existence",
+    "rating": 0
+  },
+  {
+    "tmdb_id": 1424965,
+    "title": "Ice Skater",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/b1lze5mggd7k",
+        "m3u8_url": "https://sfastwish.com/stream/NeqD74QZqpD6a9gkdY5VqA/kjhhiuahiuhgihdf/1771717591/68173901/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/ut79am707ptx",
+        "m3u8_url": "https://vidhidepro.com/stream/7SkvhIUw7vJl7UsKVH90ug/hjkrhuihghfvu/1771717592/37342769/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/lpyuy6davikd"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Wf23LSBkzOXC",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/k6NdbpdN3591xR18VAVfXYmY6P0.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/6xVAbjvUWKJlPSVYduQgkRzEQNy.jpg",
+    "genres_spanish": [
+      "Drama",
+      "Suspenso"
+    ],
+    "overview": "A survival drama about an ice skater stranded on an ice floe at the Arctic Sea. When the ice floe starts to float towards south and melt, the ice skater must use all means necessary to survive.",
+    "rating": 0
+  },
+  {
+    "tmdb_id": 1297842,
+    "title": "GOAT: La cabra que cambió el juego",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/mjj3bs0bhd42",
+        "m3u8_url": "https://sfastwish.com/stream/iLppUrTj8lcPmkSeyktvpQ/kjhhiuahiuhgihdf/1771717598/68236712/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/koyl4u556w5z",
+        "m3u8_url": "https://vidhidepro.com/stream/PC6kCD4pYBFmin1mwD-28Q/hjkrhuihghfvu/1771717599/37342761/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/cpoonvhm4wcc"
+      },
+      {
+        "server": "netu",
+        "quality": "SCR",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/Wb5ozgUZJ0WD",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/nMYeLf3FqqZ2ZuuS7ufnKpWC87M.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+    "genres_spanish": [
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Acción"
+    ],
+    "overview": "Will, un pequeño cabrito con grandes sueños, tiene la oportunidad única de unirse a los profesionales y jugar al roarball, un deporte de contacto intenso y mixto, dominado por los animales más rápidos y feroces del mundo. A sus nuevos compañeros no les entusiasma tener un pequeño cabrito en su equipo, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que los pequeños también pueden jugar al béisbol.",
+    "rating": 7.2
+  },
+  {
+    "tmdb_id": 1433680,
+    "title": "La cena",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/wfzqx4vghepi",
+        "m3u8_url": "https://sfastwish.com/stream/gErKJWQ3pawveZxSksTFhQ/kjhhiuahiuhgihdf/1771717617/68337438/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/59chww02chbn"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/vxzjr5dtkrk9",
+        "m3u8_url": "https://HI3THh5OxxWw.acek-cdn.com/hls2/01/07462/vxzjr5dtkrk9_n/master.m3u8?t=Ux1capkAYMh5JT1Y8M5qX4jlhMEGXar23iv9FR7XXSc&s=1771674419&e=129600&f=37314064&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/igr45ojvnqba"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/i0onMDQoydpP",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8Ct1yY0ClGwgQpnsipRcaFC27xF.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/9C10gUV5uR1UZtvGs8uQtb6xi7Z.jpg",
+    "genres_spanish": [
+      "Comedia",
+      "Historia"
+    ],
+    "overview": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel Palace. Un joven teniente, un maître meticuloso y un grupo de prisioneros republicanos expertos en cocina, deben preparar un banquete impecable en tiempo récord. Todo parece ir sobre ruedas, pero en la cocina se trama algo más que un menú. Adaptación de la obra de José Luis Alonso de Santos.",
+    "rating": 6.73
+  },
+  {
+    "tmdb_id": 1242419,
+    "title": "Un Buen Ladrón",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/dfzlzbvsmig9",
+        "m3u8_url": "https://sfastwish.com/stream/STBH0kQ70VfdI9_18kCNfA/kjhhiuahiuhgihdf/1771717625/65969053/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/4xk2nnk6xneb",
+        "m3u8_url": "https://vidhidepro.com/stream/_HsuQyO7ze_LX_5EK4Ar_w/hjkrhuihghfvu/1771717626/35398586/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/tinmi49lkwfs"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/k5apkCjgz7Un",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/hgozpj11132d",
+        "m3u8_url": "https://sfastwish.com/stream/Cf9bt1x_0siwMXJcgpf-mw/kjhhiuahiuhgihdf/1771717630/68337255/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/q0akklgxkzxd"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/rkzqm05f9cqo",
+        "m3u8_url": "https://ESrZaEKj9iFIuE8.dramiyos-cdn.com/hls2/01/07462/rkzqm05f9cqo_n/master.m3u8?t=n51FQcFO3MNkp2gyU-r1AS259DjdkAvQr1uM7--wjB8&s=1771674432&e=129600&f=37313808&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/qtkmd06uaerr"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/GbetHk3XXD7t",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/sini0dtfm6fk",
+        "m3u8_url": "https://sfastwish.com/stream/nsanWlmENkjijU8A8Rr3ag/kjhhiuahiuhgihdf/1771717636/65969108/master.m3u8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/1j7toh8p9bz0",
+        "m3u8_url": "https://vidhidepro.com/stream/MHGob7UHGrcBXuhwlhFLrQ/hjkrhuihghfvu/1771717639/35398611/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/1dxphavlw5dn"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/mA9bbFdoUFdB",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/yoc4yqlsqnJ6Y4SrbouE54jRuRq.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
+    "genres_spanish": [
+      "Crimen",
+      "Comedia",
+      "Drama"
+    ],
+    "overview": "Después de escapar de prisión, el exsoldado y ladrón profesional Jeffrey Manchester encuentra refugio en una tienda Toys \"R\" Us, donde logra sobrevivir durante meses sin ser descubierto mientras planea su próximo movimiento. Sin embargo, cuando se enamora de una madre divorciada, su doble vida comienza a desmoronarse.",
+    "rating": 7.16
+  },
+  {
+    "tmdb_id": 1052558,
+    "title": "iPossessed",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/yk7aa7qrd0y4",
+        "m3u8_url": "https://sfastwish.com/stream/Qp18ddkLHtFqIWPGqH6zGg/kjhhiuahiuhgihdf/1771717644/68329550/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/p6wm615145fj"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/vy7qg25kv9uj",
+        "m3u8_url": "https://vidhidepro.com/stream/ODJuT3squEjUQY4oaMx0ag/hjkrhuihghfvu/1771717646/37300845/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/jntdcltsmybm"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/XebQHUutyq3b",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/aiq6m4bjs4ni",
+        "m3u8_url": "https://sfastwish.com/stream/Isi1QBl9GGoJ6k3bN1GjqA/kjhhiuahiuhgihdf/1771717650/68329596/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/vmneeeui9bwz"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/1hkvono3zoqn",
+        "m3u8_url": "https://vidhidepro.com/stream/E6K0KjZuuwtEg3nnkZFwVQ/hjkrhuihghfvu/1771717652/37300856/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/puzpzyedk18g"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/lFO7ynFOtun4",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/kmnaCRTinFPN8iplWgdGQZ52WzY.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/nLxoXMY7LnS8ymfNWusCV1wuK7V.jpg",
+    "genres_spanish": [
+      "Terror",
+      "Suspenso"
+    ],
+    "overview": "Lo que comienza como una fiesta de inauguración de la casa para Tad, se convierte en una noche atormentadora, dejando a cada asistente luchando por enfrentarse a su pasado, obsesionado por sus peores arrepentimientos.",
+    "rating": 6.29
+  },
+  {
+    "tmdb_id": 1634858,
+    "title": "Cuerno Azulado",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/bpi6rp0n2gbx",
+        "m3u8_url": "https://sfastwish.com/stream/I058vZ8Ys8jfE75VrGhjvg/kjhhiuahiuhgihdf/1771717658/68329466/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/xbw734gh7b2h"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/fa4mmp4bdgu8",
+        "m3u8_url": "https://vidhidepro.com/stream/T8OkNzT01MGVckBaubdkRw/hjkrhuihghfvu/1771717660/37302121/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/dzm3ftmbw2xq"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/OtxcvoQII7Ya",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/q0OveDlsh5BNq6ifZqNWKtLKiwb.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/4IEjHlV6ciUPopHnEs5AfBNJ6XS.jpg",
+    "genres_spanish": [
+      "Acción"
+    ],
+    "overview": "Un ex narcotraficante busca reivindicarse como político, pero su pasado con el crimen organizado lo seguirá, ocasionando el secuestro de su hija durante plena campaña política. El político utilizara sus habilidades del pasado para rescatar a su hija del narcotráfico",
+    "rating": 0
+  },
+  {
+    "tmdb_id": 1295144,
+    "title": "Dead Teenagers",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/hdis8gc3p6t9",
+        "m3u8_url": "https://sfastwish.com/stream/WnZzFLbxf-5RKFm40UGO2w/kjhhiuahiuhgihdf/1771717665/68329395/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/53oo2c46a5py"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/0rugi0p92yu2",
+        "m3u8_url": "https://m5QqjwpATPzb.acek-cdn.com/hls2/01/07460/1vbr32k7tlvj_n/master.m3u8?t=ih6vi9Ff6hCLvQIEYaqSlJerpNnZbvvgws9WnQ1F5Pg&s=1771674467&e=129600&f=37304316&srv=FaZeER3Wd15G&i=0.4&sp=500&p1=FaZeER3Wd15G&p2=FaZeER3Wd15G&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/tneqinsbedyp"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/8JKz6mDSRVla",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/xjqkylnyh9yj"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/fhbhje2sw429",
+        "m3u8_url": "https://eTOjdo3Yv1iw.dramiyos-cdn.com/hls2/01/07460/wa0jhrmu93mu_n/master.m3u8?t=fOO6MKDF70boAGWgMsIya7050fsvMkUoeTL5MeUQ3eQ&s=1771674472&e=129600&f=37304335&srv=FaZeER3Wd15G&i=0.4&sp=500&p1=FaZeER3Wd15G&p2=FaZeER3Wd15G&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/t9kksaurpltx"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/yv2b0CvTRvhj",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/8oSsDa2PjwpY8x9t50aj5W1Zgor.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/gZoKGUR1d5iLZhgDYOSCKPuBsfD.jpg",
+    "genres_spanish": [
+      "Terror"
+    ],
+    "overview": "A masked killer, a cabin in the woods, a group of teens: the basic ingredients of a very old story - but when the killer accidentally dies, the kids discover they cannot leave.",
+    "rating": 3.7
+  },
+  {
+    "tmdb_id": 1199869,
+    "title": "Ojo por Ojo",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/hs91zsudl2ug",
+        "m3u8_url": "https://sfastwish.com/stream/zYsp__DTLcQ3bSFZXMSbnQ/kjhhiuahiuhgihdf/1771717678/68329324/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/zrgjpmdmy350"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/ecbwnxo70giw",
+        "m3u8_url": "https://vidhidepro.com/stream/UaLtbavHtfO12wrMsj_2cA/hjkrhuihghfvu/1771717680/37304246/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/gciud5hwzyeh"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/7kl2djFJy6Wr",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/yz7s18o29m32",
+        "m3u8_url": "https://sfastwish.com/stream/tIc456DGg_J2tadq2L8riQ/kjhhiuahiuhgihdf/1771717685/68329326/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/mushen9qznqa"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/c1qx4q7hh64n",
+        "m3u8_url": "https://vidhidepro.com/stream/VLQ7rwUJtz2W2IolSrgubA/hjkrhuihghfvu/1771717687/37304252/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/ai3fuvzdlyr1"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/78SYhadTHgC8",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/msozC7mBPKH2E5sb2g6ItfGHYXD.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/tTDfDHqGkRgBTL4Tw8mU0iwkW8T.jpg",
+    "genres_spanish": [
+      "Terror"
+    ],
+    "overview": "Tras ser cómplice de un acto de acoso, una joven se ve atormentada por una vengativa fuerza sobrenatural a través de sus sueños.",
+    "rating": 5.28
+  },
+  {
+    "tmdb_id": 1029247,
+    "title": "Held Hostage in My House",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/k30nqlbiyu1j",
+        "m3u8_url": "https://sfastwish.com/stream/pU9w6KbCB-y3RGEn9tKVlA/kjhhiuahiuhgihdf/1771717692/68329172/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/mch2umolbnqh"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/x9lj3g7lb8f8",
+        "m3u8_url": "https://yjrnY6VWd3Y1oXUh.acek-cdn.com/hls2/01/07460/x9lj3g7lb8f8_n/master.m3u8?t=AxGgEFdKmx02_iMIdpTxGJUsM0YdgetRRLBWiBbrYsE&s=1771674494&e=129600&f=37304153&srv=IhRtNEyo46AU6BsV&i=0.4&sp=500&p1=IhRtNEyo46AU6BsV&p2=IhRtNEyo46AU6BsV&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/9afmxvclsrnh"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/YqlOQDJ68wc1",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/o5nps60m9hm7",
+        "m3u8_url": "https://2goita23a7njj.premilkyway.com/hls2/01/13665/o5nps60m9hm7_,l,n,h,.urlset/master.m3u8?t=aqU3tCVpQtLgHnxpF4fWpnnW0hk-AN9HY-iPP1Ll3D8&s=1771674499&e=129600&f=68329278&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=8075"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/4uy9eu3tu47l"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/vhex8bes2d0s",
+        "m3u8_url": "https://wt4PjIIVE9AGjPL.dramiyos-cdn.com/hls2/01/07460/vhex8bes2d0s_n/master.m3u8?t=gbkNNMMJZWJOfACWI1foOrd4ZtQTpRs1B0dG6v5txeA&s=1771674501&e=129600&f=37304149&srv=5TICbOQKpSaA&i=0.4&sp=500&p1=5TICbOQKpSaA&p2=5TICbOQKpSaA&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/nabsxq8dytfe"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/LUhlIG3fWVKL",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/r7vkijfxvbZMvVa1qVYfMffU2mR.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/vQBabHG8OA3IakI9v2Px2ZEgKY.jpg",
+    "genres_spanish": [
+      "Misterio",
+      "Suspenso"
+    ],
+    "overview": "A single mother becomes trapped inside her own vacation rental and must piece together clues from the various guests who have stayed there in order to figure out who assaulted her and hopefully survive.",
+    "rating": 4.6
+  },
+  {
+    "tmdb_id": 1243460,
+    "title": "El tour universitario con Joe",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/mnckhmiy4i5u",
+        "m3u8_url": "https://sfastwish.com/stream/3QXQAIqxcTwiPDYA4IOHsQ/kjhhiuahiuhgihdf/1771717706/68329039/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/230l5170xb7k"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/9gdyweva0pom",
+        "m3u8_url": "https://vidhidepro.com/stream/7y3bkPyhvMXDs00cvQ4EAg/hjkrhuihghfvu/1771717708/37303875/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/efoi3dywffpx"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/rruk9QPtqSzM",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/eqhsc3rb0l00",
+        "m3u8_url": "https://sfastwish.com/stream/OKEMnFFB_Sda3ZqNVRpdOQ/kjhhiuahiuhgihdf/1771717713/68329132/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/chiryrl7mn65"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/6s3qog5e92fp",
+        "m3u8_url": "https://1hyahuweWHyVWmq.acek-cdn.com/hls2/01/07460/6s3qog5e92fp_n/master.m3u8?t=Nvs3PKJRcpk64RC4Ozpz30uUno92SMIx0ABfSyktsFo&s=1771674515&e=129600&f=37304032&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/depb5q8o2awr"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/RPkIK0kowCNE",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/sov7q7fmjg0d",
+        "m3u8_url": "https://sfastwish.com/stream/MyPxtQz4Sw0S1oqS2ZRgtA/kjhhiuahiuhgihdf/1771717719/68329163/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/pwle90as16sv"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/mtv79s94zl31",
+        "m3u8_url": "https://wt4PjIIVE9AGjPL.dramiyos-cdn.com/hls2/01/07460/mtv79s94zl31_n/master.m3u8?t=5fZAmW3BTqJsryZPSqvLO3u_FlS5EJHyiQ3d8jNX20E&s=1771674521&e=129600&f=37304036&srv=QuzDGIUOroqdH83C&i=0.4&sp=500&p1=QuzDGIUOroqdH83C&p2=QuzDGIUOroqdH83C&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/y1rxjtenig3x"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/xzj478hQYnLQ",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/zp5RN4grAHUeCc9B7LKZcuu6HH5.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
+    "genres_spanish": [
+      "Comedia"
+    ],
+    "overview": "Joe, el desbocado hermano de Madea, intenta mostrarle la realidad a su nieto sobreprotegido a través de un estrepitoso viaje universitario por el país.",
+    "rating": 5.1
+  },
+  {
+    "tmdb_id": 1317672,
+    "title": "Love Me, Love Me",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/bwskwsr3gwis",
+        "m3u8_url": "https://sfastwish.com/stream/gJlRQWxDQYLvWa8JOuMYCQ/kjhhiuahiuhgihdf/1771717727/68328883/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/t053ftokhsbp"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/bp17keu25vi9",
+        "m3u8_url": "https://vidhidepro.com/stream/QYn4-3vz91D3ilUrSRn8Lg/hjkrhuihghfvu/1771717729/37303662/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/dja3bhujyumg"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/ej32MCJ2uhyb",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://streamwish.to/e/i2fm311qw1b6",
+        "m3u8_url": "https://sfastwish.com/stream/4bRHIeFi-77Ue7KE5BDtLQ/kjhhiuahiuhgihdf/1771717733/68328982/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://bysejikuar.com/e/2jvgoyb1lt5e"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://vidhidepro.com/v/bpnrziii7r4u",
+        "m3u8_url": "https://HGc0USwxhNN8.acek-cdn.com/hls2/01/07460/bpnrziii7r4u_n/master.m3u8?t=rZgaSzB7dPAuerEbkHu7IN4ydF_j5xyzW_WlpnwReQM&s=1771674535&e=129600&f=37303698&srv=IhRtNEyo46AU6BsV&i=0.4&sp=500&p1=IhRtNEyo46AU6BsV&p2=IhRtNEyo46AU6BsV&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://voe.sx/e/efvcclky3q0c"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "ESPANOL",
+        "embed_url": "https://waaw.to/f/wVbmx0rfJOMS",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/hx8jwotbtibh",
+        "m3u8_url": "https://sfastwish.com/stream/3gTrxkclH8VpAm1kH0hxEA/kjhhiuahiuhgihdf/1771717739/68329011/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/yp09b1jit0j2"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/8wacsrrx8p5x",
+        "m3u8_url": "https://vidhidepro.com/stream/WTKJdLfEBZglp_LPBrYUbw/hjkrhuihghfvu/1771717741/37303834/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/2l6ciqmpriw5"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/O5m7CnZxZyvz",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/4QWAPETLYZosiwXQCTMu1KerXxI.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+    "genres_spanish": [
+      "Romance",
+      "Drama"
+    ],
+    "overview": "Tras la muerte de su hermano, June se muda a Milán para empezar de nuevo y encuentra consuelo en Will, el alumno modelo de su nueva escuela internacional. Pero cuando su conflictivo mejor amigo James inicia una rivalidad que pronto se convierte en una atracción irresistible, June deberá elegir entre la seguridad y un amor que lo pone todo en jaque.",
+    "rating": 5.96
+  },
+  {
+    "tmdb_id": 1600028,
+    "title": "La Celda de los Milagros",
+    "year": "2025",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/6hvfs3198s2v",
+        "m3u8_url": "https://sfastwish.com/stream/uYvrX6cPo89V99OrgFs_ww/kjhhiuahiuhgihdf/1771717746/68328859/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/g3bmss4xz0gg"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/9fe46ndn6jiq",
+        "m3u8_url": "https://vidhidepro.com/stream/PYYshzgaFg2WUhDOcsCyUQ/hjkrhuihghfvu/1771717748/37303550/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/ox8kmuoefjyx"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/51zNoOD41976",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/d9i9EZHpjwqAP9byTJDAuXgSdZP.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/fIuuYkIjF9Q7W26YbIeKX5OWwiL.jpg",
+    "genres_spanish": [
+      "Drama"
+    ],
+    "overview": "Tras ser acusado falsamente de un crimen terrible, Héctor, un hombre con discapacidad neurológica, va a una prisión secreta. Su bondad conquista a los presos, que planean probar su inocencia.",
+    "rating": 7.36
+  },
+  {
+    "tmdb_id": 1146344,
+    "title": "Misdirection",
+    "year": "2026",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/t4m55thz79bu",
+        "m3u8_url": "https://sfastwish.com/stream/O_2yjGmjZNn1VUsa1Kpq7g/kjhhiuahiuhgihdf/1771717767/68328745/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/bac0ywko32g2"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/qvgnosz7b3ry",
+        "m3u8_url": "https://1hyahuweWHyVWmq.acek-cdn.com/hls2/01/07460/qvgnosz7b3ry_n/master.m3u8?t=Y_YuWW6NPJ3F9hOkxtYJTcZMIiqgzjNA7Ks2-HWCNAw&s=1771674569&e=129600&f=37303404&srv=yBYPq7qTAXaZkdT2&i=0.4&sp=500&p1=yBYPq7qTAXaZkdT2&p2=yBYPq7qTAXaZkdT2&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/qvjqpbojmcy0"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/cU65LN0WA1au",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/15sarvi4KF6WFtCQbKgcxG8iOj.jpg",
+    "genres_spanish": [
+      "Terror",
+      "Suspenso"
+    ],
+    "overview": "Una pareja se ve obligada a llevar a cabo una serie de atracos de alto nivel para saldar su peligrosa deuda con la mafia. Cuando su último robo, dirigido a un importante abogado defensor, se descontrola, se ven atrapados en una red de secretos, engaños y consecuencias mortales.",
+    "rating": 5.9
+  },
+  {
+    "tmdb_id": 1251973,
+    "title": "Ship of the Damned",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/xs832osm7kt6",
+        "m3u8_url": "https://sfastwish.com/stream/CtJ6ss9eKpfzsiTkq9zOqg/kjhhiuahiuhgihdf/1771717775/68328609/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/nv83ev11szc8"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/sl0yglu680e4",
+        "m3u8_url": "https://vidhidepro.com/stream/mGc-_9BPvfNosvCOh-ddLA/hjkrhuihghfvu/1771717777/37303167/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/yhqss19rugij"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/zlYESyGJxXtz",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/87r0khbwyoyy",
+        "m3u8_url": "https://sfastwish.com/stream/8NDlhe3kR6cjFHrvlJVILA/kjhhiuahiuhgihdf/1771717781/68328668/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/ayb9w9u0kkwy"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/addsrebt6ilg",
+        "m3u8_url": "https://HI3THh5OxxWw.acek-cdn.com/hls2/01/07460/addsrebt6ilg_n/master.m3u8?t=axs-jl-38WdoQTFRGJ2QkFCm6AiygWunqplRdb0lvIs&s=1771674583&e=129600&f=37303232&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/zhwttifjlwyc"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/0XPfli9w4gvt",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/zwj9gF17g8dpN0HmOOCNhBFMXor.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/kavtgUh4fDTBfd6SCEtIswos6Nb.jpg",
+    "genres_spanish": [
+      "Terror",
+      "Acción"
+    ],
+    "overview": "After an abandoned 400-year-old ship appears off the coast of a small town, Historian Elena and the local coastguard go to investigate. They discover it is not abandoned and the ship's cursed crew have horrific plans for the intruders.",
+    "rating": 4.96
+  },
+  {
+    "tmdb_id": 1296753,
+    "title": "Remnant",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/8ukccbnw07zo",
+        "m3u8_url": "https://sfastwish.com/stream/3OxHez2py_Mwa3AA1yzIPQ/kjhhiuahiuhgihdf/1771717789/68328572/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/5ibedjqos1li"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/v5ozovdtyi2m",
+        "m3u8_url": "https://vidhidepro.com/stream/wUnM-8CdBVUpWNsT3lBFGQ/hjkrhuihghfvu/1771717791/37303046/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/mzqf1eh143l7"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/9CZuSX0KvC3N",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/dbt068wfk6rx",
+        "m3u8_url": "https://jZdDKEFw9oEu0.premilkyway.com/hls2/01/13665/dbt068wfk6rx_,l,n,.urlset/master.m3u8?t=NgngFxZOA-rq1FVUbu1zgqhJ-aoQDWQXdmA6HkKILi4&s=1771674595&e=129600&f=68328625&srv=wWMoU903ry8c439X&i=0.4&sp=500&p1=wWMoU903ry8c439X&p2=wWMoU903ry8c439X&asn=8075"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/9voq5ayoe0wa"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/3hfhcfgjijhf",
+        "m3u8_url": "https://vidhidepro.com/stream/a1vc4HxXDZhs_X81YmT6KQ/hjkrhuihghfvu/1771717798/37303068/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/c2dzqe2rnlaw"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/9DmzcX3n7V6z",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/nsdnZqEVBhlNoBFy7iGBbtS9sbp.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/25PLE3shXYs1GTdjUNnmu8ppnl8.jpg",
+    "genres_spanish": [
+      "Ciencia ficción",
+      "Terror",
+      "Suspenso"
+    ],
+    "overview": "Un trágico accidente, una mente fracturada, un cuerpo curado por una tecnología experimental. Una joven se vincula sobrenaturalmente a los horrores de su pasado. Atormentada, perseguida, atormentada, debe descubrir la verdad para ser libre.",
+    "rating": 4.9
+  },
+  {
+    "tmdb_id": 1236416,
+    "title": "Wolves Against the World",
+    "year": "2024",
+    "servers": [
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://streamwish.to/e/yzi2lf6eeeku",
+        "m3u8_url": "https://sfastwish.com/stream/xORE-tyV8XKNARmSLEdX0A/kjhhiuahiuhgihdf/1771717803/68328483/master.m3u8"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://bysejikuar.com/e/zyyuao59siy2"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://vidhidepro.com/v/ip2eahns9h3q",
+        "m3u8_url": "https://vidhidepro.com/stream/JkQe-_Ux1U8ssjzQ5hXWKg/hjkrhuihghfvu/1771717806/37302885/master.m3u8"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://voe.sx/e/q1ais56mutyl"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "LATINO",
+        "embed_url": "https://waaw.to/f/gw8ezsdhdSfI",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      },
+      {
+        "server": "streamwish",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://streamwish.to/e/px153snyfngq",
+        "m3u8_url": "https://vCVkQwY2zRcK.premilkyway.com/hls2/01/13665/px153snyfngq_,l,n,h,.urlset/master.m3u8?t=XVSeCpIP3iT11-WDKf_lRDBHuG3ShjLBc7RMCwhS1zc&s=1771674610&e=129600&f=68328496&srv=zfrDFVBCJYdZ54KZ&i=0.4&sp=500&p1=zfrDFVBCJYdZ54KZ&p2=zfrDFVBCJYdZ54KZ&asn=8075"
+      },
+      {
+        "server": "filemoon",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://bysejikuar.com/e/z5t88lymsuc0"
+      },
+      {
+        "server": "vidhide",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://vidhidepro.com/v/3ft5198zo8qn",
+        "m3u8_url": "https://h85MclLE5sxF9yF.acek-cdn.com/hls2/01/07460/3ft5198zo8qn_n/master.m3u8?t=jQQzFc1vXYr3Y5dfqWmd8kujRGkMFiPUxyi-EuzujKI&s=1771674612&e=129600&f=37302903&srv=QuzDGIUOroqdH83C&i=0.4&sp=500&p1=QuzDGIUOroqdH83C&p2=QuzDGIUOroqdH83C&asn=8075"
+      },
+      {
+        "server": "voesx",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://voe.sx/e/by88qz0yeqx2"
+      },
+      {
+        "server": "netu",
+        "quality": "HD",
+        "language": "SUB",
+        "embed_url": "https://waaw.to/f/wg2VlPUZxIE9",
+        "m3u8_url": "https://4fw4gd.cfglobalcdn.com/secip/1/861rQM940fF8R1fZDCdglg/OTQuMjUuMTcwLjI2/1606597200/hls-vod-s03/flv/api/files/videos/2018/08/01/153311550983uua.mp4.m3u8"
+      }
+    ],
+    "poster_url": "https://image.tmdb.org/t/p/original/bQEPVGPFdMleWwTnqsEKLSg20ft.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/original/eB6vqb8V5aeTVAQsyravt8yH9tC.jpg",
+    "genres_spanish": [
+      "Terror",
+      "Suspenso"
+    ],
+    "overview": "Two former neo-Nazi bandmates reunite at the site of their friend's suicide for an occult battle of wills.",
+    "rating": 2.5
   }
 ]
